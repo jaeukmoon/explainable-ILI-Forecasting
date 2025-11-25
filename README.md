@@ -33,11 +33,11 @@ If you find this repository useful, please cite our paper.
 
 ```
 @inproceedings{koa2024learning,
-  title={Learning to Generate Explainable Stock Predictions using Self-Reflective Large Language Models},
-  author={Koa, Kelvin J.L. and Ma, Yunshan and Ng, Ritchie and Chua, Tat-Seng},
-  booktitle={Proceedings of the ACM on Web Conference 2024},
-  pages={4304–4315},
-  year={2024}
+  title={Explainable ILI Forecasting scheme using Self-instructed Large Language Models},
+  author={Jaeuk Moon, Jonghwa Shim, Byeongwook Choi, Eenjun Hwang, Kangwook Lee},
+  booktitle={Proceedings of the ACM CIKM 2024},
+  pages={??},
+  year={2026}
 }
 ```
 
