@@ -1,0 +1,21 @@
+Week16, 2024
+- **Viruses, illness, and deaths:** Influenza activity continues to decline. 4.8% of respiratory specimens tested positive for influenza; 62.7% were Influenza A and 37.3% were Influenza B. 0.3% of deaths this week were attributed to influenza, totaling 24,000 deaths this season. Six pediatric deaths were reported, bringing the total to 148 this season.
+
+- **U.S. virologic surveillance:** Influenza A(H1N1)pdm09, A(H3N2), and B/Victoria viruses are co-circulating. Among public health lab positives, 33.3% of Influenza A subtyped were A(H1N1)pdm09, and 66.7% were A(H3N2). Clinical labs reported Influenza A as 56.3% and Influenza B as 43.7% of positives.
+
+- **Cumulative hospitalization rate:** Hospitalization rate reached 79.0 per 100,000, marking the second highest rate compared to past Week 16 data. 24,140 flu-related hospitalizations have been reported this season, mostly among adults 65+.
+
+- **Trends of deaths attributed to influenza:** Influenza-related deaths are consistent this week at 0.3% of all deaths. Pediatric deaths are increasing, with six reported this week.
+
+- **Percentage of Influenza A and Influenza B:** Influenza A accounted for 62.7% of public health lab positives and 56.3% of clinical lab positives. Influenza B accounted for 37.3% and 43.7%, respectively.
+
+- **Novel Influenza virus (like COVID-19):** No notable novel influenza virus activity, but respiratory illness surveillance includes multiple pathogens, like COVID-19 and RSV.
+
+- **Vaccination trends:** CDC continues to recommend flu vaccination for everyone 6 months and older while flu activity persists. Vaccines are effective against circulating strains.
+
+- **Outpatient respiratory illness visits:** 2.3% of outpatient visits were for respiratory illness, below the national baseline, with all regions below regional baselines except Region 1 (at baseline). Respiratory illness visits are decreasing nationally.
+
+- **Expectation of flu activity from CDC:** Flu activity is declining but persists. CDC continues to monitor COVID-19 and RSV activity alongside flu.
+
+- **Other key factors:** Hospital admissions decreased compared to the previous week. Regions 7, 1, and 5 reported the highest positivity rates, though decreasing nationally. Population groups most affected by severe outcomes include older adults aged 65+ and children under 4. Most hospitalized patients had underlying health conditions.
+

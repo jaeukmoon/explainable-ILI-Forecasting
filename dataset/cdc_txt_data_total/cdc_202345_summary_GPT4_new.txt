@@ -1,0 +1,13 @@
+Week45, 2023
+1. Influenza activity is increasing nationally, especially in the South Central, Southeast, and West Coast regions, with 4.0% of clinical respiratory specimens testing positive for influenza this week.
+2. Out of 310 viruses reported by public health labs this week, 75.8% were Influenza A, and 24.2% were Influenza B. Of subtyped Influenza A viruses, 87.2% were H1N1 and 12.8% were H3N2.
+3. Outpatient respiratory illness visits accounted for 3.5% of visits, above the baseline (2.9%) and up slightly from last week, with increases in 9 of 10 HHS regions; 8 jurisdictions reported moderate activity, and 9 reported high or very high activity.
+4. The cumulative flu-related hospitalization rate is 1.7 per 100,000 population, with weekly admissions continuing to rise; seniors (65+ years) have the highest rates.
+5. Only 0.10% of deaths were attributed to influenza this week, remaining stable. No new pediatric influenza deaths were reported.
+6. CDC estimates 780,000 illnesses, 8,000 hospitalizations, and 490 deaths from influenza so far this season.
+7. Influenza A comprised 71.4% of clinical lab positives this week, with Influenza B accounting for 28.6%.
+8. Genetic and antigenic analyses indicate circulating viruses are well-matched to current vaccine strains.
+9. Vaccination is strongly encouraged for everyone aged 6 months and older; antiviral drugs are recommended for high-risk groups.
+10. Other respiratory viruses, such as RSV and COVID-19 (SARS-CoV-2), continue to circulate alongside influenza.
+
+11. Summary of insights for predictions: Increasing activity, rising hospitalization rates, regional differences, and co-circulation of other respiratory viruses suggest continued influenza spread in high-activity regions.

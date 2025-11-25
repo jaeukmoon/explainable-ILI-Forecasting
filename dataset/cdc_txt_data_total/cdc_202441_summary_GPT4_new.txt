@@ -1,0 +1,11 @@
+Week41, 2024
+1. Influenza activity remains low nationwide, with 0.8% of respiratory specimens testing positive for influenza in clinical labs.
+2. All 38 influenza viruses reported by public health labs were Influenza A; 48.3% were A(H1N1)pdm09 and 51.7% were A(H3N2).
+3. Influenza B accounted for 10% of positive specimens in clinical labs, but none were identified by public health labs.
+4. Seven human cases of Influenza A(H5) were reported in California, linked to exposure at commercial dairy farms during an ongoing avian influenza outbreak.
+5. The weekly influenza-associated hospitalization rate was 0.1 per 100,000, and 46 confirmed hospitalizations were reported since October 1, 2024.
+6. Mortality due to influenza accounted for 0.04% of deaths, which remained stable compared to the prior week.
+7. Outpatient visits for influenza-like illness (ILI) were 2.1%, stable from the previous week and below the national baseline of 3.0%; regional increases occurred in three HHS regions.
+8. CDC emphasizes vaccination for individuals 6 months and older by end of October to mitigate flu impact.
+9. High levels of resistance to adamantane antivirals persist for A(H1N1)pdm09 and A(H3N2) viruses, but susceptibility to oseltamivir, zanamivir, and baloxavir remains high.
+10. Ongoing monitoring of an avian influenza A(H5N1) outbreak and regional variations in virus circulation will be critical for assessing future ILI risk.

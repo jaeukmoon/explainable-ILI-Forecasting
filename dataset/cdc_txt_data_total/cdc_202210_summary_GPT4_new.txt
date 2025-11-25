@@ -1,0 +1,15 @@
+Week10, 2022
+1. Influenza activity is increasing in most of the country, with regions 6 and 7 (central and south-central parts) showing the largest increases.
+2. 6.8% of specimens tested by clinical labs were positive for influenza, with 98.9% being Influenza A and 1.1% Influenza B.
+3. Public health labs detected 347 positive specimens; all were Influenza A, with 56.5% identified as H3N2 and no Influenza B.
+4. Outpatient visits for ILI accounted for 1.7% of visits, below the national baseline; Region 7 is above its baseline, and respiratory illness visits increased among children and young adults.
+5. 10.8% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), exceeding the epidemic threshold, though most were due to COVID-19.
+6. The cumulative hospitalization rate for influenza was 5.9 per 100,000, higher than the 2020-2021 season but lower than pre-COVID-19 seasons.
+7. Hospitalizations increased weekly for six consecutive weeks, with 94.6% attributed to Influenza A and 3.9% co-infected with SARS-CoV-2.
+8. Three pediatric deaths were reported this week, for a total of 13 this season, all associated with Influenza A.
+9. Influenza A(H3N2) remains the dominant strain; most H3N2 viruses are genetically related to the vaccine but show some antigenic differences.
+10. CDC continues to urge vaccination, as vaccinated individuals are still better protected, though vaccination trends and uptake rates were not specified in this summary.
+11. Long-term care facilities reported a low influenza positivity rate of 0.7%.
+12. Multiple respiratory viruses—including influenza, RSV, and SARS-CoV-2—are co-circulating, complicating data interpretation.
+13. No antiviral resistance was detected among Influenza A or B viruses, and characterization shows high effectiveness against circulating strains.
+14. CDC suggests that flu activity will likely continue to rise in the coming weeks, particularly in central and south-central regions.

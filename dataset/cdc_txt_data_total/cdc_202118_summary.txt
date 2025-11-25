@@ -1,0 +1,11 @@
+Based on the most recent Weekly U.S. Influenza Surveillance Report from the CDC:
+
+- Seasonal influenza activity in the United States remains lower than usual for this time of year.
+- In terms of virologic surveillance, the percentage of respiratory specimens testing positive for influenza in clinical laboratories is only 0.1% this week, and the number of influenza positive specimens reported by public health labs remains unusually low.
+- Outpatient illness surveillance reveals that 1.2% of patient visits to healthcare providers were due to influenza-like illness (ILI) in week 18, which is below the national baseline of 2.6%.
+- Geographically, all jurisdictions experienced minimal ILI activity during week 18.
+- Hospitalization rates for influenza-related cases are low, with a cumulative rate of 0.8 per 100,000 population.
+- Mortality from pneumonia, influenza, and COVID-19 (PIC) is above the epidemic threshold, with 10.9% of deaths during week 18 attributed to PIC.
+- No influenza-associated pediatric deaths were reported during week 18.
+
+It's important to note that the data provided is preliminary and may change as more reports are received. The CDC emphasizes the importance of annual flu vaccination and the use of antiviral drugs for treatment.

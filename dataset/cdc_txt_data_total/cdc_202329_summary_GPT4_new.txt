@@ -1,0 +1,11 @@
+Week29, 2023
+1. Influenza activity remains minimal nationwide, with 1.0% of clinical specimens testing positive for influenza during Week 29.
+2. Of 225 positive clinical specimens, 63.1% were Influenza A and 36.9% were Influenza B.
+3. Public health labs detected 39 positive specimens, with 74.4% Influenza A (85.7% H1N1 and 14.3% H3N2) and 25.6% Influenza B (all Victoria lineage).
+4. Nationwide outpatient visits for influenza-like illness (ILI) accounted for 1.1%, similar to recent weeks and below the national baseline.
+5. Hospitalizations for laboratory-confirmed influenza totaled 573 in Week 29.
+6. Deaths from pneumonia, influenza, or COVID-19 (PIC) constituted 5.6% of all deaths, meeting the epidemic threshold.
+7. One pediatric influenza-associated death was reported this season, bringing the total to 164.
+8. Multiple respiratory viruses continue to co-circulate, contributing to ILI cases, including influenza, SARS-CoV-2, and RSV.
+9. No new trends in vaccination data were reported, with continued emphasis on annual flu vaccination.
+10. CDC anticipates low flu activity but highlights variability by region and co-circulating pathogens that may influence future trends.

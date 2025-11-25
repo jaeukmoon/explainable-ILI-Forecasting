@@ -1,0 +1,15 @@
+The key updates for Week 15, ending April 15, 2023, are as follows:
+
+- Seasonal influenza activity remains low nationally.
+- In clinical laboratories, 1.0% of respiratory specimens tested positive for influenza.
+- In public health laboratories, influenza A(H1N1) and influenza B viruses were the most frequently reported.
+- Genetic and antigenic characterization of influenza viruses is ongoing.
+- Outpatient respiratory illness visits accounted for 2.0% of patient visits, below the national baseline.
+- Four jurisdictions experienced moderate outpatient respiratory illness activity.
+- In long-term care facilities, 0.4% of facilities reported at least one influenza-positive test among residents.
+- FluSurv-NET reported a cumulative hospitalization rate of 61.5 per 100,000 population.
+- HHS Protect reported 1,072 patients admitted to hospitals with laboratory-confirmed influenza.
+- NCHS mortality surveillance indicated that 7.5% of deaths were attributed to pneumonia, influenza, or COVID-19.
+- Two influenza-associated pediatric deaths were reported, bringing the total to 143 for the season.
+
+These updates provide information on influenza activity, hospitalizations, mortality, and surveillance methods, contributing to predictions and monitoring of future ILI occurrences.

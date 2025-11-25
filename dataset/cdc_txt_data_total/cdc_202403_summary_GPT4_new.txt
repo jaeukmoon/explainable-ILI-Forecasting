@@ -1,0 +1,11 @@
+Week3, 2024
+1. Influenza activity remains elevated across most of the U.S. with 14.2% of clinical specimens testing positive for influenza.
+2. Out of 699 viruses identified by public health labs, 83.1% were Influenza A and 16.9% Influenza B, with the predominant subtype being A(H1N1)pdm09 (71.4% of subtyped Influenza A viruses).
+3. The cumulative hospitalization rate is 43.3 per 100,000, the second-highest for mid-January observed in recent seasons, with 88.4% of hospitalizations linked to Influenza A.
+4. Ten pediatric deaths were reported this week, adding to a total of 57 this season, with influenza A(H1N1) contributing to most deaths.
+5. Outpatient visits for influenza-like illness accounted for 4.3% of visits, remaining above the national baseline but decreasing from the prior week.
+6. Hospital admissions for influenza dropped for the third consecutive week, with 12,382 cases reported during Week 3.
+7. Mortality due to influenza accounted for 1.1% of deaths, a decrease compared to the previous week.
+8. Regional influenza activity varies, with higher positivity rates in Regions 6, 8, 5, and 3; nationally, positivity trends are stable.
+9. Despite current vaccine match to circulating strains, vaccination efforts are still encouraged as influenza viruses continue to spread.
+10. Increasing resistance to oseltamivir and peramivir observed in a small subset of A(H1N1)pdm09 viruses emphasizes the need for antiviral monitoring.

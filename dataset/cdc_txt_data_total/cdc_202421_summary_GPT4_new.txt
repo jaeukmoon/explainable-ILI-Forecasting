@@ -1,0 +1,14 @@
+Week21, 2024
+1. Influenza activity remains low nationally, with 1.7% of specimens testing positive for influenza in clinical labs.
+2. Of positive clinical specimens, 64.9% were Influenza A and 35.1% Influenza B.
+3. Public health labs reported 88.2% of positive specimens as Influenza A, with subtypes A(H1N1)pdm09 (38.7%) and A(H3N2) (61.3%), while 11.8% were Influenza B (all Victoria lineage).
+4. One human infection with A(H5) virus was reported in Michigan, the third such case in the U.S. this year, linked to avian influenza exposure on a dairy farm.
+5. Outpatient ILI visits accounted for 1.9% of visits, below the national baseline, with no regions reporting moderate to very high activity.
+6. The weekly hospitalization rate was 0.2 per 100,000 population, mostly associated with Influenza A viruses.
+7. Pediatric influenza-associated deaths increased by 3 this week, bringing the season total to 172.
+8. Mortality data show 0.1% of deaths attributed to influenza this week, with no significant trend changes.
+9. CDC continues to recommend annual flu vaccination for everyone 6 months and older; vaccination activity trends were not mentioned.
+10. Genetic characterization suggests current circulating viruses match the components of the influenza vaccine.
+11. CDC monitors antiviral drug resistance; minimal resistance was observed, with some isolated cases of reduced susceptibility.
+12. Multiple respiratory viruses, including RSV and SARS-CoV-2, contribute to respiratory illness trends, making ILI data multifactorial.
+13. Sporadic avian influenza outbreaks in animals, including poultry and dairy cows, continue to pose a risk of novel virus transmission.

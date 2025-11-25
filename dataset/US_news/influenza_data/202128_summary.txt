@@ -1,0 +1,4 @@
+- The age distributions of influenza B cases can be shaped by lineage-specific protection and immune imprinting.
+- Historical changes in lineage frequencies and cross-protection between strains of the same lineage can explain the differences in age distribution between the B/Victoria and B/Yamagata lineages.
+- People experiencing their first infection with B/Yamagata show additional protection against this lineage, similar to immune imprinting observed in influenza A.
+- Longitudinal studies are needed to determine if these forms of protection extend to recent strains and other populations.

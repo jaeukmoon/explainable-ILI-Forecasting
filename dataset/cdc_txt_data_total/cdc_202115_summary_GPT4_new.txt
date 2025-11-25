@@ -1,0 +1,11 @@
+Week15, 2021
+1. Seasonal influenza activity in the U.S. remains unusually low for this time of year, with clinical laboratories reporting only 0.1% of respiratory specimens testing positive for influenza.
+2. Of 12 positive specimens from clinical labs, 41.7% were Influenza A and 58.3% were Influenza B.
+3. Public health labs reported 6 positive specimens nationwide, with 66.7% being Influenza A and 33.3% Influenza B.
+4. The cumulative hospitalization rate for influenza is 0.8 per 100,000, significantly lower than the low-severity 2011-12 season.
+5. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) account for 12.4% of all deaths, exceeding the epidemic threshold of 6.8%, driven primarily by COVID-19.
+6. Outpatient visits for influenza-like illness (ILI) account for 1.1% of visits, stable from the previous week and below the 2.6% national baseline.
+7. No influenza-associated pediatric deaths were reported this week; the total for the season is one.
+8. Data interpretation is affected by COVID-19, as healthcare-seeking behaviors and monitoring are altered by the pandemic.
+9. Only minimal ILI activity was reported in all jurisdictions during Week 15, with no reported increases in regional flu activity.
+10. Flu vaccination continues to be emphasized, but no changes or emerging trends in vaccination rates were noted.

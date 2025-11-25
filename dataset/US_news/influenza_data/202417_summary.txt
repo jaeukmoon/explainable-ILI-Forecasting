@@ -1,0 +1,6 @@
+1. In 2017, a novel H9N2 bat influenza A virus was isolated from an Egyptian fruit bat, which was related to avian A(H9N2) viruses.
+2. The virus has features associated with increased risk to humans, but it has not shifted to a preference for α2,6 sialic acid receptors, which are found in human respiratory cells.
+3. The virus has a pH inactivation profile and neuraminidase activity similar to human-adapted influenza A viruses.
+4. It can readily infect ex-vivo human respiratory cell cultures and replicates in the lungs of female mice.
+5. It replicates in the upper respiratory tract of experimentally-infected male ferrets, featuring direct-contact and airborne transmission.
+6. These findings suggest that the bat H9N2 virus has the potential for cross-species spill-over and poses an increased risk to humans.

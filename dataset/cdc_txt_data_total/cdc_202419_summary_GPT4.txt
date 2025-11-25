@@ -1,0 +1,11 @@
+Week19, 2024
+- **Viruses, illness, and deaths**: Overall influenza activity remains low nationally. 2.4% of clinical lab specimens and 0.1% of reported deaths were attributed to influenza. Three pediatric deaths were reported, totaling 167 for the season.  
+- **U.S. virologic surveillance**: Influenza A accounted for 60.6% of positive public health lab specimens this week (39.5% H1N1 and 60.5% H3N2), while influenza B accounted for 39.4%.  
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate is 80.6 per 100,000 population, with older adults (65 years and older) having the highest rate (220.7 per 100,000).  
+- **Trends of deaths attributed to influenza**: Deaths attributed to influenza remain stable at 0.1% for week 19, far below epidemic thresholds.  
+- **Percentage of Influenza A and Influenza B**: Among clinical labs, 64.5% of positive specimens were influenza A and 35.5% were influenza B. Among public health labs, influenza A made up 60.6%, and influenza B was 39.4%.  
+- **Novel influenza virus (like COVID-19)**: No novel influenza viruses, including SARS-CoV-2, have been reported.  
+- **Vaccination trends**: CDC continues to recommend flu vaccinations for everyone older than six months as flu activity persists.  
+- **Outpatient respiratory illness visits**: Outpatient visits due to respiratory illness were 2.0%, remaining below the national baseline. All regions reported activity below their baselines.   
+- **Expectation of flu activity from CDC**: Low flu activity is expected to continue nationally, with co-circulation of influenza, COVID-19, and RSV.  
+- **Other key factors**: A majority of influenza-associated hospitalizations involve influenza A (84.6%, 69.3% H1N1 and 30.7% H3N2). Resistance to traditional adamantane antivirals persists. Hospitalizations were most prevalent among older adults and young children with underlying conditions being common in severe cases.

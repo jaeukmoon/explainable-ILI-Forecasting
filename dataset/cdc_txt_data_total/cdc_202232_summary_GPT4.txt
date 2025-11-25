@@ -1,0 +1,24 @@
+Week32, 2022
+- **Viruses, Illness, and Deaths**: Influenza activity remains low; 0.4% of specimens tested positive this week. 9.9% of deaths were attributed to pneumonia, influenza, and/or COVID-19 (PIC), with influenza accounting for a minimal number of PIC deaths compared to COVID-19. Six influenza-associated deaths were reported among 2,165 PIC deaths.
+
+- **U.S. Virologic Surveillance**:
+  - Clinical labs: 89.1% of positive specimens were Influenza A, while 10.9% were Influenza B.
+  - Public health labs: 92.6% were Influenza A, predominantly H3N2 (100%), with 7.4% being Influenza B.
+  
+- **Cumulative Hospitalization Rate**: FluSurv-NET reported 457 influenza-related hospitalizations during week 32. Data for patients admitted after June 11, 2022, are excluded from the season's cumulative statistics.
+
+- **Trends of Deaths Attributed to Influenza**: Influenza-related deaths remain minimal, with COVID-19 driving the majority of PIC deaths.
+
+- **Percentage of Influenza A and Influenza B**:
+  - Clinical labs: Influenza A: 89.1%, Influenza B: 10.9%.
+  - Public health labs: Influenza A: 92.6%, Influenza B: 7.4%.
+
+- **Novel Influenza Virus**: One human H1N2v variant influenza case was reported in Oregon (age <18, recovered, no swine contact). No evidence of person-to-person transmission. Four total novel influenza cases have been reported in 2022.
+
+- **Vaccination Trends**: No vaccination-specific updates mentioned in week 32.
+
+- **Outpatient Respiratory Illness Visits**: Nationwide, 1.4% of outpatient visits were due to ILI. Among age groups, 0-4 years had the highest respiratory illness percentage (5.9%). Respiratory illness levels remain predominantly minimal across jurisdictions.
+
+- **Expectation of Flu Activity from CDC**: Low influenza activity is expected to continue.
+
+- **Other Key Factors**: 39 long-term care facilities (0.3% of total facilities) reported influenza-positive tests. Co-circulation of multiple respiratory viruses impacts ILI trends. No significant influenza outbreaks were reported.

@@ -1,0 +1,25 @@
+During Week 15 (ending April 13, 2024), seasonal influenza activity continued to decline in most areas of the country. Here are the key facts regarding predicting future ILI occurrence:
+
+1. Virologic Surveillance:
+- 5.9% of respiratory specimens tested in clinical laboratories were positive for influenza.
+- Influenza A(H1N1)pdm09, A(H3N2), and B viruses were all co-circulating during the week.
+- Genetic and antigenic characterization and antiviral susceptibility information will be available in this report.
+
+2. Outpatient Respiratory Illness Surveillance:
+- 2.5% of patient visits reported through the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet) were due to respiratory illness (ILI) but remained below the national baseline.
+- Moderate ILI activity was reported in three jurisdictions, and high activity was reported in two jurisdictions.
+
+3. Geographic Spread:
+- Local influenza activity was reported in four states, while sporadic activity was reported in the District of Columbia, Puerto Rico, the U.S. Virgin Islands, and 40 states. Six states reported no activity.
+
+4. FluSurv-NET Hospitalizations:
+- The cumulative hospitalization rate was 77.5 per 100,000 population, with the highest rates among adults aged 65 years and older.
+- Among 23,694 hospitalizations, 84.9% were associated with influenza A virus, and 14.4% were associated with influenza B virus.
+
+5. NCHS Mortality Surveillance:
+- 0.4% of deaths during Week 15 were attributed to influenza.
+
+6. Influenza-Associated Pediatric Mortality:
+- Four influenza-associated pediatric deaths were reported during Week 15, bringing the season total to 142 pediatric deaths.
+
+These data provide insights into the current status of influenza activity, including virologic trends, outpatient illness rates, hospitalizations, and mortality. These trends can help predict future ILI occurrence and guide prevention and response efforts.

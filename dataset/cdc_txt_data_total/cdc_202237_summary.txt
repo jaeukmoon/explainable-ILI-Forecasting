@@ -1,0 +1,15 @@
+According to the CDC's latest report for the 2021-2022 flu season, the virologic surveillance data shows that the percentage of respiratory specimens testing positive for influenza is low. In week 37, 0.8% of specimens tested positive for influenza, with a predominant circulation of Influenza A (93.4%) compared to Influenza B (6.6%). This indicates that influenza activity remains low in the United States.
+
+Outpatient respiratory illness surveillance, specifically the ILINet, indicates that 2.0% of patient visits were due to respiratory illness, including fever plus a cough or sore throat (ILI). The percentage of ILI visits varied by age group, with higher percentages observed among children aged 0-4 years (8.1%) and lower percentages among adults over 65 years (0.5%).
+
+The ILI activity map shows the level of ILI activity by state/jurisdiction, ranging from minimal activity (47 jurisdictions) to moderate activity (3 jurisdictions) and no data available for some areas. Most jurisdictions reported minimal ILI activity.
+
+Hospitalization surveillance data from FluSurv-NET and HHS Protect suggests that the number of hospitalizations due to influenza is relatively low. However, it's important to note that flu-related hospitalizations data is preliminary, and patients admitted after June 11, 2022, will not be included in the FluSurv-NET data for the 2021-2022 season.
+
+Mortality surveillance data shows that the percentage of deaths attributed to pneumonia, influenza, and/or COVID-19 (PIC) is above the epidemic threshold for week 37. However, the majority of PIC deaths are due to COVID-19 rather than influenza.
+
+No influenza-associated pediatric deaths have been reported for the current season. However, during the 2021-2022 season, a total of 37 pediatric deaths associated with influenza have been reported.
+
+The CDC highlights the importance of ongoing surveillance and recommends annual flu vaccination to protect against influenza and its potentially serious complications. They also provide additional information on sources of inﬂuenza surveillance data, including state and local agencies, and international organizations like WHO.
+
+Overall, the data indicates that influenza activity is low, but it's crucial to continue monitoring and take preventive measures such as vaccination to mitigate the risk of influenza.

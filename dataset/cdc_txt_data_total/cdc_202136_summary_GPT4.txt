@@ -1,0 +1,12 @@
+Week36, 2021
+- **Viruses, illness, and deaths**: Influenza activity remains low nationally, with only one influenza-associated pediatric death reported for the 2020-2021 season. 21.0% of deaths were attributed to pneumonia, influenza, and/or COVID-19 (PIC), with the majority related to COVID-19 and not influenza.  
+- **U.S. virologic surveillance**: Low influenza virus circulation. Detailed virologic data not provided in this report.  
+- **Cumulative hospitalization rate**: No updates on influenza-related hospitalization rates; data collection for 2020-2021 season ended on April 30, 2021.  
+- **Trends of deaths attributed to influenza**: PIC deaths are above the epidemic threshold (5.5% for week 36), driven primarily by COVID-19 rather than influenza.  
+- **Percentage of Influenza A and Influenza B**: Specific percentages of influenza A and B are not reported. Low influenza activity is noted.  
+- **Novel influenza virus (like COVID-19)**: COVID-19 continues to dominate respiratory illness trends; no novel influenza viruses reported.  
+- **Vaccination trends**: No influenza vaccination trends are detailed in this report.  
+- **Outpatient respiratory illness visits**: 2.3% of outpatient visits were due to ILI, below the national baseline of 2.6%. Increases in ILI are likely from other respiratory viruses, including COVID-19. Activity is above baseline in Regions 3, 7, and 9, stable or decreasing by age group.  
+- **Expectation of flu activity from CDC**: Influenza activity is expected to remain low, with respiratory illness trends likely driven by non-influenza viruses.  
+- **Other key factors**: ILI activity was reported as "moderate" in 3 jurisdictions and "high" in 2 jurisdictions. Data interpretation is cautioned due to changes in health-seeking behaviors during the pandemic.  
+

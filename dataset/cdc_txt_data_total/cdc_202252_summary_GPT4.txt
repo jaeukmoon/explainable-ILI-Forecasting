@@ -1,0 +1,20 @@
+Week52, 2022
+- **Viruses, Illness, and Deaths**: High but declining influenza activity; 15% of respiratory specimens tested positive. Influenza A (H3N2) predominates (70%), followed by A(H1N1) (30%). 12.8% of deaths were attributed to pneumonia, influenza, or COVID-19, above the epidemic threshold of 6.9%. Thirteen pediatric flu-associated deaths were reported this week, bringing the season total to 74. 
+
+- **U.S. Virologic Surveillance**: Clinical labs report 99.1% of positive specimens as Influenza A and 0.9% as Influenza B. Public health labs confirm 99.7% of specimens as Influenza A, predominantly A(H3N2) (70.2%), with 29.8% as A(H1N1).
+
+- **Cumulative Hospitalization Rate**: The cumulative hospitalization rate is 48.6 per 100,000, 3.5 times higher than the highest in-season rate for week 52 in prior years. Highest rates are in adults aged 65+ and children aged 0-4 years.
+
+- **Trends of Deaths Attributed to Influenza**: 12.8% of deaths during this week were attributed to pneumonia, influenza, or COVID-19, with influenza's proportion stabilizing over the past month.
+
+- **Percentage of Influenza A and B**: Influenza A accounts for the vast majority (99.1% clinical, 99.7% public health lab positives), with Influenza B present minimally (0.9% clinical, 0.3% public health lab).
+
+- **Novel Influenza Virus like COVID-19**: Co-infection of SARS-CoV-2 was identified in 3.2% of influenza-associated hospitalizations.
+
+- **Vaccination Trends**: Vaccination aligns well with circulating strains; CDC continues recommending flu vaccines for everyone 6 months and older.
+
+- **Outpatient Respiratory Illness Visits**: 5.4% of visits were for ILI, above the 2.5% national baseline. Activity is high or very high in 39 jurisdictions, with 8 jurisdictions reporting moderate activity.
+
+- **Expectation of Flu Activity from CDC**: Influenza activity remains high but is expected to continue declining in most areas.
+
+- **Other Key Factors**: 18,954 patients were admitted to hospitals with confirmed influenza this week. The majority of Influenza viruses are antigenically similar to the current vaccine strains, and no resistance to antiviral medications was observed. Multiple respiratory viruses are co-circulating.

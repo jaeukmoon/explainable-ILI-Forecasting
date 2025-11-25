@@ -1,0 +1,20 @@
+Week18, 2021
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains unusually low, with only 0.1% of respiratory specimens testing positive. Cumulatively, influenza A accounts for 36.9% and influenza B 63.1% of positive cases. 10.9% of deaths were attributable to pneumonia, influenza, or COVID-19 (PIC), but the majority were COVID-19-related. One influenza-associated pediatric death has occurred this season.
+
+- **U.S. virologic surveillance**: Clinical labs report 0.1% of specimens testing positive for influenza during week 18. Public health labs report only 1 positive specimen this week, with influenza A (61.0%) predominating cumulatively, followed by influenza B (39.0%). 
+
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate is 0.8 per 100,000 population, much lower than previous seasons, including the low-severity 2011-12 season.
+
+- **Trends of deaths attributed to influenza**: While PIC deaths are above the epidemic threshold (10.9% compared to a 6.5% threshold), current deaths are driven primarily by COVID-19, not influenza.
+
+- **Percentage of Influenza A and Influenza B**: Among clinical lab positives, 45.5% were influenza A and 54.5% influenza B in week 18. Public health labs report cumulative influenza A (61.0%) and influenza B (39.0%).
+
+- **Novel influenza viruses (like COVID-19)**: COVID-19 continues to drive mortality in PIC but no novel influenza viruses or outbreaks have been reported.
+
+- **Vaccination trends**: CDC encourages annual flu vaccination as the primary protection against influenza.
+
+- **Outpatient respiratory illness visits**: 1.2% of outpatient visits were for influenza-like illness (ILI), well below the 2.6% national baseline. All jurisdictions reported minimal ILI activity for week 18.
+
+- **Expectation of flu activity from CDC**: Influenza activity is expected to remain low for this season.
+
+- **Other key factors**: ILI surveillance and health care-seeking behavior may be affected by the COVID-19 pandemic, potentially limiting the reliability of flu surveillance data. Increased ILI trends were seen in children aged 0-4, although this remains minimal across regions.

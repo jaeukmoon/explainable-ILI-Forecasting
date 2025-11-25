@@ -1,0 +1,5 @@
+- Pre-existing influenza immunity significantly impacts antibody response to influenza viruses.
+- Antibody response differs between individuals who are vaccinated or naturally infected.
+- Initial antibodies stimulated after infections or vaccinations come from old B cells, indicating the role of immune system memory.
+- Antibodies from infections target non-neutralizing sites, while antibodies from vaccinations target neutralizing sites.
+- Understanding pre-existing immunity is important for developing a universal influenza vaccine.

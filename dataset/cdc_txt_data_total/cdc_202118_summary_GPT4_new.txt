@@ -1,0 +1,16 @@
+Week18, 2021
+1. Influenza activity remains unusually low, with only 0.1% of respiratory specimens testing positive for influenza in clinical laboratories.
+2. Of the clinical lab positive specimens, 45.5% were Influenza A and 54.5% were Influenza B.
+3. Public health laboratories reported extremely low positivity rates, with no Influenza A subtyped cases and one Influenza B case attributed to the Victoria lineage.
+4. Outpatient visits for influenza-like illness (ILI) were at 1.2%, stable compared to week 17, and remained below the national baseline of 2.6%.
+5. The cumulative influenza-associated hospitalization rate was 0.8 per 100,000, significantly lower than even the low-severity 2011-12 season.
+6. 10.9% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), with the majority linked to COVID-19 rather than influenza.
+7. No pediatric influenza-associated deaths occurred this week, and the seasonal total remains at one.
+8. CDC emphasizes the importance of annual flu vaccination, but no significant updates on vaccination trends were reported.
+9. ILI surveillance may be skewed due to changes in healthcare access and the ongoing COVID-19 pandemic, complicating data interpretation.
+10. Future influenza activity remains uncertain given the concurrent impacts of COVID-19 and unusual influenza patterns.
+
+11. Summary of other key factors:
+12. - Minimal ILI activity was observed across all U.S. jurisdictions, consistent with low flu activity.
+13. - Age-specific ILI rates showed a slight increase in the 0–4 years age group while remaining stable for other groups.
+14. - Reporting delays, small sample sizes, and the dominant presence of COVID-19 continue to hinder the ability to predict influenza trends effectively.

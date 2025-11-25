@@ -1,0 +1,13 @@
+Week24, 2024
+1. Seasonal influenza activity remained low nationally, with 1.4% of respiratory specimens testing positive for influenza this week.
+2. Among clinical lab positives, 78.1% were Influenza A and 21.9% were Influenza B; public health labs showed 70.3% Influenza A and 29.7% Influenza B.
+3. Dominant subtypes in public health labs were A(H3N2) (68.6%) and A(H1N1)pdm09 (31.4%); all Influenza B cases belonged to the Victoria lineage.
+4. Outpatient respiratory illness visits accounted for 1.6% of visits, below the national baseline, with no regions reporting moderate or higher ILI activity.
+5. The cumulative hospitalization rate for influenza is 0.1 per 100,000 this week, with a total of 25,015 hospitalizations reported this season.
+6. Deaths attributed to influenza remained stable at 0.1%, with three additional pediatric deaths reported this week, totaling 178 pediatric deaths this season.
+7. Antiviral resistance testing detected minimal reduced inhibition in some Influenza A and B cases, but resistance remained low overall.
+8. Vaccination trends were not significantly detailed, though CDC continues to recommend annual influenza vaccination for individuals 6 months and older.
+9. Respiratory illness activity across all age groups showed declines or stability this week, with multiple respiratory viruses co-circulating, including SARS-CoV-2.
+10. CDC highlights ongoing surveillance of influenza, COVID-19, and RSV trends to monitor future respiratory illness activity.
+
+11. Summary of key insights for prediction: Influenza activity remains low with stable trends across laboratory positivity, hospitalizations, and outpatient visits. Co-circulation of multiple respiratory viruses alongside low resistance to antivirals indicates manageable risk but reinforces the need for vaccination and monitoring of evolving virus subtypes.

@@ -1,0 +1,13 @@
+Week12, 2023
+1. Nationwide influenza activity remains low, with 0.9% of clinical lab specimens testing positive for influenza.
+2. Public health labs reported 67.2% of viruses as Influenza A and 32.8% as Influenza B; 58.8% of Influenza A viruses were A(H3N2).
+3. Outpatient visits for respiratory illness were 2.3%, below the national baseline of 2.5% and stable compared to the previous week.
+4. Four influenza-associated pediatric deaths were reported, bringing the season total to 138.
+5. The cumulative hospitalization rate for influenza remains elevated at 60.8 per 100,000 population, with adults aged 65+ most affected.
+6. PIC (pneumonia, influenza, COVID-19) deaths accounted for 8.3% of all deaths, above the epidemic threshold of 7.1%.
+7. 67.2% of public health lab-detected viruses were Influenza A, while 38.3% of clinical lab-detected viruses were Influenza B.
+8. All tested influenza viruses remain susceptible to the antivirals oseltamivir, peramivir, zanamivir, and baloxavir.
+9. Influenza vaccination is still recommended, with the current vaccine covering the majority of circulating strains.
+10. Other respiratory viruses, including SARS-CoV-2, continue to co-circulate, affecting ILI assessment.
+
+11. Summary of trends: Influenza activity is stable but tracking below baseline, with low hospitalization rates and ongoing PIC mortality slightly elevated. Vaccination and antiviral efficacy remain strong indicators for containment.

@@ -1,0 +1,12 @@
+For Week 41 ending October 16, 2021, the key facts regarding predicting future ILI occurrence are as follows:
+
+- Seasonal influenza activity in the United States remains low.
+- In virologic surveillance, the percentage of respiratory specimens testing positive for influenza in clinical labs was 0.1%, while few specimens tested positive in public health labs.
+- In outpatient illness surveillance, 1.8% of patient visits reported through ILINet were due to ILI, which is below the national baseline of 2.5%.
+- ILI activity varied across jurisdictions, with some experiencing high or moderate activity while others had low or minimal activity.
+- Long-term care facility surveillance reported a low percentage (0.1%) of facilities with influenza-positive tests among residents.
+- Hospitalization rates will be updated starting later this season through FluSurv-NET.
+- NCHS mortality surveillance data showed that 17.5% of deaths attributed to pneumonia, influenza, or COVID-19 (PIC) occurred during Week 41, above the epidemic threshold.
+- No influenza-associated pediatric deaths have been reported for the current season.
+
+It's important to note that these facts are based on preliminary data and may change as more reports are received.

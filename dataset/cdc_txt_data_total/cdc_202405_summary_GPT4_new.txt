@@ -1,0 +1,11 @@
+Week5, 2024
+1. National influenza activity remains elevated, with 15.8% of respiratory specimens testing positive and influenza A(H1N1)pdm09 being predominant.
+2. Outpatient visits for influenza-like illness (ILI) accounted for 4.4%, above the 2.9% baseline, with high activity in 25 jurisdictions and increasing trends in regions 2, 5, 6, 7, and 10.
+3. Influenza A accounted for 76.1% of public health lab-confirmed cases, with 67.5% of subtyped cases identified as A(H1N1)pdm09; influenza B accounted for 23.9%.
+4. The cumulative hospitalization rate was 51.5 per 100,000 population, with influenza A present in 88% of cases; hospitalizations declined slightly this week overall.
+5. Pediatric influenza-associated deaths rose by 8 this week, increasing the season total to 74.
+6. The percentage of deaths attributed to influenza was 0.8%, a slight decrease from last week.
+7. Vaccination remains advised by the CDC as flu continues to spread; antivirals show minimal resistance except in isolated cases.
+8. No novel influenza virus cases (such as SARS-CoV-2 variants) were highlighted in this report.
+9. Regions 5 and 7 experienced notable increases in influenza B activity relative to previous weeks.
+10. High levels of respiratory co-infections, including with COVID-19 and RSV, were reported, complicating patient care trends.

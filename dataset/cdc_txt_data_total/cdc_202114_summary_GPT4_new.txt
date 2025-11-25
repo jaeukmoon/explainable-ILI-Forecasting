@@ -1,0 +1,13 @@
+Week14, 2021
+1. Seasonal influenza activity in the U.S. remains unusually low, with only 0.1% of respiratory specimens testing positive for influenza in clinical labs.
+2. Of positive clinical lab specimens, 53.3% were Influenza A and 46.7% were Influenza B.
+3. Public health labs reported no positive specimens this week.
+4. A new human infection with novel Influenza A(H1N1)v was reported in Wisconsin, bringing the total novel cases for the season to three (two A(H1N1)v and one A(H3N2)v).
+5. Nationwide, outpatient visits for influenza-like illness (ILI) accounted for 1.1% of visits, stable from last week and below the 2.6% baseline.
+6. All jurisdictions reported minimal ILI activity, though data may be affected by COVID-19 trends and alternative healthcare-seeking behaviors.
+7. The cumulative hospitalization rate is 0.8 per 100,000, significantly lower than previous seasons and one-eighth the rate of the 2011-12 season at this time.
+8. Deaths due to pneumonia, influenza, or COVID-19 (PIC) accounted for 11.2% of deaths, above the epidemic threshold of 6.9%, with the majority attributed to COVID-19.
+9. No influenza-associated pediatric deaths were reported this week; one has been reported this season.
+10. CDC encourages annual flu vaccination but reported no significant updates on vaccination trends this week.
+
+11. Key insights: The persistently low influenza activity during this period, likely impacted by COVID-19 preventive measures, along with minimal novel virus transmission, suggests a reduced likelihood of significant influenza spread in the short term. Changes in healthcare-seeking behaviors and overlapping COVID-19 trends complicate ILI data interpretation for future predictions.

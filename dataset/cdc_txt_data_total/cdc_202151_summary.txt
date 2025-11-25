@@ -1,0 +1,12 @@
+According to the weekly U.S. Influenza Surveillance Report for Week 51 ending December 25, 2021, the key facts regarding predicting future ILI (influenza-like illness) occurrence are as follows:
+
+1. Influenza activity is increasing in the United States, with the majority of viruses detected being influenza A(H3N2).
+2. The percentage of outpatient visits for respiratory illness, including ILI, is trending upwards and is above the national baseline.
+3. Moderate to high ILI activity has been reported in several jurisdictions.
+4. Influenza hospitalization rates are increasing.
+5. Pneumonia, influenza, and COVID-19 mortality rates are above the epidemic threshold for this week.
+6. No influenza-associated pediatric deaths were reported during week 51.
+7. Genetic characterization of influenza viruses is ongoing, with most H3N2 viruses closely related to the vaccine virus but some antigenic differences.
+8. Outpatient ILI surveillance data should be interpreted in the context of other respiratory virus activity, including COVID-19 and other respiratory pathogens.
+
+Overall, the data suggests that influenza activity is increasing, and it is important for individuals to get vaccinated and take preventive measures to protect against influenza and its potential complications.

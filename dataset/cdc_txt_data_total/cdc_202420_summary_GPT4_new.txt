@@ -1,0 +1,13 @@
+Week20, 2024
+1. Seasonal influenza activity is low nationally, with 2% of clinical lab specimens testing positive; 63.2% were Influenza A and 36.8% were Influenza B.
+2. Public health labs reported 64 positive specimens, 76.6% as Influenza A and 23.4% Influenza B; Influenza A(H3N2) made up 60.5% of subtyped A viruses, and A(H1N1)pdm09 accounted for 39.5%.
+3. Outpatient visits for influenza-like illness (ILI) remain stable at 2.0%, below the national baseline for the seventh consecutive week.
+4. Two pediatric influenza-associated deaths were reported in Week 20, raising the total to 169 this season.
+5. The weekly hospitalization rate due to influenza was 0.2 per 100,000 people, significantly lower than the season's peak rate of 9.0 per 100,000.
+6. Deaths attributed to influenza slightly decreased to 0.1% this week.
+7. One human case of avian influenza A(H5N1) was reported in Michigan, marking the third documented U.S. case.
+8. CDC estimates 35 million illnesses, 390,000 hospitalizations, and 25,000 deaths from flu so far this season.
+9. Influenza vaccination is still recommended, though vaccination trends were not highlighted in the report.
+10. Multiple respiratory viruses, including SARS-CoV-2 and RSV, are co-circulating, contributing variably to respiratory illness trends.
+
+11. Summary highlights: Low flu activity persists; Influenza A prevalence dominates; vaccination and antiviral use are recommended; co-circulating respiratory viruses and occasional novel influenza virus cases warrant robust surveillance.

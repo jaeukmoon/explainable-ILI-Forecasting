@@ -1,0 +1,11 @@
+Week45, 2022
+1. Influenza activity is elevated nationwide, with 14.7% of clinical specimens testing positive, primarily Influenza A (99.2%) and a minor presence of Influenza B (0.8%).
+2. Influenza A(H3N2) is the dominant subtype accounting for 75.4% of subtyped Influenza A viruses in public health labs; A(H1N1)pdm09 comprises 24.6%.
+3. The cumulative hospitalization rate of 8.1 per 100,000 is higher than week 45 rates in any prior season since 2010, with the highest rates in adults aged 65+ (18.6) and children aged 0-4 years (13.6).
+4. Deaths attributed to pneumonia, influenza, or COVID-19 reached 9.4%, above the epidemic threshold, with influenza-related deaths slightly increasing but primarily overshadowed by COVID-19.
+5. 5.8% of outpatient visits were due to influenza-like illness (ILI), surpassing the baseline of 2.5%, with high or very high activity reported in 30 jurisdictions.
+6. Vaccination is recommended for individuals aged 6 months and older; the vaccine matches circulating strains well, and vaccination efforts are ongoing.
+7. Two pediatric deaths were reported this week, bringing the seasonal total to seven.
+8. Antigenic and genetic analyses show circulating viruses are similar to strains in the current vaccine.
+9. Regional positivity rates for influenza are climbing in multiple locations, highlighting increasing viral activity.
+10. Influenza A contributes 95.6% of hospitalizations, of which 76.7% are associated with the A(H3N2) subtype.

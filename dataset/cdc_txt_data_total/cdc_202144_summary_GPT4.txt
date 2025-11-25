@@ -1,0 +1,20 @@
+Week44, 2021
+- **Viruses, illness, and deaths:** Influenza activity remains low nationally; 0.3% of clinical lab specimens tested positive for influenza in week 44. Among public health lab detections, 97.3% were influenza A, predominantly A(H3N2) (100%). There were no influenza-associated pediatric deaths this season. 14.1% of deaths were attributed to pneumonia, influenza, or COVID-19 this week, above the epidemic threshold, but primarily driven by COVID-19.
+
+- **U.S. virologic surveillance:** Positive tests for influenza increased slightly; public health labs reported 102 A(H3N2) detections for week 44, with 68 cases concentrated in Michigan due to an outbreak among young adults. Cumulative specimens tested positive for influenza: 58.8% Influenza A and 41.3% Influenza B in clinical labs; and 93.5% Influenza A (predominantly H3N2) and 6.5% Influenza B in public health labs.
+
+- **Cumulative hospitalization rate:** 295 patients were hospitalized with laboratory-confirmed influenza during week 44. Hospitalization rates will be updated later in the season.
+
+- **Trends of deaths attributed to influenza:** Influenza-associated deaths remain low; most pneumonia, influenza, and COVID-19 (PIC) deaths were linked to COVID-19, with no influenza-specific mortality.
+
+- **Percentage of Influenza A and Influenza B:** Influenza A accounted for 77.2% of clinical lab positives and 97.3% of public health lab positives. Influenza B made up 22.8% of clinical lab positives and 2.7% of public health lab positives.
+
+- **Novel influenza virus (like COVID-19):** No novel influenza viruses reported. COVID-19 continues to drive PIC deaths.
+
+- **Vaccination trends:** As of October 29, 2021, 158.7 million flu vaccine doses were distributed. Vaccination is encouraged for everyone aged 6 months and older.
+
+- **Outpatient respiratory illness visits:** 2.1% of outpatient visits were for ILI, below the national baseline of 2.5%. Region 7 exceeded its baseline. ILI trends showed stable or increasing levels by age group.
+
+- **Expectation of flu activity from CDC:** Flu activity remains low but may increase in the coming weeks, particularly due to a recent rise in A(H3N2) detections.
+
+- **Other key factors:** A significant outbreak of A(H3N2) among young adults in Michigan contributed to regional increases. Co-circulation of respiratory viruses, including SARS-CoV-2, complicates interpretation of ILI trends. Only 0.1% of long-term care facilities reported influenza-positive residents.

@@ -1,0 +1,8 @@
+- CD8+ T cell tissue resident memory (TRM) cells play a crucial role in controlling pathogen spread at mucosal sites.
+- TCR-dependent NFkB signaling is important for T cell memory, but its role in tissue resident and circulating T cell memory during the immune response is unknown.
+- Enhancing NFkB signaling in T cells once memory to influenza is established increases lung CD8+ TRM maintenance.
+- Enhancing NFkB signals during the contraction phase of the response leads to a defect in CD8+ TRM differentiation.
+- Inducible activation of NFkB interferes with TGFβ signaling, resulting in defects in lung CD8+ TRM imprinting molecules.
+- Inhibiting NFkB signals recovers and improves the generation of lung CD8+ TRM.
+
+These findings contribute to our understanding of the mechanisms involved in the maintenance and differentiation of CD8+ TRM cells during influenza infection and highlight the role of NFkB signaling in these processes.

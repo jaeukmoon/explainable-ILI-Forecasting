@@ -1,0 +1,15 @@
+Some key facts regarding predicting future ILI occurrence from the CDC's weekly influenza surveillance report are as follows:
+
+1. Virologic Surveillance: The CDC monitors the percentage of respiratory specimens testing positive for influenza in clinical laboratories. During week 27, 0.8% of specimens tested positive, with a predominance of Influenza A (58.3%) and Influenza B (41.7%) viruses.
+
+2. Outpatient ILI Surveillance: The CDC tracks the percentage of healthcare visits for ILI and compares it to national baselines. During week 27, 1.3% of patient visits reported through the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet) were due to ILI.
+
+3. Geographic Activity: ILI activity levels vary across jurisdictions. During week 27, minimal ILI activity was reported in most jurisdictions, with moderate activity in some states.
+
+4. Hospitalization Surveillance: The CDC conducts population-based surveillance for laboratory-confirmed influenza-related hospitalizations. Data for the 2022-2023 season are preliminary and will be updated on FluView Interactive.
+
+5. P&I Mortality Surveillance: Pneumonia and influenza (P&I) mortality rates are monitored. During week 27, 5.5% of deaths were attributed to P&I, below the epidemic threshold of 5.8%.
+
+6. Pediatric Deaths: Two influenza-associated pediatric deaths were reported during week 27 for the current season. A total of 162 pediatric deaths have been reported for the 2022-2023 season.
+
+These surveillance components help provide a comprehensive understanding of influenza activity and inform predictions about future ILI occurrence.

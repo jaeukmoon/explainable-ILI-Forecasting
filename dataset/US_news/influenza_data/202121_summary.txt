@@ -1,0 +1,8 @@
+- The study focuses on the genetic and antigenic evolution of H1 swine influenza A viruses isolated in Belgium and the Netherlands from 2014 to 2019.
+- The researchers aimed to identify the subtypes of swine influenza A viruses that circulated in pigs during that time period.
+- The dominant subtype of swIAV was H1, and genetic and antigenic analysis was conducted on these isolates.
+- A total of 200 samples were tested, with 89 testing positive for swIAV. The subtypes detected were H1N1, H1N2, and H3N2.
+- Whole genome sequencing of 18 H1 swIAV isolates revealed three newly emerged genotypes.
+- The avian-like H1 swIAV (lineage 1C) were the most predominant, accounting for 47.2% of the isolates. They were found to evolve faster than the human-like H1 swIAV (lineage 1B).
+- The 2009 pandemic H1 swIAV (lineage 1A) accounted for only 5.6% of the isolates and showed divergence from their precursor virus.
+- Continuous surveillance of swIAV is necessary due to the increasing divergence of the viruses.

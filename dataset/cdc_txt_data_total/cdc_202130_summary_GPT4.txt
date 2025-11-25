@@ -1,0 +1,13 @@
+Week30, 2021
+- **Viruses, illness, and deaths**: Influenza activity remains low. Mortality due to pneumonia, influenza, and/or COVID-19 (PIC) is at 9.0%, above the epidemic threshold of 5.5%. COVID-19 is the primary driver of PIC mortality; no influenza-associated pediatric deaths reported this week.  
+- **U.S. virologic surveillance**: No specific details provided on circulating influenza virus subtypes this week. Surveillance continues to monitor virologic activity through public and clinical health laboratories.  
+- **Cumulative hospitalization rate**: Hospitalization data for laboratory-confirmed influenza cases after April 30, 2021, are not included; updates are only provided for data before this date.  
+- **Trends of deaths attributed to influenza**: No influenza-specific deaths reported; current mortality trends are attributed primarily to COVID-19 within the PIC category.  
+- **Percentage of Influenza A and Influenza B**: Influenza subtype data was not provided for this week.  
+- **Novel influenza virus (like COVID-19)**: COVID-19 continues to impact respiratory illness trends significantly in the U.S., with high contributions to PIC deaths.  
+- **Vaccination trends**: No new updates or recommendations on seasonal flu vaccination provided in this report.  
+- **Outpatient respiratory illness visits**: 1.9% of outpatient visits were due to influenza-like illness (ILI), increasing slightly but remaining below the national baseline of 2.6%. All regions remain below region-specific baselines. ILI activity showed an increasing trend over the past three weeks across all age groups.  
+- **Expectation of flu activity from CDC**: Flu activity remains minimal nationwide; no significant increases are expected at this time.  
+- **Other key factors**: Minimal ILI activity was reported in 49 jurisdictions. One jurisdiction reported moderate activity, while three reported low activity. COVID-19 continues to dominate respiratory illness trends, affecting healthcare-seeking behavior and syndromic surveillance data.  
+
+This report suggests minimal influenza activity but sustained impacts from COVID-19 on respiratory illness trends and mortality rates.

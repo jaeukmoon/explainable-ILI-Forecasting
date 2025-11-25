@@ -1,0 +1,11 @@
+Week33, 2023
+1. Influenza activity is low, with only 0.5% of respiratory specimens testing positive; 85.5% were Influenza A and 14.5% Influenza B in clinical labs.
+2. Public health labs reported 39 positives; 94.9% were Influenza A (96.6% H3N2) and 5.1% Influenza B, with Victoria lineage detected.
+3. A novel swine-origin Influenza A(H1N2)v case was reported in a child in Ohio, with no person-to-person transmission identified.
+4. Outpatient respiratory illness visits accounted for 1.5% nationally, with 6.3% in children aged 0-4 years, indicating regional variations in ILI contributions from multiple viruses.
+5. 10.0% of deaths were due to pneumonia, influenza, or COVID-19 (PIC), exceeding the epidemic threshold; 7 deaths listed influenza, while most were COVID-19-related.
+6. No influenza-associated pediatric deaths were reported this week; cumulative pediatric deaths for the season remain at 33.
+7. 31 long-term care facilities (0.2%) reported at least one influenza-positive resident.
+8. 477 patients were hospitalized with laboratory-confirmed influenza this week, reflecting ongoing low hospitalization rates.
+9. Data on vaccination trends for this period were not reported or emphasized, while CDC continues promoting annual flu vaccinations.
+10. Increased co-circulation of respiratory viruses and altered healthcare use due to the COVID-19 pandemic affect data interpretation and predictions for future ILI patterns.

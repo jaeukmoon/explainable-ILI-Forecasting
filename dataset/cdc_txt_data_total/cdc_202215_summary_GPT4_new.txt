@@ -1,0 +1,15 @@
+Week15, 2022
+1. Influenza activity is regionally varied, with highest activity in the northeast, south-central, and mountain regions of the U.S., predominantly Influenza A(H3N2).
+2. Clinical laboratories reported a 8.9% positivity rate this week, with 99.5% of positives being Influenza A and 0.5% Influenza B.
+3. Public health labs identified 99.8% Influenza A (100% of subtyped positives were H3N2) and only 0.2% Influenza B this week.
+4. Outpatient visits for respiratory illness account for 2.1% of visits, increasing since mid-February but remain below baseline nationally, with seven of 10 regions below their thresholds.
+5. Long-term care facilities report 1.0% of centers with at least one influenza-positive test this week.
+6. The cumulative hospitalization rate is 9.8 per 100,000 population; 95.8% of hospitalized cases are Influenza A, mostly A(H3N2).
+7. Influenza-related hospitalizations (3,243 this week) have been increasing for 11 consecutive weeks.
+8. Pediatric influenza-associated deaths for the season reached 22, with three reported this week.
+9. Pneumonia, influenza, or COVID-19 accounted for 7.1% of total deaths, slightly above the epidemic threshold (6.9%), chiefly due to COVID-19.
+10. H3N2 strains show genetic similarities to vaccine viruses but some antigenic differences, potentially impacting vaccine effectiveness.
+11. Co-circulation of SARS-CoV-2 affects virologic surveillance, with 5.0% of tested influenza-positive specimens also positive for SARS-CoV-2.
+12. Respiratory illness visits are rising in children and young adults; the relative contribution of influenza to these trends depends on location.
+13. CDC continues to recommend annual flu vaccination; no specific vaccination uptake patterns were mentioned.
+14. Continued evolving genetic and antigenic changes in H3N2 may signal potential for shifting future influenza activity trends further.

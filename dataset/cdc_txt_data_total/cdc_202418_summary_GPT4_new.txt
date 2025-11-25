@@ -1,0 +1,11 @@
+Week18, 2024
+1. Seasonal influenza activity is declining nationwide, with 3.1% of clinical respiratory specimens testing positive for influenza.
+2. Public health labs identified 70.6% of influenza-positive specimens as Influenza A and 29.4% as Influenza B; Influenza A(H3N2) (53.7%) was slightly more prevalent than A(H1N1)pdm09 (46.3%).
+3. The outpatient respiratory illness rate remains at 2.1%, stable for the fifth week and below the national baseline.
+4. Six influenza-associated pediatric deaths were reported this week, bringing the season's total to 164.
+5. Cumulative influenza hospitalization rates reached 80.3 per 100,000, the second highest recorded for this stage of any season since tracking began.
+6. Deaths attributed to influenza accounted for 0.2% of all deaths this week, a stable percentage compared to the prior week.
+7. Antiviral susceptibility testing showed high effectiveness, with only minimal reduced inhibition noted in a few isolated cases, mostly in A(H1N1)pdm09 strains.
+8. Influenza vaccination is recommended for everyone aged 6 months and older, though no changes in vaccination trends were highlighted.
+9. No jurisdictions reported moderate or high levels of ILI activity; all are below baseline, with minimal activity predominant.
+10. Co-circulation of multiple respiratory viruses, including COVID-19 and RSV, continues to impact flu activity interpretation, emphasizing the importance of integrated surveillance.

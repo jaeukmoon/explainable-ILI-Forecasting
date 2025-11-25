@@ -1,0 +1,19 @@
+Based on the CDC FluView report for the week ending March 30, 2024, here are the key facts regarding predicting future ILI occurrence:
+
+1. Seasonal influenza activity remains elevated nationally but is decreasing.
+2. The percentage of respiratory specimens testing positive for influenza in clinical laboratories decreased compared to the previous week.
+3. Influenza A(H1N1)pdm09, A(H3N2), and B viruses are all co-circulating.
+4. The percentage of outpatient visits for respiratory illness (ILI) remained stable but above the national baseline.
+5. Moderate to high ILI activity was reported in multiple jurisdictions.
+6. The distribution of circulating viruses varies by region.
+7. The number of weekly flu hospital admissions has been decreasing since January.
+8. There have been 22,684 laboratory-confirmed influenza-associated hospitalizations reported by FluSurv-NET sites.
+9. 0.5% of deaths that occurred during the week ending March 30, 2024, were due to influenza.
+10. Seven influenza-associated pediatric deaths were reported during Week 13, bringing the season total to 133 pediatric deaths.
+11. The CDC estimates that there have been at least 32 million illnesses, 360,000 hospitalizations, and 22,000 deaths from flu so far this season.
+12. CDC recommends annual flu vaccination and the use of antiviral drugs for treatment and prevention.
+13. Surveillance activities for avian influenza (HPAI A(H5N1)) are ongoing.
+14. Additional virologic surveillance information, flu activity maps, and influenza/subtype characterization data can be accessed through the provided links.
+15. Syndromic surveillance data, including ILINet data, should be evaluated in the context of other sources of surveillance data to obtain a complete picture of respiratory virus activity.
+
+These facts highlight the current status of influenza activity, the circulating virus types, hospitalization rates, pediatric deaths, and the importance of vaccination and antiviral use in managing the flu season.

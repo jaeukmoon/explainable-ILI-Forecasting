@@ -1,0 +1,11 @@
+Week3, 2021
+1. Seasonal influenza activity remains historically low, with only 0.3% of respiratory specimens testing positive for influenza this week.
+2. Clinical labs reported 16 Influenza A (24.6%) and 49 Influenza B (75.4%) positive specimens, while public health labs reported 2 Influenza A (66.7%) and 1 Influenza B (33.3%).
+3. A novel Influenza A(H3N2)v infection was reported in Wisconsin, linked to swine exposure; the patient recovered with no hospitalization.
+4. Outpatient visits for ILI accounted for 1.3% of visits, stable compared to the previous week and below the national baseline of 2.6%.
+5. Cumulative laboratory-confirmed influenza-associated hospitalizations remain low at 0.5 per 100,000 population.
+6. Pneumonia, influenza, or COVID-19 (PIC) deaths accounted for 14.8%, above the epidemic threshold of 7.1%, primarily driven by COVID-19.
+7. Data interpretation for ILI surveillance is impacted by alternative healthcare-seeking behaviors due to COVID-19.
+8. CDC expects potential increases in influenza activity in upcoming months; annual vaccination is highly recommended with no noted changes in vaccination trends.
+9. Flu-related pediatric deaths remain at one for the season, with none reported this week.
+10. Ongoing surveillance challenges due to low specimen counts and intertwined influenza and COVID-19 monitoring may affect future predictions.

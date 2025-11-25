@@ -1,0 +1,11 @@
+Week17, 2024
+- **Viruses, illness, and deaths**: Seasonal influenza activity continues to decline. Influenza A accounted for 64.3% of positive specimens (33.3% A(H1N1)pdm09, 66.7% A(H3N2)), while Influenza B accounted for 35.7%. 0.2% of deaths this week were attributed to influenza, and 10 pediatric deaths were reported, totaling 158 this season. 
+- **U.S. virologic surveillance**: 3.8% of respiratory specimens tested positive for influenza in clinical labs, with 58.5% identified as Influenza A and 41.5% as Influenza B. Among public health labs, Influenza A comprised 76.4%, and Influenza B accounted for 23.6%.
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate is 79.8 per 100,000, with older adults (>65 years) having the highest rates (218.2 per 100,000).  
+- **Trends of deaths attributed to influenza**: Deaths attributed to influenza remain low at 0.2%, reflecting a decrease compared to the prior week.
+- **Percentage of Influenza A and Influenza B**: Influenza A dominated nationally (69.2% cumulative), with A(H1N1)pdm09 making up 69.3% of subtyped Influenza A cases. Influenza B comprised 30.8% of cumulative cases, with all lineage-tested B viruses identified as Victoria.
+- **Novel influenza virus (like COVID-19)**: No mention of novel influenza viruses such as COVID-19 or H3N2v cases this week.
+- **Vaccination trends**: CDC continues to recommend annual flu vaccination while flu activity persists. Flu antiviral drugs are advised for high-risk patients.
+- **Outpatient respiratory illness visits**: 2.2% of outpatient visits were due to ILI (below the national baseline), stable from the prior week. All 10 regions remain below their respective baselines.
+- **Expectation of flu activity from CDC**: Influenza activity is expected to continue declining nationally with multiple respiratory viruses co-circulating.
+- **Other key factors**: Hospital admissions are decreasing nationally, but some increases were observed in regions 9 and 10. Among hospitalized patients, underlying conditions like hypertension and asthma are significant contributors. Data integration with SARS-CoV-2 and RSV provides additional insights into respiratory illness trends.

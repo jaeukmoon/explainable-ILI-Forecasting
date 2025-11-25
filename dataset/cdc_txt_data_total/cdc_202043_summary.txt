@@ -1,0 +1,16 @@
+Based on the CDC's weekly ILI surveillance report for Week 43 (ending October 24, 2020), the key facts regarding predicting future ILI occurrence are as follows:
+
+- Seasonal inﬂuenza activity in the United States remains low.
+- Virologic surveillance in clinical laboratories shows that 0.2% of respiratory specimens tested positive for influenza.
+- In public health labs, inﬂuenza activity has been low during the summer months, and few positive specimens have been reported recently.
+- Outpatient ILI surveillance indicates that 1.2% of healthcare visits were for ILI, a slight increase from the previous week, but below the national baseline of 2.6%.
+- The ILI activity map shows that most jurisdictions experienced minimal ILI activity, while one jurisdiction had low activity.
+- Hospitalization rates and pediatric deaths related to influenza will be updated in future reports.
+- Pneumonia, inﬂuenza, and COVID-19 (PIC) mortality rates were above the epidemic threshold, with 8.2% of deaths attributed to PIC.
+- There have been no reported influenza-associated pediatric deaths during the 2020-2021 season.
+- The CDC strongly recommends annual flu vaccination and the use of antiviral drugs to mitigate the effects of the flu.
+- Detailed virologic surveillance information, including subtype/lineage data, is available on the CDC website.
+- The geographic spread of influenza, as reported by state and territorial epidemiologists, is currently suspended due to the impact of COVID-19 on ILI surveillance.
+- The CDC provides additional national and international influenza surveillance information through various sources such as FluView Interactive, WHO Collaborating Centers for Inﬂuenza, and public health agencies in different countries.
+
+These facts provide insights into the current state of influenza activity in the United States and the surveillance measures in place to monitor and predict future occurrences.

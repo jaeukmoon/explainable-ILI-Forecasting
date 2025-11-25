@@ -1,0 +1,7 @@
+- Influenza virus infection is a significant threat to human health, causing millions of cases of illness and death annually.
+- Despite advancements in anti-influenza vaccination, there is a need for more sophisticated methods to control the infection.
+- Innate T cells, particularly gamma-delta (γδ) T cells, play a critical role in combating influenza infection in the respiratory tract.
+- Upon infection, respiratory epithelium produces cytokines and chemokines that recruit γδ T cells to the site of infection.
+- γδ T cells become activated and produce proinflammatory cytokines, protecting the respiratory epithelium and enhancing recruitment of other immune cells.
+- Understanding the strategies of γδ T cells in defense against influenza infection may lead to the development of novel therapeutic approaches.
+- γδ T cells could potentially be used as a tool for antiviral approaches or immunotherapy.

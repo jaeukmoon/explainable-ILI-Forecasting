@@ -1,0 +1,12 @@
+Week26, 2024
+- **Viruses, illness, and deaths:** National influenza activity remains low, with 1.0% of specimens testing positive for influenza in clinical labs. Influenza A(H1N1)pdm09, A(H3N2), and B viruses are co-circulating. 0.02% of deaths this week were attributed to influenza. Three pediatric deaths were reported, totaling 184 influenza-associated pediatric deaths this season.
+- **U.S. virologic surveillance:** Clinical labs report 85.5% of positive specimens as Influenza A and 14.5% as Influenza B. Public health labs show 89.0% Influenza A (31.1% H1N1 and 68.9% H3N2) and 11.0% Influenza B (100% Victoria lineage).
+- **Cumulative hospitalization rate:** Weekly hospitalization rate is 0.1 per 100,000. Since October 2023, there were 25,196 influenza-associated hospitalizations, with 84.5% from Influenza A and 14.7% from Influenza B. Among subtyped Influenza A cases, 68% are H1N1.
+- **Trends of deaths attributed to influenza:** Percentage of influenza-associated deaths decreased slightly from the previous week.
+- **Percentage of Influenza A and Influenza B:** Influenza A accounts for 85.5% of clinical lab positives and 89.0% of public health lab positives; Influenza B accounts for 14.5% and 11.0%, respectively.
+- **Novel influenza virus (like COVID-19):** A case of avian influenza A(H5N1) was identified in Colorado, marking the fifth case in the U.S. during an ongoing outbreak involving dairy cows. Enhanced surveillance and public health measures are ongoing.
+- **Vaccination trends:** No new vaccination data provided. Influenza vaccines are emphasized for infection prevention.
+- **Outpatient respiratory illness visits:** 1.4% of outpatient visits were for respiratory illness, below the national baseline. All 10 U.S. regions are below their baseline. Minimal activity levels were observed in 55 jurisdictions.
+- **Expectation of flu activity from CDC:** Influenza activity remains low, with multiple respiratory viruses contributing to current illness trends. Co-circulation with other pathogens like RSV and SARS-CoV-2 is noted.
+- **Other key factors:** Genetic characterization shows that the majority of circulating influenza strains are antigenically similar to current vaccine components. Antiviral resistance remains low; however, sporadic resistance mutations were detected in a very small number of cases for certain antivirals.
+

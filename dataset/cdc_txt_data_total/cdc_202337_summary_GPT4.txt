@@ -1,0 +1,20 @@
+Week37, 2023
+- **Viruses, illness, and deaths**: Seasonal influenza activity is low, with 0.8% of clinical laboratory specimens testing positive. Influenza A constitutes 67% of positives, and Influenza B makes up 33%. Over the season, 7.6% of deaths were attributed to pneumonia, influenza, and/or COVID-19 (PIC), exceeding the 5.6% epidemic threshold. Two pediatric deaths from influenza have been reported, totaling 176 for the season.
+
+- **U.S. virologic surveillance**: Clinical labs report 97.2% of cumulative positives as Influenza A and 2.8% as Influenza B. Public health labs report 73.5% of week 37 positives as Influenza A, predominantly (80%) A(H1N1)pdm09, while Influenza B accounts for 26.5%, entirely Victoria lineage.
+
+- **Cumulative hospitalization rate**: For week 37, hospitals reported 820 laboratory-confirmed influenza-related admissions. Data beyond April 2023 for the season is excluded from FluSurv-NET.
+
+- **Trends of deaths attributed to influenza**: Deaths due to pneumonia, influenza, and COVID-19 (PIC) exceed the epidemic threshold of 5.6%, currently at 7.6%. However, only 13 influenza-related deaths were identified for this week.
+
+- **Percentage of Influenza A and Influenza B**: In week 37, 67% and 33% of clinical lab positives were Influenza A and B, respectively. Among public health labs, 73.5% of positives were Influenza A, and 26.5% were Influenza B.
+
+- **Novel Influenza virus (like COVID-19)**: A third novel influenza A case (H1N2v) was reported in Montana after exposure to swine at a fair. Previous cases include one A(H3v) and another A(H1N2v). No human-to-human transmission has been reported.
+
+- **Vaccination trends**: No updates on vaccination rates. Seasonal influenza vaccination remains critical in preventing severe outcomes. 
+
+- **Outpatient respiratory illness visits**: 2.0% of outpatient visits were for ILI nationwide. Age breakdown: 6.3% in ages 0–4, 3.0% in 5–24, and rates below 2% in older groups. Respiratory viruses, including influenza, SARS-CoV-2, and RSV, are co-circulating.
+
+- **Expectation of flu activity from CDC**: Influenza activity remains low but may vary locally with sporadic increases.
+
+- **Other key factors**: One jurisdiction reported high activity, and four reported moderate activity. Most states and jurisdictions reported minimal or low activity. Co-circulation of various respiratory pathogens complicates analyses.

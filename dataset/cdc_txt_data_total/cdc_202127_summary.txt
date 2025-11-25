@@ -1,0 +1,15 @@
+The weekly ILI surveillance report from the CDC provides information on the current influenza activity in the United States. Here are the key facts regarding predicting future ILI occurrence:
+
+1. Virologic Surveillance: The report analyzes the percentage of respiratory specimens tested positive for influenza in clinical laboratories and the distribution of influenza virus types and subtypes in public health laboratories. This helps monitor whether influenza activity is increasing or decreasing.
+
+2. Outpatient Illness Surveillance: The report tracks the percentage of patient visits for ILI (influenza-like illness) through the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet). This data helps assess the level of ILI activity and compare it to national baselines.
+
+3. Geographic Spread: The report provides information on the geographic spread of influenza as assessed by state and territorial epidemiologists. This indicates whether influenza activity is local, sporadic, or no activity in different jurisdictions.
+
+4. Severe Disease Indicators: The report includes information on influenza-associated hospitalizations, pneumonia and influenza mortality rates, and pediatric deaths. These indicators help understand the impact of the flu and identify severe cases.
+
+5. Virus Characterization: The report analyzes the genetic and antigenic properties of circulating influenza viruses and their susceptibility to antiviral medications. This information is important for developing effective vaccines and treatments.
+
+6. Public Health Recommendations: The report emphasizes the importance of annual flu vaccination and the use of antiviral drugs to prevent and treat flu illness. Following these recommendations can help reduce the severity and spread of influenza.
+
+By monitoring these key factors and making adjustments based on trends, health officials can make predictions and take appropriate actions to mitigate the impact of future ILI occurrences.

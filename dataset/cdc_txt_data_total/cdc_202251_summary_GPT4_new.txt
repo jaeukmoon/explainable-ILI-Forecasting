@@ -1,0 +1,13 @@
+Week51, 2022
+1. Influenza activity is elevated and continues to increase, with 16.1% of tested specimens positive for influenza.
+2. Public health labs report 85.5% of viruses as Influenza A, with A(H1N1)pdm09 predominant at 79%, and Influenza B accounting for 14.5%.
+3. The cumulative hospitalization rate is 15.4 per 100,000, with higher rates among older adults and children under 4.
+4. Influenza-associated deaths rose to 0.5%, and seven pediatric deaths were reported this week, primarily linked to Influenza A(H1N1).
+5. Outpatient respiratory illness visits accounted for 6.1%, remaining above baseline for eight consecutive weeks.
+6. Weekly flu hospitalizations (14,732) increased by >5% nationally compared to the previous week.
+7. Since October 2023, flu has caused 4,500 deaths, 73,000 hospitalizations, and 7.1 million illnesses in the U.S.
+8. Vaccination is recommended for all aged 6 months and older; no significant new vaccination trends noted.
+9. CDC highlights co-circulation of influenza, COVID-19, and RSV, with integrated reporting for respiratory illnesses.
+10. Genetic and antigenic analysis of circulating influenza viruses shows good vaccine compatibility, though reduced oseltamivir susceptibility was observed in one A(H1N1)pdm09 virus.
+11. Regional variations include high positivity in regions 3, 4, 6, and 8, with Influenza A remaining dominant.
+12. CDC expects flu activity to continue rising in the near term; respiratory illness patterns indicate significant public health impacts.

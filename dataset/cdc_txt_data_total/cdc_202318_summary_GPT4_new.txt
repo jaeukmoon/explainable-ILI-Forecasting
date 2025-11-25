@@ -1,0 +1,13 @@
+Week18, 2023
+1. Influenza activity remains low nationwide, with 0.9% of tested specimens positive for influenza.
+2. Clinical labs found 40.8% Influenza A and 59.2% Influenza B, while public health labs reported 48.6% Influenza A and 51.4% Influenza B.
+3. The majority of circulating Influenza A subtypes were A(H1N1)pdm09 (75%), while 100% of lineage-tested Influenza B viruses were Victoria lineage.
+4. Outpatient visits for influenza-like illness (ILI) accounted for 2.0%, which is below the national baseline of 2.5%.
+5. One pediatric influenza-associated death was reported this week, bringing the total to 150 for the 2022-2023 season.
+6. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) accounted for 6.9% of total deaths, exceeding the epidemic threshold of 6.7%.
+7. Cumulative hospitalization rates stand at 62.6 per 100,000 population, with the elderly (65+) and children (0-4 years) showing the highest rates.
+8. All influenza viruses analyzed were susceptible to peramivir, zanamivir, baloxavir, and oseltamivir, except for one A(H1N1)pdm09 strain.
+9. The influenza vaccine is largely well-matched to the circulating strains, with 98-100% antigenic similarity across tested viruses.
+10. Low influenza activity, stable ILI rates, and minimal influenza positivity in long-term care facilities suggest limited immediate risk.
+
+11. Summary of key insights: Low influenza activity, stable trends in respiratory illness, vaccine-strain match, and antiviral susceptibility indicate a low risk of widespread influenza escalation, but ongoing surveillance is crucial.

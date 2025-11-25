@@ -1,0 +1,20 @@
+Week50, 2020
+- **Viruses, illness, and deaths:** Seasonal influenza activity remains unusually low for this time of year. Only 0.3% of respiratory specimens in clinical labs tested positive for influenza, with most being Influenza B (82.7%). 13.3% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), the majority due to COVID-19. One pediatric influenza-associated death has been reported for the 2020-21 season.
+
+- **U.S. virologic surveillance:** Clinical lab data show 41.0% of cumulative positives are Influenza A and 59.0% are Influenza B. Public health labs report 100% of positives this week as Influenza A, mostly subtyped as H1N1pdm09, with no Influenza B detected.
+
+- **Cumulative hospitalization rate:** 75 laboratory-confirmed influenza-associated hospitalizations have occurred since October 1, 2020, significantly lower than average for this time in the season.
+
+- **Trends of deaths attributed to influenza:** The percentage of deaths due to pneumonia, influenza, and COVID-19 (PIC) is 13.3%, above the epidemic threshold of 6.6%, primarily driven by COVID-19 deaths.
+
+- **Percentage of Influenza A and Influenza B:** Clinical labs report 17.3% of weekly positives as Influenza A and 82.7% as Influenza B. Public health labs report all weekly positives (100%) as Influenza A.
+
+- **Novel influenza virus (like COVID-19):** The COVID-19 pandemic continues to impact surveillance and healthcare-seeking behaviors, but no novel influenza virus has been detected.
+
+- **Vaccination trends:** CDC emphasizes flu vaccination as the best prevention measure and continues to encourage flu vaccination for everyone 6 months or older.
+
+- **Outpatient respiratory illness visits:** 1.6% of outpatient visits were for influenza-like illness (ILI), steady for four weeks, and below the national baseline of 2.6%. One jurisdiction reported moderate ILI activity, while others experienced minimal activity.
+
+- **Expectation of flu activity from CDC:** Flu activity is expected to remain low but may increase in the coming months.  
+
+- **Other key factors:** COVID-19 contributes significantly to reported illness and death trends, complicating interpretation of influenza-specific surveillance data.

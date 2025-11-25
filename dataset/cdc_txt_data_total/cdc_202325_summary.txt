@@ -1,0 +1,15 @@
+Based on the latest CDC inﬂuenza surveillance report for week 25 of the 2022-2023 inﬂuenza season, here are the key facts regarding predicting future ILI occurrence:
+
+- Virologic surveillance: The percentage of respiratory specimens testing positive for inﬂuenza in clinical labs was 1.0% for week 25. Inﬂuenza A (58.4%) and Inﬂuenza B (41.6%) viruses were circulating.
+
+- Outpatient ILI surveillance: 1.4% of patient visits reported through ILINet were due to respiratory illness that included fever plus a cough or sore throat (ILI). The percentage of ILI visits varied across diﬀerent age groups.
+
+- Geographic spread: ILI activity varied across diﬀerent states and regions. No jurisdictions reported very high ILI activity, while one state reported high activity, one state reported moderate activity, 2 states reported low activity, and 49 states reported minimal activity.
+
+- Hospitalization surveillance: Data on inﬂuenza-related hospitalizations were provided by the FluSurv-NET system, which covers select counties in 13 states. Additional information on hospitalization rates by age, sex, and race/ethnicity is available on FluView Interactive.
+
+- Mortality surveillance: Based on NCHS mortality surveillance data, 6.2% of deaths that occurred during week 25 were due to pneumonia, inﬂuenza, and/or COVID-19 (PIC). This percentage is above the epidemic threshold of 5.9% for this week.
+
+- Pediatric mortality: One inﬂuenza-associated pediatric death was reported during week 25, bringing the total number of deaths for this season to 160.
+
+These surveillance components provide essential information for predicting future ILI occurrence and assessing the severity of inﬂuenza activity. It is important to note that all data in the report are preliminary and subject to change as more reports are received.

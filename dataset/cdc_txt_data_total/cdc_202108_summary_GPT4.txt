@@ -1,0 +1,20 @@
+Week8, 2021
+- **Viruses, Illness, and Deaths**: Seasonal influenza activity remains unusually low, with only 0.1% of respiratory specimens testing positive. 16.4% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), which is above the epidemic threshold of 7.2%, with the majority of PIC deaths caused by COVID-19. No new influenza-associated pediatric deaths were reported; the total for the season stands at one.
+
+- **U.S. Virologic Surveillance**: Clinical labs reported equal proportions of Influenza A and B (50% each) among positive specimens. Public health labs reported a single positive specimen this week, identified as Influenza A.
+
+- **Cumulative Hospitalization Rate**: The cumulative influenza hospitalization rate remains low at 0.7 per 100,000 population, significantly lower than previous seasons, including the 2011-12 low severity season.
+
+- **Trends of Deaths Attributed to Influenza**: Influenza-related mortality remains minimal this season. PIC deaths are primarily attributed to COVID-19.
+
+- **Percentage of Influenza A and Influenza B**: Clinical labs reported an even distribution of Influenza A (50%) and Influenza B (50%) among cumulative positives. Public health labs identified 60.7% of cumulative positives as Influenza A and 39.3% as Influenza B.
+
+- **Novel Influenza Viruses (like COVID-19)**: COVID-19 continues to dominate PIC-related deaths, with no detection of novel influenza viruses.
+
+- **Vaccination Trends**: CDC emphasizes flu vaccination as the best protection against seasonal influenza and recommends getting vaccinated if not already done.
+
+- **Outpatient Respiratory Illness Visits**: 0.9% of outpatient visits were for influenza-like illness (ILI), remaining below the national baseline of 2.6%. All jurisdictions reported minimal ILI activity.
+
+- **Expectation of Flu Activity from CDC**: Flu activity remains low but may increase in the coming months.
+
+- **Other Key Factors**: The COVID-19 pandemic likely impacts ILI data collection and reporting, requiring cautious interpretation. Outpatient ILI visits show a slight decreasing trend across most age groups over recent weeks.

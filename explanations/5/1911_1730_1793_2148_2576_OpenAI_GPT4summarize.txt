@@ -1,0 +1,13 @@
+1. The past time-series ILI occurrences over the 5 weeks showed an overall upward trend, starting at 1911 (Week 41, 2020) and rising to 2576 (Week 45, 2020). Despite a slight dip from 1911 in Week 41 to 1730 in Week 42, this was followed by steady increases in Weeks 43 and 44, reaching a peak in Week 45. This consistent growth in occurrences suggests an escalating trajectory in ILI activity.
+
+2. A clear positive correlation is observed between past and future ILI occurrences. The upward trend in the latter weeks of the past data (Weeks 43–45, 2020) serves as a precursor to the reduction in future occurrences to 1679 after 5 weeks (Week 50, 2020). The sharp decrease likely results from the peak during Week 45, followed by a natural decline or stabilization in activity.
+
+3. Outpatient visits for ILI exhibited a gradual increase over the 5-week period, rising from 1.2% in Week 41, 2020, to 1.5% in Week 45, 2020. This increase, while below the national baseline of 2.6%, is consistent with the upward trend in ILI activity and contributed to the observed peak and eventual decline in the future data.
+
+4. PIC mortality percentages consistently surpassed epidemic thresholds, climbing from 7.2% in Week 41 to 8.9% in Week 45, 2020. This elevated mortality due to pneumonia, influenza, and COVID-19 reflects a sustained presence of respiratory illness factors driving ILI-related activity, aligning with fluctuations in ILI occurrences.
+
+5. Disruptions in traditional healthcare-seeking behaviors due to the COVID-19 pandemic, as highlighted across all weeks, affected ILI surveillance reliability. Increased use of alternative care and delayed reporting may have contributed to higher ILI totals in the weeks leading up to Week 45, with subsequent stabilization influencing the decline to 1679 as healthcare patterns adjusted.
+
+6. Despite low influenza virus positivity rates (e.g., 0.3% in Week 41 and 0.2% in Week 45, 2020) and minimal public health lab detections, the increase in ILI occurrences reflects contributions from non-influenza respiratory illnesses or other pathogens. The ongoing COVID-19 pandemic likely played a significant role in amplifying respiratory illness activity and its reporting.
+
+7. In summary, the future ILI occurrences of 1679 (Week 50, 2020) resulted from an initial upward trend in Weeks 41–45, peaking at 2576 and subsequently normalizing. This trajectory was driven by increasing ILI outpatient visits, persistent PIC mortality rates exceeding epidemic thresholds, pandemic-related healthcare disruptions, and the influence of non-specific respiratory illnesses magnified by the ongoing COVID-19 pandemic.

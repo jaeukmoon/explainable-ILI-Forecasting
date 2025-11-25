@@ -1,0 +1,11 @@
+Week29, 2022
+- **Viruses, illness, and deaths:** Influenza activity remains low, with 0.7% of tested specimens positive for influenza during week 29. Influenza A (92.9%) predominates over Influenza B. 9.8% of deaths during week 29 were attributed to pneumonia, influenza, and/or COVID-19 (PIC), above the epidemic threshold of 5.6%, primarily driven by COVID-19 (1,094 deaths); only 8 deaths were influenza-related. One new pediatric death associated with Influenza A(H3) was reported; total pediatric deaths for the season number 33.  
+- **U.S. virologic surveillance:** Clinical labs report 92.9% of positive specimens were Influenza A and 7.1% Influenza B, while public health labs reported 84.0% Influenza A and 16.0% Influenza B. The H3N2 subtype accounted for 100% of subtyped Influenza A samples.  
+- **Cumulative hospitalization rate:** 586 new laboratory-confirmed influenza hospitalizations were recorded for week 29. Tracking concluded for patients hospitalized after June 11, 2022; data is still being updated for earlier cases.  
+- **Trends of deaths attributed to influenza:** Death counts for influenza remain minimal compared to COVID-19 deaths contributing to PIC.  
+- **Percentage of Influenza A and Influenza B:** Influenza A is 92.9% of clinical lab positives and 84.0% of public health lab positives; Influenza B accounts for 7.1% and 16.0%, respectively.   
+- **Novel influenza virus (like COVID-19):** H3N2v was detected earlier this season, with no new novel influenza virus cases reported in week 29. COVID-19 continues to dominate PIC deaths.  
+- **Vaccination trends:** No vaccination update is provided in the report for week 29.  
+- **Outpatient respiratory illness visits:** Nationwide, 1.6% of outpatient visits were for influenza-like illness (ILI), with the age group 0-4 years reporting the highest rate (6.4%). Regional activity indicates minimal ILI activity in 50 jurisdictions and low activity in 4 jurisdictions.  
+- **Expectation of flu activity from CDC:** Influenza activity is expected to remain low with continued co-circulation of other respiratory viruses.  
+- **Other key factors:** 39 LTCFs reported at least one positive influenza test among residents (0.3% of facilities). COVID-19 remains the primary driver of respiratory illness and deaths captured in PIC mortality surveillance.  

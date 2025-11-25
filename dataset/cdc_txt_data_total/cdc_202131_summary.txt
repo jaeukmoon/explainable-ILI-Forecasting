@@ -1,0 +1,13 @@
+First, the virologic surveillance data collected from clinical and public health laboratories track the percentage of specimens testing positive for influenza and the distribution of different influenza virus types and subtypes. This helps monitor influenza activity and identify any changes in circulating strains.
+
+Outpatient illness surveillance, specifically the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet), monitors the percentage of patient visits for influenza-like illness (ILI). During the reported period, 2.0% of patient visits were due to ILI, which remains below the national baseline of 2.6%. This data provides insights into the overall ILI activity in the country.
+
+The ILI activity map shows the level of ILI activity by state/jurisdiction and Core Based Statistical Areas (CBSA). The activity levels range from minimal to very high, with variations across different regions. This information helps identify areas with higher ILI activity and allows for targeted public health interventions.
+
+The geographic spread of influenza is assessed by state and territorial epidemiologists, with reports indicating whether influenza activity is local, sporadic, or absent in different jurisdictions. This helps understand the overall geographic distribution of influenza and the areas that are most affected.
+
+Severe disease indicators, such as hospitalization rates and pneumonia and influenza mortality, provide insights into the impact of influenza on public health. For example, during the reported period, 11.9% of deaths were due to pneumonia, influenza, and/or COVID-19, which is above the epidemic threshold of 5.5%.
+
+Finally, the report highlights the importance of influenza vaccination and antiviral drugs as preventive measures and treatment options for influenza.
+
+These various surveillance systems and indicators help predict future influenza occurrences, monitor the spread and severity of the virus, and inform public health interventions and recommendations.

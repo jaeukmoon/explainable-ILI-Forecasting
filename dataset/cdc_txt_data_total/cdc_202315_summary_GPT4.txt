@@ -1,0 +1,20 @@
+Week15, 2023
+- **Viruses, illness, and deaths:** Seasonal influenza activity remains low nationally. 1.0% of clinical lab specimens were positive for influenza this week. Influenza A represented 44.8%, and Influenza B represented 55.2% of positives in clinical labs. Two pediatric deaths were reported this week, totaling 143 pediatric deaths this season. 7.5% of deaths were attributed to pneumonia, influenza, or COVID-19, above the epidemic threshold. 
+
+- **U.S. virologic surveillance:** 59.5% of public health lab specimens were Influenza A (92.3% A(H1N1)pdm09, 7.7% A(H3N2)), and 40.5% were Influenza B (100% Victoria lineage). The genetic and antigenic characteristics of circulating viruses are similar to those in the 2022-2023 influenza vaccine.
+
+- **Cumulative hospitalization rate:** The overall cumulative hospitalization rate is 61.5 per 100,000, with the highest rates among adults 65+ years (183.4 per 100,000). Among hospitalized adults, 95.9% were associated with Influenza A, and 3.2% with Influenza B.
+
+- **Trends of deaths attributed to influenza:** Mortality due to pneumonia, influenza, and COVID-19 remains stable at 7.5%, which is above the epidemic threshold. Of 1,732 deaths reported, 18 were attributed to influenza.
+
+- **Percentage of Influenza A and Influenza B:** In clinical labs, Influenza A accounts for 44.8% of positive cases, and Influenza B for 55.2%. In public health labs, Influenza A is 59.5%, and Influenza B is 40.5%.
+
+- **Novel influenza virus (like COVID-19):** 3.8% of laboratory-confirmed influenza hospitalizations also tested positive for SARS-CoV-2. One Influenza A(H3N2v) case was reported earlier this season, but none during this week.
+
+- **Vaccination trends:** CDC continues urging everyone 6 months and older to get the annual flu vaccine as flu activity persists. The majority of circulating viruses are antigenically similar to those in the vaccine.
+
+- **Outpatient respiratory illness visits:** 2.0% of outpatient visits this week were due to respiratory illness, below the 2.5% national baseline, with nine of 10 HHS regions below their baselines. Four jurisdictions reported moderate activity; none reported high or very high activity.
+
+- **Expectation of flu activity from CDC:** Flu activity remains low but is likely to continue during the current season. Antiviral medications remain effective in treating flu cases.
+
+- **Other key factors:** Among long-term care facilities, 0.4% reported at least one influenza-positive test. The number of influenza hospitalizations and outpatient illnesses decreased compared to last week. Surveillance shows continued co-circulation of influenza, SARS-CoV-2, and other respiratory viruses.

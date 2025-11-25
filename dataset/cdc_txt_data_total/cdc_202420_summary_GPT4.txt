@@ -1,0 +1,11 @@
+Week20, 2024
+- **Viruses, illness, and deaths**: Influenza activity remains low nationally. Influenza A(H1N1)pdm09, A(H3N2), and B co-circulate; 76.6% of public health lab positives were Influenza A. Two new pediatric deaths were reported this week, bringing the season total to 169. Total season flu impact estimates: 35 million illnesses, 390,000 hospitalizations, and 25,000 deaths.  
+- **U.S. virologic surveillance**: Clinical labs show 2.0% positivity (stable), with 63.2% Influenza A and 36.8% Influenza B. Public health labs report 76.6% Influenza A (60.5% A(H3N2), 39.5% A(H1N1)pdm09) and 23.4% Influenza B (all Victoria lineage).  
+- **Cumulative hospitalization rate**: Week 20 hospitalization rate was 0.2 per 100,000, with a cumulative season total of 24,763. Of hospitalizations, 84.6% were Influenza A; most subtyped cases were A(H1N1)pdm09 (68.6%).  
+- **Trends of deaths attributed to influenza**: Influenza accounted for 0.1% of deaths (slightly decreased from last week).  
+- **Percentage of Influenza A and Influenza B**: Clinical labs: 63.2% A, 36.8% B. Public health labs: 76.6% A, 23.4% B.  
+- **Novel Influenza virus (like COVID-19)**: One human infection with HPAI A(H5N1) was reported in Michigan, the third-ever U.S. case. No evidence of human-to-human transmission.  
+- **Vaccination trends**: CDC continues to recommend vaccination for everyone aged 6 months or older as long as flu viruses are circulating.  
+- **Outpatient respiratory illness visits**: 2.0% of outpatient visits were for respiratory illness, remaining below the baseline. No high or very high activity was observed, with all regions below baselines.  
+- **Expectation of flu activity from CDC**: Flu activity is expected to remain low with no significant increases reported nationwide.  
+- **Other key factors**: Co-circulation of multiple respiratory viruses (influenza, COVID-19, RSV) may impact future activity. Genetic characterization shows most circulating viruses are vaccine-compatible. Antiviral resistance remains low overall.

@@ -1,0 +1,17 @@
+Based on the CDC weekly influenza surveillance report, here are the key facts regarding predicting future ILI occurrence:
+
+1. Virologic surveillance: The percentage of respiratory specimens testing positive for influenza remained stable at 1.0%.
+
+2. Outpatient ILI surveillance: 2.4% of patient visits reported through ILINet were due to respiratory illness (ILI), which is below the national baseline of 2.5%.
+
+3. Geographic activity: The majority of jurisdictions reported minimal ILI activity, while 2 jurisdictions experienced high activity.
+
+4. Long-term care facility surveillance: 0.5% of reporting facilities had at least one influenza-positive test among residents.
+
+5. FluSurv-NET hospitalization surveillance: A total of 17,667 laboratory-confirmed influenza-associated hospitalizations have been reported, with higher rates among adults aged 65 and older.
+
+6. Mortality surveillance: 8.6% of deaths in week 10 were attributed to pneumonia, influenza, and/or COVID-19, which is above the epidemic threshold.
+
+7. Pediatric deaths: 7 influenza-associated pediatric deaths were reported, bringing the total to 132 for the current season. All deaths were associated with influenza A viruses.
+
+These indicators provide valuable insights into the current flu activity and can help predict future ILI occurrence. It is important to note that the data is preliminary and subject to change as more reports are received.

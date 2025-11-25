@@ -1,0 +1,16 @@
+Week44, 2021
+1. Influenza activity remains low nationwide, with public health labs reporting an increasing number of detections.
+2. Clinical labs reported 0.3% of specimens tested positive for influenza, with 77.2% Influenza A and 22.8% Influenza B.
+3. Public health labs found 97.3% of positive specimens were Influenza A (100% H3N2 subtype), and 2.7% were Influenza B (Victoria lineage).
+4. Outpatient visits for influenza-like illness (ILI) accounted for 2.1% of visits, below the national baseline, with Regions 7 above baseline and others below.
+5. More than 90% of Influenza A(H3N2) cases involve those aged 5–24; a single outbreak in Michigan accounts for many cases.
+6. Hospitalized influenza patients totaled 295 in Week 44, with hospitalization trends to be updated later in the season.
+7. Pneumonia, influenza, or COVID-19 (PIC) deaths accounted for 14.1% of total deaths, above the epidemic threshold, though primarily due to COVID-19.
+8. No influenza-associated pediatric deaths have been reported for the season.
+9. The CDC has distributed 158.7M influenza vaccine doses so far, promoting vaccination for everyone aged 6 months and older.
+10. Multiple respiratory viruses are co-circulating, with variable effects on ILI trends; age-specific ILI visits showed increases in 0–4 and 5–24 age groups.
+
+11. Summary of other key factors:
+12. - Influenza A(H3N2) spread is concentrated in certain regions and linked to localized outbreaks.
+13. - Healthcare behaviors altered by COVID-19 continue to impact traditional ILI data collection and reporting.
+14. - Regional data discrepancies and delayed reporting affect comprehensive surveillance accuracy.

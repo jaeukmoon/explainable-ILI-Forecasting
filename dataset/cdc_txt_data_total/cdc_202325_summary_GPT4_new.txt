@@ -1,0 +1,12 @@
+Week25, 2023
+1. Influenza activity is low, with 1.0% of specimens testing positive nationally; 58.4% were Influenza A and 41.6% Influenza B.
+2. Public health labs detected 14 positive specimens, 85.7% Influenza A (all H1N1) and 14.3% Influenza B (Victoria lineage).
+3. Outpatient visits for influenza-like illness (ILI) were at 1.4%, below the national baseline of 2.6%; highest rates were among children aged 0-4 years (4.8%).
+4. Hospitalizations included 768 patients with laboratory-confirmed influenza during the reported week.
+5. Pneumonia, influenza, and/or COVID-19 (PIC) accounted for 6.2% of deaths, surpassing the 5.9% epidemic threshold; 8 attributed to influenza and 240 to COVID-19.
+6. One additional pediatric influenza death was reported (Influenza B/Victoria), raising the season’s total to 160.
+7. Nationwide, minimal ILI activity predominates (49 jurisdictions), with limited high or moderate activity.
+8. No novel influenza virus detections were reported this week.
+9. Recommendations for vaccination persist, though no specific data on vaccination uptake trends were provided.
+10. Co-circulation of other respiratory viruses, including COVID-19 and RSV, continues to affect ILI trends, making precise attribution challenging for public health forecasting.
+

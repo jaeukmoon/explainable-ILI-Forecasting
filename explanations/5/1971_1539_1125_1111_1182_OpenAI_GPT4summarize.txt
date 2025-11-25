@@ -1,0 +1,11 @@
+1. The past time-series ILI occurrences over the 5 weeks exhibited a general decline, starting from 1971 (Week 3, 2022) and falling to 1111 in Week 6, followed by a slight increase to 1182 in Week 7. This downward trend, despite a small rebound in the final week, represents a reduction in ILI activity over the observed period.
+
+2. Although past ILI occurrences primarily demonstrated a decline, the subsequent rise in future occurrences to 2032 (Week 12, 2022) reveals a negative correlation during the earlier weeks. However, the observed slight rebound in Week 7 at 1182 likely signaled the beginning of a transition toward a gradual increase, aligning with future ILI growth.
+
+3. Influenza activity was sporadic but showed slight regional increases by Week 7, when clinical specimen positivity for influenza reached 4.2% (from 2.0% in Week 5). Increased hospitalizations (4.9 per 100,000 in Week 7) and higher positivity rates for Influenza A(H3N2), a strain known for its significant transmissibility and antigenic variability, correlate strongly with the subsequent spike in ILI cases.
+
+4. Lower vaccination coverage compared to previous seasons persisted across all observed weeks, contributing to reduced population immunity. This, coupled with the emergence of antigenic differences in dominant A(H3N2) strains (detected in Week 7), likely fueled the rise in ILI activity.
+
+5. Increasing co-circulation of respiratory pathogens, including SARS-CoV-2 (6% co-infection rate by Week 7) and other viruses such as RSV, added further complexity to ILI trends. The compounded impact of multiple pathogens exacerbated respiratory illness occurrences, aligning with a future rise to 2032 occurrences.
+
+6. In summary, the future increase to 2032 ILI occurrences (Week 12, 2022) is attributable to the emerging rebound from Week 7 ILI data, regional increases in influenza positivity, low vaccination rates, antigenic drift in A(H3N2), and overlapping respiratory pathogen activity, all of which synergistically heightened ILI activity over time.

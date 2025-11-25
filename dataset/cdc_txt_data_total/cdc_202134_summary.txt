@@ -1,0 +1,27 @@
+Based on the weekly influenza surveillance report from CDC for Week 34 of the 2020-2021 influenza season:
+
+1. Virologic Surveillance:
+   - Clinical laboratories testing respiratory specimens detected influenza activity.
+   - Public health laboratories monitored the proportion of circulating influenza viruses, primarily Influenza A.
+
+2. Outpatient Illness Surveillance:
+   - ILINet reported that 2.2% of patient visits were due to influenza-like illness (ILI), which is below the national baseline of 2.6%.
+   - ILI activity varied across different regions.
+
+3. Geographic Spread:
+   - ILI activity levels ranged from minimal to moderate in most jurisdictions.
+   - Some jurisdictions reported low or insufficient data to determine ILI activity levels.
+
+4. Influenza-Associated Hospitalizations:
+   - The FluSurv-NET network monitored laboratory-confirmed influenza-related hospitalizations.
+   - Data on hospitalizations after April 30, 2021, were excluded from the surveillance.
+
+5. Pneumonia and Influenza (P&I) Mortality:
+   - 19.4% of deaths during the reporting week were attributed to pneumonia, influenza, and/or COVID-19, which was above the epidemic threshold.
+   - Most deaths were primarily due to COVID-19 rather than influenza.
+
+6. Influenza-Associated Pediatric Mortality:
+   - No influenza-associated pediatric deaths were reported during week 34 of the current season.
+   - One pediatric death associated with influenza was reported for the entire season.
+
+These facts provide an overview of the influenza surveillance data collected during the specified week, including virologic activity, outpatient illness, hospitalizations, mortality, and pediatric cases.

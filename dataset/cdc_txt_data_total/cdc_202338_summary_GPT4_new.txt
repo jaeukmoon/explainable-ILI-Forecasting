@@ -1,0 +1,11 @@
+Week38, 2023
+1. Influenza activity is low, with 0.9% of clinical specimens testing positive, of which 59.4% are Influenza A and 40.6% Influenza B.
+2. Public health labs identified 72 positive specimens; 65.3% were Influenza A and 34.7% Influenza B, with 94.1% of Influenza A subtyped as (H1N1)pdm09.
+3. Nationwide, 2.0% of outpatient visits reported were for influenza-like illness (ILI), with the highest rates among children aged 0-4 years (6.8%).
+4. 880 laboratory-confirmed influenza-related hospitalizations were reported for week 38.
+5. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) accounted for 7.2%, exceeding the epidemic threshold of 5.6%; 10 deaths were influenza-related.
+6. No influenza-associated pediatric deaths were reported this week; the season total remains at 176.
+7. Influenza B was exclusively classified under the Victoria lineage this week, continuing the absence of Yamagata lineage detections.
+8. Multiple respiratory viruses, including SARS-CoV-2 and RSV, are co-circulating, contributing variably to ILI activity across regions.
+9. CDC emphasizes vaccination but has not reported significant updates on vaccination uptake or impact on trends.
+10. Flu activity is expected to stay low but may vary regionally due to co-circulating respiratory viruses and healthcare-seeking behavior patterns.

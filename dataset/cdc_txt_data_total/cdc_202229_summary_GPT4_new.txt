@@ -1,0 +1,13 @@
+Week29, 2022
+1. Influenza activity remains low nationwide, with 0.7% of clinical specimens testing positive for influenza, primarily Influenza A (92.9%) over Influenza B (7.1%).
+2. Public health labs reported 25 positive specimens, predominantly Influenza A (84%), mostly of H3N2 subtype (100% of subtyped Influenza A cases), with minimal Influenza B activity.
+3. Outpatient visits for influenza-like illness (ILI) accounted for 1.6% of visits nationwide, varying by age group (highest in 0-4 years at 6.4%, lowest in 65+ years at 0.8%).
+4. 586 hospitalizations were reported for laboratory-confirmed influenza during the week.
+5. Mortality due to pneumonia, influenza, and COVID-19 (PIC) was 9.8%, above the epidemic threshold; PIC-related deaths were driven primarily by COVID-19, with only eight deaths attributed to influenza.
+6. One pediatric influenza-associated death (Influenza A H3) was reported this week, adding to the season’s total of 33.
+7. Minimal ILI activity was reported in most jurisdictions, with only one state reporting moderate activity; no states reported high or very high activity.
+8. Long-term care facility influenza positivity remains low, with only 0.3% of facilities reporting cases among residents.
+9. Vaccination trends were not highlighted, and CDC continues to recommend annual influenza vaccination.
+10. Healthcare-seeking behavior for respiratory illness and the co-circulation of other viruses (like SARS-CoV-2 and RSV) complicate interpreting ILI surveillance trends.
+
+11. Summary of key insights for future ILI prediction: Influenza activity remains low with dominance of Influenza A (H3N2), minimal pediatric mortality, and most ILI activity attributed to respiratory viruses other than influenza (e.g., COVID-19). Low hospitalizations and minimal LTCF cases point to currently subdued flu impact. Changing healthcare access and viral co-circulation challenge predictions.

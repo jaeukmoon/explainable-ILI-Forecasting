@@ -1,0 +1,5 @@
+- Highly pathogenic avian influenza H5 subtype (HPAI H5) viruses have been prevalent in both avian and mammalian species, causing economic losses and posing a threat to human health.
+- The dominant strain of HPAI H5 rapidly changed from H5N8 to H5N1 between 2019 and 2022.
+- Amino acid residues in the receptor-binding domain of HA1 were identified as key mutation sites for human infection in HPAI H5 subtype viruses.
+- Rapid transmission of H5N1 HPAI in minks may lead to further evolution of the virus in mammals, potentially resulting in cross-species transmission to humans.
+- The potential for cross-species transmission highlights the need for the development of an H5-specific influenza vaccine and a universal influenza vaccine that can provide broad protection against a range of influenza strains.

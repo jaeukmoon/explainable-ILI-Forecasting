@@ -1,0 +1,20 @@
+Week31, 2021
+- **Viruses, Illness, and Deaths:** Influenza virus circulation remains low, with no influenza-associated pediatric deaths reported in week 31. 11.9% of deaths were due to pneumonia, influenza, and/or COVID-19 (PIC), above the epidemic threshold of 5.5%. COVID-19 was identified as the primary contributor to PIC deaths, with no influenza deaths reported.
+
+- **U.S. Virologic Surveillance:** Limited influenza activity was observed nationwide, with an increase in non-influenza respiratory viruses likely contributing to outpatient respiratory illnesses.
+
+- **Cumulative Hospitalization Rate:** No data on influenza-related hospitalizations post-April 30, 2021, were included; updates for earlier data are ongoing.
+
+- **Trends of Deaths Attributed to Influenza:** No deaths directly attributed to influenza were reported, with COVID-19 dominating PIC mortality levels this week.
+
+- **Percentage of Influenza A and Influenza B:** Data on relative proportions of Influenza A and B subtypes in public health and clinical labs was not specifically provided.
+
+- **Novel Influenza Virus (like COVID-19):** COVID-19 remains a key focus, with no reports of new novel influenza variants.
+
+- **Vaccination Trends:** No updates or mentions of vaccination trends for influenza provided in this report.
+
+- **Outpatient Respiratory Illness Visits:** 2.0% of outpatient visits were due to influenza-like illness (ILI), below the national baseline of 2.6%. ILI activity has been increasing for all age groups, specifically for 25–49 and 50–64 years, with one region (Region 7) at the baseline and others below.
+
+- **CDC Expectation of Flu Activity:** Influenza activity is expected to remain low in the near term, with increases in outpatient ILI attributed to respiratory viruses other than influenza.
+
+- **Other Key Factors:** ILI activity levels varied across jurisdictions, with most reporting minimal activity, though 1 jurisdiction reported high activity. Observational increases in non-influenza respiratory illnesses are notable for predicting shifts in ILI trends globally.

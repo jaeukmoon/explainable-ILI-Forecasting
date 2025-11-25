@@ -1,0 +1,11 @@
+Week42, 2024
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains low nationally. Influenza A was predominant (94 of 97 public health lab specimens), with 58.7% A(H1N1)pdm09 and 41.3% A(H3N2). Six human infections with influenza A(H5N1) viruses reported; all had mild symptoms. No pediatric deaths reported. Influenza contributed to 0.05% of deaths in Week 42, stable from the previous week.  
+- **U.S. virologic surveillance**: Clinical labs reported 0.7% of specimens positive for influenza, with 88.5% being Influenza A and 11.5% Influenza B. Public health labs found 96.9% Influenza A and 3.1% Influenza B. Variant influenza H3N2v not detected.  
+- **Cumulative hospitalization rate**: Cumulative rate of influenza-related hospitalizations reached 0.3 per 100,000 population between October 1-19, 2024. Weekly rate was 0.1 per 100,000.  
+- **Trends of deaths attributed to influenza**: Influenza accounted for 0.05% of deaths during Week 42, stable compared to the previous week.  
+- **Percentage of Influenza A and Influenza B**: Of clinical lab positives, 88.5% were Influenza A and 11.5% Influenza B. Public health labs found 96.9% Influenza A and 3.1% Influenza B.  
+- **Novel Influenza virus (like COVID-19)**: Six cases of human A(H5N1) infections reported in California and Washington workers; human-to-human transmission not identified. Monitoring for additional cases continues.  
+- **Vaccination trends**: CDC recommends vaccination for all individuals aged 6 months or older by the end of October.  
+- **Outpatient respiratory illness visits**: 2.1% of outpatient visits were for influenza-like illness (ILI), below the 3.0% national baseline. Activity increased slightly in some regions and among children aged 0-4 years but remained stable nationally.  
+- **Expectation of flu activity from CDC**: CDC indicates that influenza activity remains low nationally but continues monitoring for respiratory viruses, including influenza, COVID-19, and RSV.  
+- **Other key factors**: Co-circulation of multiple respiratory viruses, including RSV and SARS-CoV-2, complicates ILI trends. Monitoring focuses on specific regions with reports of mild A(H5N1) infections linked to poultry and dairy farm exposure. Stable influenza antiviral effectiveness supports treatment efforts.

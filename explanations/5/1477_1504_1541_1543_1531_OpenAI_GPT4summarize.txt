@@ -1,0 +1,13 @@
+1. The past time-series ILI occurrences over the 5 weeks showed a fluctuating but generally stable trend, with values of ['1477', '1504', '1541', '1543', '1531']. An increase from 1477 (Week 30, 2021) to 1543 (Week 33, 2021) was observed, followed by a slight decline to 1531 in Week 34, 2021. This suggests plateaued ILI activity during this period, with only minor variations indicating stability rather than a clear upward or downward trajectory.
+
+2. Despite the stable trend in past ILI occurrences, a positive correlation between past and future ILI occurrences is evident through Week 34, 2021. The relatively elevated numbers consistently above 1500 in the latter weeks serve as a baseline precursor to the reported increase to 1978 future occurrences, likely influenced by compounding factors noted in the reports.
+
+3. Outpatient ILI visits steadily increased week-over-week, from 1.9% (Week 30, 2021) to 2.2% (Week 34, 2021), suggesting a gradual rise in respiratory illnesses attributed to non-influenza causes. The age-specific increases, especially in groups 0-4 years and 5-24 years during Weeks 33–34, 2021, reflect a demographic shift contributing to future ILI escalations.
+
+4. Death percentages due to PIC (pneumonia, influenza, or COVID-19) rose sharply from 9.0% (Week 30, 2021) to 19.4% (Week 34, 2021), consistently exceeding the epidemic threshold. This persistent impact from respiratory illnesses (primarily due to COVID-19) highlights an elevated respiratory disease burden, aligning with the future surge in ILI occurrences.
+
+5. Healthcare-seeking behavior changes related to COVID-19, reported across all weeks, affected ILI reporting and surveillance. These disruptions likely concentrated and delayed recognition of ILI cases, contributing indirectly to the dramatic spike to 1978 in subsequent data.
+
+6. Despite minimal influenza virus circulation (positivity rates of 0.1% in Week 34, 2021), other respiratory pathogens such as SARS-CoV-2 were driving much of the ILI activity. The increased spread of such pathogens, alongside localized high ILI activity in some regions and CBSAs, serves as a key factor in the projected rise in ILI occurrences.
+
+7. In summary, the reported 1978 future ILI occurrences can be attributed to the stable yet elevated trend in past ILI numbers, increasing outpatient ILI visits across age groups, persistently high PIC mortality percentages, and the amplifying effects of non-influenza respiratory pathogens amid pandemic-related healthcare-seeking behavior changes.

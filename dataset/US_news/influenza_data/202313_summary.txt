@@ -1,0 +1,5 @@
+- Commercial influenza vaccines vary in the structure of the hemagglutinin (HA) complex, the primary component of the vaccine.
+- The structural organization of HA complexes in vaccines has not been previously correlated with the induction of broadly reactive antibodies.
+- Electron microscopy studies have shown that current commercial vaccines contain structures including individual HA molecules, starfish structures with multiple HA molecules, and spiked-nanodisc structures with over 50 HA molecules.
+- Vaccines containing spiked-nanodisc structures have been found to elicit the highest levels of heterosubtypic cross-reactive antibodies in female mice.
+- The structural organization of HA complexes in vaccines can be an important parameter and may be associated with the induction of cross-reactive antibodies to conserved epitopes of HA.

@@ -1,0 +1,17 @@
+Week6, 2023
+1. Influenza activity is low nationally, with 1.4% of respiratory specimens testing positive for influenza in clinical labs.
+2. Of specimens tested in clinical labs, 82.3% were Influenza A and 17.7% were Influenza B, while public health labs found 89.6% Influenza A and 10.4% Influenza B.
+3. Subtyping of Influenza A viruses detected by public health labs showed 56% A(H1N1)pdm09 and 44% A(H3N2).
+4. Outpatient visits for influenza-like illness (ILI) accounted for 2.6% of visits, remaining slightly above the national baseline of 2.5%.
+5. Five influenza-associated pediatric deaths were reported this week, bringing the total to 111 this season.
+6. 9.4% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), which is above the epidemic threshold of 7.3%, though slightly decreasing from last week.
+7. 1,992 influenza hospitalizations were reported, a >5% decline compared to the previous week.
+8. The cumulative hospitalization rate is 59.5 per 100,000 population, with the highest rates among those aged 65+ (176.2 per 100,000).
+9. Antigenic characterization reveals most tested viruses match the current vaccine strains, and 99.9% of influenza viruses remain susceptible to antiviral medications.
+10. CDC expects flu activity to continue at low levels but recommends vaccination and early antiviral treatment if influenza is suspected.
+
+11. Summary of additional key factors:
+12. - 0.7% of long-term care facilities reported at least one influenza-positive test, a decrease from the previous week.
+13. - 3.8% of hospitalized influenza patients also tested positive for SARS-CoV-2.
+14. - ILI activity varied regionally, with higher activity reported in regions 2, 3, and 9.
+

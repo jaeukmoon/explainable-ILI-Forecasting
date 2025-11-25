@@ -1,0 +1,11 @@
+Week41, 2023
+1. Influenza activity remains low nationally, with 1.3% of clinical lab specimens testing positive for influenza this week.
+2. Of the positive specimens in clinical labs, 69.1% were Influenza A and 30.9% were Influenza B.
+3. Public health labs reported that 78.0% of positive specimens were Influenza A (93.9% were A(H1N1) and 6.1% A(H3N2)) and 22.0% were Influenza B, all of which belonged to the Victoria lineage.
+4. Outpatient visits for influenza-like illness (ILI) accounted for 2.3% of patient visits, a stable level that remains below the national baseline of 2.9%.
+5. Hospitalization rates remain low with a cumulative rate of 0.3 per 100,000 population and an increase of 1,228 hospital admissions this week, mostly in regions 5, 6, 8, and 9.
+6. Influenza-related deaths constituted 0.05% of total deaths this week, with no change from the previous week.
+7. One pediatric influenza-associated death from the 2022–2023 season was reported, involving Influenza A(H1N1).
+8. Vaccination is emphasized, with the CDC recommending annual vaccination for individuals aged six months and older by the end of October.
+9. SARS-CoV-2, RSV, and other respiratory viruses are co-circulating, contributing to the respiratory disease burden.
+10. Slight increases in respiratory illness and influenza positivity were reported in specific regions, potentially signaling areas of rising flu activity.

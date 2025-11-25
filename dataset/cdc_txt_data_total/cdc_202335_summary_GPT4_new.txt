@@ -1,0 +1,11 @@
+Week35, 2023
+1. Influenza activity remains low nationwide, with 0.6% of clinical lab-tested specimens positive for influenza.
+2. Influenza A accounted for 92.3% of clinical lab positives, with Influenza B at 7.7%; public health labs reported 83.3% as Influenza A, primarily H3N2, and 16.7% as Influenza B.
+3. Outpatient visits for ILI were 1.9%, below the national baseline, with the highest percentage among children aged 0-4 years (7.2%).
+4. PIC (pneumonia, influenza, COVID-19) deaths accounted for 9.6% of total mortality, surpassing the epidemic threshold of 5.5%, primarily driven by COVID-19 and not influenza.
+5. No influenza-associated pediatric deaths were reported this week; the cumulative total remains at 34 for the season.
+6. Minimal influenza-related hospitalizations were reported, with 509 patients admitted due to laboratory-confirmed influenza.
+7. Only 28 of 14,481 Long-Term Care Facilities (LTCFs) reported one or more influenza-positive tests (0.2% of facilities).
+8. Vaccination information and seasonal trends were not featured in this week's report.
+9. Healthcare-seeking patterns for ILI continue to shift, with alternative care settings and changing behaviors impacting data interpretation.
+10. Flu activity remains unpredictable due to low current activity, increased co-circulation of respiratory viruses, and altered public health dynamics.

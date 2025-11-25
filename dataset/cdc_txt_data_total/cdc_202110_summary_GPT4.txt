@@ -1,0 +1,20 @@
+Week10, 2021
+- **Viruses, illness, and deaths:** Seasonal influenza activity remains low in the U.S. Only 0.1% of respiratory specimens tested positive. Influenza A and B are nearly equally distributed among positive specimens in clinical labs. 13.3% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), exceeding the epidemic threshold of 7.1%; most PIC deaths were due to COVID-19. Only one pediatric influenza-associated death has been reported this season.
+
+- **U.S. virologic surveillance:** Clinical labs report 48.1% of positive influenza specimens as Influenza A and 51.9% as Influenza B. Public health labs detected very few positives, with 100% of tested specimens being Influenza A. Cumulatively, since Week 40, Influenza B accounts for 65.0% of positive specimens, while Influenza A accounts for 35.0%.
+
+- **Cumulative hospitalization rate:** The cumulative hospitalization rate is 0.7 per 100,000 population, significantly lower than previous seasons and about one-fourth of the rate during the low-severity 2011-12 season.
+
+- **Trends of deaths attributed to influenza:** 13.3% of deaths were attributed to PIC, primarily driven by COVID-19 rather than influenza.
+
+- **Percentage of Influenza A and Influenza B:** Influenza A accounts for 48.1% of clinical lab positives and 100% of public health positives this week. Cumulatively, Influenza B constitutes 65.0% of clinical lab positives, with Influenza A at 35.0%.
+
+- **Novel influenza virus (like COVID-19):** No novel influenza viruses have been reported; however, the report notes heavy surveillance for COVID-19, which is contributing to PIC trends.
+
+- **Vaccination trends:** Vaccination remains the primary recommendation for influenza prevention, with antiviral drugs suggested for treatment.
+
+- **Outpatient respiratory illness visits:** ILI visits remained stable at 0.9%, well below the national baseline of 2.6%. All jurisdictions reported minimal ILI activity, but trends may be influenced by changes in healthcare-seeking behaviors during the COVID-19 pandemic. An increase in ILI visits was noted for children 0–4 years old, while other age groups showed declining trends.
+
+- **Expectation of flu activity from CDC:** Flu activity remains unusually low but may increase in the coming months.
+
+- **Other key factors:** Surveillance and reporting have been affected by the ongoing COVID-19 pandemic, leading to caution in interpreting ILI trends and minimal geographic spread data. Additional monitoring of respiratory viruses, including SARS-CoV-2, continues alongside influenza surveillance.

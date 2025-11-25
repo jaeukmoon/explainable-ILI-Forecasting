@@ -1,0 +1,20 @@
+Week6, 2022
+- **Viruses, illness, and deaths:** Sporadic influenza activity continues, with A(H3N2) being the predominant virus. 22.6% of deaths were attributed to pneumonia, influenza, or COVID-19, above the threshold, but mostly due to COVID-19. Five pediatric influenza-associated deaths have been reported this season.
+
+- **U.S. virologic surveillance:** Among clinical lab tests, 3.0% were positive for influenza, with 98.2% being Influenza A (primarily H3N2) and 1.8% Influenza B. Public health labs reported 99.8% of positive specimens as Influenza A and 0.2% as Influenza B.
+
+- **Cumulative hospitalization rate:** The cumulative hospitalization rate is 4.7 per 100,000, higher than the previous season's rate but lower than pre-pandemic seasons. Among hospitalizations, 94.1% were associated with Influenza A, mainly H3N2.
+
+- **Trends of deaths attributed to influenza:** Mortality from pneumonia, influenza, and COVID-19 is primarily driven by COVID-19, with minimal direct influenza contribution.
+
+- **Percentage of Influenza A and Influenza B:** Influenza A made up 98.2% of clinical lab results for week 6 and 99.8% in public health labs. Influenza B represented a small portion (1.8%-0.2%).
+
+- **Novel influenza virus (like COVID-19):** One novel influenza A (H1N2) variant infection was reported in California, linked to swine exposure, with no sustained person-to-person transmission. This is the third novel influenza case of the 2021-22 season.
+
+- **Vaccination trends:** Flu vaccination coverage remains lower than the previous season. CDC continues recommending vaccination for everyone aged 6 months and older as a preventative measure.
+
+- **Outpatient respiratory illness visits:** 1.4% of outpatient visits nationwide were for influenza-like illness (ILI), below baseline. Respiratory illness activity decreased overall except among children aged 0–4 years.
+
+- **Expectation of flu activity from CDC:** Influenza activity remains low nationally but is expected to persist in areas with sporadic or increasing activity.
+
+- **Other key factors:** 0.4% of long-term care facilities reported influenza-positive tests. Co-circulation of multiple respiratory viruses, including influenza and SARS-CoV-2, is observed, with regional variability in their relative impacts.

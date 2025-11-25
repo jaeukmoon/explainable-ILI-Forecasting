@@ -1,0 +1,7 @@
+- Influenza virus mRNAs encode determinants for nuclear export via the cellular TREX-2 complex.
+- The nucleoporin TPR is the key nucleoporin required for nuclear export of influenza virus mRNAs.
+- The TRanscription and EXport complex (TREX)-2 is recruited to the nuclear pore complex by TPR for exporting a subset of cellular mRNAs.
+- Influenza mRNAs require the TREX-2 complex for nuclear export and replication.
+- Cellular mRNAs whose export is dependent on GANP (Germinal-center Associated Nuclear Protein) have specific features, such as a small number of exons, high mean exon length, long 3’ UTR, and low GC content.
+- Influenza virus mRNAs also share some of these features.
+- A 45-nucleotide RNA signal from influenza virus HA mRNA is identified as sufficient for mediating GANP-dependent mRNA export.

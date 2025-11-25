@@ -1,0 +1,13 @@
+Week2, 2024
+1. Influenza activity remains elevated across most of the U.S., with 13.7% of clinical lab specimens testing positive for influenza.
+2. Public health labs reported 727 positive specimens, with 81.3% Influenza A (73.1% A(H1N1), 26.9% A(H3N2)) and 18.7% Influenza B.
+3. Outpatient visits for respiratory illness accounted for 4.7% of visits, above the national baseline of 2.9%, but showing a slight decrease from Week 1.
+4. The cumulative hospitalization rate for laboratory-confirmed influenza is 37.3 per 100,000, among the highest for Week 2 since 2010.
+5. Influenza contributed to 1.2% of deaths in Week 2; seven pediatric deaths were reported, totaling 47 for the season.
+6. Approximately 81.3% of detected influenza viruses were Influenza A(H1N1)pdm09, the most predominant subtype this season.
+7. CDC forecasts a potential second flu activity peak after the winter holidays despite recent stable or declining trends.
+8. Vaccination continues to be urged for those aged 6 months and older, as vaccination still offers protection this season.
+9. Antiviral medications show near-complete effectiveness; only two A(H1N1)pdm09 viruses showed reduced inhibition to oseltamivir.
+10. Co-circulating respiratory viruses like RSV and SARS-CoV-2 complicate interpretations but contribute to elevated ILI activity overall.
+
+11. Summary of key trends: Influenza A(H1N1)pdm09 predominates. Recent trends indicate stable or declining flu activity after prior increases, but elevated levels and hospitalization rates suggest high future risk, especially with potential post-holiday surges.

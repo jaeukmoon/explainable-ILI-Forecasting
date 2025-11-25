@@ -1,0 +1,12 @@
+Week38, 2021
+1. Influenza virus circulation remains low nationwide, with 1.9% of outpatient visits attributed to ILI, below the national baseline of 2.6%.
+2. Of the overall respiratory specimens, there are no notable increases in influenza virus detection at clinical or public health laboratories.
+3. Pneumonia, influenza, or COVID-19 (PIC) accounted for 20.9% of deaths, significantly above the epidemic threshold of 5.6%, primarily driven by COVID-19.
+4. No influenza-associated pediatric deaths were reported this week; only one pediatric death for the 2020-21 season has been recorded so far.
+5. The percentages of ILI visits are steady or declining across all age groups, reflecting low overall influenza activity.
+6. Vaccination data or trends were not included in this report, and CDC continues to recommend annual influenza vaccination.
+7. Healthcare-seeking behavior shifts due to the COVID-19 pandemic continue to influence ILI data interpretation, requiring integration with other surveillance systems.
+8. There is no mention of novel influenza viruses, and respiratory illness appears more related to other circulating viruses.
+9. Future flu activity remains difficult to predict due to low flu virus circulation and the impact of concurrent respiratory pathogens.
+
+10. Summary of insights: Influenza activity is minimal, with attention required on the high percentage of PIC-related deaths due to COVID-19. Monitoring shifts in respiratory virus patterns and vaccination efforts will be critical for predicting future ILI trends.

@@ -1,0 +1,11 @@
+Week28, 2022
+1. Influenza activity remains very low; clinical labs reported 0.7% positive tests from 42,188 specimens, with 90.9% identified as Influenza A and 9.1% as Influenza B.
+2. Public health labs detected 38 positive specimens, with 97.4% Influenza A and 2.6% Influenza B; all Influenza A (H3N2) subtypes accounted for 100% of subtyped cases.
+3. Outpatient visits for influenza-like illness (ILI) made up 1.6% of patient visits nationwide, below the national baseline, with variations by age group (highest among children aged 0-4 years at 6.5%).
+4. Pneumonia, influenza, or COVID-19 (PIC) accounted for 9.5% of deaths, significantly above the epidemic threshold; the majority (51.1%) were attributed to COVID-19, while only 4 deaths involved influenza.
+5. Week 28 saw 722 inpatient hospitalizations for laboratory-confirmed influenza, with no updates for cumulative hospitalization rates past June 11, 2022.
+6. No influenza-associated pediatric deaths were reported this week, keeping the season's total at 32.
+7. Nationwide, most jurisdictions reported "minimal" ILI activity, with only one jurisdiction experiencing "high" activity levels.
+8. Co-circulation of other respiratory pathogens, including SARS-CoV-2 (COVID-19) and RSV, remains a confounding factor in assessing pure influenza trends.
+9. Flu vaccinations and vaccination behavior are not detailed, with no significant updates noted.
+10. Future influenza activity remains difficult to predict due to low activity, altered healthcare-seeking behavior, and continued pandemic-related disruptions.

@@ -1,0 +1,13 @@
+1. The past time-series ILI occurrences over the 5 weeks demonstrate a fluctuating but overall upward trend, with values of ['1831', '1929', '2198', '2162', '2237']. The increases from 1831 (Week 22, 2021) to 2198 (Week 24, 2021) reflect steadier growth, followed by a slight dip to 2162 (Week 25, 2021). However, Week 26, 2021, shows a rebound to 2237, the highest value in the 5-week period. This trend suggests a persistent increase in ILI activity, particularly in the last weeks.
+
+2. A positive correlation between past and future ILI occurrences is evident, as the upward trend toward the later weeks in the past data (Weeks 24–26, 2021) aligns with the reported rise to 3108 future occurrences by Week 31, 2021. The escalation in Weeks 24 and 26, despite minor fluctuations, indicates a continued increase that likely contributed to the amplified ILI activity after 5 weeks.
+
+3. Limited influenza activity persisted throughout Weeks 22–26, 2021, as outpatient ILI visits consistently remained at 1.2%—below the national baseline of 2.6%. However, upward movement in ILI-related outpatient encounters in specific groups (e.g., children aged 0–4 in Week 24, 2021) signals potential demographic driving factors behind the future increase.
+
+4. PIC mortality consistently exceeded epidemic thresholds (7.5% in Week 22, 6.6% in Week 25, and 6.2% in Week 26, 2021), largely attributed to COVID-19. This heightened respiratory illness burden reflects overlapping factors contributing to ILI activity at large, aligning with the sustained future rise.
+
+5. Persistent COVID-19-related disruptions, including altered healthcare-seeking behaviors and data reporting issues, were emphasized across Weeks 22–26, 2021. These disruptions may have contributed to underreporting in prior weeks and subsequent concentrated reporting at later stages, explaining the significant rise to 3108 occurrences.
+
+6. Finally, low influenza test positivity rates (<0.1% across Weeks 24–26, 2021) and minimal lab detections indicate that non-specific respiratory illnesses, including potential COVID-19 contributions or other pathogens, were likely significant in driving ILI activity.
+
+7. In summary, the reported 3108 future ILI occurrences (Week 31, 2021) can be explained by the overall upward trajectory in ILI activity during Weeks 24–26, 2021, demographic-specific outpatient visit trends, high PIC mortality exceeding epidemic thresholds, pandemic-driven surveillance disruptions, and the contribution of non-specific respiratory illnesses alongside minimal influenza activity.

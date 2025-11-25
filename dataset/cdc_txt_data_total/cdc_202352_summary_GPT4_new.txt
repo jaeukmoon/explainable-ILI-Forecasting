@@ -1,0 +1,17 @@
+Week52, 2023
+1. Influenza activity is elevated and increasing across most of the United States with 17.5% of respiratory specimens testing positive this week.
+2. Of the 651 viruses reported by public health labs, 89.2% were Influenza A and 10.8% were Influenza B; subtype testing showed 87.7% of Influenza A viruses were A(H1N1)pdm09 and 12.3% were A(H3N2).
+3. Outpatient visits for influenza-like illness (ILI) accounted for 6.9% of visits, above the national baseline of 2.9% and increasing compared to the previous week.
+4. The cumulative hospitalization rate for influenza is 22.3 per 100,000, with the highest rate among adults aged 65 years and older (58.2 per 100,000).
+5. Influenza-related deaths account for 0.9% of deaths reported this week, slightly increasing from the prior week.
+6. Seven pediatric deaths were reported this week, all associated with Influenza A (five identified as A(H1N1)), bringing total pediatric deaths this season to 27.
+7. Since October, Influenza A(H1N1)pdm09 has been the predominant strain in all regions, indicating continued dominance.
+8. CDC estimates at least 10 million illnesses, 110,000 hospitalizations, and 6,500 deaths from influenza so far this season.
+9. Vaccinations remain recommended for everyone over six months as influenza viruses continue to spread, with late-season benefits still anticipated.
+10. Respiratory illnesses now reflect co-circulation of influenza, COVID-19 (SARS-CoV-2), and RSV, contributing to complex ILI patterns.
+
+11. Summary of additional trends:
+12. - Regions 8, 4, 6, and 3 report the highest percentages of positive influenza specimens.
+13. - A(H1N1)pdm09 is the most genetically and antigenically consistent subtype with current vaccines.
+14. - Resistance remains low to antiviral medications, but usage of older treatments like adamantanes is not advised due to high resistance among Influenza A strains.
+15. - Flu-related hospital admissions continue to rise, with significant increases in nine of ten HHS regions, alongside nationally rising outpatient ILI visits.

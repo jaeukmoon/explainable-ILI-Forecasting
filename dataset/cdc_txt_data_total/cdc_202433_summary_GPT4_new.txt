@@ -1,0 +1,13 @@
+Week33, 2024
+1. Influenza activity remains low nationally, with 0.4% of clinical lab specimens testing positive for influenza in Week 33.
+2. Among positive clinical lab specimens, 86.4% were Influenza A and 13.6% were Influenza B.
+3. Public health labs found 98.1% of positive specimens were Influenza A, with 41.3% subtyped as H1N1 and 58.7% as H3N2; 1.9% were Influenza B of the Victoria lineage.
+4. Outpatient visits for respiratory illness, including ILI, accounted for 1.5% of healthcare visits, remaining below the national baseline without any regions reporting elevated activity.
+5. Hospitalization rates for influenza remain low at 0.1 per 100,000 people this week.
+6. Influenza-attributed deaths accounted for 0.04% of total deaths, with one influenza-associated pediatric death reported this week, bringing the season total to 194.
+7. Two human infections with novel variant influenza A viruses (H1N1v and H1N2v) were reported, linked to swine exposure, with no sustained human-to-human transmission identified.
+8. Genetic and antigenic testing indicate a high match between circulating influenza strains and current vaccine components.
+9. Resistance testing showed low levels of reduced susceptibility to antiviral medications, predominantly observed in a small number of H1N1 and Influenza B strains.
+10. CDC emphasizes vaccination and antiviral use for high-risk groups, but no new trends in flu vaccination uptake are noted.
+
+11. **Summary of key factors to predict future ILI occurrences:** Influenza activity remains low, with substantial co-circulation of H1N1 and H3N2 subtypes. Stable outpatient and virologic surveillance suggest limited transmission, while novel variant cases and ongoing swine exposures underscore the importance of monitoring zoonotic spillover events. Low antiviral resistance and well-matched vaccine strains support current prevention strategies.

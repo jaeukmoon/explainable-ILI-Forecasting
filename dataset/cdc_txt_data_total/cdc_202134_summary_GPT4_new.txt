@@ -1,0 +1,11 @@
+Week34, 2021
+1. Influenza virus activity is low, with respiratory specimens testing positive for influenza at a rate of 0.1%.
+2. ILINet reported 2.2% outpatient visits for influenza-like illness (ILI), below the national baseline of 2.6%, with increases in children aged 0-4 and 5-24.
+3. Region 4 surpassed its baseline for ILI, but all other regions are below.
+4. Circulating respiratory illness is more likely due to non-influenza viruses, including SARS-CoV-2.
+5. No influenza-associated pediatric deaths were reported; only one pediatric death has occurred in the 2020-2021 season.
+6. COVID-19 dominated PIC deaths (19.4%), with influenza contributing minimally.
+7. Vaccination promotion continues, but vaccination trends were not noted in this report.
+8. Outpatient ILI trends and virologic surveillance require cautious interpretation due to altered healthcare-seeking behaviors during the COVID-19 pandemic.
+9. Influenza-associated hospitalization data for post-April 2021 is unavailable; updates reflect earlier phases of the season.
+10. CDC notes difficulty in predicting flu activity due to simultaneously tracking COVID-19 and other respiratory viruses, compounded by changes in healthcare access.

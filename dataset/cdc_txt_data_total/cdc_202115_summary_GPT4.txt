@@ -1,0 +1,16 @@
+Week15, 2021
+- **Viruses, illness, and deaths:** Influenza activity remains much lower than usual. 0.1% of respiratory specimens tested positive, with Influenza B (58.3%) dominating clinical lab positives over Influenza A (41.7%). 12.4% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), with the majority caused by COVID-19. One influenza-associated pediatric death has been reported this season.  
+- **U.S. virologic surveillance:** Public health labs report Influenza A (66.7%) as the predominant virus, with subtypes H1N1 and H3N2 equally identified. Influenza B made up 33.3% of detections.  
+- **Cumulative hospitalization rate:** The cumulative rate is 0.8 per 100,000 population, far lower than the historical average and one-ninth of the rate from the low-severity 2011-12 season.  
+- **Trends of deaths attributed to influenza:** Most PIC-related deaths (12.4%) were attributed to COVID-19. No notable rise in deaths directly tied to influenza was recorded.  
+- **Percentage of Influenza A and Influenza B:** Clinical labs: Influenza A (41.7%), Influenza B (58.3%); Public health labs: Influenza A (66.7%), Influenza B (33.3%).  
+- **Novel Influenza virus like COVID-19:** No reports of novel influenza viruses. Most respiratory data are influenced by COVID-19.  
+- **Vaccination trends:** The CDC continues to encourage flu vaccination as the best preventive measure.  
+- **Outpatient respiratory illness visits:** ILI visits are at 1.1%, well below the 2.6% national baseline. All jurisdictions report minimal ILI activity.  
+- **Expectation of flu activity from CDC:** Flu activity is expected to remain historically low, though monitoring continues.  
+
+Other key findings:  
+- ILI among children aged 0–4 years is trending slightly upward, while other age groups show stable ILI trends.  
+- The unusually low activity may reflect the impact of COVID-19 mitigation measures and altered healthcare-seeking behavior.  
+- Geographic flu activity reporting is suspended this season due to COVID-19's impact on ILI data.  
+

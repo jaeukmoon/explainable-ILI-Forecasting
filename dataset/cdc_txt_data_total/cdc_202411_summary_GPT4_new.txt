@@ -1,0 +1,13 @@
+Week11, 2024
+1. Influenza activity remains elevated nationally but is decreasing in most regions, with a slight increase in the Pacific Northwest.
+2. Clinical labs reported 12.0% of respiratory specimens positive for influenza; 51.9% were Influenza A and 48.1% Influenza B.
+3. Out of 426 positive specimens reported by public health labs, 64.6% were Influenza A (43.9% A(H1N1)pdm09, 56.1% A(H3N2)) and 35.4% were Influenza B.
+4. The cumulative hospitalization rate was 70.2 per 100,000, the second highest for this time of the season since 2010.
+5. Influenza-related pediatric deaths reached 121 this season, with 5 additional deaths reported in Week 11.
+6. Nationwide outpatient visits for influenza-like illness (ILI) accounted for 3.4% of visits, above baseline, but showed a decreasing trend.
+7. Influenza A cases continue to outnumber Influenza B, with A(H3N2) being more prevalent than A(H1N1)pdm09 this week.
+8. Vaccination is still recommended this season; antiviral treatments remain effective, with limited resistance reported.
+9. Deaths attributed to influenza accounted for 0.6%, showing a slight decrease from the previous week.
+10. Flu activity is increasingly influenced by co-circulating respiratory viruses, including RSV and SARS-CoV-2.
+
+11. Summary of useful insights: Elevated activity with some regional increases signals localized risk, and high hospitalization rates, particularly among older adults, suggest ongoing burden. Steady decreases in ILI, testing positivity, and mortality indicate the season may be waning. Co-circulation of multiple viruses and vaccine effectiveness will shape future trends.

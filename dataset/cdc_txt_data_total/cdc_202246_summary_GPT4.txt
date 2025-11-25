@@ -1,0 +1,20 @@
+Week46, 2022
+- **Viruses, illness, and deaths**: Seasonal influenza activity is elevated nationwide. Influenza A(H3N2) predominantly circulates (78% of A viruses), with 18.2% of respiratory specimens testing positive for influenza. Cumulative flu estimates include 6.2 million illnesses, 53,000 hospitalizations, and 2,900 deaths. Five pediatric deaths were reported in week 46, totaling 12 this season.
+
+- **U.S. virologic surveillance**: Clinical labs report 99.5% of positive specimens as Influenza A and 0.5% as Influenza B. Public health labs report 99.6% Influenza A (75.8% H3N2, 24.2% H1N1pdm09) and 0.4% Influenza B. Positivity increased in regions 1, 2, 3, 5, 7, 8, 9, and 10.
+
+- **Cumulative hospitalization rate**: The cumulative rate is 11.3 per 100,000, higher than all previous seasons since 2010-2011. Adults 65+ and children aged 0-4 have the highest hospitalization rates.
+
+- **Trends of deaths attributed to influenza**: 9.4% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), above the epidemic threshold of 6.3%, with a small increase in influenza-related deaths (66 reported).
+
+- **Percentage of Influenza A and Influenza B**: Influenza A constitutes 99.5% of clinical lab positives and 99.6% of public health lab positives, significantly outweighing Influenza B.
+
+- **Novel influenza viruses like COVID-19**: No novel influenza strains, such as H3N2v, were reported this week.
+
+- **Vaccination trends**: CDC recommends annual vaccines for everyone aged 6 months and older, emphasizing vaccines as effective and matching circulating strains. Vaccination is urged as flu activity increases.
+
+- **Outpatient respiratory illness visits**: 6.0% of outpatient visits were for respiratory illness, above the baseline of 2.5%. Increased activity was reported in multiple regions, with 35 jurisdictions experiencing high or very high activity.
+
+- **Expectation of flu activity**: Flu activity is expected to remain elevated, with pediatric hospitalizations and higher rates in older adults signaling significant impact.
+
+- **Other key factors**: Long-term care facilities have 1.6% reporting influenza-positive tests among residents. Hospital admissions for lab-confirmed flu reached 11,269 in week 46. Co-circulation of RSV and other respiratory viruses continues to complicate interpretation of flu-like illness trends.

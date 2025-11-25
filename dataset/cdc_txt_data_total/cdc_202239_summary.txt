@@ -1,0 +1,12 @@
+Key Updates for Week 39 ending September 30, 2023:
+
+- Influenza activity remains low in the United States.
+- In clinical laboratories, 1.0% of specimens tested positive for influenza, with a predominance of Influenza A (64.0%) and Influenza B (36.0%).
+- In public health laboratories, 95 specimens tested positive for influenza, with Influenza A (84.2%) and Influenza B (15.8%) reported.
+- For outpatient illness surveillance, 2.1% of patient visits were due to respiratory illness with fever and cough or sore throat.
+- ILI activity varied by jurisdiction, with very high activity in New York City and Alaska, and minimal activity in most other jurisdictions.
+- Geographically, local influenza activity was reported in Alabama, Kentucky, Louisiana, and Nevada, while sporadic activity was reported in 40 states and the District of Columbia.
+- Pneumonia and influenza mortality data indicated that 7.3% of deaths during week 39 were attributed to pneumonia, influenza, and/or COVID-19.
+- One influenza-associated pediatric death was reported during week 39, bringing the total for the season to 177.
+
+These facts indicate that influenza activity remains low overall, with variations in activity across different jurisdictions. Virologic surveillance shows a mix of Influenza A and B viruses circulating. Outpatient illness surveillance detects a small percentage of visits for respiratory illness, and ILI activity varies geographically. Hospitalization and mortality rates remain relatively low, with one pediatric death reported.

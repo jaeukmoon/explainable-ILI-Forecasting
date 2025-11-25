@@ -1,0 +1,21 @@
+Week5, 2023
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains low nationally. 1.7% of clinical lab specimens tested positive for influenza; 90.2% were Influenza A and 9.8% were Influenza B. Among subtyped Influenza A, 54.2% were A(H3N2) and 45.8% were A(H1N1)pdm09. Pediatric deaths totaled 106 for the season, with 9 reported in week 5. The cumulative influenza burden this season is estimated at 25 million illnesses, 280,000 hospitalizations, and 18,000 deaths.
+
+- **U.S. virologic surveillance**: Public health lab results show 94.8% of positive specimens were Influenza A, with 54.2% A(H3N2) and 45.8% A(H1N1)pdm09. Influenza B made up 5.2% of positive specimens.
+
+- **Cumulative hospitalization rate**: The cumulative rate is 59.2 per 100,000 population for the season, with rates highest among adults aged 65+ (175.2 per 100,000).
+
+- **Trends of deaths attributed to influenza**: Mortality due to pneumonia, influenza, and COVID-19 (PIC) was 10.4% in week 5, above the epidemic threshold of 7.2%, though primarily driven by COVID-19-related deaths.
+
+- **Percentage of Influenza A and Influenza B**: Clinical labs reported 90.2% Influenza A and 9.8% Influenza B. Public health labs reported 94.8% Influenza A and 5.2% Influenza B.
+
+- **Novel influenza virus like COVID-19**: No novel influenza viruses apart from seasonal strains were reported; 3.5% of influenza-associated hospitalizations tested positive for SARS-CoV-2.
+
+- **Vaccination trends**: Most circulating influenza strains remain antigenically similar to current vaccine strains. CDC continues to recommend vaccination for everyone aged 6 months or older as long as flu activity persists.
+
+- **Outpatient respiratory illness visits**: 2.6% of outpatient visits were due to ILI (above the national baseline of 2.5%). Activity levels varied geographically, with 3 jurisdictions reporting high activity and 6 jurisdictions reporting moderate activity.
+
+- **Expectation of flu activity from CDC**: Influenza activity remains low nationally and is expected to remain stable based on current trends.
+
+- **Other key factors**: FluSurv-NET data identified Influenza A(H3N2) as the dominant subtype among hospitalized cases. Long-term care facilities reported a decline in influenza activity. Hospitalizations for influenza decreased by more than 5% compared to week 4.
+

@@ -1,0 +1,11 @@
+Week6, 2024
+1. Influenza activity is elevated nationally, with regional increases (notably regions 3, 5, and 7) and 15.7% of respiratory specimens testing positive for influenza.
+2. Of positive clinical lab specimens, 61.8% were Influenza A and 38.2% were Influenza B, with Influenza A(H1N1)pdm09 as the predominant subtype.
+3. Public health labs reported 76.9% of positive specimens as Influenza A and 23.1% as Influenza B; Influenza A subtypes were 59.0% A(H1N1) and 41.0% A(H3N2).
+4. Outpatient respiratory illness visits remained high at 4.5% of visits (above the 2.9% baseline) and showed regional variation.
+5. Cumulative hospitalization rates reached 54.9 per 100,000, with adults aged 65+ years most affected (147.8 per 100,000).
+6. Influenza-related deaths accounted for 0.7% of all deaths, with eight pediatric deaths reported this week (season total: 82).
+7. Vaccination remains recommended as activity continues, but specific vaccination trend updates were not noted.
+8. No novel influenza viruses were identified, and flu antiviral susceptibility remained high across tested strains.
+9. CDC estimates 24 million flu illnesses, 260,000 hospitalizations, and 16,000 deaths to date this season, with co-circulation of respiratory viruses like RSV and COVID-19.
+10. Predictions indicate continued flu activity, especially in regions where Influenza B is increasing alongside Influenza A.

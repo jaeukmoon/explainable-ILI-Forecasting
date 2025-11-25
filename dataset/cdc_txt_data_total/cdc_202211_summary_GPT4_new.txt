@@ -1,0 +1,11 @@
+Week11, 2022
+1. Influenza activity is increasing nationally, with 7.7% of specimens tested by clinical labs positive for influenza; 99.1% were Influenza A and 0.9% Influenza B.
+2. Public health labs reported all 337 positive specimens as Influenza A, with 100% of subtyped cases being A(H3N2).
+3. Influenza-associated hospitalization rates reached 6.5 per 100,000 people, higher than during the 2020-21 season but lower than pre-COVID-19 pandemic seasons.
+4. Outpatient visits for influenza-like illness (ILI) accounted for 1.8% of total visits, below baseline; respiratory illness levels varied by location and age, with increases in younger age groups.
+5. Mortality data showed 9.1% of deaths were due to pneumonia, influenza, or COVID-19 (PIC), exceeding the epidemic threshold, though most PIC deaths were attributed to COVID-19.
+6. No pediatric influenza-associated deaths were reported this week; the cumulative season total remains at 13.
+7. Influenza A(H3N2) is evolving, with antigenic differences noted; most characterized B/Victoria viruses remain similar to vaccine references.
+8. Among hospitalized cases, 3.5% also tested positive for SARS-CoV-2, indicating co-circulation of COVID-19 and influenza.
+9. Flu vaccination continues to be recommended for all individuals aged six months and older; vaccine availability remains widespread.
+10. Hospital admissions for influenza have increased for seven consecutive weeks, and multiple respiratory viruses are contributing to illness, indicating co-circulation trends.

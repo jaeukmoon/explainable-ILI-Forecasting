@@ -1,0 +1,6 @@
+- Spillover events of avian influenza A viruses (IAVs) to humans could lead to future pandemics.
+- Human BTN3A3 (butyrophilin subfamily 3 member A3) has been identified as a potent inhibitor of avian IAVs but not human IAVs.
+- BTN3A3 is expressed in human airways and its antiviral activity evolved in primates.
+- BTN3A3 restriction primarily inhibits avian IAV RNA replication at the early stages of the virus life cycle.
+- Residue 313 in the viral nucleoprotein (NP) is the genetic determinant of BTN3A3 sensitivity or evasion in avian and human IAVs.
+- Avian IAV serotypes (such as H7 and H9) that have spilled over into humans also evade BTN3A3 restriction.

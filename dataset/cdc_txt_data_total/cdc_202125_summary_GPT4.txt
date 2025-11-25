@@ -1,0 +1,20 @@
+Week25, 2021
+- **Viruses, illness, and deaths:** Influenza activity remains low. Only two influenza-associated deaths (including one pediatric) reported for the 2020-21 season. Among 1,265 PIC deaths, 486 were COVID-19-related, and two were linked to influenza.
+
+- **U.S. virologic surveillance:** No detailed breakdown of virologic surveillance for Influenza A or B provided. Data primarily focus on broader PIC surveillance including COVID-19.
+
+- **Cumulative hospitalization rate:** No influenza-related hospitalizations after April 30, 2021, included in surveillance; data from prior to April 30 will continue to be updated.
+
+- **Trends of deaths attributed to influenza:** Deaths due to pneumonia, influenza, and/or COVID-19 (PIC) reached 6.6% during week 25, above the epidemic threshold of 5.8%. The high PIC percentage is largely driven by COVID-19.
+
+- **Percentage of Influenza A and Influenza B:** No specific percentage breakdown provided for week 25. Available surveillance emphasized SARS-CoV-2 and PIC.
+
+- **Novel influenza virus (COVID-19, SARS-CoV-2):** COVID-19 remains a significant driver of PIC mortality with 486 deaths during week 25, contributing to an elevation in overall respiratory-related deaths.
+
+- **Vaccination trends:** No data on influenza vaccination trends provided in this report.
+
+- **Outpatient respiratory illness visits:** Nationwide, 1.2% of outpatient visits were for influenza-like illness (ILI), well below the baseline of 2.6%. ILI visit percentages remained stable across all age groups.
+
+- **Expectation of flu activity from CDC:** Influenza activity is expected to stay low. Surveillance focuses on both influenza and COVID-19, which present similarly.
+
+- **Other key factors:** Minimal influenza activity reported across jurisdictions; no states experienced "high" or "very high" ILI activity. COVID-19 appears to dominate respiratory illness reporting and related mortality trends. Changes in healthcare-seeking behavior during the pandemic may affect ILI data accuracy.

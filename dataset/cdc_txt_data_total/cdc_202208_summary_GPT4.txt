@@ -1,0 +1,20 @@
+Week8, 2022
+- **Viruses, illness, and deaths**: Influenza activity remains sporadic but increasing in some areas. 98.8% of positive specimens in clinical labs and 99.3% in public health labs were Influenza A, primarily H3N2. There were 2 new pediatric deaths this week (total of 8 for the season). Cumulative estimates include 2.5 million flu illnesses, 24,000 hospitalizations, and 1,400 deaths.
+
+- **U.S. virologic surveillance**: Influenza A(H3N2) dominates, with some antigenic differences observed compared to vaccine strains. Of 8,064 specimens tested for SARS-CoV-2, 6.1% were co-infected.
+
+- **Cumulative hospitalization rate**: The FluSurv-NET cumulative rate is 5.2 per 100,000, higher than 2020-21 but lower than pre-COVID seasons. Hospitalization rates are highest for adults 65+ (13.5 per 100,000) and children aged 0-4 years (7.7 per 100,000).
+
+- **Trends of deaths attributed to influenza**: 16.7% of deaths were due to pneumonia, influenza, or COVID-19 this week, exceeding the epidemic threshold of 7.2%. COVID-19 remains the primary contributor to these deaths.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A constitutes 98.8% (clinical labs) and 99.3% (public health labs) of positive cases; Influenza B accounts for 1.2% and 0.7%, respectively.
+
+- **Novel influenza virus (like COVID-19)**: No significant updates on novel influenza viruses. Some co-infections with SARS-CoV-2 were observed.
+
+- **Vaccination trends**: Flu vaccination coverage is lower this season compared to last. CDC emphasizes flu vaccination as the best preventive measure.
+
+- **Outpatient respiratory illness visits**: 1.5% of healthcare visits were for ILI, below the national baseline. Region 7 exceeded its regional baseline. ILI visits increased among children aged 0-4 years but remained stable for other age groups.
+
+- **Expectation of flu activity from CDC**: Sporadic activity is expected to continue with increases in certain areas.
+
+- **Other key factors**: H3N2 viruses show genetic closeness to the vaccine virus but varying antigenic recognition. Antiviral drugs remain effective for treatment, with no inhibited susceptibility reported. Long-term care facilities reported a 0.5% positivity rate among residents.

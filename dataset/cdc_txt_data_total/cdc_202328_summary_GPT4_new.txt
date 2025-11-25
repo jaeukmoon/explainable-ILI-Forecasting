@@ -1,0 +1,13 @@
+Week28, 2023
+1. Nationwide influenza activity remains low, with 0.9% of respiratory specimens testing positive for influenza during Week 28.
+2. Clinical labs reported 59.6% of positive specimens as Influenza A and 40.4% as Influenza B, while public health labs found 60.7% positive specimens as Influenza A and 39.3% as Influenza B.
+3. Among Influenza A subtypes, (H1N1)pdm09 made up 100% of subtyped specimens this week; no H3N2 cases were reported.
+4. Outpatient visits for ILI accounted for 1.2% of all visits, remaining below the national baseline, with the highest percentage (4.0%) in children aged 0-4 years.
+5. Influenza-associated pediatric deaths rose to 163 for the season, with one new death reported this week caused by an Influenza B virus.
+6. Hospital admissions for laboratory-confirmed influenza totaled 689 during Week 28, primarily from earlier in the season.
+7. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) accounted for 5.8% of all deaths, above the epidemic threshold of 5.7%, including 8 deaths from influenza.
+8. Minimal ILI activity was observed in 54 jurisdictions, with no states/jurisdictions reporting “very high” activity levels.
+9. No new reports of a novel influenza virus or SARS-CoV-2-influenced trends regarding ILI activity were indicated.
+10. Vaccination updates were not specified, and the CDC continues to encourage annual influenza vaccination.
+
+11. Key insights for predicting future ILI activity: Current minimal levels of influenza activity and ILI, the dominance of Influenza A ((H1N1)pdm09), low levels of Influenza B (Victoria lineage), and continued surveillance for co-circulating respiratory viruses like COVID-19 and RSV.

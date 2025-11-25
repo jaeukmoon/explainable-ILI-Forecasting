@@ -1,0 +1,15 @@
+Based on the reported data, here are the key facts regarding predicting future ILI occurrence:
+
+1. Virologic Surveillance: During the reported period, 0.7% of respiratory specimens tested in clinical laboratories were positive for influenza, with a predominance of Influenza A (90.9%) and Influenza B (9.1%) viruses.
+
+2. Outpatient ILI Surveillance: 1.6% of patient visits reported through the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet) were due to respiratory illness that included fever plus a cough or sore throat (ILI). ILI activity varied by age group.
+
+3. Geographic Activity: ILI activity varied across jurisdictions, with different levels of ILI activity reported, ranging from very high to minimal.
+
+4. Hospitalization Surveillance: Influenza-related hospitalization data from the FluSurv-NET and HHS Protect systems are not available in the reported data.
+
+5. Mortality Surveillance: During the reported period, 9.5% of deaths were due to pneumonia, influenza, and/or COVID-19 (PIC), indicating higher mortality compared to the epidemic threshold of 5.7%. However, deaths primarily attributed to COVID-19 and not influenza were reported.
+
+6. Pediatric Mortality: No influenza-associated pediatric deaths were reported during the reported period, and a total of 32 influenza-associated pediatric deaths have been reported for the 2021-2022 season.
+
+These facts provide insights into the current influenza activity and serve as a basis for predicting future ILI occurrences. However, it is important to note that the data are preliminary and subject to change as more reports are received.

@@ -1,0 +1,20 @@
+Week52, 2021
+- **Viruses, Illness, and Deaths**: Influenza activity is increasing across the U.S., with Influenza A(H3N2) dominating (98.1%-99.6% of tested specimens). 19.9% of deaths were due to pneumonia, influenza, or COVID-19, primarily driven by COVID-19. No influenza-associated pediatric deaths were reported this week.
+
+- **U.S. Virologic Surveillance**: Clinical labs report 3.8% positive for influenza, with 98.1% being Influenza A and 1.9% Influenza B. Public health labs report 99.6% Influenza A, all H3N2, and 0.4% Influenza B. Limited reporting during the holidays may impact positivity calculations.
+
+- **Cumulative Hospitalization Rate**: The cumulative hospitalization rate rose to 2.6 per 100,000, higher than the 2020-2021 season but lower than pre-pandemic averages. Most cases involve adults aged ≥65.
+
+- **Trends of Deaths Attributed to Influenza**: Among deaths attributed to pneumonia, influenza, or COVID-19, COVID-19 remains the predominant cause, with influenza causing minimal impact.
+
+- **Percentage of Influenza A and B**: Influenza A accounts for 98-99% of reported cases this week, with H3N2 as the predominant subtype. Influenza B remains minimal.
+
+- **Novel Influenza Virus (like COVID-19)**: No novel influenza viruses reported, though COVID-19 continues to significantly influence respiratory illness metrics.
+
+- **Vaccination Trends**: Flu vaccination uptake is lower early this season compared to the prior year. CDC continues to recommend vaccination as the best defense against influenza.
+
+- **Outpatient Respiratory Illness Visits**: 4.8% of outpatient visits nationally were for respiratory illness, above the baseline. High or very high activity was reported in 31 jurisdictions.
+
+- **Expectation of Flu Activity from CDC**: Flu activity is expected to increase further, with regional variations. High hospitalization rates suggest the flu season is ramping up.
+
+- **Other Key Factors**: Co-circulation of other respiratory viruses, including SARS-CoV-2, limits a clear assessment of influenza's contribution to respiratory illnesses. Data completeness was affected by holidays. Long-term care facilities report 1.3% with influenza-positive tests.

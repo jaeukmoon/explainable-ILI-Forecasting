@@ -1,0 +1,20 @@
+Week25, 2022
+- **Viruses, illness, and deaths:** Influenza activity remains low, with 1.8% of clinical lab specimens testing positive for influenza. Influenza A accounted for 98% of positive specimens, predominantly H3N2. One pediatric influenza-associated death was reported during week 25, raising the season's total to 31.
+
+- **U.S. virologic surveillance:** Clinical labs detected 98% Influenza A and 2% Influenza B among positive specimens. Public health labs reported 98.4% Influenza A (100% H3N2 for subtyped samples) and 1.6% Influenza B positives. Cumulative season data shows 99.5% of positive public health lab specimens were Influenza A and 0.5% Influenza B.
+
+- **Cumulative hospitalization rate:** 1,307 laboratory-confirmed influenza hospitalizations occurred during week 25. Data for patients admitted post-June 11, 2022, will not be included for the season.
+
+- **Trends of deaths attributed to influenza:** Mortality data for week 25 is unavailable due to system maintenance, expected to resume in week 26.
+
+- **Percentage of Influenza A and Influenza B:** Among clinical lab positives, 98% were Influenza A and 2% were Influenza B. Public health lab positive specimens consisted of 98.4% Influenza A and 1.6% Influenza B.
+
+- **Novel influenza viruses (like COVID-19):** No reports of novel influenza viruses, such as H3N2v or others, were noted for this week.
+
+- **Vaccination trends:** No vaccination-specific updates were reported for the week.
+
+- **Outpatient respiratory illness visits:** Nationwide, 1.8% of outpatient visits were due to ILI. Among age groups, the highest percentage was 8.0% in children aged 0-4 years. ILI activity remains minimal in 45 jurisdictions, with one jurisdiction reporting high activity and two reporting moderate activity.
+
+- **Expectation of flu activity from CDC:** CDC reports low influenza activity with co-circulating respiratory viruses and varying regional contributions to ILI cases.
+
+- **Other key factors:** Only 0.3% of reporting long-term care facilities had at least one influenza-positive test. Surveillance gaps due to system maintenance may slightly delay assessing mortality trends.

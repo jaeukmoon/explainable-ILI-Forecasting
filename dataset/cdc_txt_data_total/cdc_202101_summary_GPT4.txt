@@ -1,0 +1,21 @@
+Week1, 2021
+- **Viruses, Illness, and Deaths**: Influenza activity remains unusually low this week. Only 0.4% of respiratory specimens tested by clinical labs were positive for influenza, with Influenza B predominating (79.6%). 17.2% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), primarily due to COVID-19. No additional influenza-associated pediatric deaths were reported, with the total for the season being one.
+
+- **U.S. Virologic Surveillance**: Clinical labs reported 79.6% of positive influenza specimens as Influenza B and 20.4% as Influenza A. Public health labs identified 75% of positive specimens as Influenza A and 25% as Influenza B, with no confirmed subtypes (H1N1pdm09 or H3N2) among the A cases this week.
+
+- **Cumulative Hospitalization Rate**: A total of 129 laboratory-confirmed influenza-associated hospitalizations have been reported so far this season—remaining significantly lower than average for this point in the season.
+
+- **Trends of Deaths Attributed to Influenza**: PIC deaths (17.2% of total deaths) are above the epidemic threshold of 7.0%, largely driven by COVID-19, with two deaths attributed to influenza.
+
+- **Percentage of Influenza A and Influenza B**: Clinical labs reported 20.4% of positives as Influenza A and 79.6% as Influenza B. Public health labs reported 75% as Influenza A and 25% Influenza B.
+
+- **Novel Influenza Virus (like COVID-19)**: No reports of novel influenza viruses. COVID-19 remains a significant contributor to PIC deaths and observed trends.
+
+- **Vaccination Trends**: CDC continues to recommend influenza vaccinations, emphasizing that it's not too late to get vaccinated during the season.
+
+- **Outpatient Respiratory Illness Visits**: Nationwide, 1.7% of outpatient healthcare visits were for influenza-like illness (ILI), below the national baseline of 2.6%. Five jurisdictions experienced low ILI activity, and the rest had minimal activity.
+
+- **Expectation of Flu Activity from CDC**: CDC expects flu activity may increase in the coming months despite current unusually low numbers.
+
+- **Other Key Factors**: ILI surveillance data and trends should be interpreted cautiously due to COVID-19’s impact on testing and healthcare behaviors. Region-specific monitoring indicated variability, with one region reporting ILI above its baseline.
+

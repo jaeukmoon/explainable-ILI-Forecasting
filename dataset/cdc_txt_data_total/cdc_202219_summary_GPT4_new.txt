@@ -1,0 +1,11 @@
+Week19, 2022
+1. Influenza activity is increasing in parts of the U.S., with 7.0% of clinical specimens testing positive for influenza.
+2. Influenza A(H3N2) dominates, making up 98.8% of positive specimens from clinical labs, while Influenza B accounts for only 1.2%.
+3. Hospitalizations rose slightly this week, with 3,153 influenza-related admissions and a cumulative hospitalization rate of 14.4 per 100,000 population.
+4. Deaths attributed to pneumonia, influenza, and COVID-19 (PIC) reached 7.5%, exceeding the epidemic threshold of 6.5%; influenza directly caused 27 deaths this week.
+5. No influenza-associated pediatric deaths occurred this week, leaving the total for the season at 24.
+6. Outpatient visits for respiratory illness account for 2.4% of visits, trending upward but still below the national baseline.
+7. Regions 1 and 4 reported increased positivity rates, with variations across the country.
+8. 4.5% of influenza-positive specimens tested also showed SARS-CoV-2 co-infection.
+9. The effectiveness of current flu vaccines varies by subtype; H3N2 shows antigenic differences from cell-based vaccines, impacting immunity.
+10. CDC urges flu vaccination; current data shows widespread use of antivirals but no significant resistance to primary medications detected.

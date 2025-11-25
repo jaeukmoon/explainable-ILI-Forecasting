@@ -1,0 +1,11 @@
+Week25, 2022
+1. Influenza activity remains low nationwide, with 1.8% of respiratory specimens testing positive for influenza.
+2. Of 833 positive specimens reported by clinical labs, 98.0% were Influenza A and 2.0% were Influenza B.
+3. Public health labs reported 63 positive specimens, with Influenza A making up 98.4% (100% H3N2 subtype), and Influenza B accounting for 1.6%.
+4. Outpatient visits for influenza-like illness (ILI) accounted for 1.8% of all visits, with contributions from multiple respiratory viruses varying by location.
+5. Hospitalization data showed 1,307 lab-confirmed influenza admissions during week 25.
+6. One pediatric death associated with Influenza A was reported this week, bringing the season total to 31 pediatric deaths.
+7. No mortality data for pneumonia, influenza, or COVID-19 (PIC) were available this week due to system maintenance.
+8. Minimal flu activity was reported across 45 jurisdictions, with only one state reporting high activity.
+9. Long-term care facilities reported influenza positivity in 0.3% of 14,557 facilities.
+10. Healthcare-seeking for ILI remains affected by changes in behavior due to the COVID-19 pandemic, complicating traditional surveillance analysis.

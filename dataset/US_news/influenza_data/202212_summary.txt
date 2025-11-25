@@ -1,0 +1,6 @@
+- The study analyzed a large cohort of 2353 individuals in Hong Kong to better understand influenza antibody dynamics and improve the identification of influenza virus infections.
+- After infection, hemagglutination-inhibiting (HAI) titers were found to increase by an average of 16-fold and then decrease by 14% per year.
+- In six epidemics studied, adults had infection risks of 3% to 19%, while children had infection risks 1.6 to 4.4 times higher than younger adults.
+- Higher pre-epidemic HAI titers were associated with increased protection against infection.
+- The findings provide insights into individual infection risk based on age and pre-epidemic HAI titers, helping to optimize mitigation strategies.
+- The current method of using a 4-fold or greater rise in antibody titer may not always accurately identify influenza virus infections, and this new algorithm can help improve identification.

@@ -1,0 +1,20 @@
+Week12, 2022
+- **Viruses, illness, and deaths**: Influenza activity remains highest in central and south-central U.S., declining in these regions while increasing in the northeast and northwest. Influenza A(H3N2) is the predominant virus. 8.3% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), exceeding the epidemic threshold of 7.1%. One additional pediatric death was reported this week, bringing the season’s total to 14.
+
+- **U.S. virologic surveillance**: 6.5% of clinical lab specimens tested positive for influenza, with 99.2% being Influenza A and 0.8% Influenza B. Among public health lab positives, 100% were Influenza A, overwhelmingly H3N2 (99.9%).
+
+- **Cumulative hospitalization rate**: The FluSurv-NET cumulative hospitalization rate is 7.2 per 100,000, higher than the 2020-2021 season but lower than pre-pandemic seasons. The highest rates are in those aged 65 and older (19.5 per 100,000).
+
+- **Trends of deaths attributed to influenza**: 8.3% of deaths during week 12 were due to PIC, primarily driven by COVID-19. Only 27 deaths were directly attributable to influenza.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounts for 99.2% of clinical lab positives and 100% of public health lab positives. H3N2 dominates (99.9% of subtyped Influenza A cases).
+
+- **Novel influenza virus (like COVID-19)**: Co-infections with SARS-CoV-2 reported in 5.4% of tested specimens. One A(H3N2) case showed reduced susceptibility to baloxavir.
+
+- **Vaccination trends**: Flu vaccines remain available; CDC recommends vaccination as long as flu activity continues. Vaccination is emphasized for preventing serious outcomes even in vaccinated individuals who become ill.
+
+- **Outpatient respiratory illness visits**: 1.8% of outpatient visits reported through ILINet were due to respiratory illness, below the national baseline. Nine of 10 HHS regions reported levels below their regional baselines.
+
+- **Expectation of flu activity from CDC**: Flu activity is declining in central regions but increasing in northern regions. CDC anticipates continued influenza activity.
+
+- **Other key factors**: Hospital admissions for influenza increased for the eighth consecutive week, with 2,820 hospitalizations this week. 0.7% of long-term care facilities reported at least one influenza-positive resident.

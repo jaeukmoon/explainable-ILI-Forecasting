@@ -1,0 +1,20 @@
+Week50, 2022
+1. Influenza activity is elevated and increasing across most of the U.S., with 12.8% of respiratory specimens testing positive for influenza this week.
+
+2. Clinical labs reported 82.8% of positive specimens as Influenza A and 17.2% as Influenza B; public health labs reported 81.9% Influenza A and 18.1% Influenza B, with A(H1N1) accounting for 78.2% of subtyped A viruses.
+
+3. Outpatient respiratory illness visits represent 5.1% of healthcare visits, exceeding the national baseline for the seventh consecutive week, with increases in all age groups and regions.
+
+4. The cumulative hospitalization rate is 11.3 per 100,000, the second-highest for this point in the season in over a decade, with hospitalizations primarily affecting older adults and young children.
+
+5. Weekly influenza-associated deaths accounted for 0.3% of total deaths, with no pediatric deaths reported this week but 14 total this season so far.
+
+6. Approximately 5.3 million illnesses, 54,000 hospitalizations, and 3,200 deaths have occurred in this flu season to date.
+
+7. Antigenic and genetic analysis of circulating viruses shows good match with current vaccine strains, which remain recommended and available for individuals 6 months and older.
+
+8. CDC noted cases of co-circulating respiratory viruses like RSV and SARS-CoV-2 contributing to respiratory illness rates.
+
+9. The percentage of clinical specimens testing positive and flu hospitalizations are increasing compared to previous weeks, reflecting intensified flu activity.
+
+10. CDC continues to provide integrated surveillance of co-circulating viruses and anticipates continued elevated influenza activity in the following weeks.

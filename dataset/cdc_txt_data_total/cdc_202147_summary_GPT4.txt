@@ -1,0 +1,20 @@
+Week47, 2021
+- **Viruses, illness, and deaths**: Influenza activity in the U.S. remains low but is increasing, with 1.5% of respiratory specimens testing positive for influenza. The majority of cases (96.2% in clinical labs and 99.4% in public health labs) are Influenza A, predominantly A(H3N2). No influenza-associated pediatric deaths have been reported this season. 15.5% of deaths were attributed to pneumonia, influenza, or COVID-19, above the epidemic threshold, but influenza deaths remain minimal compared to COVID-19.
+
+- **U.S. virologic surveillance**: Influenza A(H3N2) is the predominant strain, with 99.6% of subtyped cases reported by public health labs this season identified as H3N2. Influenza B is rare, representing 3.8% of clinical lab positives.
+
+- **Cumulative hospitalization rate**: Available data from HHS-Protect shows 495 influenza-related hospitalizations during the week, with population-based FluSurv-NET data pending updates later this season.
+
+- **Trends of deaths attributed to influenza**: Deaths attributed to pneumonia, influenza, and COVID-19 exceeded the epidemic threshold, largely driven by COVID-19, with only 4 deaths officially linked to influenza during the week.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounted for 96.2% of clinical lab positives and 99.4% of public health lab positives, with Influenza B accounting for the remainder.
+
+- **Novel influenza virus (like COVID-19)**: One H3N2v case has been reported this season, and an increase in influenza A(H3N2) continues. No significant reports of other novel influenza viruses.
+
+- **Vaccination trends**: As of November 19, 2021, 166.9 million doses of flu vaccine have been distributed in the U.S. CDC emphasizes vaccination as the most effective prevention; vaccines remain widely available.
+
+- **Outpatient respiratory illness visits**: 2.4% of outpatient visits were for influenza-like illness (ILI), below the national baseline of 2.5%. Regions 3 and 7 exceeded their region-specific baselines, and ILI rates are increasing among individuals aged 0-64 years.
+
+- **Expectation of flu activity from CDC**: CDC anticipates increasing flu activity as the season progresses, with A(H3N2) as the dominant strain. Children and young adults aged 5-24 years account for over 80% of A(H3N2) detections.
+
+- **Other key factors**: Long-term care facilities reported only 0.2% with at least one influenza-positive resident. Multiple respiratory viruses are co-circulating, contributing to ILI trends, and significant regional variation in activity continues.

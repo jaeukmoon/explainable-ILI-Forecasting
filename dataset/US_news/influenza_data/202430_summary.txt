@@ -1,0 +1,11 @@
+H5N1 Outbreak in Cows: There has been an outbreak of the highly pathogenic H5N1 influenza virus in cows in the United States.
+
+Transmission to Mammals: Researchers found that the H5N1 virus from cows can infect mice and ferrets.
+
+Efficiency of Airborne Transmission: Airborne transmission of the H5N1 virus from infected ferrets to uninfected ferrets was not very efficient.
+
+Spread within the Body: The virus spread beyond the respiratory system to organs and tissues such as mammary glands and muscle in infected mice and ferrets.
+
+Transmission through Milk: The virus was found in the mammary glands of infected lactating female mice, and some of their nursing pups became infected, suggesting transmission through milk.
+
+Potential Risk to Public Health: If the H5N1 virus from cows were to spread through the human population, it could pose a significant risk to public health.

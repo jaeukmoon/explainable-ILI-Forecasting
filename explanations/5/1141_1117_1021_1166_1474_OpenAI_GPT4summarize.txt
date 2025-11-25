@@ -1,0 +1,11 @@
+1. The past time-series ILI occurrences over the 5 weeks showed fluctuations with an overall upward trajectory by the end of the period. Starting at 1141 (Week 12, 2022), a decline was noted through Week 14, 2022, to 1021, followed by a rise in Weeks 15 and 16, 2022, reaching 1474. This pattern indicates increased ILI activity in the last weeks of observation.
+
+2. A clear positive correlation between past and future ILI occurrences is evident. The sharp rise in ILI cases from 1021 in Week 14 to 1474 in Week 16, 2022, suggests a continuation of the upward trajectory, aligning with the increase to 2058 reported after 5 weeks (Week 21, 2022).
+
+3. Outpatient visits for respiratory illnesses rose steadily from 1.8% (Week 12, 2022) to 2.1% (Weeks 15–16, 2022). This sustained increase reflects growing ILI activity, which corresponds to the subsequent rise in future ILI occurrences.
+
+4. The cumulative hospitalization rate consistently increased across the 5 weeks, from 7.2 per 100,000 (Week 12, 2022) to 11.1 per 100,000 (Week 16, 2022). This surge highlights significant disease burden, indicating a strain on healthcare systems and indirectly driving higher future ILI occurrences.
+
+5. Co-circulation of respiratory viruses, including SARS-CoV-2, was consistently reported, with 5.4%–5.0% of co-testing specimens showing dual positivity. This persistent co-circulation likely intensified respiratory illness trends, contributing to the future ILI spike.
+
+6. In summary, the future ILI occurrences of 2058 in Week 21, 2022, can be explained by the upward trend in ILI data at the end of the observation period, increasing outpatient visit rates, rising hospitalizations, and the compounding impact of co-circulating respiratory pathogens such as SARS-CoV-2.

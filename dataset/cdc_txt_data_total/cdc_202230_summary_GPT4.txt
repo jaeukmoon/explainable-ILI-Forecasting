@@ -1,0 +1,20 @@
+Week30, 2022
+- **Viruses, illness, and deaths:** Influenza activity remains very low, with only 0.5% of respiratory specimens testing positive for influenza in week 30. Influenza A is predominant (84.9%), while Influenza B accounts for 15.1%. One human infection with a novel Influenza A (H3N2v) virus was reported in West Virginia, linked to contact with swine at an agricultural fair. No influenza-associated pediatric deaths were reported this week, though 33 pediatric deaths have occurred during the season. PIC (Pneumonia, Influenza, and COVID-19) deaths account for 10.0% of mortalities, primarily driven by COVID-19.
+
+- **U.S. virologic surveillance:** Clinical labs report 98.4% of cumulative influenza positives as Influenza A and 1.6% as Influenza B. Public health labs show 99.5% of positive specimens as Influenza A (99.9% H3N2), with few Influenza B cases (0.6%). 
+
+- **Cumulative hospitalization rate:** 491 influenza-related hospitalizations were reported in week 30. Hospitalization data beyond June 11, 2022, is incomplete for the 2021–2022 season.
+
+- **Trends of deaths attributed to influenza:** Among PIC deaths for week 30, only 10 were related to influenza, indicating minimal impact from influenza this season.
+
+- **Percentage of Influenza A and Influenza B:** Influenza A dominates with 84.9% of positives in clinical labs and 87.0% in public health labs. Influenza B represents 15.1% of clinical lab positives and 13.0% of public health lab positives.
+
+- **Novel Influenza virus (like COVID-19):** One case of a novel Influenza A(H3N2)v virus was identified, with no evidence of person-to-person transmission.
+
+- **Vaccination trends:** No vaccination data or updates provided in this report.
+
+- **Outpatient respiratory illness visits:** 1.6% of outpatient visits nationwide were due to ILI, with higher percentages in younger age groups (6.4% for ages 0-4). Multiple respiratory viruses, including COVID-19, are contributing to ILI activity.
+
+- **Expectation of flu activity from CDC:** Influenza activity is expected to remain low, as co-circulation of other respiratory viruses like SARS-CoV-2 continues.
+
+- **Other key factors:** 0.3% of long-term care facilities reported at least one influenza-positive resident. The novel influenza case and presence of H3N2 variants highlight localized risks for future ILI spikes.

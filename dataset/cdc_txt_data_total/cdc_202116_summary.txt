@@ -1,0 +1,19 @@
+According to the latest weekly inﬂuenza surveillance report from CDC (Week 16, ending April 24, 2021), the key facts regarding predicting future ILI occurrence are as follows:
+
+1. Virologic Surveillance:
+- The percentage of respiratory specimens testing positive for influenza at clinical laboratories is 0.1% for the reported week.
+- The number of influenza positive specimens reported by public health labs remains unusually low.
+
+2. Outpatient Illness Surveillance:
+- For the third week in a row, 1.1% of patient visits to a health care provider were for influenza-like illness (ILI).
+- Nationally, ILI remains below the national baseline of 2.6%.
+
+3. Geographic Spread:
+- All jurisdictions experienced minimal ILI activity during week 16.
+
+4. Severe Disease:
+- The current cumulative hospitalization rate for laboratory-confirmed influenza is 0.8 per 100,000 population, which is much lower than average for this point in the season.
+- Of the deaths occurring during week 16, 11.8% were attributed to pneumonia, influenza, or COVID-19 (PIC), which is above the epidemic threshold.
+- No influenza-associated pediatric deaths were reported to CDC during week 16.
+
+Overall, seasonal influenza activity remains lower than usual for this time of year, and influenza activity levels may be impacted by the COVID-19 pandemic. It is important to note that ILI surveillance data should be interpreted with caution due to changes in health care-seeking behaviors and the impact of COVID-19 on ILI presentations.

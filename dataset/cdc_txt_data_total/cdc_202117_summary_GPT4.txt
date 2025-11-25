@@ -1,0 +1,20 @@
+Week17, 2021
+- **Viruses, illness, and deaths**: Influenza activity remains unusually low for this time of year, with 0.1% of respiratory specimens testing positive. 11.7% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), primarily due to COVID-19. One influenza-associated pediatric death has been reported this season.
+
+- **U.S. virologic surveillance**: Clinical labs report 64.3% of positive specimens as Influenza A and 35.7% as Influenza B. Public health labs show 100% of positive specimens as Influenza A. Influenza B detections remain very low.
+
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate is 0.8 per 100,000 population, significantly lower than previous seasons, about one-tenth the rate of the low-severity 2011-12 season.
+
+- **Trends of deaths attributed to influenza**: Deaths attributed to PIC exceed the epidemic threshold (6.6%), but most are related to COVID-19, not influenza.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A constitutes 64.3% of clinical lab positives and 100% of public health lab positives. Influenza B represents 35.7% of clinical lab positives and 0% in public health labs.
+
+- **Novel influenza virus (like COVID-19)**: No novel influenza viruses are reported this week.
+
+- **Vaccination trends**: Influenza vaccination remains a priority to prevent flu complications, although specific trends are not detailed.
+
+- **Outpatient respiratory illness visits**: Nationwide, 1.1% of outpatient visits were due to influenza-like illness (ILI), below the national baseline of 2.6%. ILI activity is minimal across all jurisdictions.
+
+- **Expectation of flu activity from CDC**: Flu activity is expected to remain low, but surveillance data are impacted by the COVID-19 pandemic and should be interpreted with caution.
+
+- **Other key factors**: Surveillance and reporting systems continue to be affected by COVID-19, which may obscure true influenza trends. Increases in ILI visits are noted among children aged 0–4 years, with stable trends for other age groups.

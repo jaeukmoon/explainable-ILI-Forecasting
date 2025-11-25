@@ -1,0 +1,8 @@
+1. The study monitored the circulating strains and genetic variation of influenza A and B viruses in Thailand between July 2017 and March 2020.
+2. Phylogenetic analyses revealed multiple clades/subclades of influenza A(H1N1)pdm09 and A(H3N2) were circulating simultaneously and evolved away from their vaccine strain, while the influenza B virus did not show significant genetic divergence from the vaccine strain.
+3. The predominant circulating strains of A(H1N1)pdm09 belonged to 6B.1A1 (2017-2018) and 6B.1A5 (2019-2020), with additional amino acid substitutions.
+4. Clades 3C.2a1b and 3C.2a2 viruses co-circulated in A(H3N2), and a clade 3C.3a virus was found in 2020.
+5. Antigenic drift was observed in epitopes of A(H1N1)pdm09, A(H3N2), and the influenza B virus, suggesting potential changes in antigenic properties.
+6. The computed antigenic relatedness of A(H3N2) indicated a significant decline in 2019 and 2020, while the circulating influenza B virus remained antigenically similar to its vaccine strain.
+7. These findings offer insights into the genetic divergence from vaccine strains and may contribute to vaccine updating efforts.
+8. The study highlights the importance of monitoring genetic and antigenic changes in circulating influenza viruses for effective vaccine development and public health response.

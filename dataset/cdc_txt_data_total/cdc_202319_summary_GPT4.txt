@@ -1,0 +1,20 @@
+Week19, 2023
+- **Viruses, Illness, and Deaths**: Seasonal influenza activity remains low nationally. Influenza B viruses predominate, with Influenza A (H1N1) detected more frequently than H3N2. 6.8% of deaths were attributed to pneumonia, influenza, or COVID-19 (above the 6.6% threshold). A total of 152 pediatric influenza-associated deaths occurred this season.
+
+- **U.S. Virologic Surveillance**: Clinical labs reported 1.0% positive influenza specimens this week (36.6% Influenza A, 63.4% Influenza B); public health labs reported 44.4% Influenza A and 55.6% Influenza B. Most Influenza A samples were A(H1N1) (91.7%).
+
+- **Cumulative Hospitalization Rate**: The cumulative hospitalization rate is 62.6 per 100,000 population, similar to the 2018-2019 and 2019-2020 seasons.
+
+- **Trends of Deaths Attributed to Influenza**: PIC (pneumonia, influenza, COVID-19) mortality is stable at 6.8%, above the threshold of 6.6%.
+
+- **Percentage of Influenza A and Influenza B**: Among clinical labs, Influenza A accounted for 36.6% and Influenza B accounted for 63.4%. Public health labs reported a nearly even split: Influenza A at 44.4% and Influenza B at 55.6%.
+
+- **Novel Influenza Viruses**: No novel influenza viruses, such as H3N2v or others, were reported.
+
+- **Vaccination Trends**: CDC continues to recommend flu vaccination for everyone ages 6 months and older while flu activity persists. Most circulating viruses are antigenically similar to those in this season's vaccine.
+
+- **Outpatient Respiratory Illness Visits**: 1.9% of outpatient visits were for respiratory illness (below the 2.5% baseline). Most jurisdictions reported minimal ILI activity, with three jurisdictions experiencing high activity.
+
+- **Expectation of Flu Activity from CDC**: CDC indicates that influenza activity remains low and is stable.
+
+- **Other Key Factors**: Among hospitalized patients, Influenza A was responsible for 95.5% of cases, with A(H3N2) dominating over A(H1N1) in earlier reports. Comorbidities such as hypertension, obesity, and cardiovascular disease were prevalent in hospitalized adults. 3.8% of influenza hospitalizations also tested positive for SARS-CoV-2.

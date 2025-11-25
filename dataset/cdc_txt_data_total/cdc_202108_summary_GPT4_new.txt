@@ -1,0 +1,13 @@
+Week8, 2021
+1. Influenza activity is unusually low for this time of year, with only 0.1% of respiratory specimens testing positive for influenza in clinical labs.
+2. Among clinical lab positive specimens, Influenza A and Influenza B were each identified in 50% of cases.
+3. Public health labs reported only one positive specimen this week, exclusively Influenza A; cumulative totals show 60.7% Influenza A and 39.3% Influenza B.
+4. Outpatient visits for influenza-like illness (ILI) made up 0.9% of patient visits, remaining stable and well below the national baseline of 2.6%.
+5. All jurisdictions reported minimal ILI activity levels, with slight declining trends observed over seven weeks in older age groups.
+6. Cumulative influenza-associated hospitalization rates are at 0.7 per 100,000 population, lower than any previous season since 2005.
+7. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) were 16.4%, far above the epidemic threshold of 7.2%, primarily due to COVID-19.
+8. No new pediatric deaths from influenza were reported, with only one for the 2020-21 season to date.
+9. Annual flu vaccination is recommended by the CDC, but no significant vaccination trends were included in this report.
+10. Healthcare-seeking behavior for ILI continues to be influenced by the COVID-19 pandemic, complicating data interpretation.
+
+11. Summary of key factors: Influenza remains low with minimal activity nationwide, but PIC deaths (mostly from COVID-19) are elevated. Hospitalization rates and ILI activity are at historic lows, with no significant increase expected imminently.

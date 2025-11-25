@@ -1,0 +1,13 @@
+Week21, 2024
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains low nationally, with 1.7% of clinical lab specimens testing positive for influenza. Influenza A accounted for 64.9%, while Influenza B made up 35.1%. Influenza caused 0.1% of deaths this week. Three pediatric influenza-associated deaths were reported, bringing the season's total to 172. CDC reports an estimated 25,000 deaths and 35 million illnesses this season.  
+- **U.S. virologic surveillance**: Influenza A(H1N1)pdm09, A(H3N2), and B/Victoria viruses are co-circulating. Public health labs report 88.2% of positive cases as Influenza A and 11.8% as Influenza B. A(H5) virus human infection was detected, linked to avian influenza outbreaks in animals. No human-to-human transmission of A(H5) virus has been identified.  
+- **Cumulative hospitalization rate**: Weekly hospitalization rate for Week 21 was 0.2 per 100,000. Seasonal cumulative hospitalizations reached 24,889 (84.7% associated with Influenza A).  
+- **Trends of deaths attributed to influenza**: Percentage of deaths due to influenza remained stable compared to last week (<0.1% change).  
+- **Percentage of Influenza A and B**: Of clinical lab positives, Influenza A constituted 64.9% and Influenza B 35.1%. Public health labs recorded 76.1% as Influenza A, subtyped into H1N1 (67.8%) and H3N2 (32.2%), while 23.9% were Influenza B (all Victoria lineage).  
+- **Novel influenza virus like COVID-19**: One new human case of A(H5) virus was reported; the third case this year. CDC monitors novel influenza cases for avian influenza exposure.  
+- **Vaccination trends**: CDC recommends continued vaccination for those aged six months and older as flu activity persists.  
+- **Outpatient respiratory illness visits**: ILINet reports 1.9% of outpatient visits for respiratory illness, below the national baseline. Activity remained minimal in most jurisdictions.  
+- **Expectation of flu activity from CDC**: Influenza activity is expected to remain low. No significant increases were noted nationally or regionally.  
+- **Other key factors**: Sporadic detection of highly pathogenic avian influenza (HPAI) A(H5N1) virus in livestock and wildlife continues. Monitoring efforts for exposed human populations and antiviral treatments for high-risk individuals are ongoing.
+
+Overall indicators suggest low flu activity with minimal immediate risk of increased outbreaks but heightened surveillance of avian influenza developments.

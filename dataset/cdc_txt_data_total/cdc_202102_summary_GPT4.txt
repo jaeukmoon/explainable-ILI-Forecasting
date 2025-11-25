@@ -1,0 +1,11 @@
+Week2, 2021
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains lower than usual, with only 0.1% of respiratory specimens testing positive for influenza. 14.7% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), primarily driven by COVID-19. No new influenza-associated pediatric deaths were reported this week; the total for the 2020-21 season remains one.  
+- **U.S. virologic surveillance**: Clinical labs reported 52.2% of positive specimens as Influenza A and 47.8% as Influenza B. Public health labs reported 66.7% as Influenza A and 33.3% as Influenza B.  
+- **Cumulative hospitalization rate**: A cumulative hospitalization rate of 0.5 per 100,000 population is reported, with 136 laboratory-confirmed influenza hospitalizations so far this season.  
+- **Trends of deaths attributed to influenza**: Deaths attributed to PIC remain elevated above the epidemic threshold (7.0%), but primarily due to COVID-19. Very small contributions were due to influenza.  
+- **Percentage of Influenza A and Influenza B**: Clinical labs detected 52.2% Influenza A and 47.8% Influenza B among positive specimens this week. Public health labs detected 66.7% Influenza A and 33.3% Influenza B.  
+- **Novel influenza virus (like COVID-19)**: No novel influenza viruses were reported. COVID-19 remains a significant driver of PIC deaths and healthcare activity.  
+- **Vaccination trends**: CDC continues to recommend vaccination, urging people who have not received a flu vaccine to get vaccinated. Vaccination is considered the best preventive measure.  
+- **Outpatient respiratory illness visits**: Nationwide, 1.4% of outpatient visits were for influenza-like illness (ILI), below the national baseline of 2.6%. ILI decreased compared to the prior week (1.6%), with most jurisdictions reporting minimal activity.  
+- **Expectation of flu activity from CDC**: Flu activity is unusually low but may increase in the coming months.  
+- **Other key factors**: ILI surveillance and data interpretations are impacted by the COVID-19 pandemic, causing possible distortions in reported activity levels and trends.

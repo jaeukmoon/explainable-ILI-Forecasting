@@ -1,0 +1,20 @@
+Week31, 2022
+- **Viruses, Illness, and Deaths**: Influenza activity remains low with 0.4% of specimens testing positive for influenza in week 31. Influenza A dominated (90.2%), while Influenza B accounted for 9.8%. Two human infections with novel influenza A(H3N2)v were reported, linked to contact with swine. 10.0% of deaths were due to pneumonia, influenza, or COVID-19 (PIC), with COVID-19 being the primary driver. Four deaths were influenza-related.
+
+- **U.S. Virologic Surveillance**: Out of 153 positive specimens from clinical labs, 90.2% were Influenza A and 9.8% were Influenza B. Public health labs confirmed 92.0% as Influenza A, 83.3% of which were H3N2. Three H3N2 variant cases were detected (associated with swine exposure).
+
+- **Cumulative Hospitalization Rate**: No new hospitalizations after June 11, 2022, are included in FluSurv-NET data. 506 hospitalizations were reported this week nationwide through HHS Protect.
+
+- **Trends of Deaths Attributed to Influenza**: 10.0% of deaths due to PIC are above the epidemic threshold of 5.5%, with influenza accounting for a small fraction (4 of 2,226 deaths).
+
+- **Percentage of Influenza A and Influenza B**: Influenza A is predominant at 90.2% in clinical labs and 92.0% in public health labs, with subtyped H3N2 making up 83.3% of Influenza A. Influenza B is minimal at 9.8% (clinical labs) and 8.0% (public health labs).
+
+- **Novel Influenza Virus (like COVID-19)**: Two novel A(H3N2)v cases were reported, linked to agricultural fairs and swine exposure, without evidence of person-to-person transmission.
+
+- **Vaccination Trends**: No new vaccination data provided; past emphasis remains on vaccination as prevention.
+
+- **Outpatient Respiratory Illness Visits**: 1.5% of nationwide outpatient visits were for influenza-like illness (ILI), consistent with low activity. By age group, the highest ILI percentages were among 0-4 years (6.1%) and lowest among 65+ years (0.7%).
+
+- **Expectation of Flu Activity from CDC**: Influenza activity is expected to remain low, with periodic localized increases in ILI due to circulating respiratory viruses.
+
+- **Other Key Factors**: Only 0.3% of long-term care facilities reported at least one positive influenza test. Minimal ILI activity was reported across 53 jurisdictions, with just one reporting "moderate" activity this week.

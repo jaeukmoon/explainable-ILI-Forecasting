@@ -1,0 +1,11 @@
+Week48, 2020
+1. Seasonal flu activity remains unusually low for Week 48, possibly influenced by COVID-19 mitigation measures. Only 0.1% of respiratory specimens tested positive for influenza this week.
+2. Outpatient respiratory illness visits for influenza-like illness (ILI) constituted 1.6% of healthcare provider visits, remaining below the national baseline of 2.6%. This level is stable compared to the previous week, with five jurisdictions reporting low ILI activity and all others at minimal levels.
+3. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) were 12.8%, above the epidemic threshold of 6.4%, primarily driven by COVID-19, with only three influenza-related deaths reported.
+4. Influenza A accounted for 58.8% of positive clinical lab specimens, with Influenza B at 41.2%. In public health labs, Influenza A also dominated (60%) over Influenza B (40%), with more detailed subtype information pending.
+5. No pediatric influenza-associated deaths have been reported for the 2020-2021 season so far.
+6. Cumulative hospitalization rates and influenza virus characterization updates will begin later this season, with currently insufficient data for predictive trends.
+7. Vaccination is emphasized as the best preventative measure for flu, with recommendations for immediate vaccination if not yet received.
+8. ILI surveillance data may be skewed due to changes in healthcare-seeking behavior and overlaps with COVID-19 symptoms, necessitating caution in interpretation of trends.
+9. CDC expects flu activity may increase in upcoming months but is currently below typical seasonal levels, suggesting continued monitoring is critical.
+10. Key influencing factors include low levels of influenza virus circulation, pervasive COVID-19 impact on healthcare and surveillance, and extensive public health measures like masking and distancing likely playing a role in limiting flu spread.

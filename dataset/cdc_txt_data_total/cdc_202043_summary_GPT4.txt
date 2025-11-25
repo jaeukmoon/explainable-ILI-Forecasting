@@ -1,0 +1,20 @@
+Week43, 2020
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains low with 0.2% of respiratory specimens testing positive for influenza. 8.2% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), exceeding the epidemic threshold of 5.9%. No pediatric deaths attributed to influenza have been reported for the 2020-21 season.
+
+- **U.S. virologic surveillance**: Clinical labs report 54.2% of positive specimens were Influenza A and 45.8% were Influenza B. Public health labs detected only 4 influenza-positive specimens, all Influenza A (100%).
+
+- **Cumulative hospitalization rate**: Hospitalization rates are not yet available for this season and will be updated later.
+
+- **Trends of deaths attributed to influenza**: The percentage of deaths due to PIC exceeds the epidemic threshold, driven mostly by COVID-19.
+
+- **Percentage of Influenza A and Influenza B**: Clinical labs report Influenza A at 54.2% and Influenza B at 45.8%. All positive specimens from public health labs were Influenza A, with no Influenza B detected.
+
+- **Novel influenza virus like COVID-19 (SARS-CoV-2)**: COVID-19 continues to impact surveillance and health systems heavily, with associated deaths included under PIC.
+
+- **Vaccination trends**: CDC recommends all individuals aged 6 months and older to receive an annual flu vaccine by the end of October to prevent complications.
+
+- **Outpatient respiratory illness visits**: 1.2% of outpatient visits were for influenza-like illness (ILI), below the national baseline of 2.6%. Most jurisdictions reported minimal ILI activity, with one jurisdiction reporting low activity.
+
+- **Expectation of flu activity from CDC**: Seasonal influenza activity is expected to remain low, potentially altered by COVID-19's impact on health-seeking behavior.
+
+- **Other key factors**: Healthcare utilization changes due to COVID-19 may affect traditional surveillance metrics. Reporting of influenza geographic spread has been suspended for the 2020-21 season due to these changes.

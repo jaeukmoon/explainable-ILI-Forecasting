@@ -1,0 +1,20 @@
+Week48, 2022
+- **Viruses, illness, and deaths**: Influenza activity is increasing nationally with the southeast and south-central U.S. reporting the highest levels. 6.8% of clinical specimens tested positive for influenza. Influenza A(H1N1) is the most reported virus. Four pediatric deaths this week bring the seasonal total to 12. Estimated cumulative impacts include 2.6 million illnesses, 26,000 hospitalizations, and 1,600 deaths.
+
+- **U.S. virologic surveillance**: 79.9% of public health lab specimens were Influenza A and 20.1% Influenza B. Of subtyped Influenza A, 74.1% were H1N1 and 25.9% were H3N2. Regional variations show higher Influenza B proportions in some areas (regions 4 and 6).
+
+- **Cumulative hospitalization rate**: The cumulative rate is 5.5 per 100,000 population, the second-highest rate recorded for this week in past seasons. Adults aged 65+ (13.6) have the highest hospitalization rates.
+
+- **Trends of deaths attributed to influenza**: 0.2% of deaths this week were attributed to influenza, with an upward trend noted.
+
+- **Percentage of Influenza A and Influenza B**: Clinical labs report 80.3% of positive specimens are Influenza A and 19.7% Influenza B. Public health labs similarly report 79.9% Influenza A and 20.1% Influenza B.
+
+- **Novel influenza virus (like COVID-19)**: No novel influenza viruses, including SARS-CoV-2, reported.
+
+- **Vaccination trends**: CDC strongly encourages vaccination as flu activity increases, emphasizing availability and timing for prevention and complications mitigation.
+
+- **Outpatient respiratory illness visits**: 4.0% of outpatient visits were due to respiratory illness, above the baseline (2.9%) for the fifth consecutive week. Activity levels are high/very high in 16 jurisdictions and moderate in 9 jurisdictions.
+
+- **Expectation of flu activity from CDC**: CDC predicts further increases in flu activity across regions, particularly in regions where outpatient respiratory illness visits are already above baseline.
+
+- **Other key factors**: High hospitalization and outpatient respiratory illness rates suggest significant flu impact. Certain regions, like the southeast and south-central, report persistently high positivity rates for Influenza A. Co-circulating respiratory viruses such as RSV and COVID-19 also contribute to illness trends.

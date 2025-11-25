@@ -1,0 +1,20 @@
+Week16, 2021
+- **Viruses, Illness, and Deaths**: Influenza activity remains unusually low, with only 0.1% of respiratory specimens testing positive for influenza in clinical labs. Influenza A accounted for 55.6% of clinical lab positives, while Influenza B made up 44.4%. No new pediatric deaths were reported; the cumulative total for the season is one. 11.8% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), primarily due to COVID-19.
+
+- **U.S. Virologic Surveillance**: Public health labs reported extremely low positivity rates, with Influenza A accounting for 50% and Influenza B for the other 50% of positive cases in week 16. Overall, Influenza A represented 61.0%, and Influenza B accounted for 39.0% of the season’s cumulative cases.
+
+- **Cumulative Hospitalization Rate**: The hospitalization rate was at 0.8 per 100,000 population, significantly lower than levels for any flu season since 2005.
+
+- **Trends of Deaths Attributed to Influenza**: Current PIC mortality (11.8%) remains above the epidemic threshold (6.7%), though primarily driven by COVID-19.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A constituted 55.6% of clinical lab positives and 50.0% of public health lab positives this week. Influenza B accounted for 44.4% of clinical lab positives and 50.0% of public health lab positives.
+
+- **Novel Influenza Virus (like COVID-19)**: No indications of novel influenza strains besides ongoing monitoring for COVID-19.
+
+- **Vaccination Trends**: Annual flu vaccination remains recommended as the best protection against influenza and related complications.
+
+- **Outpatient Respiratory Illness Visits**: Nationally, 1.1% of outpatient visits were for influenza-like illness (ILI), significantly below the national baseline of 2.6%. All jurisdictions reported minimal ILI activity.
+
+- **Expectation of Flu Activity from CDC**: CDC continues to expect low flu activity for the remainder of the season due to ongoing COVID-19 mitigation measures.
+
+- **Other Key Factors**: Changes in health care-seeking behaviors during the pandemic may affect ILI data accuracy. Surveillance trends indicate increasing ILI visits among children aged 0-4 years.

@@ -1,0 +1,7 @@
+- The study compares the immune responses of individuals receiving repeat vaccinations with different types of influenza vaccines (egg-based, cell culture-based, and recombinant).
+- Repeat vaccination with egg-based influenza vaccines may enhance antibodies targeting egg-adapted epitopes and reduce immunogenicity to circulating viruses.
+- The trial collected sera from healthcare personnel in the 2018-19 and 2019-20 influenza seasons.
+- The study found that in the first year, the recombinant vaccine induced higher neutralizing and total HA head binding antibodies to cell-A(H3N2) virus compared to the cell culture-based and egg-based vaccines.
+- In the second year, repeat vaccination with both the recombinant and cell culture-based vaccines further improved antibody responses to circulating viruses, with a decreased ratio of neutralizing antibodies against egg and cell.
+- The recombinant vaccine also had higher post-vaccination antibodies against A(H1N1)pdm09 and A(H3N2) HA stalk, but there was no significant difference in HA stalk antibody response between vaccine groups.
+- Multiple seasons of non-egg-based vaccination may be necessary to redirect antibody responses from immune memory to egg-adapted epitopes and improve vaccine effectiveness against circulating viruses.

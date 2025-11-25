@@ -1,0 +1,8 @@
+- Influenza A virus infection can range from mild to severe, including acute respiratory distress syndrome (ARDS).
+- The factors associated with disease severity in influenza A, particularly H1N1, are not fully understood.
+- Disruption of the endothelial glycocalyx, a layer of molecules lining blood vessels, has been implicated in acute lung injury in sepsis but has not been well studied in H1N1 influenza.
+- A study found that plasma levels of syndecan-1, hyaluronan, and heparan sulfate, components of the endothelial glycocalyx, were significantly higher in patients with severe H1N1 influenza compared to mild cases.
+- Syndecan-1 and hyaluronan levels were positively correlated with disease severity, as indicated by clinical scores and lactate levels, and negatively correlated with albumin levels.
+- Syndecan-1 levels had a potential role in systemic organ dysfunction and could be indicative of disease severity in patients with H1N1 influenza.
+- Elevated plasma levels of syndecan-1 may be a predictive marker for 28-day mortality in severe H1N1 influenza cases.
+- Further research is needed to better understand the role of the endothelial glycocalyx in H1N1 influenza and its potential as a prognostic marker.

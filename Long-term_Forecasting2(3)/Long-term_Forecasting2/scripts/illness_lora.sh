@@ -1,0 +1,43 @@
+export CUDA_VISIBLE_DEVICES=0
+
+seq_len=104
+model=GPT4TS
+percent=100
+
+for multimodal in 1
+do
+for PEFT in 1
+do
+for pred_len in 24
+do
+
+python main_ILI_lora.py \
+    --root_path ./dataset/illness/ \
+    --data_path national_illness.csv \
+    --model_id illness_$model'_'$gpt_layer'_'$seq_len'_'$pred_len'_'$PEFT \
+    --data custom \
+    --seq_len $seq_len \
+    --label_len 18 \
+    --pred_len $pred_len \
+    --batch_size 4 \
+    --learning_rate 0.0005 \
+    --train_epochs 1 \
+    --decay_fac 0.75 \
+    --d_model 768 \
+    --n_heads 4 \
+    --d_ff 768 \
+    --freq 0 \
+    --patch_size 24 \
+    --stride 2 \
+    --percent $percent \
+    --PEFT $PEFT \
+    --gpt_layer 6 \
+    --itr 1 \
+    --multimodal $multimodal \
+    --model $model \
+    --backbone gpt2 \
+    --textmodel gpt2
+done
+done
+done
+

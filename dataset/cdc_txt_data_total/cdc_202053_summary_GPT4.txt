@@ -1,0 +1,11 @@
+Week53, 2020
+- **Viruses, Illness, and Deaths:** Seasonal influenza activity remains unusually low, with only 0.1% of respiratory specimens testing positive for influenza. 14.5% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), above the epidemic threshold of 6.9%, largely driven by COVID-19. One pediatric influenza-associated death has been reported this season.  
+- **U.S. Virologic Surveillance:** 42.9% of clinical lab-confirmed cases were Influenza A and 57.1% were Influenza B. Public health labs detected 93.7% of positives as Influenza A (mostly A(H1N1)pdm09) and 6.3% as Influenza B.  
+- **Cumulative Hospitalization Rate:** A total of 118 influenza-associated hospitalizations have been reported since October 2020, lower than average for this point in the season. Adults 65+ have the highest hospitalization rate.  
+- **Trends of Deaths Attributed to Influenza:** 14.5% of deaths were due to PIC, but the majority were attributed to COVID-19. The proportion of deaths caused by influenza remains minimal.  
+- **Percentage of Influenza A and Influenza B:** Cumulatively, clinical labs report 39.1% of cases as Influenza A and 60.9% as Influenza B. Public health labs find 61.0% of cases are Influenza A and 39.0% Influenza B.  
+- **Novel Influenza Virus:** One novel influenza A(H3N2)v case was reported in a child in Hawaii, marking the first detection of this variant in the U.S. since 2018.  
+- **Vaccination Trends:** Flu vaccines remain the primary prevention method. CDC advises vaccination to mitigate risk despite lower-than-normal flu activity.  
+- **Outpatient Respiratory Illness Visits:** 1.6% of outpatient visits were due to ILI, below the national baseline of 2.6%. Six jurisdictions reported low activity, with the rest experiencing minimal activity.  
+- **Expectation of Flu Activity from CDC:** Flu activity is expected to remain low but may increase in the coming months.  
+- **Other Key Factors:** COVID-19 is significantly impacting ILI data, hospitalization rates, and mortality trends. Careful interpretation is needed due to changes in healthcare-seeking behavior during the pandemic.

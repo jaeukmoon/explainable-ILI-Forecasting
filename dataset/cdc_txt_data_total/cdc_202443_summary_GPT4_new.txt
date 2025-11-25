@@ -1,0 +1,11 @@
+Week43, 2024
+1. Seasonal influenza activity remains low nationally, with respiratory specimens testing positive for influenza at 1.0%.
+2. Of 98 viruses reported by public health labs, 93 were Influenza A (56.5% A(H3N2), 32.3% A(H1N1)pdm09, and 11.3% A(H5)) and 5 were Influenza B.
+3. Eight human infections with influenza A(H5) virus were reported, all with mild symptoms and no evidence of human-to-human transmission.
+4. Outpatient visits for influenza-like illness (ILI) constituted 2.2% of visits, remaining stable but trending slightly upwards since early October and below national baselines.
+5. The cumulative influenza-associated hospitalization rate is 0.4 per 100,000 population, with weekly rates still very low.
+6. No pediatric deaths have been reported for the 2024-25 season; one pediatric death from the 2023-24 season was retroactively reported.
+7. Influenza A accounted for 88% of positive clinical lab specimens, while Influenza B accounted for 12%.
+8. No significant changes in deaths attributed to influenza or respiratory illnesses, with mortality stable at 0.03% this week.
+9. CDC encourages flu vaccination for individuals 6 months and older by the end of October; no noteworthy changes in vaccination activity were reported.
+10. Multiple respiratory viruses, including RSV and SARS-CoV-2, are co-circulating and contributing to respiratory illness trends across regions.

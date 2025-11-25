@@ -1,0 +1,21 @@
+Week35, 2021
+- **Viruses, illness, and deaths**: Influenza activity remains low in the U.S. for week 35. 5.4% of deaths were attributed to pneumonia and influenza (P&I), below the epidemic threshold of 5.5%. No influenza-associated pediatric deaths were reported this week for the 2019-2020 season.
+
+- **U.S. virologic surveillance**: No explicit details on positive specimens were provided in this report.
+
+- **Cumulative hospitalization rate**: Data for hospitalizations after April 30, 2020, are not included. No additional hospitalization data provided for week 35.
+
+- **Trends of deaths attributed to influenza**: 5.4% of deaths were due to P&I, slightly below the epidemic threshold for week 35.
+
+- **Percentage of Influenza A and Influenza B**: No specific data provided on the proportion of Influenza A vs. Influenza B.
+
+- **Novel influenza virus (like COVID-19)**: COVID-19 is being tracked separately through COVIDView; no reports of novel influenza viruses provided in this report.
+
+- **Vaccination trends**: No vaccination trend data included in this week’s report.
+
+- **Outpatient respiratory illness visits**: 0.9% of outpatient visits were due to influenza-like illness (ILI), well below the national baseline of 2.4%. All regions reported ILI activity below baseline levels.
+
+- **Expectation of flu activity from CDC**: No specific expectations for flu activity increase or changes were mentioned for the upcoming weeks.
+
+- **Other key factors**: Minimal ILI activity was reported across 49 states, the District of Columbia, and New York City. Puerto Rico reported low activity, while data from Alaska and the U.S. Virgin Islands were insufficient to calculate ILI activity levels.
+

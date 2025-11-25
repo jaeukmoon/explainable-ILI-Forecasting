@@ -1,0 +1,20 @@
+Week28, 2023
+- **Viruses, Illness, and Deaths:** Influenza activity remains low in the U.S. with 0.9% of specimens testing positive for influenza in Week 28. Of these, 59.6% were Influenza A and 40.4% Influenza B. 5.8% of deaths were due to pneumonia, influenza, and/or COVID-19 (PIC), surpassing the epidemic threshold of 5.7%. One pediatric death associated with influenza B was reported, bringing the total for the 2022-2023 season to 163.
+
+- **U.S. Virologic Surveillance:** Among public health labs in Week 28, 60.7% of positive influenza specimens were Influenza A (all H1N1pdm09) and 39.3% were Influenza B (all Victoria lineage). Cumulatively, 96.0% of positive specimens tested in public health labs since October 2022 were Influenza A.
+
+- **Cumulative Hospitalization Rate:** FluSurv-NET data beyond April 30, 2023, is excluded, but 689 influenza-related hospitalizations were reported in Week 28 via HHS Protect.
+
+- **Trends of Deaths Attributed to Influenza:** Week 28 data indicates 5.8% of deaths were due to PIC, above the epidemic threshold, but influenza accounted for only 8 of these deaths.
+
+- **Percentage of Influenza A and Influenza B:** Influenza A constituted 59.6% of clinical lab positives and 60.7% of public health lab positives in Week 28. Influenza B accounted for 40.4% of clinical lab positives and 39.3% of public health lab positives.
+
+- **Novel Influenza Virus like COVID-19:** No reports of novel influenza viruses (e.g., H3N2v or SARS-CoV-2) were noted.
+
+- **Vaccination Trends:** Vaccine-related reporting is absent in this week's summary.
+
+- **Outpatient Respiratory Illness Visits:** 1.2% of outpatient visits nationwide were for ILI during Week 28, with co-circulation of other respiratory viruses. Visits were highest in the 0-4 age group (4.0%).
+
+- **Expectation of Flu Activity from CDC:** Influenza activity remains minimal and is expected to stay low during the off-season.
+
+- **Other Key Factors:** One jurisdiction reported high ILI activity, while 54 jurisdictions reported minimal activity. Data indicates a low level of flu transmission.

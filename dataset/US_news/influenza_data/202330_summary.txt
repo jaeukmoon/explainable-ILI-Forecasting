@@ -1,0 +1,6 @@
+- Toll-like receptor (TLR) agonists, such as monophosphoryl lipid A (MPL) and polyriboinosinic polyribocytidylic acid (poly I:C), have been shown to enhance the immunogenicity and efficacy of influenza vaccines.
+- Combination MPL and poly I:C adjuvanted influenza vaccination has been found to increase the production of antigen-specific antibodies, decrease levels of cytokines and cellular infiltrates at the infection sites, and induce significant memory T and B cell responses in mice.
+- These findings suggest that the combination of MPL and poly I:C could be a potential adjuvant for enhancing the efficacy of influenza vaccines.
+- Influenza vaccines are currently suboptimal in terms of efficacy and cross-protection against different strains, leading to the need for annual vaccination.
+- TLR agonists can activate innate immune responses and enhance adaptive immunity, making them promising candidates as vaccine adjuvants.
+- The use of TLR agonists like MPL and poly I:C can help improve mucosal and humoral immunity and potentially reduce the economic burden of frequent influenza vaccination.

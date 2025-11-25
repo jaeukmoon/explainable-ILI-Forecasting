@@ -1,0 +1,13 @@
+According to the latest CDC surveillance report, seasonal influenza activity remains low in the United States. Here are the key facts regarding predicting future ILI occurrence:
+
+- Virologic Surveillance: Clinical laboratories tested 65,550 specimens, of which 1.7% tested positive for influenza. The majority of positive specimens were influenza A viruses, with 90.2% A(H1N1)pdm09 and 9.8% A(H3N2). Public health laboratories tested 5,463 specimens, with 94.8% positive for influenza A and 5.2% positive for influenza B.
+
+- Outpatient Illness Surveillance: 2.6% of patient visits reported through the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet) were for respiratory illness, which includes ILI. This is above the national baseline of 2.5%. ILI activity varied across different age groups.
+
+- Geographic Spread: Out of the 10 Health and Human Services regions, 7 were below their outpatient respiratory illness baselines, while regions 2, 3, and 9 were above their baselines. Currently, 9 jurisdictions experienced high or moderate ILI activity, while the majority reported low or minimal activity.
+
+- Severe Disease: The FluSurv-NET hospitalization surveillance network reported a cumulative hospitalization rate of 59.2 per 100,000 population. Influenza A viruses accounted for 97.1% of hospitalizations, with 75.7% A(H3N2) and 24.3% A(H1N1)pdm09. Influenza-associated pediatric deaths reached a total of 106 for the season.
+
+- Antiviral Susceptibility: All circulating influenza viruses tested this season have been susceptible to antiviral medications oseltamivir, zanamivir, and baloxavir. However, one A(H1N1)pdm09 virus showed reduced inhibition by oseltamivir.
+
+Based on these key facts, predicting future ILI occurrence involves monitoring virologic surveillance data, outpatient illness trends, geographic spread of ILI, severe disease indicators, and antiviral susceptibility. It is also important to consider the impact of other respiratory viruses, such as SARS-CoV-2, on ILI activity.

@@ -1,0 +1,11 @@
+Week8, 2022
+1. Influenza activity is sporadic but increasing in some areas; 4.1% of clinical specimens were positive for influenza, with Influenza A (H3N2) being dominant.
+2. Public health labs reported 99.3% of influenza cases as Influenza A, primarily A(H3N2), with negligible Influenza B activity.
+3. Nationwide, 1.5% of outpatient visits were for respiratory illness, which remains below baseline; activity is stable overall.
+4. Hospitalizations due to influenza have increased for four weeks, with a cumulative rate of 5.2 per 100,000, higher than the previous season but lower than pre-pandemic levels.
+5. Mortality from pneumonia, influenza, and COVID-19 (16.7%) is above the epidemic threshold, driven primarily by COVID-19, with 12 deaths attributed to influenza.
+6. Influenza B and novel influenza virus activity, including SARS-CoV-2 co-infections (6.1%), remain low.
+7. Two pediatric deaths were reported this week (totaling 8 this season).
+8. Flu vaccination rates are lower this season compared to last, and antigenic differences in circulating A(H3N2) viruses may impact vaccine effectiveness.
+9. Long-term care facilities reported low influenza-positive tests (0.5%), with minimal activity across most jurisdictions.
+10. Predictive factors include increasing hospitalizations, low vaccination uptake, antigenic mismatches in A(H3N2), and co-circulation of multiple respiratory viruses.

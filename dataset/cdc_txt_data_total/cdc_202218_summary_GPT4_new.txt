@@ -1,0 +1,11 @@
+Week18, 2022
+1. Influenza activity is increasing in some parts of the U.S., with 8.6% of specimens testing positive, primarily Influenza A(H3N2), which accounts for 99.2% of clinical lab positives.
+2. Outpatient visits for respiratory illness remain stable at 2.3%, but high or very high activity is observed in 4 jurisdictions.
+3. The cumulative hospitalization rate is 13.4 per 100,000 with 3,071 hospital admissions this week, and older adults (65+ years) exhibit the highest rates.
+4. Pneumonia, influenza, or COVID-19 (PIC) deaths account for 7.2%, above the epidemic threshold; most deaths are attributed to COVID-19.
+5. No new pediatric influenza deaths were reported this week, with a total of 24 for the 2021-22 season.
+6. Influenza A accounts for 99.4% of public health lab positives, with 99.9% of those subtyped as H3N2; Influenza B remains rare (0.6%).
+7. SARS-CoV-2 was detected in 4.7% of influenza-positive public health lab specimens this season, but co-infections remain uncommon in hospitalizations (2.5%).
+8. Vaccination is still encouraged, though late-season antigenic differences in circulating H3N2 viruses suggest reduced vaccine match effectiveness.
+9. Long-term care facilities reported influenza activity at 0.9%, with at least one positive test in 126 facilities.
+10. Future flu activity remains unpredictable due to late-season trends, co-circulation of other respiratory viruses, and regional variability in influenza contributions to illness.

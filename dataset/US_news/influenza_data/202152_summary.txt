@@ -1,0 +1,7 @@
+- A new strain of Influenza A Virus (IAV), known as H7N9 Avian Influenza, has the potential to cause a new pandemic.
+- The design of a multi-epitope vaccine against HA and NA proteins of H7N9 Influenza A virus has been proposed.
+- The vaccine includes prediction of Cytotoxic T lymphocyte (CTL), Helper T lymphocyte (HTL), IFN-γ, and B-cell epitopes.
+- Adjuvants, such as human β-defensin-3 (HβD-3) and pan HLA DR-binding epitope (PADRE) were considered.
+- The vaccine construct is expected to be a recombinant protein of about 86.38 kDa with stable properties.
+- Modeled protein analysis suggests that the vaccine can induce an immune response through T and B cells.
+- The vaccine has the potential to prevent H7N9 Avian Influenza.

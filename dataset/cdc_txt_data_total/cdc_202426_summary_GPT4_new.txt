@@ -1,0 +1,11 @@
+Week26, 2024
+1. Influenza activity is low nationwide, with 1.0% of respiratory specimens testing positive for influenza.
+2. Clinical labs reported 85.5% of positive specimens as Influenza A and 14.5% as Influenza B.
+3. Public health labs identified 89.0% Influenza A and 11.0% Influenza B specimens, with A(H1N1)pdm09 and A(H3N2) subtypes co-circulating.
+4. Three pediatric influenza-associated deaths were reported this week, bringing the total this season to 184.
+5. Outpatient respiratory illness visits accounted for 1.4% of total visits, below the national baseline, with minimal activity across all jurisdictions.
+6. Weekly hospitalization rate is low at 0.1 per 100,000, with a cumulative seasonal count of 25,196 hospitalizations.
+7. Deaths attributed to influenza slightly decreased, representing 0.02% of total deaths reported this week.
+8. A novel A(H5N1) virus case was detected in Colorado, emphasizing risks from avian influenza outbreaks.
+9. Antiviral susceptibility testing revealed minimal resistance to common medications, with sporadic mutations identified.
+10. CDC expects low influenza activity in the near term but continuous monitoring is crucial with co-circulating respiratory viruses, including COVID-19 and RSV.

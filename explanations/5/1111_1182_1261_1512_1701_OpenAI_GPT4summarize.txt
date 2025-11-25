@@ -1,0 +1,11 @@
+1. The past time-series ILI occurrences ('1111', '1182', '1261', '1512', '1701') represent a consistent upward trend from Week 6, 2022, to Week 10, 2022, with a nearly linear increase. This reflects escalating ILI activity, reaching a peak of 1701 occurrences in Week 10, 2022. The steady progression suggests increasing levels of influenza-related illness within this 5-week period.
+
+2. A clear positive correlation exists between the past and future ILI occurrences. The gradual and sustained rise observed during Weeks 6–10, 2022, provides a strong indication of continued escalation, culminating in the notably higher value of 2181 ILI occurrences after 5 weeks (Week 15, 2022). The consistent weekly increases in the past are predictive of the amplified ILI activity observed in the future.
+
+3. The following factors from the CDC reports align strongly with the future rise in ILI occurrences:
+   - **Increased influenza positivity rates**: Rising percentages of positive influenza specimens (from 3.0% in Week 6 to 6.8% in Week 10) indicate a growing spread of influenza and correlate with the future rise in ILI cases.
+   - **Dominance of Influenza A(H3N2)**: Reports consistently highlight Influenza A(H3N2) as the dominant strain, which is associated with higher transmissibility and more severe outbreaks, further driving ILI activity.
+   - **Rising hospitalization rates**: A steady 6-week rise in hospitalization rates for influenza, from 4.7 per 100,000 in Week 6 to 5.9 per 100,000 in Week 10, reinforces the intensifying flu season and suggests rising illness severity, contributing to the increase in future occurrences.
+   - **Low flu vaccination coverage**: Reports repeatedly emphasize reduced vaccination rates compared to prior seasons. Combined with antigenic differences in circulating A(H3N2) viruses, this likely exacerbated disease spread and contributed to the elevated future ILI levels.
+
+4. In summary, the observed future ILI occurrences (2181 in Week 15, 2022) are a result of the steady upward trend in past ILI data, increased influenza positivity rates, dominance of A(H3N2), rising hospitalization rates, and lower vaccination coverage. The compounding effects of these factors indicate a predictable escalation in flu activity leading to the high future occurrence count.

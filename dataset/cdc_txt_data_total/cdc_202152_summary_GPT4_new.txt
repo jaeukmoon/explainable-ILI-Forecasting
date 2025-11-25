@@ -1,0 +1,11 @@
+Week52, 2021
+1. Influenza activity is increasing nationally with a positivity rate of 3.8% among respiratory specimens tested in clinical labs.
+2. 98.1% of positive specimens from clinical labs were Influenza A, primarily A(H3N2). Influenza B accounted for 1.9%.
+3. Hospitalization rates for influenza are rising, with a cumulative rate of 2.6 per 100,000 population; 94% of hospitalizations were Influenza A (all subtyped A(H3N2)).
+4. Deaths due to pneumonia, influenza, or COVID-19 (PIC) accounted for 19.9% of total deaths, largely driven by COVID-19 rather than influenza.
+5. Outpatient visits for respiratory illness (4.8%) remain above baseline, with 31 jurisdictions reporting high or very high activity.
+6. Influenza vaccination uptake appears to be lower compared to last season, though the CDC emphasizes vaccination as the best preventive measure with vaccines widely available.
+7. Most circulating A(H3N2) viruses are genetically related to vaccine strains but show antigenic differences, reflecting ongoing evolution.
+8. Influenza activity varies regionally, with eastern and central U.S. seeing higher levels, and contributions from other respiratory viruses, especially SARS-CoV-2.
+9. Pediatric deaths remain minimal, with no influenza-associated deaths reported this week and only two for the season so far.
+10. Reporting delays due to holidays may underestimate current influenza trends, but data suggest co-circulation of multiple respiratory pathogens complicates predictions.

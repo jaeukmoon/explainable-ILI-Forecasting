@@ -1,0 +1,11 @@
+Week40, 2023
+1. Influenza activity remains low nationally, with 1.1% of specimens testing positive in clinical labs and 2.2% of outpatient visits for respiratory illness reported this week, both below baseline levels.
+2. Public health labs reported 58 positive specimens; 86.2% were Influenza A (90.9% subtype H1N1) and 13.8% were Influenza B (100% Victoria lineage).
+3. The cumulative hospitalization rate is 0.1 per 100,000, with 1,127 hospitalized cases reported this week—an increase from the previous week.
+4. Deaths attributed to influenza were stable this week at 0.05% of total deaths.
+5. Influenza A accounted for 60.4% of positive specimens in clinical labs, while Influenza B accounted for 39.6%.
+6. No novel influenza virus detections were reported, and COVID-19 and RSV continue to co-circulate with influenza.
+7. CDC strongly recommends flu vaccination by the end of October; no specific increases in vaccination trends were observed this week.
+8. Outpatient respiratory illness saw slight increases in two age groups (0–4 years and 5–24 years) and remained stable in others.
+9. Moderate influenza activity was reported in one jurisdiction, while no jurisdictions experienced high or very high activity.
+10. Integrated monitoring of influenza, COVID-19, and RSV, along with detailed genetic and antigenic characterization of viruses, aids in predicting evolutionary changes and future activity.

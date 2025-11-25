@@ -1,0 +1,10 @@
+1. The past time-series ILI occurrences over the 5 weeks showed a clear upward trajectory, with values ['1940', '2032', '2021', '2096', '2181']. Starting with 1940 in Week 11, 2022, the trend displayed a steady increase, culminating in 2181 by Week 15, 2022. This consistent rise reflects intensifying influenza-like illness activity over the observed period.
+
+2. A strong positive correlation exists between the past and future ILI occurrences, as the continuous increase in Week 14 and Week 15 (2022) aligns with the future increase to 2211 cases five weeks later (Week 20, 2022). Sustained momentum in the latter weeks serves as a predictive signal for the subsequent rise in ILI activity.
+
+3. Multiple factors in the CDC reports significantly correlate with the future increase to 2211 occurrences:
+   - Outpatient visits for ILI rose from 1.8% in Week 11, 2022, to 2.1% by Week 15, 2022, consistently signaling an upward trend in healthcare utilization related to respiratory illnesses.
+   - Hospitalization rates for influenza climbed steadily, rising from 6.5 per 100,000 in Week 11, 2022, to 9.8 per 100,000 by Week 15, 2022. This indicates escalating severe respiratory illness incidences, which contribute to higher ILI reporting.
+   - Co-circulation of influenza and SARS-CoV-2 remained significant, with 3.5%-5.0% of specimens testing positive for influenza also showing SARS-CoV-2 positivity, complicating the respiratory illness landscape and boosting ILI case counts.
+
+4. In summary, the increase in future ILI occurrences to 2211 by Week 20, 2022, can be attributed to the upward trend in past ILI cases, rising outpatient visits for ILI, escalating hospitalization rates, and the compounded impact of co-circulating respiratory viruses. These factors collectively reflect heightened respiratory illness activity supporting the observed increase.

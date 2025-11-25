@@ -1,0 +1,8 @@
+- Broadly neutralizing antibodies that target a haemagglutinin anchor epitope have been identified
+- These antibodies have the potential to provide near universal protection against influenza virus infection
+- The antibodies are able to neutralize viral escape mutants
+- They target a discrete membrane-proximal anchor epitope of the haemagglutinin stalk domain
+- The antibodies are broadly neutralizing across H1 viruses and can cross-react with H2 and H5 viruses
+- Anchor epitope-targeting B cells are common in the human memory B cell repertoire
+- The antibodies were recalled in humans by an oil-in-water adjuvanted chimeric haemagglutinin vaccine, which is a potential universal influenza virus vaccine
+- Boosting the production of these broadly neutralizing antibodies through vaccination could maximize protection against seasonal and pandemic influenza viruses.

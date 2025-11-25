@@ -1,0 +1,7 @@
+- The study published in Nature Medicine focuses on the development of programmable antivirals that target critical conserved viral RNA secondary structures from influenza A virus and SARS-CoV-2.
+- The researchers identified and validated an RNA structure called packaging stem-loop 2 (PSL2) that is essential for the replication and packaging of the influenza virus.
+- Targeting PSL2 with a locked nucleic acid (LNA) provided 100% survival in mice infected with a lethal dose of influenza virus and induced strong immunity to rechallenge.
+- The LNA approach also showed efficacy against neuraminidase inhibitor-resistant virus.
+- The researchers also tested the approach on SARS-CoV-2 and found that prophylactic administration of LNAs targeting highly conserved RNA structures protected hamsters from efficient transmission of the virus.
+
+Note: The provided summary is based on limited information and may not include all relevant details.

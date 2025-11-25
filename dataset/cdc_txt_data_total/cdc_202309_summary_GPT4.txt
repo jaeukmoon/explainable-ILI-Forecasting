@@ -1,0 +1,20 @@
+Week9, 2023
+- **Viruses, illness, and deaths:** Seasonal influenza activity remains low nationally with 0.9% of clinical lab specimens testing positive. Influenza A(H3N2) was the most reported virus. There were 8 influenza-associated pediatric deaths reported this week (125 total this season). 8.9% of reported deaths attributed to pneumonia, influenza, or COVID-19 remain above the epidemic threshold of 7.3%.
+
+- **U.S. virologic surveillance:** 70.1% of clinical lab positives were Influenza A and 29.9% were Influenza B. Of public health lab positives, 81.8% were Influenza A, with 54.9% being H3N2. Influenza B accounted for 18.2%, all from the Victoria lineage.
+
+- **Cumulative hospitalization rate:** The cumulative rate is 60.0 per 100,000. Adults aged 65+ have the highest hospitalization rates, particularly those aged 85+ (326.8 per 100,000). Rates are also high among children aged 0-4 years (78.4 per 100,000).
+
+- **Trends of deaths attributed to influenza:** Deaths related to influenza have remained stable at low levels over the past five weeks. Influenza accounts for a smaller proportion of PIC (pneumonia, influenza, COVID-19)-related deaths compared to COVID-19.
+
+- **Percentage of Influenza A and Influenza B:** Influenza A dominates with 70.1% (clinical labs) and 81.8% (public health labs). Influenza B accounts for 29.9% and 18.2% respectively.
+
+- **Novel influenza virus (like COVID-19):** There is no reported activity of novel influenza viruses.
+
+- **Vaccination trends:** This season’s influenza viruses are mostly antigenically similar to the vaccine. Recommendations for the 2023-2024 vaccine composition have been made, including an update to the A(H1N1)pdm09 component. CDC advises vaccination for anyone 6 months and older.
+
+- **Outpatient respiratory illness visits:** 2.4% of outpatient visits were for respiratory illnesses, below the national baseline of 2.5%. Eight HHS regions are also below their baselines, though regions 2 and 9 are above.
+
+- **Expectation of flu activity from CDC:** CDC continues to report low activity nationally, expecting it to remain low with localized variations.
+
+- **Other key factors:** Hospitalization rates declined, with 1,418 reported influenza hospitalizations this week compared to 1,644 last week. Long-term care facilities saw stable positivity rates (0.5%). Multiple respiratory viruses, including influenza, COVID-19, and RSV, are co-circulating.

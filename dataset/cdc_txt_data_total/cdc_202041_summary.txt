@@ -1,0 +1,13 @@
+According to the weekly influenza surveillance report, the key facts regarding predicting future ILI occurrence are as follows:
+
+1. Virologic surveillance: The percentage of respiratory specimens testing positive for influenza in clinical labs is currently 0.3%, indicating low influenza activity. In public health labs, influenza activity has been low over the summer months.
+
+2. Outpatient illness surveillance: In week 41, 1.2% of patient visits reported through the U.S. Outpatient Influenza-Like Illness Surveillance Network (ILINet) were due to influenza-like illness (ILI). ILI activity remains below the national baseline of 2.6%.
+
+3. Geographic spread: ILI activity levels vary across jurisdictions. In week 41, two jurisdictions experienced moderate activity, while the remaining jurisdictions experienced minimal activity.
+
+4. Severe disease indicators: Hospitalization rates and pediatric deaths are important indicators of the severity of influenza. Hospitalization rates will be updated weekly starting later this season. Three influenza-associated pediatric deaths were reported during the 2019-2020 season, while no deaths have been reported so far for the 2020-2021 season.
+
+5. Virus characterization: Influenza virus characterization information will be updated weekly starting later this season. This information helps monitor the genetic and antigenic properties of circulating influenza viruses and assess their susceptibility to antiviral medications.
+
+Based on these facts, the CDC expects flu activity to remain low but increase in the coming weeks. It is important for everyone 6 months or older to get a flu vaccine by the end of October, as it is the best way to protect against influenza and its potentially serious complications. Antiviral drugs are also available for the treatment of flu illness.

@@ -1,0 +1,13 @@
+1. The past time-series ILI occurrences over the 5 weeks demonstrated a mostly stable trend with minor fluctuations, transitioning from 1924 (Week 16, 2021) to 1816 (Week 17, 2021) and subsequently oscillating before peaking at 2025 (Week 20, 2021). These variations indicate gradual changes in ILI activity, with a slight upward momentum toward the end of the observed period.
+
+2. A positive relationship between past and future ILI occurrences is observed, as the upward shift in the last week (Week 20, 2021) aligns with the increased future ILI occurrence of 2162 after 5 weeks. The increase to 2025 in Week 20 appears to foreshadow a moderate escalation in ILI activity leading to the reported future value.
+
+3. Outpatient visits for ILI demonstrated a steady rise, increasing from 1.1% (Week 16, 2021) to 1.3% (Week 20, 2021). This gradual increase in healthcare visits for respiratory symptoms suggests heightened ILI activity, supporting the subsequent rise in future ILI occurrences.
+
+4. Elevated percentages of deaths attributed to pneumonia, influenza, or COVID-19 (PIC) were consistently reported, ranging from 11.8% (Week 16, 2021) down to 9.5% (Week 20, 2021), surpassing epidemic thresholds throughout the monitored period. While COVID-19 remained the primary contributor, the persistent PIC mortality aligns with the future rise in ILI activity.
+
+5. Changes in healthcare-seeking behaviors due to the COVID-19 pandemic, as noted across all 5 weeks, altered the traditional ILI surveillance patterns. These disruptions, including underreporting or delayed recognition, likely contributed to future data reflecting increased ILI occurrences.
+
+6. Despite consistently low influenza positivity rates (e.g., 0.1% across all five weeks) and minimal influenza lab detections, increases in ILI occurrences likely stem from other respiratory pathogens or COVID-19-related reporting dynamics. The mismatch between low positivity rates and ILI numbers highlights potential non-specific origins of reported ILI activity.
+
+7. In summary, the observed increase to 2162 ILI occurrences after 5 weeks can be attributed to the slight upward trend ending in Week 20, 2021, increasing ILI-related healthcare visits, sustained PIC mortality above epidemic thresholds, and the compounding surveillance impacts of the pandemic, all contributing to the reported future ILI rise.

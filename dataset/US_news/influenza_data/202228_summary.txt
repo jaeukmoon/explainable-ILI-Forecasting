@@ -1,0 +1,5 @@
+- Highly pathogenic avian influenza H5N1 viruses of the A/Goose/Guangdong/1/1996 lineage (GsGd) are spreading across Asia, Europe, Africa, and North America, but are currently absent from South America and Oceania. 
+- In December 2021, H5N1 HPAI viruses were detected in poultry and a free-living gull in St. John's, Newfoundland and Labrador, Canada. 
+- Phylogenetic analysis shows that these viruses were most closely related to HPAI GsGd viruses circulating in northwestern Europe in spring 2021. 
+- Wild bird migration is believed to have carried these viruses across the Atlantic via routes including Iceland, Greenland/Arctic, or pelagic routes. 
+- The spread of HPAI GsGd viruses into North America raises concern for further virus spread across the Americas through wild bird migration.

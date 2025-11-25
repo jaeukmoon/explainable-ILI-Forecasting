@@ -1,0 +1,13 @@
+First, virologic surveillance plays a critical role by monitoring the percentage of specimens tested that are positive for influenza in both clinical and public health laboratories. For the reported period, 0.5% of specimens tested in clinical laboratories and 0.3% of specimens tested in public health laboratories were positive for influenza.
+
+Outpatient respiratory illness surveillance, specifically the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet), tracks the percentage of patient visits for influenza-like illness (ILI). For this season, 1.5% of patient visits reported through ILINet were due to respiratory illness that included fever plus a cough or sore throat.
+
+Geographic activity of ILI is also monitored, with an ILI activity map showing the activity level in different states/jurisdictions. During the reported period, ILI activity levels ranged from minimal to moderate across the country.
+
+Hospitalization surveillance, including FluSurv-NET and HHS Protect, provides information on laboratory-confirmed influenza-related hospitalizations. The data indicate the number of hospitalizations due to influenza during the reported period.
+
+Mortality surveillance is conducted to monitor the number of deaths attributed to influenza, pneumonia, and COVID-19. During the reported period, 10.0% of deaths were due to pneumonia, influenza, and/or COVID-19, which is above the epidemic threshold.
+
+Pediatric mortality surveillance tracks influenza-associated deaths among children. No influenza-associated pediatric deaths occurring during the current season have been reported to CDC.
+
+These surveillance systems provide valuable information for predicting future ILI occurrence and understanding the impact of influenza on public health.

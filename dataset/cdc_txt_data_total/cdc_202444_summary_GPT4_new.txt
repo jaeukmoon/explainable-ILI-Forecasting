@@ -1,0 +1,15 @@
+Week44, 2024
+1. Influenza activity nationally remains low, with slight increases observed among pediatric cases.
+2. Clinical labs reported 947 positive specimens (1.6% positivity); 92.7% were Influenza A and 7.3% Influenza B.
+3. Public health labs reported 134 positive specimens, 94.8% Influenza A and 5.2% Influenza B, with A(H1N1)pdm09 (52.4%) and A(H3N2) (43.8%) dominating.
+4. Eleven human cases of Influenza A(H5) were reported this week, with no evidence of human-to-human transmission.
+5. The first pediatric death of the 2024-2025 season was reported, alongside a belatedly reported pediatric death from the prior season.
+6. Outpatient visits for influenza-like illness (ILI) increased slightly to 2.5%, remaining below the national baseline.
+7. Emergency department visits for influenza were stable at 0.3%; increases were seen in the 0-4 and 5-17 age groups.
+8. Hospitalization rates remained low, with a cumulative rate of 0.7 per 100,000 population since the season’s start.
+9. Mortality attributed to influenza was stable at 0.04%, showing no significant change from the previous week.
+10. CDC recommends annual flu vaccination for individuals aged 6 months and older; no significant changes in vaccination trends were noted.
+11. Co-circulation of multiple respiratory viruses, including SARS-CoV-2 and RSV, continues to impact ILI data and surveillance.
+12. Regional variations highlight uneven distribution of circulating influenza subtypes A(H1N1)pdm09 and A(H3N2).
+13. Two influenza A(H1N1)pdm09 viruses showed highly reduced inhibition to antivirals oseltamivir and peramivir.
+14. Future flu activity remains uncertain due to ongoing viral co-circulation and regional differences in strain distributions.

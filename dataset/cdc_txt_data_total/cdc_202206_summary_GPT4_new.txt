@@ -1,0 +1,13 @@
+Week6, 2022
+1. Influenza activity remains sporadic nationally, showing slight increases in some areas, with 3.0% of clinical specimens testing positive for influenza.
+2. Influenza A(H3N2) dominates, making up 98.2% of positive clinical specimens and 99.8% of public health lab positives. Influenza B constitutes a minimal 1.8%-0.2%.
+3. Outpatient visits for respiratory illnesses represent 1.4% of visits, below baseline, with no jurisdictions reporting high or very high activity.
+4. Hospitalization rates are 4.7 per 100,000, higher than 2020-2021 but lower than pre-COVID-19 levels; 94.1% of hospitalized cases are influenza A, mainly A(H3N2).
+5. Deaths due to pneumonia, influenza, or COVID-19 (PIC) reached 22.6%, above the epidemic threshold, although most PIC deaths are attributed to COVID-19, not influenza.
+6. No pediatric deaths were reported this week; five have occurred this season.
+7. One human infection with a variant influenza A(H1N2) virus was reported in California, bringing the total of such cases to three this season; no sustained human transmission was detected.
+8. Vaccination rates remain lower than the prior season; CDC continues to recommend vaccination for all individuals aged six months and older.
+9. Influenza and multiple other respiratory viruses are co-circulating, with varying regional contributions to influenza-like illness.
+10. Genetic characterization reveals A(H3N2) viruses are closely related to the vaccine virus but show some antigenic differences due to evolution.
+
+11. Key insights: Continuing increases in influenza A(H3N2) activity, low vaccination coverage, and co-circulation of respiratory viruses may contribute to future fluctuations in flu activity, compounded by challenges in healthcare-seeking behavior due to the ongoing COVID-19 pandemic.

@@ -1,0 +1,12 @@
+Week36, 2022
+1. Influenza activity is low nationally, with 0.7% of clinical lab specimens testing positive, primarily Influenza A (94.3%) over Influenza B (5.7%).
+2. Public health labs confirmed 38 positive specimens, all Influenza A, mainly H3N2 (85.2%), and no Influenza B reported.
+3. Outpatient visits for ILI accounted for 1.9% of visits, with notable variation across age groups (7.8% in children under 4 and lower rates in older groups).
+4. Two human infections with novel influenza A (H1N2v) were identified in Michigan and Wisconsin; no evidence of person-to-person transmission was found.
+5. Mortality from pneumonia, influenza, or COVID-19 (PIC) accounted for 9.2% of deaths, surpassing the epidemic threshold, with most attributable to COVID-19.
+6. One pediatric death associated with Influenza A (H3) was reported for the 2021-2022 season, bringing the total to 35 pediatric deaths.
+7. Hospitalizations for influenza reached 577 cases in week 36, with cumulative hospitalization data for the season being updated.
+8. 23 long-term care facilities reported at least one influenza-positive resident, representing 0.2% of reporting facilities.
+9. Vaccination trends were not explicitly discussed, but annual influenza vaccination remains encouraged by CDC.
+10. Respiratory illness surveillance shows co-circulation of multiple viruses (e.g., RSV, SARS-CoV-2), complicating attribution to influenza activity.
+

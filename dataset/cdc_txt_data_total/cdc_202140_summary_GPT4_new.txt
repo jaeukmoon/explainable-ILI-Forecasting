@@ -1,0 +1,11 @@
+Week40, 2021
+1. Influenza activity remains low nationwide, with clinical labs reporting 0.1% of specimens testing positive for influenza.
+2. Among clinical lab positives, 57.1% were Influenza A and 42.9% were Influenza B.
+3. Public health labs identified 13 positive specimens, with 61.5% being Influenza A (predominantly subtyped as (H1N1)pdm09 and H3N2) and 38.5% Influenza B across various lineages.
+4. Outpatient visits for influenza-like illness (ILI) accounted for 1.9% of visits, below the national baseline of 2.5%, showing limited influenza spread.
+5. No pediatric deaths associated with influenza were reported for the season.
+6. Pneumonia, influenza, or COVID-19 (PIC) accounted for 18.0% of weekly deaths, significantly above the epidemic threshold, driven primarily by COVID-19.
+7. Hospitalizations for influenza included 276 laboratory-confirmed admissions last week; cumulative rates will be updated later.
+8. Vaccination efforts are ongoing, and the CDC recommends individuals over 6 months get vaccinated by the end of October.
+9. Healthcare data interpretation remains challenging due to shifts in care-seeking behaviors and overlapping SARS-CoV-2 trends.
+10. Influenza virus circulation remains limited, with minimal regional activity, while increases in outpatient respiratory illnesses are attributed to non-influenza pathogens.

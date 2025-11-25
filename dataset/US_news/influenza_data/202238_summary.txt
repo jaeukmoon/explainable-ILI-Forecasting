@@ -1,0 +1,7 @@
+1. Influenza virus outbreaks pose significant risks to global health, and public health authorities rely on clinical surveillance to locate and monitor cases and outbreaks.
+2. Wastewater surveillance (WWS) is being explored as a less resource-intensive method to complement clinical surveillance for monitoring influenza outbreaks.
+3. By analyzing viral fragments in wastewater, researchers have shown that influenza virus targets are stable in wastewater and can be quantified, typed, and subtyped.
+4. WWS has the potential to provide an early warning of flu outbreaks, as demonstrated in a study where a citywide flu outbreak was forecasted with a 17-day lead time using wastewater analysis.
+5. WWS can also provide population-level viral subtyping in near real-time, offering valuable information for public health response.
+6. WWS is a promising tool for influenza surveillance at both the municipal and neighborhood levels, requiring minimal resources and infrastructure.
+7. WWS can provide anonymous and aggregated data quickly and at low cost, supporting and complementing clinical surveillance programs and enhancing health emergency response.

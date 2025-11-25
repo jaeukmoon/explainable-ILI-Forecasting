@@ -1,0 +1,5 @@
+- Influenza vaccination shortly after a myocardial infarction (MI) or in high-risk coronary heart disease reduces the risk of future cardiovascular events.
+- The IAMI trial found that influenza vaccination was associated with a 28% reduction in the risk of a composite of all-cause death, MI, or stent thrombosis compared with placebo.
+- Influenza vaccination also reduced all-cause mortality by 41% and cardiovascular mortality by 41%.
+- An exploratory meta-analysis including data from the IAMI trial and three previous smaller trials showed a 50% reduction in the risk of cardiovascular death at 1 year in patients receiving influenza vaccination.
+- The findings suggest that a flu shot in the hospital to patients treated for MI should be implemented.

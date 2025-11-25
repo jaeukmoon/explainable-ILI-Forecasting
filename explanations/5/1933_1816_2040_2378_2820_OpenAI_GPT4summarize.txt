@@ -1,0 +1,13 @@
+1. The past time-series ILI occurrences over the 5 weeks displayed a steady upward trend, with values of ['1933', '1816', '2040', '2378', '2820']. Despite a slight decrease from 1933 (Week 7, 2022) to 1816 (Week 8, 2022), the subsequent weeks showed consistent increases, culminating in the highest value of 2820 (Week 11, 2022). This overall upward trend indicates rising ILI activity by the end of the period, aligning with the subsequent reported increase in future ILI occurrences.
+
+2. A positive correlation between past and future ILI occurrences is evident, as the progressive increase in the latter weeks of the past data (Weeks 10–11, 2022) aligns with the reported surge in future ILI occurrences to 4487 by Week 16, 2022. The steady growth in Weeks 10 and 11 suggests rising momentum in respiratory illnesses, which logically extends into the future period.
+
+3. Influenza test positivity rates showed consistent increases across clinical specimens, rising from 4.2% (Week 7, 2022) to 7.7% (Week 11, 2022). This indicates escalating influenza activity, heavily dominated by Influenza A(H3N2), which likely contributed to the sustained rise in ILI occurrences.  
+
+4. Hospitalizations due to influenza also increased continuously over the 5 weeks, with cumulative rates climbing from 4.9 per 100,000 (Week 7, 2022) to 6.5 per 100,000 (Week 11, 2022). This trend underscores worsening influenza severity, correlating with the observed future surge in ILI occurrences.
+
+5. Multiple respiratory viruses, including SARS-CoV-2 and RSV, were co-circulating throughout Weeks 7–11, 2022, complicating illness patterns and amplifying overall respiratory illness activity. Notably, co-infections were identified in 5.9%-6.1% of cases, potentially exacerbating ILI occurrences.
+
+6. Widespread antigenic differences in circulating Influenza A(H3N2) viruses relative to the vaccine strain were noted during Weeks 7–11, 2022, reducing vaccine effectiveness and leaving populations more susceptible to illness. Compounded by lower vaccination uptake this season, increased susceptibility likely contributed to the sharp rise in ILI occurrences after Week 11, 2022.
+
+7. In summary, the reported 4487 future ILI occurrences (Week 16, 2022) can be attributed to the escalating trend in Weeks 10–11, increasing influenza test positivity rates, rising hospitalizations, co-circulating respiratory viruses, and reduced vaccine effectiveness due to antigenic drift in H3N2. These factors collectively drove the amplification of ILI activity into the future period.

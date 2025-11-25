@@ -1,0 +1,6 @@
+- The National Institutes of Health (NIH) has launched a clinical trial for a universal influenza vaccine candidate.
+- The trial is a Phase 1 trial, assessing the safety and immunogenicity of the investigational nanoparticle influenza vaccine known as FluMos-v1.
+- FluMos-v1 is designed to provide long-lasting protection against multiple flu virus strains by displaying part of the influenza virus hemagglutinin (HA) protein on self-assembling nanoparticle scaffolds.
+- The experimental vaccine has performed well in pre-clinical testing and has shown promising results in eliciting a robust antibody response in animal models.
+- The ultimate goal of universal influenza vaccines like FluMos-v1 is to eliminate the need for annual vaccination by generating long-lasting antibodies that protect against a broad range of influenza virus strains.
+- The trial will involve healthy participants aged 18 to 50 years old who will receive either the licensed seasonal influenza vaccine or FluMos-v1.

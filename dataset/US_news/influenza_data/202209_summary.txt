@@ -1,0 +1,6 @@
+- The study examined the effects of natural influenza virus infection on subsequent infection with the same influenza virus subtype/lineage in a pediatric cohort in Managua, Nicaragua.
+- The researchers observed homotypic protection from repeat infection in children infected with influenza A/H1N1pdm, A/H3N2, and B/Victoria viruses, but not with B/Yamagata viruses.
+- Protection against repeat infection waned over time or as antigenic distance increased.
+- Individuals infected with one subtype or lineage of influenza virus had significantly lower odds of homologous reinfection for the following one to two years, but after two years, protection waned.
+- The findings demonstrate that homotypic protection occurs across multiple seasons, subtypes, and lineages of influenza among children.
+- The study contributes to a better understanding of the period of protection from repeat infection following symptomatic influenza and can inform predictions about future influenza seasons.

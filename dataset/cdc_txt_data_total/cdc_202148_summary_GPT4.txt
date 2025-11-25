@@ -1,0 +1,20 @@
+Week48, 2021
+- **Viruses, illness, and deaths**: Influenza activity is still low but increasing, with 2.6% of respiratory specimens testing positive in clinical labs. Influenza A(H3N2) predominates, making up most of the detected cases. No pediatric influenza-associated deaths were reported this season. 17.5% of deaths were attributed to pneumonia, influenza, or COVID-19, primarily driven by COVID-19.
+
+- **U.S. virologic surveillance**: Of clinical lab positives, 97.2% were Influenza A, and 2.8% were Influenza B. Public health labs found 99.1% of positive specimens as Influenza A, almost all H3N2 (409 cases this week), with minimal Influenza B.
+
+- **Cumulative hospitalization rate**: 841 patients were hospitalized with confirmed influenza this week. Hospitalization rates will be updated later in the season.
+
+- **Trends of deaths attributed to influenza**: Deaths attributed to pneumonia, influenza, or COVID-19 exceed the epidemic threshold, largely due to COVID-19.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A dominates at 97.2% (clinical labs) and 99.1% (public health labs). Influenza B is limited to 2.8% in clinical labs and 0.9% in public health labs.
+
+- **Novel Influenza virus like COVID-19 (SARS-CoV-2)**: No reports of novel influenza viruses such as COVID-19. COVID-19 constitutes a major contributing factor to respiratory illness and mortality.
+
+- **Vaccination trends**: Flu vaccination uptake is lower than last season. CDC continues recommending flu vaccination for everyone 6 months or older, emphasizing accessibility and urging action as flu activity increases.
+
+- **Outpatient respiratory illness visits**: 2.5% of outpatient visits for respiratory illness (ILI) remained at the national baseline, with increasing trends across all age groups. Six jurisdictions reported moderate ILI activity, and one reported high activity.
+
+- **Expectation of flu activity from CDC**: Influenza activity is expected to continue increasing in the coming weeks.
+
+- **Other key factors**: Co-circulation of multiple respiratory viruses (e.g., RSV, SARS-CoV-2) contributes to respiratory activity variability by location. The majority of detected Influenza A(H3N2) cases occur among children and young adults (5-24 years), with an increasing trend in adults (25+ years). Minimal influenza impact observed in long-term care facilities, with only 0.4% reporting flu-positive tests.

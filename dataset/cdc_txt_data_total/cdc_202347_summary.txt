@@ -1,0 +1,9 @@
+1. Seasonal influenza activity is increasing in most parts of the country, particularly in the South Central, Southeast, Mountain, and West Coast regions.
+2. The predominant influenza virus circulating is Influenza A(H1N1)pdm09, followed by Influenza B.
+3. Outpatient visits for respiratory illness, including ILI (fever plus cough or sore throat), are above the national baseline.
+4. ILI activity is highest in the 5-24 years and 50-64 years age groups.
+5. FluSurv-NET hospitalization rates are increasing, with the highest rates among adults aged 65 years and older.
+6. The cumulative hospitalization rate for the 2023-2024 season is higher compared to previous seasons.
+7. The percentage of deaths attributed to pneumonia and influenza is below the epidemic threshold.
+8. There have been no reported pediatric deaths associated with influenza in the 2019-2020 season, but 8 deaths occurred in the 2018-2019 season.
+9. Antiviral drugs are available to treat influenza illness, and vaccination is recommended as the best way to protect against influenza and its complications.

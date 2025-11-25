@@ -1,0 +1,20 @@
+Week22, 2023
+- **Viruses, illness, and deaths**: Influenza activity remains low, with 1.1% of specimens tested in clinical labs positive. Influenza A (49.4%) and Influenza B (50.6%) were evenly distributed during Week 22. A total of 6.2% of deaths were attributed to pneumonia, influenza, and/or COVID-19 (PIC), reaching the epidemic threshold. Influenza-associated pediatric mortality reported one additional death this season, bringing the total to 155.
+
+- **U.S. virologic surveillance**: Cumulatively, 10.1% of respiratory specimens tested since Week 40 were influenza-positive, with 97.8% being Influenza A and 2.2% Influenza B. Public health labs report 96.9% of positive specimens as Influenza A, primarily H1N1pdm09 (93.8% in Week 22). Influenza B primarily belongs to the Victoria lineage.
+
+- **Cumulative hospitalization rate**: Hospital data through Week 22 show 953 laboratory-confirmed influenza-related hospital admissions during the week.
+
+- **Trends of deaths attributed to influenza**: Weekly PIC deaths remain at 6.2%, consistent with the epidemic threshold. Among these, 17 deaths involved influenza, while 266 involved COVID-19.
+
+- **Percentage of Influenza A and Influenza B**: In Week 22, Influenza A and Influenza B each accounted for roughly 50% of positives in clinical labs. Cumulatively, Influenza A dominated at 97.8%.
+
+- **Novel Influenza virus like COVID-19**: No novel influenza virus cases, including SARS-CoV-2, were reported.
+
+- **Vaccination trends**: No specific vaccination data or updates were provided in this report.
+
+- **Outpatient respiratory illness visits**: Nationwide, 1.9% of outpatient visits were for ILI, below the national baseline. Children aged 0-4 years presented the highest respiratory illness rates (6.1%).
+
+- **Expectation of flu activity from CDC**: Influenza activity is expected to remain low during the summer.
+
+- **Other key factors**: Pediatric mortality data noted one new influenza-associated case from early 2023. Minimal ILI activity was reported in most jurisdictions, with high activity in only two areas. Multiple respiratory viruses are co-circulating.

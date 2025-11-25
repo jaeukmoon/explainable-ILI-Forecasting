@@ -1,0 +1,21 @@
+Week34, 2024
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains low nationwide, with 0.4% of clinical specimens positive for influenza in Week 34. Deaths due to influenza accounted for 0.06%. One pediatric influenza-associated death was reported, bringing the season total to 195.
+
+- **U.S. virologic surveillance**: Influenza A(H1N1)pdm09, A(H3N2), and B viruses are co-circulating nationally. Clinical lab positive specimens: 85.7% Influenza A, 14.3% Influenza B. Public health lab positive specimens: 96.4% Influenza A, 3.6% Influenza B. Influenza A was primarily A(H1N1)pdm09 at 61.7% and A(H3N2) at 38.3%.
+
+- **Cumulative hospitalization rate**: Weekly hospitalization rate remains at 0.0 per 100,000. A cumulative total of 25,405 influenza-associated hospitalizations has been reported this season.
+
+- **Trends of deaths attributed to influenza**: 0.06% of deaths this week were attributed to influenza, remaining stable from the previous week.
+
+- **Percentage of Influenza A and B**: Influenza A accounted for 85.7% of clinical lab positives and 96.4% of public health lab positives. Influenza B accounted for 14.3% of clinical lab positives and 3.6% of public health lab positives.
+
+- **Novel influenza virus (like COVID-19)**: No new human infections with novel influenza A viruses reported this week. There have been 20 cases of novel influenza A reported this season, including seven variant cases (H1N2v, H3N2v, and H1N1v) and 13 cases of A(H5).
+
+- **Vaccination trends**: No specific vaccination data this week, but vaccination remains critical for prevention.
+
+- **Outpatient respiratory illness visits**: 1.8% of outpatient visits nationwide were due to respiratory illness, below the national baseline. Minimal activity was reported in most jurisdictions.
+
+- **Expectation of flu activity from CDC**: CDC expects low influenza activity to continue.
+
+- **Other key factors**: Multiple respiratory viruses, including RSV and COVID-19, continue to co-circulate, contributing to respiratory illnesses. Monitoring for influenza A(H5N1) outbreaks in poultry and other animals remains critical for assessing risks.
+

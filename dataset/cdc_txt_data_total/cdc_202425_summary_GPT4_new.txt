@@ -1,0 +1,11 @@
+Week25, 2024
+1. Influenza activity remains low nationwide, with 1.1% of respiratory specimens testing positive for influenza in clinical labs.
+2. Of the 352 clinical lab positive specimens, 80.4% were Influenza A and 19.6% were Influenza B.
+3. Public health labs reported 101 positive specimens, with 81.2% Influenza A (62.5% H3N2, 37.5% H1N1) and 18.8% Influenza B (100% Victoria lineage).
+4. Outpatient visits for respiratory illness accounted for 1.5%, below the baseline, with no jurisdictions reporting moderate or higher activity levels.
+5. Weekly hospitalization rate for influenza was 0.2 per 100,000 population, showing very low activity.
+6. Deaths attributed to influenza accounted for 0.1% of total deaths, while three pediatric influenza-associated deaths were reported this week, bringing the season's total to 181.
+7. Two human infections with novel Influenza A(H1N2)v were reported in Pennsylvania, linked to swine exposure, with no evidence of sustained human-to-human transmission.
+8. Influenza A (H1N1)pdm09, A(H3N2), and B/Victoria viruses co-circulate, with high antigenic similarity to vaccine strains and minimal antiviral resistance observed.
+9. Vaccination trends were not detailed in this report but importance was emphasized for high-risk groups.
+10. Future flu activity remains uncertain, as multiple respiratory viruses, including RSV and SARS-CoV-2, contribute to respiratory illnesses in varying proportions.

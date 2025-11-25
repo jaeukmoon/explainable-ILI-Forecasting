@@ -1,0 +1,12 @@
+Week41, 2022
+- **Viruses, illness, and deaths:** Early increases in influenza activity are observed across the U.S., with Influenza A (H3N2) being most frequently reported. 8.8% of deaths this week were attributed to pneumonia, influenza, or COVID-19 (above the epidemic threshold of 5.8%). No influenza-associated pediatric deaths were reported.  
+- **U.S. virologic surveillance:** Clinical laboratories report 4.4% of respiratory specimens testing positive for influenza; 97.3% were Influenza A and 2.7% Influenza B. Public health laboratories report 98.5% positive specimens as Influenza A (77.5% subtype H3N2 and 22.5% H1N1) and 1.5% as Influenza B.  
+- **Cumulative hospitalization rate:** Hospitalization rates will be updated later, with 1,674 laboratory-confirmed influenza-related hospital admissions reported this week.  
+- **Trends of deaths attributed to influenza:** 8.8% of deaths (above threshold) are attributed to pneumonia, influenza, or COVID-19, driven mostly by COVID-19. Influenza-related deaths remain low.  
+- **Percentage of Influenza A and Influenza B:** Influenza A dominates with 97.3% of clinical lab positives and 98.5% of public health lab positives. Influenza B accounts for 2.7% and 1.5%, respectively.  
+- **Novel influenza virus (like COVID-19):** A human infection with an influenza A(H3N2)v variant (associated with swine exposure) was recently reported, bringing the total for 2022 to nine novel influenza A infections. No sustained human-to-human transmission is identified.  
+- **Vaccination trends:** CDC emphasizes the flu vaccine as the best prevention and recommends vaccination for everyone aged 6 months and older by the end of October.  
+- **Outpatient respiratory illness visits:** Nationwide, 3.0% of outpatient visits were due to respiratory illness (above the 2.5% national baseline). Regions 2, 3, 4, and 6 are above baseline, with notable co-circulation of respiratory viruses like RSV and SARS-CoV-2.  
+- **Expectation of flu activity from CDC:** Influenza activity is increasing and widespread in southeast and south-central regions, with continued monitoring and potential increases expected.  
+- **Other key factors:** Eight jurisdictions report moderate respiratory illness activity, and 10 jurisdictions experience high or very high activity, showing regional variability. Long-term care facilities reported 0.4% of facilities with at least one influenza-positive test.  
+

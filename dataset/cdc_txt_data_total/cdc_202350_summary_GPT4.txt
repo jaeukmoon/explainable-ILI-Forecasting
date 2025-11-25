@@ -1,0 +1,20 @@
+Week50, 2023
+- **Viruses, illness, and deaths**: Influenza activity elevated and increasing nationwide. 12.8% of clinical specimens tested positive for influenza in week 50. Influenza A(H1N1) predominates among public health lab-reported specimens. 0.3% of deaths were attributed to influenza this week, stable but trending upward. No reported pediatric flu deaths this week, total of 14 pediatric deaths this season.
+
+- **U.S. virologic surveillance**: 81.9% of positive public health lab specimens were Influenza A, with 78.2% subtyped as A(H1N1) and 21.8% as A(H3N2). Influenza B accounts for 18.1% of positive public health specimens (100% Victoria lineage). Clinical labs report 82.8% of positive specimens as Influenza A and 17.2% as Influenza B.
+
+- **Cumulative hospitalization rate**: 11.3 per 100,000 population, the second-highest observed for week 50 since 2010. Adults 65+ years have the highest rate of 28.1.
+
+- **Trends of deaths attributed to influenza**: 0.3% of deaths due to influenza, stable compared to the previous week but has been trending upward.
+
+- **Percentage of Influenza A and Influenza B**: 82.8% Influenza A (clinical labs) and 81.9% Influenza A (public health labs); Influenza B represents 17.2% (clinical) and 18.1% (public health).
+
+- **Novel influenza virus (like COVID-19)**: No novel influenza viruses reported. COVID-19, RSV, and flu activity integrated into respiratory disease data.
+
+- **Vaccination trends**: CDC continues to recommend vaccination for all persons aged 6 months and older. Vaccines remain available, and it is not too late to get vaccinated.
+
+- **Outpatient respiratory illness visits**: 5.1% reported respiratory illness visits, above the 2.9% baseline for seven consecutive weeks. 11 jurisdictions reported moderate ILI activity; 25 jurisdictions reported high or very high activity.
+
+- **Expectation of flu activity from CDC**: Flu activity continues to increase; CDC expects ongoing high activity in many regions.
+
+- **Other key factors**: Hospital admissions for flu are rising, with 9,825 hospitalizations reported in week 50. Regions 8, 6, 4, and 9 reported the highest positivity rates for respiratory specimens (23.6%, 17.5%, 15.5%, and 14.3%, respectively).

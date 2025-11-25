@@ -1,0 +1,20 @@
+Week45, 2022
+- **Viruses, illness, and deaths**: Seasonal influenza activity is elevated. Influenza A (H3N2) predominates, with a growing proportion of A(H1N1). Estimated 4.4 million illnesses, 38,000 hospitalizations, and 2,100 deaths from influenza so far this season. Seven pediatric deaths, including two additional reports this week, were noted this season.
+
+- **U.S. virologic surveillance**: 14.7% of clinical lab specimens tested positive for influenza, mostly Influenza A (99.2%, with A(H3N2) being 75.4% of subtyped Influenza A). Influenza A accounted for 99.9% of public health lab positives.  
+
+- **Cumulative hospitalization rate**: Highest cumulative hospitalization rate for a Week 45 since 2010-11: 8.1 per 100,000 population. Rates are highest for adults aged 65+ (18.6), followed by children aged 0-4 (13.6).
+
+- **Trends of deaths attributed to influenza**: 9.4% of deaths were attributed to pneumonia, influenza, or COVID-19 (above the 6.2% epidemic threshold). Flu-related deaths remain a smaller proportion of PIC deaths but are increasing.
+
+- **Percentage of Influenza A and B**: Influenza A dominates with 99.2% of clinical and 99.9% of public health lab positives. Influenza B is minimal (0.8% clinical, 0.1% public health).
+
+- **Novel influenza virus (like COVID-19)**: COVID-19 contributes to most PIC deaths, with no mention of novel influenza viruses.
+
+- **Vaccination trends**: Most detected viruses are similar to the vaccine strains. Vaccination is emphasized as the best preventive measure, with the recommendation that individuals 6 months and older get vaccinated.
+
+- **Outpatient respiratory illness visits**: 5.8% of outpatient visits were for respiratory illnesses, above the national baseline of 2.5%. High or very high activity levels were reported in 30 jurisdictions.
+
+- **Expectation of flu activity from CDC**: Elevated and increasing flu activity is expected, with multiple respiratory viruses, including RSV and SARS-CoV-2, co-circulating.
+
+- **Other key factors**: 1.2% of long-term care facilities reported influenza-positive tests among residents. Elevated ILI visits across all age groups except for stable rates in ages 5-24.

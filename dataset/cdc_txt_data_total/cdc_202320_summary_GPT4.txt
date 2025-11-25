@@ -1,0 +1,20 @@
+Week20, 2023
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains low. Influenza B is now the predominant virus (63.9% of public health lab positives), while Influenza A makes up 36.1%, with all subtyped Influenza A viruses being H1N1. Cumulative season estimates include 27 million illnesses, 300,000 hospitalizations, and 19,000 deaths. 6.5% of deaths in Week 20 were attributed to pneumonia, influenza, or COVID-19.
+
+- **U.S. virologic surveillance**: Clinical labs reported 1.1% of specimens positive for influenza, consisting of 30.4% Influenza A and 69.6% Influenza B. Public health labs showed similar patterns with 36.1% Influenza A and 63.9% Influenza B. A total of 97.3% of viruses tested this season were Influenza A, with 72.8% of those subtyped as H3N2 and 27.2% H1N1. No Influenza B/Yamagata viruses were detected.
+
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate for the season is 62.6 per 100,000 population, with the highest rate occurring among adults aged 65 and older.
+
+- **Trends of deaths attributed to influenza**: The percentage of deaths attributed to pneumonia, influenza, and COVID-19 remained stable at 6.5%, slightly above the epidemic threshold of 6.4%.
+
+- **Percentage of Influenza A and Influenza B**: Influenza B viruses predominated in both public health labs (63.9%) and clinical labs (69.6%). Among Influenza A viruses reported this season, 74.8% were H3N2 and 25.3% were H1N1.
+
+- **Novel influenza virus (like COVID-19)**: No reports of novel influenza viruses, including variations like H3N2v. SARS-CoV-2 co-infection was noted in 3.7% of influenza-related hospitalizations with complete data.
+
+- **Vaccination trends**: This season's influenza vaccine was antigenically well-matched to circulating viruses, offering strong protection. CDC continues to recommend annual vaccination for everyone aged 6 months and older.
+
+- **Outpatient respiratory illness visits**: 2.0% of outpatient visits nationwide were for influenza-like illness (ILI), below the national baseline of 2.5%. Two jurisdictions reported high ILI activity, and one reported moderate activity. Eight of 10 HHS regions were below their respective ILI baselines.
+
+- **Expectation of flu activity from CDC**: Flu activity is expected to remain low as the season concludes.
+
+- **Other key factors**: Long-term care facilities reported 0.3% positivity for influenza tests among residents. Pediatric deaths for the season have totaled 154, with two additional deaths reported during Week 20. Laboratory testing confirmed viruses' continued susceptibility to all antiviral medications except for one H1N1 virus with reduced susceptibility to oseltamivir.

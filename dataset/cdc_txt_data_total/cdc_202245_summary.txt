@@ -1,0 +1,12 @@
+According to the CDC FluView report for Week 45 ending on November 12, 2022, the key facts regarding predicting future ILI occurrence are:
+
+- Seasonal influenza activity is elevated across the country.
+- The majority of influenza viruses detected this season are influenza A(H3N2) viruses, but the proportion of subtyped influenza A viruses that are A(H1N1)pdm09 is increasing slightly.
+- Two more influenza-associated pediatric deaths were reported during the week, bringing the total to seven pediatric deaths reported so far this season.
+- CDC estimates that there have been at least 4.4 million illnesses, 38,000 hospitalizations, and 2,100 deaths from influenza so far this season.
+- The cumulative hospitalization rate in the FluSurv-NET system is higher than the rate observed in week 45 during every previous season since 2010-2011.
+- The majority of influenza viruses tested are genetically similar to the viruses included in this season's influenza vaccine.
+- CDC recommends an annual flu vaccine as the best way to protect against influenza and its potentially serious complications.
+- There are also prescription flu antiviral drugs available that can be used to treat flu illness.
+
+These facts provide insights into the current influenza activity, severity, and the effectiveness of the influenza vaccine, which can inform predictions about future ILI occurrence.

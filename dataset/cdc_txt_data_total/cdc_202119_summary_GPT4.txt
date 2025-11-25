@@ -1,0 +1,20 @@
+Week19, 2021
+- **Viruses, illness, and deaths**: Influenza activity remains exceptionally low. Clinical labs reported 0.1% of respiratory specimens tested positive for influenza. Among positives, 59.1% were Influenza A and 40.9% Influenza B. 10.1% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), well above the epidemic threshold of 6.4%, primarily due to COVID-19. No new influenza-associated pediatric deaths were reported; total pediatric deaths for the season remain at one.
+
+- **U.S. virologic surveillance**: Public health labs reported no new positive influenza specimens this week. Cumulatively, since Week 40 of 2020, 61.2% of Influenza A virus specimens were identified (dominantly H3N2 at 52.5%) and 38.8% Influenza B (60% Victoria lineage).
+
+- **Cumulative hospitalization rate**: The cumulative influenza-related hospitalization rate is 0.8 per 100,000 population, one-tenth of the rate seen in the low-severity 2011–2012 season.
+
+- **Trends of deaths attributed to influenza**: PIC deaths (10.1%) remain driven primarily by COVID-19, with influenza contributing minimally.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A (59.1% of clinical positives, 61.2% of public health positives), Influenza B (40.9% of clinical positives, 38.8% of public health positives).
+
+- **Novel influenza virus (like COVID-19)**: No novel influenza viruses were reported.
+
+- **Vaccination trends**: Annual flu vaccination remains the recommended measure for prevention, with emphasis on its protective benefits.
+
+- **Outpatient respiratory illness visits**: ILI visits were 1.2%, below the national baseline of 2.6%. All jurisdictions reported minimal ILI activity. Data should be interpreted cautiously due to COVID-19 impact.
+
+- **Expectation of flu activity from CDC**: CDC reports unusually low influenza activity this season.
+
+- **Other key factors**: Increased ILI percentages were seen among children aged 0–4 years. COVID-19 continues to impact health-seeking behavior and surveillance data accuracy.

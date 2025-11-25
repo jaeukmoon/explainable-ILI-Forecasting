@@ -1,0 +1,13 @@
+Week16, 2023
+1. Influenza activity remains low nationwide, with 0.8% of respiratory specimens testing positive for influenza this week.
+2. Public health labs reported that 60.5% of identified viruses were Influenza A and 39.5% were Influenza B; 76.5% of Influenza A were A(H1N1) and 23.5% were A(H3N2).
+3. Outpatient visits for influenza-like illness (ILI) accounted for 1.9%, staying below the national baseline of 2.5%.
+4. Cumulative influenza-associated hospitalization rate reached 61.8 per 100,000 population, with the highest rates in adults 65+ years (184.1).
+5. Deaths due to pneumonia, influenza, or COVID-19 (PIC) accounted for 7.5% of total reported deaths, remaining above the epidemic threshold.
+6. Two pediatric influenza-associated deaths were reported this week, bringing the season total to 145.
+7. Of the tested viruses this season, most were genetically similar to the vaccine strains; 99.9% were also susceptible to all antiviral medications.
+8. Vaccination is encouraged as flu activity continues; no specific vaccination uptake data reported.
+9. Long-term care facilities saw 0.3% reporting at least one influenza case, marking a greater-than-5% decrease week-over-week.
+10. HHS Protect hospitalizations for influenza decreased by over 5% this week to 984 admissions.
+
+11. Future predictions: Continued low activity is expected, though regional variations and co-circulating respiratory viruses, including COVID-19, warrant ongoing monitoring.

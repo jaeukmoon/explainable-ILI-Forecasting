@@ -1,0 +1,13 @@
+Week50, 2020
+1. Influenza activity in the U.S. remains unusually low for this time of year, with 0.3% of respiratory specimens testing positive for influenza.
+2. Clinical labs reported 75 positive specimens, with 17.3% Influenza A and 82.7% Influenza B.
+3. Public health labs reported seven positive specimens, all Influenza A, with subtypes including (H1N1)pdm09.
+4. Outpatient visits for ILI remain stable at 1.6% for the fourth consecutive week, below the national baseline of 2.6%.
+5. No change in ILI activity map trends, as most jurisdictions reported minimal activity; one jurisdiction experienced moderate activity.
+6. Hospitalization rates are not yet stable; 75 cases of laboratory-confirmed influenza-associated hospitalizations have been reported since October, lower than typical for this point in the season.
+7. 13.3% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), exceeding the epidemic threshold, with a majority tied to COVID-19.
+8. No new pediatric influenza-associated deaths reported; one pediatric death reported for the 2020-21 season.
+9. Vaccination is encouraged, though no specific vaccination data or trends were reported.
+10. COVID-19 continues to impact ILI surveillance reliability, requiring cautious data interpretation alongside other surveillance sources.
+
+11. Summary of predictive factors: Low influenza activity, shifting healthcare-seeking behaviors, and ongoing COVID-19 trends complicate predictions for future ILI activity. CDC advises continued monitoring.

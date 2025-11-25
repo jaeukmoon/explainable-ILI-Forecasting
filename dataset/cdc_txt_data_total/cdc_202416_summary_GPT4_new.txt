@@ -1,0 +1,11 @@
+Week16, 2024
+1. Influenza activity is declining nationally, with 4.8% of respiratory specimens testing positive for influenza this week.
+2. Public health labs reported 185 positive specimens, with 62.7% Influenza A (33.3% A(H1N1)pdm09, 66.7% A(H3N2)) and 37.3% Influenza B; only B/Victoria was detected for Influenza B.
+3. Outpatient visits for ILI accounted for 2.3%, below baseline for the third consecutive week; most regions reported declines or stable activity.
+4. Cumulative hospitalization rate for this season is 79.0 per 100,000 population, with the highest rates among adults aged 65+ years.
+5. Influenza-associated deaths accounted for 0.3% of total deaths this week, remaining stable from the previous week.
+6. Six pediatric deaths were reported this week, bringing the season's total to 148, with both Influenza A and B involved.
+7. Nationally, Influenza A accounted for 56.3% and Influenza B for 43.7% of positive clinical lab specimens this week.
+8. Despite observed virus co-circulation, no novel influenza viruses like H3N2v or B/Yamagata were detected.
+9. CDC continues recommending flu vaccination as flu activity persists; vaccination data were not updated in this report.
+10. Factors such as regional variability, high cumulative hospitalization rates, and co-circulating respiratory viruses, including COVID-19, could influence future flu trends.

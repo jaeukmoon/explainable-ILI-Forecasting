@@ -1,0 +1,6 @@
+- Live attenuated influenza vaccine (LAIV) can reduce the severity of heterosubtypic influenza virus infection in ferrets.
+- LAIV can induce both mucosal and cellular immune responses.
+- A single dose of LAIV specific to one influenza subtype provided full protection against a subsequent challenge with a different influenza subtype in ferrets.
+- The reduced severity of disease in the challenged ferrets included less weight loss and fever, as well as faster virus clearance.
+- Heterosubtypic protection was associated with interferon-gamma+ (IFN-γ+) T-cell responses, which were cross-reactive to the different influenza subtype, even in vaccinated animals that had never been exposed to that subtype.
+- This study highlights the importance of cross-reactive T-cells in the design of a universal influenza vaccine.

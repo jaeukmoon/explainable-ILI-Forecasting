@@ -1,0 +1,20 @@
+Week10, 2022
+- **Viruses, Illness, and Deaths:** Influenza activity is increasing across most of the country. Influenza A(H3N2) dominates detected cases, with 3 influenza-associated pediatric deaths this week, totaling 13 this season. Cumulative estimates: 2.9 million flu cases, 28,000 hospitalizations, and 1,700 deaths. 
+
+- **U.S. Virologic Surveillance:** 6.8% of respiratory specimens tested positive for influenza in clinical labs this week, with 98.9% Influenza A and 1.1% Influenza B. Public health labs reported 100% Influenza A positivity this week, with 99.9% H3N2. Antigenic variations in H3N2 viruses differ from vaccine reference viruses.
+
+- **Cumulative Hospitalization Rate:** The cumulative hospitalization rate is 5.9 per 100,000, higher than the 2020-2021 season but lower than pre-pandemic seasons (2016-2020). Hospitalizations consist of 94.6% Influenza A, largely H3N2.
+
+- **Trends of Deaths Attributed to Influenza:** 10.8% of mortality was attributed to pneumonia, influenza, or COVID-19, exceeding the epidemic threshold of 7.2%, primarily driven by COVID-19 rather than influenza.
+
+- **Percentage of Influenza A and Influenza B:** Nationally, clinical labs reported 98.9% Influenza A (predominantly H3N2) and 1.1% Influenza B positivity, with similar trends in cumulative data.
+
+- **Novel Influenza Virus (like COVID-19):** No new novel influenza viruses reported. Co-infection with SARS-CoV-2 occurred in 5.6% of flu-positive tests.
+
+- **Vaccination Trends:** Annual flu vaccination remains the best protection and is widely recommended for everyone aged 6 months and older during ongoing flu activity.
+
+- **Outpatient Respiratory Illness Visits:** 1.7% of outpatient visits were due to influenza-like illness (ILI), below the national baseline. Regions 6 and 7 have the highest flu activity. Respiratory illnesses, including influenza, show varied impact by location.
+
+- **Expectation of Flu Activity from CDC:** Flu activity is expected to continue rising, with more hospitalizations anticipated in the coming weeks.
+
+- **Other Key Factors:** Long-term care facilities reported 0.7% with at least one influenza-positive resident. Resistance to existing antiviral treatments remains low, but adamantane resistance in specific viruses persists.

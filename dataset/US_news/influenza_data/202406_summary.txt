@@ -1,0 +1,6 @@
+- The selection of optimal seed viruses for seasonal influenza vaccine production is essential for vaccine efficacy and supply.
+- Current methods for selecting influenza seed vaccines are labor-intensive and time-consuming.
+- A new framework called MAIVeSS (Machine-learning Assisted Influenza VaccinE Strain Selection) has been developed to streamline the selection process.
+- MAIVeSS uses molecular signatures of antigenicity and yield to identify naturally circulating, antigenically matched, and high-yield influenza vaccine strains.
+- The framework has the potential to reduce the time needed to select optimal vaccine candidates from months to days.
+- This streamlined process can facilitate timely supply of seasonal influenza vaccines.

@@ -1,0 +1,11 @@
+Week2, 2022
+1. Influenza activity remains elevated but declined slightly, with Influenza A(H3N2) being predominant, and flu activity is expected to continue for several weeks.
+2. Among clinical lab specimens, 98.6% were Influenza A and 1.4% Influenza B; public health labs reported 99.8% Influenza A and 0.2% Influenza B.
+3. The cumulative hospitalization rate is 3.9 per 100,000, higher than the previous season but lower than pre-COVID seasons.
+4. Pediatric deaths this season reached 5, with 2 additional deaths reported this week.
+5. Mortality attributed to pneumonia, influenza, or COVID-19 (PIC) is 25.5%, well above the epidemic threshold, but primarily driven by COVID-19.
+6. Outpatient respiratory illness visits for ILI accounted for 3.5%, above baseline, with decreases in all age groups; 14 jurisdictions reported moderate ILI activity and 14 reported high or very high activity.
+7. Early signs suggest lower flu vaccination coverage this season compared to last; flu vaccines are still recommended.
+8. Influenza and SARS-CoV-2 co-infections were detected in 1.8% of hospitalized flu patients, but no antiviral resistance was reported.
+9. The genetic match of circulating A(H3N2) viruses to the vaccine is close, but some antigenic differences were observed due to ongoing virus evolution.
+10. Influenza activity and trends vary by region, co-circulation of other respiratory viruses continues, and healthcare-seeking behavior affected by COVID-19 complicates interpretation.

@@ -1,0 +1,20 @@
+Week7, 2022
+- **Viruses, illness, and deaths**: Sporadic influenza activity reported nationally; Influenza A(H3N2) viruses predominate. One pediatric influenza-associated death reported, totaling six deaths for the season. CDC estimates 2.4M illnesses, 23,000 hospitalizations, and 1,400 deaths from influenza this season.  
+
+- **U.S. virologic surveillance**: 4.2% of clinical lab specimens were positive for influenza this week, 98.0% of which were Influenza A and 2.0% Influenza B. Public health labs report 99.7% of positive specimens as Influenza A (mostly H3N2) and 0.3% as Influenza B.
+
+- **Cumulative hospitalization rate**: 4.9 per 100,000 population, higher than in the 2020-2021 season but lower than the four pre-COVID pandemic seasons. Adults aged ≥65 have the highest hospitalization rate at 12.9 per 100,000.
+
+- **Trends of deaths attributed to influenza**: 20.4% of deaths were due to pneumonia, influenza, or COVID-19, above the epidemic threshold of 7.2%. Current deaths are primarily driven by COVID-19, with minimal contribution from influenza.
+
+- **Percentage of Influenza A and Influenza B**: Among clinical lab positives, 98.0% are Influenza A, and 2.0% are Influenza B. Public health labs identified 99.7% of infections as Influenza A, mostly H3N2, and 0.3% as Influenza B.
+
+- **Novel influenza virus like COVID-19**: Among 7,560 influenza-positive samples, 6.0% also tested positive for SARS-CoV-2. No novel influenza viruses identified.
+
+- **Vaccination trends**: Flu vaccination coverage is lower compared to last season. CDC continues to recommend flu vaccination for everyone aged ≥6 months, emphasizing vaccines as the best preventive measure.
+
+- **Outpatient respiratory illness visits**: 1.5% of outpatient visits were for influenza-like illness (ILI), below the national baseline. Two jurisdictions reported moderate ILI activity; the rest reported low or minimal activity. Rates increased among individuals aged 5–24 years but declined among other age groups.
+
+- **Expectation of flu activity from CDC**: Sporadic influenza activity is ongoing, with increases in some areas.
+
+- **Other key factors**: Hospital admissions for influenza have increased for three consecutive weeks. Among hospitalized adults, 90% have underlying medical conditions (e.g., hypertension, cardiovascular disease). For hospitalized children, 69.4% report at least one underlying condition, with asthma being the most common.

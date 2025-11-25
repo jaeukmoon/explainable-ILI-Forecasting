@@ -1,0 +1,6 @@
+- Influenza surveillance systems vary between countries and there is a lack of framework to evaluate them.
+- Surveillance systems in five European countries (France, Germany, Italy, Spain, and the United Kingdom) were evaluated by a panel of influenza experts.
+- Seven surveillance sub-systems were defined, covering a range of outcomes from non-medically attended cases to deaths.
+- Virological, primary care, and hospital surveillance were well developed in all countries, but other aspects such as non-medically attended cases and mortality estimates were inconsistently reported.
+- The developed framework allows for qualitative comparison of surveillance systems and can be used to identify structural differences and evaluate adherence to WHO guidance.
+- This framework can be adapted for other infectious respiratory diseases.

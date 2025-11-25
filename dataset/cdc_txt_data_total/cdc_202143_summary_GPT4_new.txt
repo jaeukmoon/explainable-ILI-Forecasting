@@ -1,0 +1,11 @@
+Week43, 2021
+1. Influenza activity remains low nationwide, with 0.2% of clinical specimens and an increasing number of public health specimens testing positive for influenza in recent weeks.
+2. Of the 52 clinical lab-positive specimens, 65.4% were Influenza A and 34.6% were Influenza B.
+3. Public health labs reported 35 positive specimens, with 91.4% being Influenza A, primarily H3N2, and 8.6% Influenza B, mostly of the Victoria lineage.
+4. Outpatient visits for influenza-like illness (ILI) accounted for 1.9% of visits, below the national baseline of 2.5%; activity levels were minimal across most of the U.S.
+5. No pediatric deaths associated with influenza have been reported during the 2021-22 season.
+6. Pneumonia, influenza, or COVID-19 (PIC) accounted for 15.6% of deaths, exceeding the epidemic threshold, with most attributed to COVID-19.
+7. Hospital surveillance reported 282 influenza-confirmed hospitalizations nationwide, though cumulative hospitalization rates remain unavailable.
+8. No significant vaccination trends were reported, though CDC emphasizes annual flu vaccinations as the best preventive measure.
+9. Respiratory illness trends show stability, with ILI trends unchanged across all age groups over the past four weeks.
+10. Flu activity could increase in coming weeks as the number of detected influenza cases rises steadily, while healthcare-seeking changes during COVID-19 may affect surveillance interpretation.

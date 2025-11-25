@@ -1,0 +1,11 @@
+Week11, 2023
+1. National influenza activity remains low, with 0.8% of respiratory specimens testing positive for influenza in clinical labs.
+2. Of the clinical lab specimens testing positive, 67.5% were Influenza A and 32.5% were Influenza B, with Influenza A(H1N1) being the dominant reported subtype.
+3. Outpatient visits for influenza-like illness (ILI) accounted for 2.4%, below the national baseline of 2.5%, with stable trends compared to the previous week.
+4. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) accounted for 8.7%, remaining above the epidemic threshold of 7.2%.
+5. Two pediatric deaths were reported this week, bringing the total to 134 for the season.
+6. Cumulative hospitalization rate is 60.6 per 100,000 population, with older adults (65+) having the highest rate (180.3).
+7. Influenza vaccines are antigenically well-matched to circulating strains, and all but one virus exhibited susceptibility to antivirals (98%-100% effectiveness depending on medication).
+8. The CDC continues to recommend annual flu vaccination for all individuals aged 6 months and older while flu activity persists.
+9. Respiratory illnesses remain influenced by multiple co-circulating viruses, including SARS-CoV-2, RSV, and influenza, varying regionally.
+10. Expectation of future flu activity remains stable for now, with no significant increases projected; trends will remain monitored given evolutionary changes in virus subtypes and antiviral susceptibilities.

@@ -1,0 +1,5 @@
+- SARS-CoV-2 infection can cause persistent respiratory sequelae, but the underlying mechanisms are still unclear.
+- Sub-lethally infected K18-human ACE2 mice showed patchy pneumonia associated with histiocytic inflammation and collagen deposition at 21 and 45 days post infection.
+- Transcriptomic analyses revealed that compared to influenza-infected mice, SARS-CoV-2-infected mice had reduced interferon-gamma/alpha responses and failed to induce nascent pulmonary progenitor cells in the lung.
+- Influenza-infected mice showed extensive Krt5+ "pods" structure co-stained with stem cell markers in the pulmonary consolidation area, which were not observed in SARS-CoV-2-infected humans or nonhuman primates.
+- These findings suggest that SARS-CoV-2 infection fails to induce proper repair of the injured lung due to the absence of nascent Krt5+ cell proliferation in consolidated regions.

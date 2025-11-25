@@ -1,0 +1,20 @@
+Week16, 2023
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains low. Influenza A (H1N1) and Influenza B are most prevalent. 7.5% of deaths this week attributed to pneumonia, influenza, or COVID-19 exceed the epidemic threshold of 6.8%. Two new influenza-associated pediatric deaths were reported, totaling 145 for the season. 
+
+- **U.S. virologic surveillance**: Clinical labs reported 0.8% positive influenza tests this week (56.2% Influenza B and 43.8% Influenza A). Public health labs reported 60.5% Influenza A and 39.5% Influenza B, with Influenza A predominantly A(H1N1) (76.5%) and the remainder A(H3N2) (23.5%).
+
+- **Cumulative hospitalization rate**: The cumulative rate is 61.8 per 100,000, similar to several prior seasons. Adults aged 65+ face the highest hospitalization rates, especially among those aged 85+.
+
+- **Trends of deaths attributed to influenza**: Deaths due to pneumonia, influenza, or COVID-19 are above the epidemic threshold, stable week-over-week.
+
+- **Percentage of Influenza A and B**: Influenza A accounted for 43.8% of clinical lab positives and 60.5% of public health lab positives. Influenza B comprised 56.2% of clinical lab positives and 39.5% of public health lab positives.
+
+- **Novel Influenza virus (like COVID-19)**: No novel influenza virus activity reported in Week 16. 3.8% of hospitalizations also tested positive for SARS-CoV-2.
+
+- **Vaccination trends**: CDC continues to recommend vaccination for everyone aged 6 months and older while flu activity continues. Current vaccine matches circulating viruses well.
+
+- **Outpatient respiratory illness visits**: 1.9% of outpatient visits attributed to respiratory illness (below the national baseline of 2.5%), stable from the previous week. One jurisdiction reported high activity, and one reported moderate levels.
+
+- **Expectation of flu activity from CDC**: Influenza activity expected to remain low nationally.
+
+- **Other key factors**: Hospital admissions for influenza decreased by >5% compared to the prior week. Long-term care facilities reported low influenza-positive tests among residents. All tested viruses show strong susceptibility to antiviral treatments.

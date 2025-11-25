@@ -1,0 +1,11 @@
+Based on the latest CDC inﬂuenza surveillance report for Week 15, ending April 16, 2022, here are the key facts regarding predicting future ILI occurrence:
+
+- Influenza activity varies by region, with the highest activity observed in the northeast, south-central, and mountain regions of the country.
+- The majority of inﬂuenza viruses detected are influenza A(H3N2) subtype, and there are some antigenic differences between the circulating viruses and the vaccine reference viruses.
+- Outpatient visits for respiratory illness have been increasing steadily since mid-February, but the percentage remains below the national baseline. Influenza contributes to respiratory illness, but other respiratory viruses are also circulating.
+- Hospitalizations for influenza have been increasing each week for the past 11 weeks.
+- 7.1% of deaths during the week ending April 16, 2022, were attributed to pneumonia, influenza, and/or COVID-19, above the epidemic threshold of 6.9%.
+- Three influenza-associated pediatric deaths were reported during Week 15, bringing the total for the season to 22.
+- Influenza viruses remain susceptible to neuraminidase inhibitors (oseltamivir, zanamivir, and peramivir) and baloxavir, although one A(H3N2) virus showed reduced susceptibility to baloxavir.
+
+These facts provide insights into the current influenza activity and can help in predicting future ILI occurrence. They emphasize the importance of continued surveillance, vaccination, and antiviral treatment to control the spread and impact of influenza.

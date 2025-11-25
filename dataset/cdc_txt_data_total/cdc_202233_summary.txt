@@ -1,0 +1,13 @@
+First, virologic surveillance is conducted by clinical and public health laboratories to monitor the percentage of respiratory specimens testing positive for influenza and the distribution of influenza virus types and subtypes. During the reported period, 0.5% of specimens tested in clinical laboratories were positive for influenza, with a predominance of Influenza A (85.5%) and Influenza B (14.5%). In public health laboratories, 94.9% of positive specimens were Influenza A, with the majority being H3N2 subtype (96.6%).
+
+Outpatient ILI surveillance tracks the percentage of healthcare visits for influenza-like illness (ILI), which includes fever plus cough or sore throat. During the reported period, 1.5% of patient visits reported through the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet) were due to respiratory illness that included fever plus a cough or sore throat. The percentage of visits for respiratory illness varied by age group, with higher percentages seen among children aged 0-4 years (6.3%) and young adults aged 5-24 years (2.4%).
+
+Geographic activity of ILI showed variations, with different levels of ILI reported across different jurisdictions. Five activity levels were observed: Very High, High, Moderate, Low, and Minimal. The majority of jurisdictions reported minimal ILI activity, with only one jurisdiction (Louisiana) experiencing moderate activity.
+
+Hospitalization surveillance is conducted through the Influenza Hospitalization Surveillance Network (FluSurv-NET) and HHS Protect system. Data from these systems provide information on the number of patients admitted with laboratory-confirmed influenza. However, specific data for the reported period were not provided.
+
+Mortality surveillance monitors the percentage of deaths attributed to pneumonia, influenza, and/or COVID-19 (PIC). During the reported period, 10.0% of deaths were attributed to PIC, which is above the epidemic threshold of 5.5% for that week. However, it should be noted that the majority of PIC deaths were due to COVID-19 rather than influenza.
+
+There were no reported inﬂuenza-associated pediatric deaths during the reported period. However, a total of 33 inﬂuenza-associated pediatric deaths had been reported during the 2021-2022 season.
+
+These surveillance systems, along with additional information from national and international sources, provide a comprehensive understanding of influenza activity and contribute to the prediction and prevention of future ILI occurrences.

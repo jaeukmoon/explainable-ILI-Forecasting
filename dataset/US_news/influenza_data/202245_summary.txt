@@ -1,0 +1,7 @@
+- Reassortment of the influenza A virus within host populations can lead to the emergence of genetically distinct subpopulations.
+- Reassortment occurs when different strains of the virus co-infect the same cell.
+- Reassortment has been shown to be pervasive in guinea pigs, ferrets, and swine.
+- Reassortment is less frequent in swine compared to ferrets and guinea pigs.
+- In ferrets, there are tissue-specific differences in reassortment, with more reassortants detected in the nasal tract than the lower respiratory tract.
+- Spatial patterns of reassortment and replication within the infected host reveal compartmentalization and heterogeneity of viral genotypes.
+- The dynamics of viral replication and compartmentalization of variants likely shape their evolution and transmission.

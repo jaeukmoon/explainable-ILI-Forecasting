@@ -1,0 +1,20 @@
+Week33, 2024
+- **Viruses, illness, and deaths:** Seasonal influenza activity remains low nationally, with 0.4% of respiratory specimens testing positive. Co-circulation of Influenza A(H1N1)pdm09, A(H3N2), and B viruses was observed. One pediatric death was reported this week, bringing the season total to 194.
+
+- **U.S. virologic surveillance:** Clinical labs report 86.4% of positive specimens are Influenza A and 13.6% Influenza B, while public health labs indicate 98.1% of positive specimens as Influenza A and 1.9% as Influenza B. Variant cases included one A(H1N1)v in Ohio and one A(H1N2)v in Pennsylvania, both linked to swine exposure and with no human-to-human spread observed.
+
+- **Cumulative hospitalization rate:** The weekly hospitalization rate is 0.1 per 100,000 population, with a peak weekly rate of 8.9 during the season and 25,415 cumulative hospitalizations (84.4% Influenza A, 14.7% Influenza B).
+
+- **Trends of deaths attributed to influenza:** 0.04% of deaths this week were attributed to influenza, showing stability from the prior week.
+
+- **Percentage of Influenza A and Influenza B:** Influenza A accounted for 86.4% of clinical lab positives and 98.1% of public health lab positives, while Influenza B accounted for 13.6% and 1.9%, respectively.
+
+- **Novel influenza virus (like COVID-19):** Two novel variant virus infections (A(H1N1)v and A(H1N2)v) were reported, both linked to swine exposure and with no sustained human-to-human transmission observed. H5N1 monitoring is ongoing in domestic animals, with no new human cases.
+
+- **Vaccination trends:** No new vaccination updates were mentioned; emphasis remains on illness prevention via vaccination and early antiviral treatment for high-risk patients.
+
+- **Outpatient respiratory illness visits:** 1.5% of visits were for respiratory illness, below the national baseline, with stable trends across regions. No jurisdiction experienced moderate, high, or very high activity.
+
+- **Expectation of flu activity from CDC:** Seasonal flu activity is anticipated to remain low; monitoring of co-circulating respiratory viruses, including SARS-CoV-2 and RSV, continues.
+
+- **Other key factors:** Seasonal influenza contributes to respiratory disease alongside other viruses. Enhanced testing and monitoring for antiviral resistance and viral evolution are in place, with low resistance levels reported against influenza antivirals.

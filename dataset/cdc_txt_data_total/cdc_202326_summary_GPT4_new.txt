@@ -1,0 +1,11 @@
+Week26, 2023
+1. Influenza activity remains low in Week 26, with 1.2% of respiratory specimens testing positive for influenza in clinical labs.
+2. Of the positive clinical lab specimens, 67.1% were Influenza A and 32.9% were Influenza B.
+3. Public health labs reported 51 positive specimens; 35.3% were Influenza A, with all subtyped as H1N1pdm09, and 64.7% were Influenza B, all of the Victoria lineage.
+4. Outpatient visits for influenza-like illness (ILI) accounted for 1.4% of patient visits nationwide, with higher rates among younger age groups (4.5% in ages 0-4).
+5. Hospitalization surveillance showed 807 influenza-related admissions during the week.
+6. Pneumonia, influenza, or COVID-19 (PIC) accounted for 6.1% of deaths, slightly exceeding the epidemic threshold of 5.9%; influenza was listed in only 8 deaths.
+7. No pediatric influenza-associated deaths were reported in Week 26; the cumulative count for the season remains at 160.
+8. Minimal flu activity is reported in 48 jurisdictions, with only 1 jurisdiction experiencing high activity.
+9. Multiple respiratory viruses, including SARS-CoV-2 and RSV, continue to co-circulate, complicating the interpretation of ILI data.
+10. CDC has not reported significant trends in vaccinations for this week and continues to recommend annual influenza vaccination.

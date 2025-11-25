@@ -1,0 +1,20 @@
+Week43, 2023
+1. Seasonal influenza activity remains low nationally, with 1.9% of respiratory specimens testing positive, showing slight increases in some regions.
+   
+2. Public health labs reported 189 positive specimens; 76.7% were Influenza A (85.7% subtype A(H1N1), 14.3% A(H3N2)), and 23.3% were Influenza B (all Victoria lineage).
+
+3. Outpatient visits for influenza-like illness (ILI) increased slightly to 2.7% but remain below the baseline of 2.9%; ILI activity is highest in Region 4 (Southeast).
+
+4. A cumulative hospitalization rate of 0.8 per 100,000 was reported, with 1,607 flu-related hospitalizations, reflecting an increasing weekly trend.
+
+5. Influenza-attributed deaths accounted for 0.06%, stable compared to previous weeks, with one new pediatric death for the 2023-24 season.
+
+6. Influenza A made up 70.1% of clinical lab reports and Influenza B 29.9%; of the A subtypes, 85.7% were A(H1N1), with no novel influenza variants detected.
+
+7. Integrated surveillance, including influenza, COVID-19, and RSV, highlights the co-circulation of respiratory viruses influencing ILI trends.
+
+8. CDC recommends annual influenza vaccination for everyone 6 months and older; no updates on vaccination rates were provided this week.
+
+9. Respiratory illness activity was moderate in 6 jurisdictions and high in 2, with increasing trends across most age groups and regions.
+
+10. Flu activity is anticipated to rise, supported by increasing positive tests, ILI visits, and hospitalizations. Early antiviral treatment is encouraged.

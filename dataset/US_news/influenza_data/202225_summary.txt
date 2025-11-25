@@ -1,0 +1,6 @@
+- There is a need for an improved H3N2 influenza vaccine due to low efficacy rates and increased morbidity and mortality associated with H3N2-dominated influenza seasons.
+- A computational design strategy was used to create epitope-optimized, broadly cross-reactive H3 hemagglutinins in order to develop a universal H3N2 influenza vaccine.
+- The Epigraph H3 vaccine induced stronger cross-reactive antibody responses compared to the traditional egg-based influenza vaccine, FluZone. It provided protective hemagglutination inhibition titers against 93-100% of contemporary H3N2 strains, compared to only 27% protection from FluZone.
+- The Epigraph vaccine also induced strong cross-reactive T-cell immunity, contributing to protection against lethal influenza virus infection.
+- In ferrets, the Epigraph vaccine protected against influenza disease after challenge with two H3N2 viruses.
+- The superior cross-reactive immunity induced by the Epigraph immunogens supports their development as a universal H3N2 influenza vaccine.

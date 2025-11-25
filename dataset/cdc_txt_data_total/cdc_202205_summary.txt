@@ -1,0 +1,12 @@
+Based on the surveillance report from Week 5, the key facts regarding predicting future ILI occurrence are as follows:
+
+- Sporadic influenza activity continues across the country.
+- The majority of influenza viruses detected are Influenza A(H3N2).
+- Genetic characterization and antiviral susceptibility of the viruses are summarized in the report.
+- Nationwide, 1.7% of patient visits reported through ILINet were due to respiratory illness, which is below the national baseline.
+- Outpatient respiratory illness activity varied by region, with 4 jurisdictions experiencing moderate activity.
+- In long-term care facilities, 0.4% reported at least one influenza positive test among residents.
+- Cumulative hospitalization rates are 4.5 per 100,000 population, which is lower than previous seasons.
+- 26.3% of deaths in the week were attributed to pneumonia, influenza, or COVID-19, above the epidemic threshold.
+- No influenza-associated pediatric deaths were reported during the week.
+- Viroligic surveillance indicates that Influenza A(H3N2) viruses have been the most frequently detected this season.

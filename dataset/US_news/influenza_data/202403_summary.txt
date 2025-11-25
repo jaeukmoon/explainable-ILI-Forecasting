@@ -1,0 +1,5 @@
+- Researchers have developed a next-generation influenza virus vaccine that provides long-lasting, broadly-reactive immune protection against both seasonal and pre-pandemic viruses.
+- The vaccine was designed using computationally optimized broadly reactive antigen (COBRA) methodology.
+- Novel amino acid sequences were derived from multilayered consensus sequence alignment for multiple subtypes of influenza.
+- Mice vaccinated with the multivalent COBRA vaccine showed antibodies that recognized a broad panel of strains and were protected against viruses representing multiple subtypes.
+- This vaccine candidate shows promise for a universal influenza vaccine that can protect against multiple strains over multiple seasons.

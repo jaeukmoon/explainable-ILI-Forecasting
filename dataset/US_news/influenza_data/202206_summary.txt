@@ -1,0 +1,7 @@
+- The study focuses on swine influenza virus-specific CD8 tissue resident memory (TRM) T cells.
+- The researchers defined different subsets of porcine CD8 T cells based on their response to influenza infection or immunization.
+- The hierarchy of response to influenza nucleoprotein (NP) epitopes differs in different tissues.
+- Most NP-specific CD8 T cells in the broncho-alveolar lavage (BAL) and lung are TRM cells.
+- NP-specific cells in BAL express genes characteristic of TRM, but gene expression differs at different time points post-infection.
+- The frequency of NP-specific CD8 cells declines over 63 days but is best maintained in BAL.
+- The kinetics of influenza-specific memory CD8 T cells in pigs differ from small animal models.

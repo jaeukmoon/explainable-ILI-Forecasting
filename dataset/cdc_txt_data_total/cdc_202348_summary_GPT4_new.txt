@@ -1,0 +1,11 @@
+Week48, 2023
+1. Influenza activity is increasing nationwide, with the highest levels in the southeast and south-central regions; 6.8% of clinical respiratory specimens tested positive for influenza this week.
+2. Public health labs reported that 79.9% of positive influenza specimens were Influenza A and 20.1% were Influenza B, with A(H1N1)pdm09 as the predominant subtype (74.1% of subtyped Influenza A cases).
+3. Outpatient visits for influenza-like illness (ILI) accounted for 4.0% of healthcare visits, above the national baseline of 2.9% for the fifth consecutive week; all 10 HHS regions are at or above regional baselines.
+4. Influenza-associated hospitalizations are increasing, with a cumulative rate of 5.5 per 100,000 population; rates are highest among adults aged 65+ years (13.6 per 100,000).
+5. Influenza-associated pediatric deaths increased by 4 this week, totaling 12 pediatric deaths this season—most associated with Influenza A(H1N1).
+6. 0.2% of deaths nationwide were attributed to influenza, this rate remains stable but is trending upward.
+7. CDC estimates seasonal activity has resulted in 2.6 million illnesses, 26,000 hospitalizations, and 1,600 deaths.
+8. Vaccination is encouraged as vaccines are still available, and CDC urges early use of antiviral drugs, particularly for high-risk individuals.
+9. Multiple respiratory viruses, including influenza, COVID-19, and RSV, are contributing to elevated respiratory illness activity as reported by ILINet.
+10. CDC highlights regional variation in influenza B detection, with combined proportions as high as 37% in regions 4 and 6, indicating potential localized shifts in virus circulation.

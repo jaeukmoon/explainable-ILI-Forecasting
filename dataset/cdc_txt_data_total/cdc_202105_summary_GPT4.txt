@@ -1,0 +1,20 @@
+Week5, 2021
+- **Viruses, illness, and deaths**: Influenza activity remains unusually low, with only 0.1% of respiratory specimens testing positive at clinical labs. No new influenza-associated pediatric deaths were reported, and 1 has been reported for the 2020-21 season. 25.0% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), primarily driven by COVID-19.
+
+- **U.S. virologic surveillance**: Among clinical lab specimens, 61.1% were Influenza A and 38.9% were Influenza B. Public health labs reported 50.0% as Influenza A (H1N1 and H3N2 were not detected during week 5) and 50.0% as Influenza B (no lineage was characterized this week). Positive influenza specimens remain extremely low.
+
+- **Cumulative hospitalization rate**: The cumulative influenza hospitalization rate is 0.6 per 100,000 population, far below the average and the lowest recorded since surveillance began in 2005.
+
+- **Trends of deaths attributed to influenza**: The PIC mortality rate (25.0%) far exceeds the epidemic threshold of 7.2%, but COVID-19 is the dominant contributor, not influenza.
+
+- **Percentage of Influenza A and Influenza B**: Clinical labs reported 61.1% Influenza A and 38.9% Influenza B. Public health labs reported 50.0% Influenza A and 50.0% Influenza B.
+
+- **Novel influenza virus (like COVID-19)**: COVID-19 remains the major respiratory pathogen impacting surveillance trends. No novel influenza virus detections are reported.
+
+- **Vaccination trends**: CDC continues to recommend influenza vaccination to prevent potential flu complications and urges anyone who has not yet been vaccinated to do so immediately.
+
+- **Outpatient respiratory illness visits**: Visits for influenza-like illness (ILI) account for 1.1% of outpatient visits, below the national baseline of 2.6%. All jurisdictions reported minimal ILI activity for week 5.
+
+- **Expectation of flu activity from CDC**: CDC expects flu activity to remain low but warns it could increase in the coming months.
+
+- **Other key factors**: The concurrent impact of COVID-19 on ILI surveillance and healthcare-seeking behaviors may affect interpretation of ILI trends. Data on geographic spread for the 2020-21 influenza season has been suspended due to COVID-19's influence on reporting.

@@ -1,0 +1,14 @@
+The key facts regarding predicting future ILI occurrence based on the CDC weekly surveillance report are as follows:
+
+1. Seasonal influenza activity remains low in the United States.
+2. The percentage of respiratory specimens testing positive for influenza in clinical laboratories is 0.1%.
+3. The number of influenza positives reported by public health labs remains unusually low.
+4. Influenza virus characterization information will be updated weekly.
+5. 1.1% of patient visits to healthcare providers were for influenza-like illness (ILI), remaining stable compared to the previous week.
+6. ILI activity remains below the national baseline of 2.6%.
+7. All jurisdictions experienced minimal ILI activity.
+8. FluSurv-NET sites have reported 165 laboratory-confirmed influenza hospitalizations so far this season.
+9. 25.0% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), above the epidemic threshold of 7.2%.
+10. No new influenza-associated pediatric deaths were reported, with only one reported for the 2020-21 season.
+
+These facts provide an understanding of the current influenza activity, including virologic surveillance, outpatient illness, severe disease indicators, and mortality rates. It is important to note that these observations may change as additional data is received. The CDC emphasizes the importance of flu vaccination and antiviral medication for prevention and treatment.

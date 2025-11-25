@@ -1,0 +1,6 @@
+- Influenza A virus replication is promoted by the interaction between ILDR1 (immunoglobulin-like domain-containing receptor 1) and PLSCR1 (phospholipid scramblase 1).
+- PLSCR1 is a natural antiviral regulator that inhibits influenza virus replication by interacting with NP (nucleoprotein) of influenza A virus.
+- PLSCR1 expression is decreased in H1N1 SIV-infected mice, and Plscr1-/- mice are more susceptible to H1N1 SIV infection.
+- ILDR1, which is highly expressed in the lungs, can competitively combine with PLSCR1 and indirectly regulate the replication of influenza A virus.
+- The PLSCR1-ILDR1-NP regulatory pathway plays a vital role in limiting IAV (influenza A virus) infection in vivo.
+- Understanding the interactions between host proteins and influenza A virus could provide new insights into the development of antiviral treatments.

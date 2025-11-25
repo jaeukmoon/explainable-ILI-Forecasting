@@ -1,0 +1,5 @@
+- Researchers have developed a pentavalent broadly protective nucleoside-modified mRNA vaccine against influenza B viruses.
+- The vaccine is based on the lipid nanoparticle-encapsulated nucleoside-modified mRNA platform.
+- The vaccine candidates were evaluated for their ability to protect against both ancestral and recent influenza B viruses from different antigenic lineages.
+- The pentavalent vaccine showed promising results, protecting mice from morbidity at a low dose after a single vaccination.
+- These findings support the further development of nucleoside-modified mRNA vaccines expressing multiple conserved antigens as universal influenza virus vaccine candidates.

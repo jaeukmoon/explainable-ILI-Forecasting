@@ -1,0 +1,8 @@
+- The study analyzed data from influenza-like illness (ILI) specimens on surveillance wards of sentinel hospitals in China from 2014 to 2018.
+- Among 1,890,084 ILI cases, 17.2% tested positive for influenza.
+- Influenza A virus, particularly A/H3N2, was detected in 62% of cases, while influenza B virus was detected in 38% of cases.
+- The detection rate of A/H1N1, A/H3N2, B/Victoria, and B/Yamagata viruses were 3.56%, 7.07%, 2.08%, and 3.45%, respectively.
+- Influenza prevalence was generally stable over the four years analyzed, but outbreaks occurred in 2015-2016 and 2017-2018.
+- Influenza B was found at a high frequency in school-age children (5-14 years), with B/Victoria and B/Yamagata contributing to the outbreaks in 2015-2016 and 2017-2018, respectively.
+- In the south of China, there was a characteristic peak in infections in the summer (week 23-38), which was not observed in the north.
+- The findings emphasize the importance of enhancing year-round influenza surveillance and provide insights into the timing and variety of influenza vaccination in China.

@@ -1,0 +1,5 @@
+- The study investigated the impact of prior influenza A(H3N2) infection on antibody responses to influenza vaccination among adults in Vietnam.
+- Participants with recent infection had higher antibody titers against influenza A(H3N2) strains from 2008-2018 compared to participants without recent infection.
+- The rise in antibody titers against strains from 2014-2018 was 6.1-fold higher in participants with recent infection.
+- These findings suggest that prior infection with influenza A(H3N2) can shape antibody responses to vaccination.
+- Understanding the impact of pre-existing immunity on vaccine responses can help improve vaccination strategies and effectiveness.

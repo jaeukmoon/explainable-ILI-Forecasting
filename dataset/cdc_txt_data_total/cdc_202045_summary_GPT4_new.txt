@@ -1,0 +1,12 @@
+Week45, 2020
+1. Nationwide, influenza activity remains low, with 0.2% of respiratory specimens testing positive for influenza this week.
+2. Among clinical lab positive specimens, 63.3% were Influenza A and 36.7% Influenza B.
+3. Public health labs reported 6 positive specimens, with 66.7% being Influenza A and 33.3% Influenza B; subtyping data is minimal.
+4. Outpatient ILI visits accounted for 1.5%, a slight increase from the previous week's 1.3%, but still below the national baseline of 2.6%; one region's ILI percentage exceeded its regional baseline.
+5. No pediatric influenza-associated deaths have been reported for the current season.
+6. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) were 8.9%, exceeding the epidemic threshold of 6.1%.
+7. Hospitalization data updates and detailed virus characterization are pending for later in the season.
+8. Annual influenza vaccinations are recommended, though no significant shifts in vaccination rates are highlighted.
+9. Alternative healthcare-seeking behaviors during the COVID-19 pandemic impact the accuracy of ILI surveillance.
+10. CDC highlights unpredictable future influenza activity due to COVID-19 and evolving healthcare access patterns.
+

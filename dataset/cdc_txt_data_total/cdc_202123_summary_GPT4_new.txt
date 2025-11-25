@@ -1,0 +1,11 @@
+Week23, 2021
+1. Influenza activity was minimal nationwide with 1.2% of outpatient visits attributed to influenza-like illness (ILI), well below the national baseline of 2.6%.
+2. Public health and clinical labs reported limited influenza detections; no significant trends in Influenza A or B subtypes or lineages were highlighted.
+3. No pediatric influenza-associated deaths occurred during week 23, and only one has been reported for the entire 2020-21 season.
+4. Pneumonia, influenza, and COVID-19 (PIC) accounted for 7.6% of deaths, exceeding the epidemic threshold of 6.0%, with COVID-19 being the primary driver of PIC mortality.
+5. Vaccination trends were not updated, and no specific influenza vaccine coverage data were discussed for this period.
+6. ILI trends showed a decrease in visits for ages 0–4 years and stable levels for all other age groups compared to week 22.
+7. Flu hospitalization data will not be updated beyond April 30, 2021, limiting its use in ongoing assessments.
+8. Healthcare-seeking behavior changes during the COVID-19 pandemic continue to complicate ILI surveillance and interpretation.
+9. Minimal ILI activity across jurisdictions suggests that influenza transmission remains low at this time.
+10. CDC warns that factors like evolving healthcare patterns and dual tracking of COVID-19 complicate flu activity predictions.

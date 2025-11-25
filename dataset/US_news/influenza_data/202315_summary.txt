@@ -1,0 +1,5 @@
+- Researchers have developed an intranasal influenza virus-vectored vaccine that prevents SARS-CoV-2 replication in respiratory tissues of mice and hamsters.
+- The vaccine, called DelNS1-RBD4N-DAF, is based on a live attenuated influenza virus with a deleted NS1 gene that encodes the receptor-binding-domain of the SARS-CoV-2 spike protein.
+- The vaccine induces high levels of neutralizing antibodies against various SARS-CoV-2 variants and stimulates robust T cell responses in mice.
+- Vaccination with DelNS1-RBD4N-DAF prevents replication of SARS-CoV-2 variants, including Delta and Omicron BA.2, in the respiratory tissues of animals.
+- The vaccine shows promise for controlling SARS-CoV-2 transmission and could potentially be used in annual vaccination strategies for both influenza and COVID-19.

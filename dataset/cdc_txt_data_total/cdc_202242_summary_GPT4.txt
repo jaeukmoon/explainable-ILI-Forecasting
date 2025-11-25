@@ -1,0 +1,14 @@
+Week42, 2022
+**Summary of key factors for Week 42, 2022:**
+
+- **Viruses, illness, and deaths:** Early increases in flu activity, with highest levels in southeast and south-central U.S. Influenza A(H3N2) predominates. 9.2% of deaths attributed to pneumonia, influenza, or COVID-19, above epidemic threshold (5.9%). One influenza-associated pediatric death reported this season, linked to Influenza A(H3).  
+- **U.S. virologic surveillance:** 6.2% of clinical lab specimens tested positive for influenza; 98.4% were Influenza A and 1.6% were Influenza B. Public health labs report 97.7% of positive specimens as Influenza A, with 74.6% H3N2 and 25.4% H1N1pdm09.  
+- **Cumulative hospitalization rate:** 1.5 per 100,000, higher than same-week rates for prior seasons since 2010-2011. 94.4% of hospitalizations linked to Influenza A (72.9% H3N2, 27.1% H1N1).  
+- **Trends of deaths attributed to influenza:** While PIC deaths are above threshold, current mortality is mainly due to COVID-19, with fewer cases of influenza-related deaths.  
+- **Percentage of Influenza A and Influenza B:** Clinical labs: 98.4% Influenza A, 1.6% Influenza B. Public health labs: 97.7% Influenza A, 2.3% Influenza B.  
+- **Novel influenza virus:** No reports of novel influenza viruses like COVID-19.  
+- **Vaccination trends:** CDC emphasizes annual flu vaccination for ages 6 months and older as critical protection.  
+- **Outpatient respiratory illness visits:** ILI visits increased to 3.3%, above the national baseline of 2.5%. Seven regions report ILI activity at or above regional baselines, with one jurisdiction experiencing moderate activity and 13 jurisdictions high or very high activity.  
+- **Expectation of flu activity from CDC:** Influenza activity is increasing early and is expected to further rise.  
+- **Other key factors:** 0.5% of long-term care facilities reported at least one influenza-positive resident. Co-circulation of multiple respiratory viruses, including RSV and SARS-CoV-2, is noted. Highest hospitalization rates observed in adults aged ≥65 years and children aged 0-4 years (3.0 per 100,000 each).  
+

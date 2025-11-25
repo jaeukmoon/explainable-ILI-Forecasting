@@ -1,0 +1,20 @@
+Week29, 2023
+- **Viruses, illness, and deaths**: Influenza activity remains low, with 1.0% of respiratory specimens testing positive during week 29. Influenza A accounted for 63.1% of clinical specimens, and Influenza B accounted for 36.9%. Seven deaths were attributed to influenza among the 1,253 pneumonia, influenza, and COVID-19 (PIC) deaths, which met the epidemic threshold of 5.6%.
+
+- **U.S. virologic surveillance**: 74.4% of public health lab positives were Influenza A, primarily (H1N1)pdm09 (85.7%) and H3N2 (14.3%). Influenza B accounted for 25.6%, all from the Victoria lineage.
+
+- **Cumulative hospitalization rate**: A total of 573 influenza-related hospitalizations were reported during week 29.
+
+- **Trends of deaths attributed to influenza**: PIC deaths matched the epidemic threshold, with influenza contributing 0.6% of all reported deaths.
+
+- **Percentage of Influenza A and Influenza B**: Across cumulative clinical data, Influenza A dominates at 97.5%, with Influenza B at 2.5%. Public health labs report cumulative Influenza A at 95.9%, Influenza B at 4.1%.
+
+- **Novel influenza virus (like COVID-19)**: No novel influenza virus detections, including H3N2v or SARS-CoV-2, were reported.
+
+- **Vaccination trends**: No vaccination updates provided; trends for the upcoming season remain to be seen.
+
+- **Outpatient respiratory illness visits**: ILI visits were 1.1% nationally, below baseline. By age, visits were highest for ages 0-4 (4.1%) and lowest for those 65+ (0.5%).
+
+- **Expectation of flu activity from CDC**: Flu activity is expected to remain low into the off-season, with co-circulation of other respiratory viruses.
+
+- **Other key factors**: Minimal ILI activity was reported in 55 jurisdictions during week 29, with regional variations in respiratory virus impact. Data reflects seasonal decline in influenza transmission but highlights co-circulation of other respiratory pathogens.

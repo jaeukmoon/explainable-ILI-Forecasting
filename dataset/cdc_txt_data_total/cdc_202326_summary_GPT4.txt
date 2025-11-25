@@ -1,0 +1,21 @@
+Week26, 2023
+- **Viruses, illness, and deaths**: Influenza positivity in clinical labs is at 1.2% for Week 26, with Influenza A (67.1%) predominating over Influenza B (32.9%). Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) were 6.1%, surpassing the epidemic threshold of 5.9%. Of these, 8 deaths were attributed to influenza.  
+
+- **U.S. virologic surveillance**: Public health labs report 35.3% of Week 26 positive specimens as Influenza A and 64.7% as Influenza B. All Influenza A specimens subtyped were (H1N1)pdm09 (100%). No subtyped H3N2 strains were reported this week. Among Influenza B samples, 100% belonged to the Victoria lineage.  
+
+- **Cumulative hospitalization rate**: Hospital data show 807 influenza-related admissions in Week 26.
+
+- **Trends of deaths attributed to influenza**: Deaths caused by PIC exceeded the epidemic threshold at 6.1%. Influenza-related deaths remain very low compared to other respiratory causes.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A composed 67.1% of clinical lab positives and 35.3% of public health lab positives during the week. Influenza B accounted for 32.9% and 64.7%, respectively.
+
+- **Novel influenza virus like COVID-19 (SARS-CoV-2)**: No novel influenza A viruses or other novel viruses were reported.
+
+- **Vaccination trends**: Not mentioned in this report.  
+
+- **Outpatient respiratory illness visits**: Nationwide, 1.4% of outpatient visits were for ILI (below the national baseline). Respiratory illnesses due to multiple viruses (including SARS-CoV-2, influenza, RSV) are co-circulating.  
+
+- **Expectation of flu activity from CDC**: CDC reports low influenza activity across most regions and no significant increases expected.  
+
+- **Other key factors**: Majority of jurisdictions reported minimal ILI activity; however, high respiratory illness activity was reported in one jurisdiction. Age group analysis shows highest respiratory illness activity among children aged 0-4 years (4.5%).  
+

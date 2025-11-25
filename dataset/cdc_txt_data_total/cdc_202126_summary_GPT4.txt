@@ -1,0 +1,11 @@
+Week26, 2021
+- **Viruses, illness, and deaths**: Overall influenza activity is low. Of the 971 deaths attributed to pneumonia, influenza, and/or COVID-19 (PIC) in week 26, no deaths were specifically attributed to influenza, with the majority linked to COVID-19. No pediatric influenza-associated deaths were reported this week.  
+- **U.S. virologic surveillance**: No specific data on the proportion of Influenza A versus B subtypes was reported. Monitoring continues.  
+- **Cumulative hospitalization rate**: No updated data on influenza-related hospitalizations after April 30, 2021; only data before that date is being updated.  
+- **Trends of deaths attributed to influenza**: Influenza-attributed deaths remain minimal. Current PIC mortality is primarily driven by COVID-19, as no influenza was listed on death certificates for week 26.  
+- **Percentage of Influenza A and Influenza B**: No detailed breakdown was provided on the percentage of Influenza A vs. B for this week.  
+- **Novel Influenza Virus (like COVID-19)**: COVID-19 continues to dominate PIC mortality data, emphasizing the ongoing impact of the pandemic.  
+- **Vaccination trends**: No new influenza vaccination data was shared.  
+- **Outpatient respiratory illness visits**: 1.2% of outpatient visits were due to ILI, below the national baseline of 2.6%. This value remained stable across all age groups compared to the previous week.  
+- **Expectation of flu activity from CDC**: Influenza activity remains low, with no significant changes predicted in the near term.  
+- **Other key factors**: Minimal ILI activity was reported in 54 jurisdictions. 378 Core Based Statistical Areas (CBSAs) had insufficient data, suggesting reporting gaps or low ILI prevalence.

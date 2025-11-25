@@ -1,0 +1,14 @@
+Week27, 2023
+1. Influenza activity is low nationally, with 0.8% of specimens testing positive for influenza in clinical labs this week.
+2. Among positive clinical specimens, 58.3% were Influenza A and 41.7% were Influenza B.
+3. Public health labs confirmed 44 positive specimens, with 56.8% as Influenza A (mostly (H1N1)pdm09) and 43.2% as Influenza B (all Victoria lineage).
+4. Outpatient visits for influenza-like illness (ILI) accounted for 1.3% of all visits, reflecting minimal activity.
+5. Hospitalizations reported 641 confirmed influenza cases this week.
+6. Total deaths from pneumonia, influenza, or COVID-19 (PIC) were at 5.5%, below the epidemic threshold of 5.8%; influenza contributed to 5 deaths.
+7. Two pediatric deaths were newly reported this week, bringing the season total to 162.
+8. Influenza A variants remain more dominant than B, with (H1N1)pdm09 as the main subtype characterized in public health labs.
+9. Vaccination updates were not included in this week’s report, though annual flu vaccination remains recommended.
+10. Respiratory illnesses varied by age group, with children under 5 showing the highest outpatient rates (4.2%).
+11. Minimal ILI activity was observed in most jurisdictions, with limited regional fluctuations.
+
+12. Summary of key insights: Influenza activity is consistently low with increasing dominance of (H1N1)pdm09 variants. Pediatric mortality and ILI changes in specific age groups warrant continued vigilance. Low impact rates may shift as flu vaccination and co-circulating viruses influence upcoming trends.

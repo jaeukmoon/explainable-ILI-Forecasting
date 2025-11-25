@@ -1,0 +1,6 @@
+- A systematic review and meta-analysis of clinical trials studies was conducted to assess the impact of influenza vaccination on major cardiovascular events.
+- A total of 9,059 patients were included in the analysis, with 4,529 patients receiving the influenza vaccine and 4,530 patients receiving a placebo.
+- Patients who received the influenza vaccine had a notable reduction in the occurrence of major cardiovascular events compared to the placebo group.
+- The analysis showed a decreased risk of myocardial infarction (MI) in vaccinated patients and a significant reduction in cardiovascular death events.
+- These findings suggest that influenza vaccination is associated with a decreased risk of major cardiovascular events, particularly MI and cardiovascular death.
+- Further research is needed to explore the underlying mechanisms behind these beneficial effects.

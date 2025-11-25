@@ -1,0 +1,20 @@
+Week5, 2022
+- **Viruses, illness, and deaths:** Sporadic influenza activity is observed nationwide. Influenza A(H3N2) viruses dominate and are genetically close to the vaccine strain. Approximately 26.3% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), above the epidemic threshold but primarily due to COVID-19. No influenza-associated pediatric deaths were reported this week, with a cumulative total of 5 for the 2021-2022 season.  
+
+- **U.S. virologic surveillance:** Public health lab data show that 99.5% of influenza cases involved Influenza A (H3N2 specifically), while 0.5% were Influenza B. 5.9% of flu-positive samples also tested positive for SARS-CoV-2 this season.
+
+- **Cumulative hospitalization rate:** The cumulative hospitalization rate is 4.5 per 100,000, below rates during pre-COVID-19 seasons. Hospitalizations are highest among adults 65+ years (12.0 per 100,000) and children 0-4 years (6.6 per 100,000). 2.8% of hospitalized flu patients also tested positive for SARS-CoV-2.
+
+- **Trends of deaths attributed to influenza:** Deaths caused by PIC are above the epidemic threshold, but influenza is a smaller contributing factor compared to COVID-19. 
+
+- **Percentage of Influenza A and Influenza B:** Of clinical lab tests, 97.6% are Influenza A and 2.4% are Influenza B. Public health lab results similarly show 99.5% Influenza A dominance.
+
+- **Novel influenza viruses (like COVID-19):** No novel influenza viruses have been identified beyond co-circulation with SARS-CoV-2 (5.9% of cases in public health lab data).
+
+- **Vaccination trends:** Flu vaccination is emphasized as a key preventive measure, though vaccine uptake is lower than in the previous season. Vaccine availability remains widespread.
+
+- **Outpatient respiratory illness visits:** 1.7% of outpatient visits were due to respiratory illness (below baseline). Activity levels are moderate in four jurisdictions, with others reporting low, minimal, or insufficient data.
+
+- **CDC flu activity expectations:** Sporadic influenza activity is expected to continue. CDC continues to encourage vaccination and antiviral treatment where appropriate.
+
+- **Other key factors:** Influenza circulation varies by region, with multiple respiratory viruses co-circulating. Long-term care facilities reported 0.4% of sites with at least one influenza-positive test among residents.

@@ -1,0 +1,11 @@
+Key Updates for Week 12, ending March 25, 2023:
+
+- Seasonal influenza activity remains low nationally.
+- Influenza A viruses accounted for the majority of positive specimens, with 67.2% of viruses reported by public health laboratories being influenza A and 32.8% being influenza B.
+- Outpatient respiratory illness visits were below the national baseline, with 2.3% of visits reported through ILINet being due to respiratory illness (ILI).
+- Long-term care facilities reported 0.4% of facilities having at least one influenza-positive test among residents.
+- FluSurv-NET reported a cumulative hospitalization rate of 60.8 per 100,000 population.
+- NCHS mortality surveillance data showed that 8.3% of deaths in Week 12 were due to pneumonia, influenza, and/or COVID-19 (PIC).
+- Four influenza-associated pediatric deaths were reported during Week 12, bringing the total to 138 for the season.
+
+Overall, influenza activity remains low, with variations across different surveillance components such as virologic surveillance, outpatient illness visits, hospitalizations, and mortality. Influenza A viruses are predominantly circulating, and the majority of hospitalized cases have underlying medical conditions.

@@ -1,0 +1,11 @@
+The key updates for Week 49, ending December 9, 2023, are as follows:
+
+- Seasonal influenza activity is elevated in most parts of the country, with the southeast, south-central, and west coast areas reporting the highest levels of activity.
+- In clinical labs, 10.2% of specimens tested positive for influenza, with influenza A(H1N1) viruses being the most frequently reported.
+- Outpatient respiratory illness visits accounted for 4.4% of patient visits, which is above the national baseline for the sixth consecutive week.
+- FluSurv-NET reported a total of 2,449 laboratory-confirmed influenza-associated hospitalizations so far in the season.
+- The percentage of deaths due to influenza was 0.2%, which remained stable compared to the previous week.
+- Two influenza-associated pediatric deaths were reported during Week 49, bringing the season total to 14.
+- Data on virus characterization and antiviral susceptibility are also available.
+
+These updates provide information on the level of influenza activity, hospitalizations, deaths, and virus characteristics, helping to monitor and predict future ILI occurrence.

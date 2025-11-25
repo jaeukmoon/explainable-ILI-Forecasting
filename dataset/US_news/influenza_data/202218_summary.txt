@@ -1,0 +1,7 @@
+- Researchers have discovered a lineage of human antibodies that have broad reactivity against influenza A virus.
+- These antibodies are able to neutralize major circulating strains of IAV in vitro and in vivo.
+- The antibodies target different epitopes on the hemagglutinin protein of H3N2 and H1N1 strains of IAV.
+- The binding feature of the antibodies to H3N2 involves specific amino acids in helix A of the protein.
+- The binding feature of the antibodies to H1N1 involves discontinuous segments of the protein.
+- The antibodies were initially selected by H3 (group 2) viruses and evolved through somatic hypermutation to also neutralize H1 (group 1) viruses.
+- These findings can contribute to the development of more effective influenza vaccines and antiviral drugs.

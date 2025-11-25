@@ -1,0 +1,21 @@
+Week47, 2022
+- **Viruses, illness, and deaths:** Influenza activity continues to increase nationwide, with 6.2% of respiratory specimens testing positive for influenza in clinical labs. Influenza A (82.1%) predominates over Influenza B (17.9%) in public health labs. Of the subtyped Influenza A viruses, 82.2% were A(H1N1)pdm09. Influenza caused 0.1% of deaths reported this week, with 5 new pediatric deaths (8 total this season).
+
+- **U.S. virologic surveillance:** Influenza positivity is rising in most regions, with highest positivity rates in Regions 8 (13.2%), 4 (10.3%), and 6 (7.7%). Influenza B accounted for 38% of public health lab detections in Regions 4 and 6.
+
+- **Cumulative hospitalization rate:** The cumulative hospitalization rate is 3.7 per 100,000, the second-highest rate in week 47 compared to prior seasons. Adults 65+ years remain the most hospitalized group (8.9 per 100,000).
+
+- **Trends of deaths attributed to influenza:** Deaths attributed to influenza remain low but are slightly trending upward since early October.
+
+- **Percentage of Influenza A and Influenza B:** Clinical labs identified 75.1% of positives as Influenza A and 24.9% as Influenza B. Public health labs report 82.1% Influenza A and 17.9% Influenza B.
+
+- **Novel Influenza virus (like COVID-19):** No reports of novel influenza viruses (e.g., SARS-CoV-2 variants) this week.
+
+- **Vaccination trends:** CDC continues recommending flu vaccination for everyone 6 months and older, emphasizing availability as flu activity intensifies.
+
+- **Outpatient respiratory illness visits:** 3.9% of outpatient visits nationwide were due to respiratory illness (above the 2.9% baseline). Ten jurisdictions report moderate activity, 13 report high or very high activity.
+
+- **Expectation of flu activity from CDC:** CDC anticipates continued increases in flu activity during the coming weeks.
+
+- **Other key factors:** Pediatric deaths saw increases, along with hospitalizations and outpatient respiratory visits across most regions. Multiple respiratory viruses, including RSV, co-circulate, which may amplify regional illness impact. 
+

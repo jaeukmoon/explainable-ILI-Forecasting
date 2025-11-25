@@ -1,0 +1,11 @@
+Week27, 2024
+- **Viruses, illness, and deaths:** Seasonal influenza activity remains low nationally. 0.9% of respiratory specimens tested positive for influenza this week. Influenza A(H1N1)pdm09, A(H3N2), and B viruses are co-circulating. This season, there have been 35 million illnesses, 400,000 hospitalizations, and 25,000 deaths. Two pediatric deaths were reported this week (186 total this season).  
+- **U.S. virologic surveillance:** 92.8% of clinical lab positives were Influenza A, and 7.2% were Influenza B. Public health labs reported 92.8% Influenza A and 7.2% Influenza B; among Influenza A, 77.8% were H3N2 and 22.2% were H1N1.  
+- **Cumulative hospitalization rate:** Weekly hospitalization rate is 0.1 per 100,000, with total hospitalizations at 25,251.  
+- **Trends of deaths attributed to influenza:** 0.1% of deaths were attributed to influenza this week, showing a stable trend.  
+- **Percentage of Influenza A and Influenza B:** Clinical labs reported 92.8% Influenza A and 7.2% Influenza B positives cumulatively. Public health labs reported 76.2% Influenza A and 23.8% Influenza B.  
+- **Novel Influenza virus (like COVID-19):** No reports of novel influenza viruses, including SARS-CoV-2 variants.  
+- **Vaccination trends:** Emphasis on vaccination as the best prevention; no specific updates on vaccination rates.  
+- **Outpatient respiratory illness visits:** 1.4% of respiratory-related outpatient visits were reported, below the national baseline. Minimal ILI activity was reported nationwide.  
+- **Expectation of flu activity from CDC:** Low influenza activity is expected to continue.  
+- **Other key factors:** Genetic and antigenic characterization shows most circulating virus strains are well-recognized by current vaccines. Co-circulation of multiple respiratory viruses, including RSV and SARS-CoV-2, is ongoing. High resistance remains for adamantane antivirals, which are not recommended.

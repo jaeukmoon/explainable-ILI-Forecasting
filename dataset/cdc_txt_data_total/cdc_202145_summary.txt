@@ -1,0 +1,25 @@
+Based on the weekly ILI surveillance report from CDC for Week 45, ending November 13, 2021, the key facts regarding predicting future ILI occurrence are:
+
+1. Influenza activity in the United States remains low, but the number of influenza virus detections reported by clinical and public health laboratories has increased in recent weeks.
+
+2. The majority of the detected viruses are Influenza A (H3N2), with more than 90% of the infections occurring among children and young adults aged 5-24 years.
+
+3. Despite the low overall influenza activity, the percentage of outpatient visits for ILI has been slowly increasing in recent weeks.
+
+4. An annual flu vaccine is recommended for everyone 6 months and older as the best way to protect against influenza and its potentially serious complications.
+
+5. More than 162.5 million doses of flu vaccine have been distributed in the US as of November 5, 2021.
+
+6. Flu antiviral drugs are available for the treatment of flu illness.
+
+7. The geographical spread of influenza varies, with some areas experiencing high ILI activity levels, while others have minimal or no activity.
+
+8. Surveillance data from long-term care facilities shows 0.2% of facilities reported at least one influenza-positive test among residents.
+
+9. Hospitalization rates for influenza will be updated starting later in the season.
+
+10. 14.4% of deaths during Week 45 were attributed to pneumonia, influenza, or COVID-19, which is above the epidemic threshold.
+
+11. No influenza-associated pediatric deaths have been reported during the 2021-2022 season.
+
+These facts highlight the current trends and provide insights into the influenza activity in the US, informing public health measures such as vaccination campaigns and antiviral treatments.

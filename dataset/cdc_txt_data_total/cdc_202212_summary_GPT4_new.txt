@@ -1,0 +1,26 @@
+Week12, 2022
+1. Influenza activity is highest in central and south-central U.S. but declining, while increasing in the northeast and northwest regions.
+
+2. 6.5% of clinical lab specimens tested positive for influenza, with 99.2% being Influenza A and 0.8% Influenza B.
+
+3. Public health labs reported 339 positive specimens, all Influenza A, with 100% of subtyped specimens being H3N2.
+
+4. Outpatient visits for influenza-like illness (ILI) are at 1.8%, below baseline, with increases noted in younger age groups (0-64 years).
+
+5. The cumulative hospitalization rate is 7.2 per 100,000, higher than last season but lower than pre-COVID-19 years; 94.9% of hospitalizations are associated with Influenza A.
+
+6. Pediatric deaths increased by one this week, bringing the total for the season to 14.
+
+7. Mortality due to pneumonia, influenza, or COVID-19 (PIC) is at 8.3%, above the epidemic threshold, with the majority attributable to COVID-19.
+
+8. Influenza vaccination continues to be encouraged; no significant new trends in vaccination uptake reported.
+
+9. Co-circulating respiratory viruses, including SARS-CoV-2 (5.4% coinfection in tested specimens), impact interpretation of ILI trends.
+
+10. Antiviral susceptibility remains stable, with no significant resistance observed aside from one H3N2 virus with reduced baloxavir susceptibility.
+
+11. Expectation of flu activity remains uncertain due to regional variation and evolving virus strains, with H3N2 continuing to dominate.
+
+12. Data from long-term care facilities show 0.7% reporting at least one influenza-positive test.
+
+13. The northeast and northwest regions may see increasing ILI activity in coming weeks.

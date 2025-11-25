@@ -1,0 +1,13 @@
+Week9, 2021
+1. Influenza activity remains unusually low nationwide, with 0.1% of respiratory specimens testing positive for influenza.
+2. Of the 21 positive specimens reported by clinical labs, 52.4% were Influenza A and 47.6% were Influenza B.
+3. Public health labs also reported very low activity, with only one Influenza A sample detected this week; no Influenza B detections were reported.
+4. Outpatient visits for influenza-like illness (ILI) accounted for 0.8% of visits, stable from last week and well below the 2.6% national baseline.
+5. One cumulative pediatric influenza-associated death has been reported for the 2020-21 season.
+6. Pneumonia, influenza, or COVID-19 (PIC) accounted for 14.6% of deaths, significantly above the epidemic threshold of 7.2%, with the majority attributed to COVID-19.
+7. Cumulative hospitalization rate stands at 0.7 per 100,000 population, much lower than previous seasons.
+8. Vaccination recommendations for the 2021-2022 season have been updated, emphasizing changes in Influenza A components.
+9. Reports indicate increasing trends of ILI among children aged 0-4 years over the past eight weeks, while other age groups show declines.
+10. Ongoing interpretation of ILI and surveillance data remains complex due to altered healthcare-seeking behaviors during the COVID-19 pandemic.
+
+11. Summary of key factors: Influenza cases and hospitalizations remain historically low, COVID-19 dominates PIC deaths, and vaccination updates aim to enhance future protection. Predictive measures highlight the need to closely monitor pediatric ILI trends alongside altered care-seeking patterns.

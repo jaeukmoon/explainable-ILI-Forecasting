@@ -1,0 +1,13 @@
+Week38, 2024
+Summary of key factors:
+
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains low nationwide. A total of 195 pediatric deaths and 25,000 deaths overall have been reported this season, with 0.06% of deaths attributed to influenza this week.
+- **U.S. virologic surveillance**: 0.4% of respiratory specimens tested positive for influenza in clinical labs, with 85.7% being Influenza A and 14.3% Influenza B. Public health labs reported 96.4% Influenza A (61.7% A(H1N1)pdm09 and 38.3% A(H3N2)) and 3.6% Influenza B (100% Victoria lineage).
+- **Cumulative hospitalization rate**: Weekly hospitalization rate is 0.0/100,000 population, with a cumulative total of 25,405 hospitalizations for the season.
+- **Trends of deaths attributed to influenza**: The percentage of deaths attributed to influenza remains stable and low at 0.06%.
+- **Percentage of Influenza A and Influenza B**: Influenza A continues to dominate, making up 85.7% of clinical lab positives and 96.4% of public health lab positives.
+- **Novel Influenza virus like COVID-19**: No new cases of novel influenza viruses reported. A total of 20 novel cases, including 13 Influenza A(H5), were reported earlier in the season.
+- **Vaccination trends**: Information on vaccine updates is available, but no specific vaccination trends are reported here.
+- **Outpatient respiratory illness visits**: 1.8% of outpatient visits were for respiratory illnesses, below the national baseline, with slight increases observed in the 0-4 and 5-24 age groups.
+- **Expectation of flu activity from CDC**: Activity remains low but may increase. CDC continues to provide updates on flu and co-circulating respiratory viruses like COVID-19 and RSV.
+- **Other key factors**: Multiple respiratory viruses are co-circulating. Reduced antiviral effectiveness observed in some virus samples, but high resistance to adamantanes persists for Influenza A strains.

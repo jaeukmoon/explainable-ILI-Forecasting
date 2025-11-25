@@ -1,0 +1,20 @@
+Week52, 2020
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains unusually low (0.3% of respiratory labs testing positive). 13.6% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), with most due to COVID-19. No new pediatric influenza-associated deaths; one pediatric death reported for the 2020-21 season.
+
+- **U.S. virologic surveillance**: Clinical labs report 74 positive specimens (35.1% Influenza A, 64.9% Influenza B). Public health labs report only 2 positive specimens (100% Influenza A, no Influenza B). Public lab cumulative positives since Week 40 show 58.3% Influenza A and 41.7% Influenza B.
+
+- **Cumulative hospitalization rate**: A total of 101 influenza-related hospitalizations since October 1, 2020, with much lower counts than usual, comparable to the 2011-12 season. Rates will be provided when more stable data are available.
+
+- **Trends of deaths attributed to influenza**: PIC deaths significantly above epidemic threshold (13.6% vs. 6.8%), but primarily driven by COVID-19, not influenza.
+
+- **Percentage of Influenza A and Influenza B**: Among positives, 35.1%/64.9% in clinical labs and 58.3%/41.7% in public health labs were Influenza A/Influenza B, respectively. 
+
+- **Novel Influenza virus like COVID-19**: The majority of PIC-related deaths are caused by COVID-19. No novel influenza viruses reported.
+
+- **Vaccination trends**: CDC continues to recommend annual flu vaccination for anyone aged 6 months or older as the best preventive measure. Vaccination campaigns are emphasized given potential future increases in flu activity.
+
+- **Outpatient respiratory illness visits**: 1.6% of visits for ILI, below the 2.6% national baseline. One jurisdiction reported moderate activity, two had low activity, and the rest experienced minimal activity. Data interpretation is cautioned due to COVID-19 impacts.
+
+- **Expectation of flu activity from CDC**: Flu activity remains unusually low but may increase in the coming months as influenza trends evolve.
+
+- **Other key factors**: Surveillance for geographic spread of influenza is suspended for the 2020-21 season due to reliance on ILI, which is impacted by COVID-19. Alternative surveillance and updated reporting methods are critical during this dual pandemic season.

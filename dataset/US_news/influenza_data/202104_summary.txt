@@ -1,0 +1,7 @@
+- A universal influenza vaccine is being developed, which would provide long-lasting protection against flu and eliminate the need for annual vaccination.
+- The current flu vaccine requires regular updates to target specific strains of the virus, and its effectiveness depends on accurate predictions about which strains will be prevalent in a given season.
+- The universal vaccine being developed uses recombinant genetic technology to target a part of the virus that doesn't change as rapidly and is common among different strains.
+- The vaccine has completed its first human trial, bringing scientists one step closer to achieving a universal flu vaccine.
+- The influenza virus has proteins on its surface, such as haemagglutinin (HA), neuraminidase (NA), and the matrix protein (M2), which distinguish different strains.
+- The current flu vaccine primarily targets the HA protein, but the immune response to the HA head is so vigorous that other parts of the virus are not well recognized.
+- The universal vaccine aims to target a more conserved part of the virus, providing broader protection against different strains and potentially lasting immunity over multiple flu seasons.

@@ -1,0 +1,8 @@
+The study investigated the behavior of hospitalized severe influenza cases in Catalonia, Spain during the 2017-2018 season. It aimed to identify factors associated with ICU admission and death in these cases.
+- The study included 1306 cases of hospitalized severe influenza, of which 13.4% died and 16.6% were admitted to the ICU.
+- Age 65-74 years and age 75 or older, as well as having two or more comorbidities, were positively associated with death.
+- Neuraminidase inhibitor treatment and pneumonia were negatively associated with death.
+- The age groups 65-74 years and age 75 or older were negatively associated with ICU admission.
+- Neuraminidase inhibitor treatment was positively associated with ICU admission.
+- The study highlights the need to investigate different outcomes, such as death and ICU admission, separately when studying severe influenza cases.
+- Understanding the factors associated with severe outcomes can help inform strategies for preventing and managing severe influenza cases.

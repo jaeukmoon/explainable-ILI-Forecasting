@@ -1,0 +1,20 @@
+Week23, 2023
+- **Viruses, illness, and deaths**: For Week 23, 1.0% of clinical lab specimens tested positive for influenza, with influenza A (54.5%) slightly higher than influenza B (45.5%). There were 10 influenza-related deaths among 1,295 deaths attributed to pneumonia, influenza, and COVID-19 (PIC), bringing the percentage of PIC deaths to 6.3%, above the epidemic threshold of 6.1%. Three pediatric influenza-associated deaths were reported—two linked to influenza B and one to influenza A.
+
+- **U.S. virologic surveillance**: Public health labs reported 33.3% of positive specimens as influenza A (subtyped as 90% H1N1 and 10% H3N2) and 66.7% as influenza B (all Victoria lineage). Cumulatively for the season, influenza A accounts for 96.7% of positive specimens, with influenza B comprising 3.3%.
+
+- **Cumulative hospitalization rate**: Week 23 reported 850 lab-confirmed influenza-related hospitalizations. FluSurv-NET data collection ended on April 30, 2023; cumulative rates from previous reports are still pending updates.
+
+- **Trends of deaths attributed to influenza**: Influenza-related contribution to PIC deaths stands at approximately 0.8% for Week 23. Deaths involving both influenza and COVID-19 suggest a co-circulating multi-pathogen environment.
+
+- **Percentage of Influenza A and Influenza B**: Among positive specimens in clinical laboratories, influenza A represented 54.5% and influenza B 45.5%. Public health lab data for Week 23 showed 33.3% influenza A and 66.7% influenza B (all Victoria lineage).
+
+- **Novel Influenza virus like COVID-19 (SARS-CoV-2)**: Week 23 surveillance captured SARS-CoV-2 data, but no novel influenza variants were reported. COVID-19 continued contributing a significant proportion of PIC deaths.
+
+- **Vaccination trends**: No new data on vaccination trends were provided for Week 23.
+
+- **Outpatient respiratory illness visits**: 1.6% of outpatient visits nationwide were for influenza-like illness (ILI), with a higher prevalence in children aged 0-4 (5.6%). Activities remained at very low levels across most jurisdictions, with the majority reporting "minimal" ILI activity.
+
+- **Expectation of flu activity from CDC**: Activity is expected to remain low given current trends, but co-circulation of influenza, COVID-19, and other respiratory viruses may influence regional surges.
+
+- **Other key factors**: Co-circulation of multiple respiratory viruses, above-threshold PIC mortality, and higher ILI activity in younger populations may signal potential hotspots and the need for enhanced monitoring in children and regions still reporting ILI trends.

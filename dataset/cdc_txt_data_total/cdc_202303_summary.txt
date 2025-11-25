@@ -1,0 +1,14 @@
+Based on the Weekly U.S. Influenza Surveillance Report, here are the key facts regarding predicting future ILI occurrence:
+
+1. Seasonal influenza activity remains low in the United States.
+2. 3.1% of respiratory specimens tested in clinical laboratories were positive for influenza viruses.
+3. Influenza A viruses, including H3N2 and H1N1, predominated during the reported period.
+4. ILI activity remains below the national baseline of 2.4%, but increased slightly from the previous week.
+5. The majority of jurisdictions experienced minimal ILI activity, but Louisiana experienced moderate activity.
+6. Four out of 53 jurisdictions reported local flu activity, while the rest reported sporadic or no activity.
+7. 5.0% of deaths were attributed to pneumonia and influenza (P&I), below the epidemic threshold.
+8. No influenza-associated pediatric deaths have been reported for the current season.
+9. CDC expects flu activity to remain low but increase in the coming weeks.
+10. Annual flu vaccination and antiviral drugs are recommended for prevention and treatment.
+
+Note: All data are preliminary and subject to change as more reports are received.

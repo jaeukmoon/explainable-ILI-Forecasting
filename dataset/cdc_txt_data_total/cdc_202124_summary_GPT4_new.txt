@@ -1,0 +1,11 @@
+Week24, 2021
+1. Influenza activity remained minimal nationwide, with outpatient visits for influenza-like illness (ILI) accounting for 1.2%, below the national baseline of 2.6%.
+2. Specimens tested by clinical labs showed a positivity rate of less than 0.1%, indicating low influenza activity.
+3. Public health labs reported limited positive specimens, with no significant subtypes or lineages characterized.
+4. ILI visits increased slightly in children aged 0–4 years but remained stable in all other age groups.
+5. Pneumonia, influenza, or COVID-19 (PIC) accounted for 7.1% of deaths, surpassing the epidemic threshold of 5.9%, with most PIC mortality attributed to COVID-19.
+6. No influenza-associated pediatric deaths were reported during week 24, and only one pediatric death has been documented for the entire 2020-21 season.
+7. Healthcare-seeking behaviors and alternative care settings continue to affect ILI data reliability, especially during the COVID-19 pandemic.
+8. CDC emphasizes interpreting ILI data cautiously while monitoring broader virologic and syndromic data sources.
+9. Flu-related hospitalization rates and vaccination trends showed no significant updates this week due to seasonal data reporting adjustments.
+10. Influenza activity is expected to remain low, though future trends depend on healthcare behaviors and interactions with COVID-19 circulation.

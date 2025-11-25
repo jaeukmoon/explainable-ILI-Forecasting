@@ -1,0 +1,20 @@
+Week6, 2023
+- **Viruses, Illness, and Deaths**: Influenza activity was low nationally with 1.4% of respiratory specimens testing positive for influenza. Influenza A (82.3%) dominated over Influenza B (17.7%). Cumulative estimates for the season include 25 million illnesses, 280,000 hospitalizations, and 18,000 deaths. Five influenza-associated pediatric deaths were reported this week, totaling 111 this season.  
+
+- **U.S. Virologic Surveillance**: Clinical labs reported that 99.1% of positive specimens were Influenza A and 0.9% Influenza B. Public health labs reported Influenza A (89.6%) with subtypes A(H1N1)pdm09 (56.0%) and A(H3N2) (44.0%), and Influenza B (10.4%) entirely of the Victoria lineage.  
+
+- **Cumulative Hospitalization Rate**: The cumulative hospitalization rate was 59.5 per 100,000 population, the second highest for week 6 compared to past seasons since 2010-2011.  
+
+- **Trends of Deaths Attributed to Influenza**: 9.4% of deaths were due to pneumonia, influenza, or COVID-19 (PIC), exceeding the epidemic threshold of 7.3%. Influenza’s contribution to PIC mortality has declined over the last eight weeks.  
+
+- **Percentage of Influenza A and Influenza B**: Influenza A dominated with 82.3% of positive clinical lab specimens and 89.6% of public health lab positives, while Influenza B was 17.7% and 10.4%, respectively.  
+
+- **Novel Influenza Virus (COVID-19)**: 3.8% of hospitalized influenza cases also tested positive for SARS-CoV-2.  
+
+- **Vaccination Trends**: Most influenza viruses tested matched this season’s vaccine. Antivirals (oseltamivir, zanamivir, baloxavir) showed high effectiveness, with only one virus showing reduced susceptibility to oseltamivir. CDC continues to recommend flu vaccination for everyone over 6 months.  
+
+- **Outpatient Respiratory Illness Visits**: Respiratory illness visits were at 2.6%, slightly above the 2.5% national baseline. Seven jurisdictions reported moderate ILI activity, and three jurisdictions reported high activity.  
+
+- **Expectation of Flu Activity from CDC**: Seasonal influenza activity remains low but stable. Weekly hospitalizations and respiratory illness visits have decreased compared to the prior week.  
+
+- **Other Key Factors**: 0.7% of long-term care facilities reported at least one influenza-positive test among residents, a >5% decrease. The highest hospitalization rate was in adults aged 65+ (176.2 per 100,000). This is the second-highest hospitalization rate for this point in the season since 2010-2011, with influenza A subtypes H3N2 (75.5%) and H1N1pdm09 (24.5%) prevalent among hospitalized cases.  

@@ -1,0 +1,11 @@
+- Researchers are using mRNA technology to develop a universal flu vaccine.
+- The vaccine induces an immune response in mice and ferrets against 20 different types of influenza.
+- The vaccine has the potential to protect against flu strains not included in the vaccine and prevent future flu pandemics.
+- Traditional flu vaccines are reformulated each year to match the predicted flu strains, but a universal vaccine would provide broader protection.
+- The mRNA vaccine includes a virus protein from all 20 distinct influenza types.
+- Vaccinated mice produced antibodies against both similar and unique regions of all 20 influenza types.
+- Antibody levels remained unchanged for months after vaccination.
+- Vaccinated mice were protected and survived viral challenges similar to the strains in the vaccine.
+- Vaccinated mice also recovered faster from exposure to less similar flu strains compared to unvaccinated mice.
+- The vaccine's effectiveness was mostly attributed to the vaccine-generated antibodies.
+- Depleting T cells did not significantly affect the vaccine's effectiveness.

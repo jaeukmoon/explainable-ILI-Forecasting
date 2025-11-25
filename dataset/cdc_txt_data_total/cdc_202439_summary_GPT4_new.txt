@@ -1,0 +1,11 @@
+Week39, 2024
+1. Influenza activity remains low nationwide, with 0.5% of respiratory specimens testing positive for influenza in clinical labs.
+2. Of these positive specimens, 78% were Influenza A and 22% were Influenza B.
+3. Public health labs found 95.6% of positive specimens to be Influenza A, with 72.2% subtyped as H1N1 and 27.8% as H3N2, while 4.4% were Influenza B, all of Victoria lineage.
+4. Two human cases of Influenza A(H5) were reported in California, linked to the HPAI A(H5N1) outbreak in dairy cows; 16 such cases have been reported this season.
+5. Weekly hospitalization rates remained stable at 0.1 per 100,000 population, with a cumulative total of 25,456 hospitalizations since October 2023.
+6. Influenza A caused 84.6% of hospitalizations, predominantly H1N1 (67.5%), while Influenza B accounted for 14.8%, with no Yamagata lineage detected.
+7. Outpatient visits for respiratory illness remained stable nationally and are below the baseline, with variations in regional activity influenced by co-circulating viruses.
+8. Vaccination is urged for everyone aged 6 months and older, but vaccination trends were not discussed in this report.
+9. The percentage of deaths attributed to influenza and pneumonia has remained stable and is below epidemic levels.
+10. Co-circulation of other respiratory viruses, including COVID-19 and RSV, impacts ILI and healthcare-seeking patterns, necessitating integrated surveillance data for accurate predictions of activity trends.

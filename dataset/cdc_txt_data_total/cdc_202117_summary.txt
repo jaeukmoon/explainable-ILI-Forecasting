@@ -1,0 +1,14 @@
+Based on the weekly U.S. Influenza Surveillance Report from CDC for Week 17, ending May 1, 2021, the key facts regarding predicting future ILI occurrence are as follows:
+
+1. Seasonal influenza activity remains lower than usual for this time of year in the United States.
+2. The percentage of respiratory specimens testing positive for influenza at clinical laboratories is 0.1% for the week.
+3. The number of influenza positive specimens reported by public health labs remains unusually low.
+4. Influenza virus characterization information will be reported later this season.
+5. For the fourth week in a row, 1.1% of patient visits to a healthcare provider were for influenza-like illness (ILI), which is below the national baseline of 2.6%.
+6. All jurisdictions experienced minimal ILI activity during Week 17.
+7. The cumulative hospitalization rate for laboratory-confirmed influenza-related hospitalizations is 0.8 per 100,000 population, which is lower than previous seasons.
+8. Mortality surveillance data shows that 11.7% of deaths during Week 17 were attributed to pneumonia, influenza, or COVID-19, above the epidemic threshold of 6.6%.
+9. No influenza-associated pediatric deaths were reported during Week 17, and only one influenza-associated pediatric death has been reported for the entire season.
+10. The CDC recommends an annual flu vaccine as the best way to protect against influenza and its complications.
+
+It is important to note that these facts are specific to the surveillance report for Week 17 and may change as more data is received. The COVID-19 pandemic and changes in healthcare-seeking behaviors may also impact ILI surveillance data.

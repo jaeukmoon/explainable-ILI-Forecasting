@@ -1,0 +1,20 @@
+Week7, 2023
+- **Viruses, Illness, and Deaths**: Seasonal influenza activity is low nationally. 9.0% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), above the epidemic threshold of 7.3%. Four influenza-associated pediatric deaths were reported, bringing the total to 115 this season. CDC estimates 25 million illnesses, 280,000 hospitalizations, and 18,000 deaths from the flu so far this season.
+
+- **U.S. Virologic Surveillance**: 1.0% of clinical specimens tested positive for influenza, stable compared to the previous week. 74.2% of positive specimens in clinical labs were Influenza A (H3N2: 54.7%; H1N1: 45.3%), with B accounting for 25.8%. Public health labs identified 86.7% of influenza specimens as A (H3N2: 54.7%; H1N1: 45.3%) and 13.3% as Influenza B.
+
+- **Cumulative Hospitalization Rate**: The cumulative hospitalization rate is 59.7 per 100,000 population, the second highest for week 7 since 2010-2011. Hospitalizations decreased compared to week 6, with 1,778 patients admitted.
+
+- **Trends of Deaths Attributed to Influenza**: PIC mortality decreased slightly from the previous week but remained above the epidemic threshold. Influenza-related PIC deaths have been stable for the past three weeks.
+
+- **Percentage of Influenza A and B**: Influenza A constitutes 74.2% of clinical lab positives and 86.7% of public health lab positives. Influenza B accounts for 25.8% and 13.3% of positives, respectively.
+
+- **Novel Influenza Virus (like COVID-19)**: No novel influenza virus activity reported. Influenza testing occurred alongside monitoring for SARS-CoV-2 and other respiratory viruses.
+
+- **Vaccination Trends**: CDC emphasizes the importance of annual flu vaccination for everyone aged 6 months and older. The majority of circulating influenza viruses match this season’s vaccine; antiviral medications remain effective.
+
+- **Outpatient Respiratory Illness Visits**: 2.6% of outpatient visits were for respiratory illness (ILI), stable over five weeks and slightly above the 2.5% national baseline. Four jurisdictions reported high activity, and four reported moderate activity.
+
+- **Expectation of Flu Activity from CDC**: Influenza activity is low but remains present, with ongoing PIC-related concerns. CDC continues to monitor co-circulating respiratory viruses.
+
+- **Other Key Factors**: Long-term care facilities reported a reduction in outbreaks, with only 0.6% reporting at least one influenza-positive resident. Hospitalization rates were highest among adults aged 65+ and children aged 0-4 years. Co-infections with SARS-CoV-2 were minimal (3.9% of hospitalizations).

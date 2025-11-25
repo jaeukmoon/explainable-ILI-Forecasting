@@ -1,0 +1,20 @@
+Week40, 2021
+- **Viruses, illness, and deaths:** Influenza activity remains low with only 0.1% of respiratory specimens testing positive. Both Influenza A and B were identified, with Influenza A accounting for 57.1% of clinical lab positives and 61.5% of public health lab positives. 18.0% of deaths were attributed to pneumonia, influenza, or COVID-19 (above the threshold, primarily due to COVID-19). No pediatric deaths were reported this season.
+
+- **U.S. virologic surveillance:** Among clinical lab positives, 57.1% were Influenza A and 42.9% were Influenza B. Public health labs found 61.5% Influenza A (with H1N1pdm09 at 50% and H3N2 at 50% where subtyped) and 38.5% Influenza B (100% Victoria lineage where performed).
+
+- **Cumulative hospitalization rate:** Data for season-wide hospitalization rates is not available yet. However, 276 patients with laboratory-confirmed influenza were hospitalized during week 40.
+
+- **Trends of deaths attributed to influenza:** Deaths attributed to pneumonia, influenza, or COVID-19 are currently driven primarily by COVID-19 with a minimal contribution from influenza.
+
+- **Percentage of Influenza A and Influenza B:** Clinical lab specimens were 57.1% Influenza A and 42.9% Influenza B. Public health lab specimens were 61.5% Influenza A and 38.5% Influenza B.
+
+- **Novel influenza virus (like COVID-19):** No novel influenza viruses have been identified. COVID-19 remains a significant contributor to respiratory illness trends.
+
+- **Vaccination trends:** CDC emphasizes that an annual flu vaccine is recommended for everyone 6 months or older, preferably by the end of October, as the best preventive measure against influenza and its complications.
+
+- **Outpatient respiratory illness visits:** 1.9% of visits were for ILI, below the national baseline of 2.5%. ILI activity is attributed to other respiratory viruses due to low influenza virus circulation.
+
+- **Expectation of flu activity from CDC:** CDC expects flu activity to remain low for now, with any increases likely driven by viruses other than influenza.
+
+- **Other key factors:** Long-term care facilities reported low influenza activity, with only 0.1% of facilities reporting any positive cases. Minimal to low ILI activity was reported across most jurisdictions. Data from ILINet showed decreasing trends for ILI across all age groups over the past four weeks.

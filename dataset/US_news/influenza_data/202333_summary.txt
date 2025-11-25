@@ -1,0 +1,5 @@
+1. Cellular immune responses, specifically diverse and polyfunctional CD4+ and CD8+ T cells, circulating T follicular helper cells, T helper type 17 cells, myeloid dendritic cells, and CD16+ natural killer cells, play a role in protecting against symptomatic influenza virus infection.
+2. Nonspecific inflammatory populations, including γδ T cells, activated CD16− natural killer cells, and TNFα+ single-cytokine-producing CD8+ T cells, are associated with increased susceptibility to symptomatic influenza.
+3. Baseline variations in cellular and humoral immune compartments independently contribute to the risk of developing symptomatic influenza.
+4. Cellular subsets work synergistically with humoral immunity to confer protection against symptomatic influenza.
+5. Identification of specific cellular subsets can improve the prediction of symptomatic influenza susceptibility over vaccination, demographics, or serology alone.

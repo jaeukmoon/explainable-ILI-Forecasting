@@ -1,0 +1,15 @@
+Week14, 2022
+1. Influenza activity increased nationally, with the highest levels observed in the central and south-central regions and rising in most regions.
+2. Clinical labs reported 8.4% of specimens positive for influenza, with 99.3% being Influenza A and 0.7% Influenza B, predominantly A(H3N2).
+3. Public health labs detected only Influenza A (100%) this week, with 99.9% of subtyped viruses identified as A(H3N2).
+4. Outpatient visits for respiratory illness accounted for 2.0% of healthcare visits, still below the national baseline, though increasing in some jurisdictions.
+5. Cumulative hospitalization rates reached 8.9 per 100,000, higher than the 2020-21 season but lower than pre-pandemic seasons; older adults had the highest rates.
+6. Mortality from pneumonia, influenza, and COVID-19 (PIC) was 7.1%, slightly above the epidemic threshold, with COVID-19 being the primary driver of PIC deaths.
+7. Three pediatric deaths caused by Influenza A(H3N2) were reported, bringing the season’s total to 19.
+8. Vaccination is ongoing, with influenza vaccines shown to have some antigenic mismatch for A(H3N2) but good matches for B/Victoria strains.
+9. Among co-circulating respiratory viruses, 5.1% of specimens tested for both influenza and SARS-CoV-2 were positive for COVID-19.
+10. Hospital admissions for influenza have risen weekly for the past 10 weeks, with 3,170 new admissions reported this week.
+11. Long-term care facilities reported influenza in 0.9% of facilities this week.
+12. Multiple respiratory viruses are co-circulating, contributing variably to outpatient respiratory visits depending on location.
+
+13. Summary insights highlight increasing influenza activity, a predominance of A(H3N2), rising hospitalizations, and significant co-circulation of COVID-19, all of which could influence future trends.

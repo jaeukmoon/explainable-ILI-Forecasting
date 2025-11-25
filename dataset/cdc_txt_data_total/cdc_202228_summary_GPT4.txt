@@ -1,0 +1,20 @@
+Week28, 2022
+- **Viruses, illness, and deaths:** Influenza activity remains low with 0.7% of specimens testing positive in week 28. Influenza A viruses dominate, making up 90.9% of clinical lab positives and 97.4% of public health lab positives. No influenza-associated pediatric deaths were reported this week, but there are 32 reported deaths for the entire 2021-2022 season. 9.5% of deaths (PIC) were due to pneumonia, influenza, and COVID-19, primarily driven by COVID-19.
+
+- **U.S. virologic surveillance:** Cumulatively, 98.5% of positive clinical lab specimens were Influenza A and 1.5% were Influenza B. Public health labs reported 99.5% of positive speciments as Influenza A (dominantly H3N2) and 0.5% as Influenza B.
+
+- **Cumulative hospitalization rate:** During week 28, 722 influenza-confirmed hospitalizations were reported, with data collection for the 2021-2022 season concluding in week 23.
+
+- **Trends of deaths attributed to influenza:** PIC deaths are above the epidemic threshold, but most are linked to COVID-19 rather than influenza.
+
+- **Percentage of Influenza A and Influenza B:** Among positives, Influenza A accounts for the vast majority of cases - 90.9% in clinical labs, 97.4% in public health labs. Influenza B remains minimal at 9.1% in clinical labs and 2.6% in public health labs.
+
+- **Novel Influenza virus (like COVID-19):** COVID-19 remains a significant contributor to respiratory illnesses and PIC mortality. No reports of novel influenza variants like H1N1pdm09 or H3N2v during week 28.
+
+- **Vaccination trends:** No updates on vaccination trends in this week’s report.
+
+- **Outpatient respiratory illness visits:** Nationwide, 1.6% of outpatient visits were due to ILI, with age-specific rates highest among children aged 0-4 years (6.5%) and lowest in adults 65+ (0.8%). Most states experienced minimal ILI activity.
+
+- **Expectation of flu activity from CDC:** Influenza activity remains low and is not expected to significantly spike.
+
+- **Other key factors:** 33 long-term care facilities (0.2%) reported at least one influenza-positive test during week 28. COVID-19 continues to co-circulate prominently with other respiratory viruses, influencing healthcare-seeking behavior and respiratory illness trends.

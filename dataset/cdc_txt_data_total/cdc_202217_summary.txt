@@ -1,0 +1,9 @@
+First, the virologic surveillance data shows that the percentage of specimens testing positive for influenza in clinical laboratories decreased, but activity varied by region. Influenza A(H3N2) viruses have been the most frequently detected influenza viruses this season.
+
+Outpatient respiratory illness surveillance data indicates that 2.2% of patient visits reported through ILINet were due to respiratory illness that included fever plus a cough or sore throat, which remained stable compared to the previous week. However, the relative contribution of influenza virus infection to respiratory illness varies by location.
+
+Hospitalization surveillance data shows that the cumulative hospitalization rate for laboratory-confirmed influenza-related hospitalizations was 12.2 per 100,000 population. Most hospitalizations were associated with influenza A virus, particularly A(H3N2). Among hospitalized adults, the most commonly reported underlying medical conditions were hypertension, cardiovascular disease, metabolic disorder, and obesity.
+
+The mortality surveillance data revealed that 7.2% of deaths during the reporting period were due to pneumonia, influenza, and/or COVID-19. Among pediatric deaths, one influenza-associated death was reported during week 17, bringing the total number of pediatric deaths for the season to 24.
+
+These surveillance systems and data contribute to the understanding of influenza activity, including the predominant virus types, illness rates, hospitalizations, and mortality. It helps guide public health recommendations for prevention and control measures, such as annual flu vaccination and antiviral treatment.

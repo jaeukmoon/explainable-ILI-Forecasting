@@ -1,0 +1,13 @@
+1. The past time-series ILI occurrences over the 5 weeks demonstrated a steady and consistent upward trend, with values progressing from '1517' in Week 9, 2021, to '1956' in Week 13, 2021. Weekly increases were observed consistently (e.g., a jump of 78 from Week 9 to Week 10, 88 from Week 10 to Week 11, and 220 from Week 11 to Week 12). This clear escalation in ILI activity suggests increasing respiratory illness burden over time and sets the stage for the elevated future occurrences observed after 5 weeks.
+
+2. A strong positive correlation is evident between the past time-series ILI occurrences and the future ILI occurrences. The uninterrupted upward trend in Weeks 9–13, 2021, culminating in 1956 occurrences, aligns with the continuation of this pattern to the reported 2022 future occurrences after Week 18, 2021. This indicates that the trends observed in the past data serve as a reliable indicator of future ILI activity.
+
+3. Declining but persistently elevated PIC (pneumonia, influenza, or COVID-19) mortality was observed throughout Weeks 9–13, 2021, remaining above the epidemic threshold (e.g., 14.6% in Week 9 to 11.4% in Week 13). This reflects continued respiratory-associated health burdens that likely contributed to the future rise in ILI occurrences.  
+
+4. Outpatient visit percentages for ILI, though low, showed a slight increase from 0.8% in Week 9 to 1.0% in Week 13, 2021. These incremental gains point to rising reporting of respiratory illnesses, particularly as jurisdictions reported slight increases among specific populations (e.g., children aged 0–4).  
+
+5. Changing healthcare-seeking behaviors during the pandemic, as noted throughout the CDC summaries, impacted surveillance interpretation and reporting accuracy. These behavioral shifts could have delayed recognition of ILI cases and caused subsequent compensatory rises in later periods, aligning with the observed future occurrences of 2022.
+
+6. Despite minimal influenza positivity rates observed in clinical and public health labs (e.g., 0.1% of specimens throughout Weeks 9–13, 2021), non-influenza respiratory pathogens or changing behaviors likely contributed to increased ILI reporting over time. Predictions of potential future influenza rises further support this possibility.  
+
+7. In summary, the future ILI occurrences (2022 after Week 18, 2021) can be attributed to the steady upward trend in ILI occurrences during Weeks 9–13, 2021; persistent PIC mortality above epidemic thresholds; subtle increases in outpatient visits for ILI; and pandemic-induced disruptions to healthcare-seeking behaviors and surveillance systems. These factors combined to amplify ILI activity into the reported future data. 

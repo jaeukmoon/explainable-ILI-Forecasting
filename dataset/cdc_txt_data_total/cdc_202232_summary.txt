@@ -1,0 +1,16 @@
+Virologic Surveillance:
+- In clinical laboratories, 0.4% of tested specimens were positive for influenza, with a predominance of Influenza A.
+- In public health laboratories, 92.6% of positive specimens were Influenza A, with the H3N2 subtype being the most common.
+
+Outpatient ILI Surveillance:
+- 1.4% of patient visits reported through the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet) were due to ILI.
+- ILI activity varied by region, with some areas experiencing moderate ILI activity.
+
+Geographic Spread:
+- Four states reported local flu activity, while the rest reported sporadic or no flu activity.
+
+Severe Disease:
+- 9.9% of deaths during the reporting week were due to pneumonia, influenza, and/or COVID-19, above the epidemic threshold.
+- No influenza-associated pediatric deaths were reported during the current season.
+
+These facts highlight the current low activity of influenza in the United States, the predominant strains of influenza viruses, the level of ILI activity, the geographic spread of flu, and the severity of flu-related hospitalizations and deaths.

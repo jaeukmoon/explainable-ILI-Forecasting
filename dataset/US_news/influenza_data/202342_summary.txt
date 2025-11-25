@@ -1,0 +1,7 @@
+- Highly pathogenic avian influenza (HPAI) H5N1 activity has increased globally since 2021, causing mass mortality in wild birds and poultry.
+- There have been significant shifts in the origins of resurgent HPAI H5, with key events in 2016-2017 and 2020-2021 contributing to the emergence and spread of H5N1 in 2021-2022.
+- Genomic analysis shows that the 2016-2017 outbreaks originated in Asia, where HPAI H5 reservoirs are endemic.
+- In 2020-2021, H5N8 viruses emerged in African poultry with mutations altering HA structure and receptor binding.
+- In 2021-2022, a new H5N1 virus evolved through reassortment in wild birds in Europe, further reassorting with low-pathogenic avian influenza in wild and domestic birds during global dissemination.
+- The shift in the HPAI H5 epicenter beyond Asia suggests increasing persistence in wild birds, facilitating geographic and host range expansion, dispersion velocity, and reassortment potential.
+- Elimination strategies in domestic birds are a priority to limit future outbreaks.

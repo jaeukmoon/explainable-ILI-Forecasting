@@ -1,0 +1,11 @@
+Week42, 2020
+1. Influenza activity remains low nationwide, with 0.3% of respiratory specimens testing positive for influenza in clinical labs.
+2. Of the 33 positive clinical lab specimens, 54.5% were Influenza A and 45.5% were Influenza B.
+3. Public health labs reported 15 positive specimens, all Influenza A (none subtyped) or unspecified Influenza B.
+4. Outpatient visits for influenza-like illness (ILI) accounted for 1.2% of visits, consistent with last week and below the national baseline of 2.6%.
+5. No pediatric deaths were reported for the 2020-21 season; two prior-season pediatric deaths were retroactively reported, bringing that season's total to 194.
+6. Pneumonia, influenza, or COVID-19 (PIC) accounted for 7.6% of deaths, surpassing the epidemic threshold of 5.8%.
+7. Hospitalization data will be updated later in the season as more reports are collected.
+8. Annual flu vaccination is recommended, though current vaccination trends are not detailed.
+9. Healthcare-seeking behaviors have shifted due to the COVID-19 pandemic, affecting traditional ILI surveillance and requiring alternate data sources.
+10. Flu activity remains uncertain, given current healthcare changes and dual monitoring of influenza and COVID-19.

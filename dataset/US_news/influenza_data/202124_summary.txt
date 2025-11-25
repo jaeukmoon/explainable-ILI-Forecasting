@@ -1,0 +1,6 @@
+- Influenza viruses are a major public health problem and vaccines are the best countermeasure to induce effective immunity against infection.
+- The breadth of antibody responses in infection versus vaccination is quite different.
+- Nasal infection controls two sequential processes to induce neutralizing IgG antibodies: viral replication in the lung and the germinal center (GC) response.
+- IL-4 derived from follicular helper T cells has an essential role in the expansion of rare GC-B cells recognizing shared epitopes and promoting the generation of broadly-protective antibodies.
+- Exposure to shared epitopes and efficient proliferation of GC-B cells are critical for generating broadly-protective antibodies.
+- Understanding these mechanisms can provide insights into promoting broad protection from virus infection.

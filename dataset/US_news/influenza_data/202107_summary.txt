@@ -1,0 +1,6 @@
+- Coinfection with influenza A virus (IAV) can enhance the infectivity of SARS-CoV-2, the virus that causes COVID-19.
+- In experimental coinfections, IAV preinfection significantly increased the infectivity of SARS-CoV-2 in various cell types.
+- In mice coinfected with IAV and SARS-CoV-2, higher viral loads of SARS-CoV-2 and more severe lung damage were observed compared to mice infected with only SARS-CoV-2.
+- This enhancement of SARS-CoV-2 infectivity was specific to IAV and was not observed with other respiratory viruses.
+- IAV may enhance SARS-CoV-2 infection by increasing the expression of ACE2, the receptor used by SARS-CoV-2 to enter cells.
+- Prevention of IAV infection is important during the COVID-19 pandemic to reduce the severity of SARS-CoV-2 infection.

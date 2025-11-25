@@ -1,0 +1,20 @@
+Week3, 2021
+- **Viruses, illness, and deaths**: Influenza activity remains low. One novel influenza A(H3N2)v infection was reported, marking the first of the 2020-2021 season. Of deaths attributed to pneumonia, influenza, or COVID-19 (PIC), 14.8% were reported, with most caused by COVID-19. Only seven influenza-associated deaths occurred.
+
+- **U.S. virologic surveillance**: Clinical labs report 0.3% of respiratory specimens testing positive for influenza this week. Influenza B (75.4%) predominated in clinical labs, while public health labs reported Influenza A (66.7%) as dominant.
+
+- **Cumulative hospitalization rate**: A total of 142 laboratory-confirmed influenza hospitalizations have been reported, equating to a cumulative rate of 0.5 per 100,000 population, which is unusually low.
+
+- **Trends of deaths attributed to influenza**: PIC deaths are above the epidemic threshold (14.8%), driven mainly by COVID-19 rather than influenza.
+
+- **Percentage of Influenza A and Influenza B**: Clinical labs report 24.6% of positives as Influenza A and 75.4% as Influenza B. Public health labs report 66.7% as Influenza A and 33.3% as Influenza B.
+
+- **Novel influenza virus like COVID-19**: One human infection with a novel influenza A(H3N2)v virus was identified in Wisconsin, linked to exposure to swine.
+
+- **Vaccination trends**: CDC emphasizes flu vaccination as the best protection and encourages people to get vaccinated now.
+
+- **Outpatient respiratory illness visits**: Nationally, 1.3% of outpatient visits were for ILI, remaining below the 2.6% baseline. ILI activity is minimal in most jurisdictions.
+
+- **Expectation of flu activity from CDC**: Flu activity is low but may increase in the coming months.
+
+- **Other key factors**: COVID-19 impacts ILI surveillance, causing data interpretation challenges. Regional ILI percentages slightly increased in two regions but remain below baselines across all states.

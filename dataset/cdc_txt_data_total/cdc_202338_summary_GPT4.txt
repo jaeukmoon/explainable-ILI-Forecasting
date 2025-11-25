@@ -1,0 +1,20 @@
+Week38, 2023
+- **Viruses, illness, and deaths**: 0.9% of respiratory specimens tested positive for influenza in week 38 (down from a cumulative of 8.7% for the season). Influenza A was more frequent at 59.4%, with Influenza B accounting for 40.6%. Mortality data indicate 7.2% of deaths were due to pneumonia, influenza, and/or COVID-19 (PIC), above the epidemic threshold of 5.6%. Only 10 deaths reported influenza explicitly. No pediatric influenza-associated deaths were reported; the cumulative total is 176 for the season.
+
+- **U.S. virologic surveillance**: Among clinical lab specimens, 59.4% were Influenza A and 40.6% were Influenza B. Public health labs reported Influenza A accounting for 65.3% (94.1% H1N1, 5.9% H3N2), while 34.7% were Influenza B, all of which belonged to the Victoria lineage.
+
+- **Cumulative hospitalization rate**: NHSN hospitals admitted 880 influenza-confirmed cases nationally in week 38. Updated hospitalization data for the full season were not provided.
+
+- **Trends of deaths attributed to influenza**: The percentage of PIC deaths this week (7.2%) exceeds the epidemic threshold; influenza-specific deaths remain minimal.
+
+- **Percentage of Influenza A and Influenza B**: Clinical specimens: Influenza A (59.4%) and Influenza B (40.6%). Public health specimens: Influenza A (65.3%) and Influenza B (34.7%).
+
+- **Novel influenza viruses like COVID-19**: No reports of novel influenza viruses (e.g., H3N2v) were noted.
+
+- **Vaccination trends**: No vaccination-specific updates were included for Week 38, though routine guidance highlights vaccination as the primary preventive tool.
+
+- **Outpatient respiratory illness visits**: ILI visits accounted for 2.0% of outpatient visits, a slight increase but still below baseline levels. Age distribution: 6.8% (0-4 years), 3.2% (5-24 years), 1.6% (25-49 years), 1.1% (50-64 years), and 0.8% (65+ years).
+
+- **Expectation of flu activity from CDC**: Influenza activity is low, but multiple respiratory viruses are co-circulating. Data indicates localized community transmission.
+
+- **Other key factors**: No jurisdictions reported "Very High" activity, and only 3 reported "High" activity. Minimal or low activity dominated across most regions. Multiple respiratory pathogens in ILI cases emphasize the need for enhanced localized virologic insight to predict influenza trends.

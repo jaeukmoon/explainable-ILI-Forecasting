@@ -1,0 +1,13 @@
+Week46, 2022
+1. Influenza activity is elevated nationwide, with 18.2% of clinical specimens testing positive this week.
+2. Influenza A(H3N2) accounts for 78% of subtyped Influenza A cases, with Influenza A overall comprising 99.5% of clinical lab positives.
+3. Outpatient visits for respiratory illness were 6.0% of all visits, exceeding the baseline of 2.5%; 35 jurisdictions reported high or very high activity.
+4. The cumulative hospitalization rate (11.3 per 100,000) is the highest for week 46 since 2010, with older adults (65+) having the highest rate (25.9 per 100,000).
+5. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) reached 9.4%, above the epidemic threshold of 6.3%, though COVID-19 remains the primary cause.
+6. Pediatric deaths include 5 this week, bringing the season total to 12; all were Influenza A-associated (H1N1 and H3).
+7. Influenza B remains rare, accounting for only 0.5% of clinical positives and 0.4% of public health lab positives.
+8. CDC estimates 6.2 million illnesses, 53,000 hospitalizations, and 2,900 deaths from influenza this season thus far.
+9. Vaccine-related strains are antigenically similar to circulating viruses, and vaccination continues to be urged as a primary preventive measure.
+10. ILI visits increased in ages 65+ but decreased in the 0-4 age group; other age groups remained stable.
+
+11. Key predictive factors: High hospitalization and cumulative burden suggest intense activity, particularly for Influenza A(H3N2), with vaccine matching providing some mitigation potential. Elevated respiratory illness visits and PIC mortality also indicate continued high activity in the coming weeks.

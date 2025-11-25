@@ -1,0 +1,20 @@
+Week16, 2022
+- **Viruses, illness, and deaths**: Influenza activity is increasing in some areas. Influenza A(H3N2) predominates, and one avian influenza A(H5) human case was reported in Colorado this week. Cumulatively, the CDC estimates 5.3 million flu illnesses, 53,000 hospitalizations, and 3,200 deaths so far this season. 6.8% of deaths are attributed to pneumonia, influenza, or COVID-19 (at the epidemic threshold). One pediatric influenza death reported this week, totaling 23 this season.  
+
+- **U.S. virologic surveillance**: Of laboratory tests nationwide, 7.8% were positive for influenza in week 16, with 98.8% of positive clinical lab samples and 99.3% of public health lab samples identified as Influenza A. Influenza A(H3N2) accounts for nearly all subtyped public health lab samples.
+
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate is 11.1 per 100,000, higher than the 2020-2021 season but lower than pre-COVID-19 pandemic seasons. Hospitalization rates are highest in adults aged 65+ years and children aged 0-4 years.  
+
+- **Trends of deaths attributed to influenza**: 6.8% of deaths are attributed to pneumonia, influenza, or COVID-19, primarily driven by COVID-19, with only 33 deaths attributed to influenza this week.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A constitutes 98.8% of clinical lab positives. Influenza B remains minimal at 1.2%.  
+
+- **Novel influenza virus like COVID-19**: First U.S. human detection of avian influenza A(H5) reported in Colorado following exposure to infected poultry. Over 35 million birds have been affected by Highly Pathogenic Avian Influenza since February.  
+
+- **Vaccination trends**: Vaccination remains the best preventive measure against severe flu outcomes. CDC continues recommending flu vaccines for everyone aged 6 months and older as flu activity persists.    
+
+- **Outpatient respiratory illness visits**: 2.1% of outpatient visits are for influenza-like illness (ILI), below the national baseline (2.5%). While stable nationally, ILI has varied regionally and continues to rise in younger age groups (e.g., 0-4 years).  
+
+- **Expectation of flu activity from CDC**: Influenza activity is expected to continue increasing in some areas. Other respiratory viruses are also circulating and contributing to illness trends.  
+
+- **Other key factors**: Hospital admissions for influenza have risen consistently for 12 weeks, reaching 3,452 in week 16. ILINet shows some jurisdictions (1 with very high, 2 with high, and 1 with moderate activity) reporting hotspots for respiratory illness. Monitoring continues for co-detection with SARS-CoV-2 (4.8% of public health lab influenza-positive samples also tested positive for SARS-CoV-2).

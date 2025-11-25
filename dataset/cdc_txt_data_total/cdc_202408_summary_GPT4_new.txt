@@ -1,0 +1,13 @@
+Week8, 2024
+1. Seasonal influenza activity remains elevated nationally, with increases in some regions and a 14.2% positivity rate in clinical labs this week.
+2. Among clinical lab positives, 59.0% were Influenza A and 41.0% Influenza B; public health labs reported 65.7% Influenza A and 34.3% Influenza B (predominantly the Victoria lineage for Influenza B).
+3. Subtyping of Influenza A in public health labs showed 55.0% A(H1N1) and 45.0% A(H3N2), with no H3N2v detected.
+4. The cumulative hospitalization rate for flu was 61.5 per 100,000, mainly affecting adults aged 65+ (166.1 per 100,000).
+5. Two additional pediatric deaths this week brought the season’s total to 93, with both new deaths linked to Influenza B.
+6. Mortality from influenza accounted for 0.7% of deaths this week, remaining stable compared to last week.
+7. Outpatient visits for influenza-like illness (ILI) accounted for 4.4% of healthcare visits, with activity above baseline nationally and varying regionally.
+8. Vaccination remains encouraged as flu activity continues; no new vaccination trends were reported.
+9. Flu admissions to hospitals (10,148 this week) were stable from last week; 87.0% involved Influenza A and 12.3% Influenza B.
+10. Multiple respiratory viruses, including RSV and SARS-CoV-2, are co-circulating, complicating interpretation of ILI trends.
+
+11. Key predictive insights: Elevated flu activity across regions signals the continued spread of Influenza A(H1N1) and Influenza B/Victoria, with high hospitalization rates, particularly in older adults, and a notable pediatric mortality burden suggesting severe outcomes.

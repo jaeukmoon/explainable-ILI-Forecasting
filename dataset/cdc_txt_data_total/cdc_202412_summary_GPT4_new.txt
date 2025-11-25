@@ -1,0 +1,11 @@
+Week12, 2024
+1. Influenza activity remains elevated but is decreasing nationally, with 10.5% of respiratory specimens testing positive for influenza.
+2. Among 403 samples from public health labs, 59.3% were Influenza A and 40.7% Influenza B, with A(H3N2) slightly more common than A(H1N1)pdm09.
+3. Cumulative hospitalization rate stands at 72.2 per 100,000, with the highest rate among adults aged 65+ years.
+4. Influenza accounted for 0.5% of deaths this week, stable from the previous week, and five new pediatric deaths were reported, bringing the season total to 126.
+5. Outpatient respiratory illness visits constituted 3.1% of visits, slightly above baseline but continuing to decline.
+6. A novel A(H1N2)v virus infection was identified in a patient with recent swine contact, with no evidence of human-to-human transmission.
+7. Influenza A accounts for 70.6% of cumulative clinical lab positives, with Influenza B making up 29.4%.
+8. CDC reports widespread co-circulation of influenza, COVID-19, and RSV, complicating trends in ILI and respiratory disease surveillance.
+9. Annual vaccination is recommended for all individuals aged six months and older, with vaccination this season still providing benefits.
+10. Regions 7, 5, and 1 show the highest positivity rates for influenza, indicating regional variances in viral spread.

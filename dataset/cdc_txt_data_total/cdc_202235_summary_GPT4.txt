@@ -1,0 +1,21 @@
+Week35, 2022
+- **Viruses, illness, and deaths**: Influenza activity remains low in Week 35, with 0.6% of specimens testing positive for influenza. Influenza A accounted for 92.3% of positive cases, and Influenza B made up 7.7%. In the same week, deaths attributed to pneumonia, influenza, and COVID-19 (PIC) were 9.6%, above the epidemic threshold of 5.5%. The PIC deaths were primarily due to COVID-19, with seven deaths attributed to influenza.
+
+- **U.S. virologic surveillance**: Clinical labs reported 92.3% of positive cases as Influenza A and 7.7% as Influenza B. Public health labs reported 83.3% as Influenza A, where H3N2 dominated (50% of Influenza A cases), and 16.7% as Influenza B.
+
+- **Cumulative hospitalization rate**: 509 patients with confirmed influenza were hospitalized during Week 35. Hospitalizations after June 11, 2022, are not tracked for the 2021-2022 season.
+
+- **Trends of deaths attributed to influenza**: PIC mortality is influenced mainly by COVID-19 rather than influenza, with only seven influenza-related deaths reported in Week 35.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A dominates with 92.3% of positive results in clinical labs and 83.3% in public health labs. Influenza B cases are minimal at 7.7% in clinical labs and 16.7% in public health labs.
+
+- **Novel influenza virus (like COVID-19)**: Influenza A(H3N2v) remains rare, with no new cases reported this week (Four cumulative cases). COVID-19 significantly impacts PIC mortality.
+
+- **Vaccination trends**: No specific vaccination updates noted. CDC emphasizes vaccination as the primary measure for influenza prevention.
+
+- **Outpatient respiratory illness visits**: Nationwide, 1.9% of outpatient visits were for ILI. By age group, higher ILI percentages were seen among children (7.2% for ages 0-4 and 3.0% for ages 5-24). ILI activity varied geographically, with three jurisdictions reporting high activity and 45 reporting minimal activity.
+
+- **Expectation of flu activity from CDC**: Influenza activity is expected to remain low. Multiple respiratory viruses, including SARS-CoV-2 and RSV, are co-circulating.
+
+- **Other key factors**: Long-term care facilities reported a minimal impact, with only 0.2% reporting influenza cases. Influenza-associated pediatric deaths remain low, with no new deaths reported this week. 
+

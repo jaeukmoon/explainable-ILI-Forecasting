@@ -1,0 +1,13 @@
+Week4, 2022
+1. Influenza activity has decreased but remains sporadic across the U.S.; 1.7% of tested clinical specimens were positive for influenza.
+2. Influenza A(H3N2) forms 97% of clinical lab positives and 99.2% of public health lab positives, with Influenza B forming a minor proportion.
+3. Outpatient visits for respiratory illnesses accounted for 2.0%, below the national baseline, with downward trends in all age groups.
+4. Pediatric deaths from influenza remain at zero for the week, with five reported this season.
+5. Hospitalization rate for influenza (4.4 per 100,000) is higher than the 2020-21 season but lower than pre-COVID-19 seasons.
+6. Influenza vaccination coverage is lower compared to the previous season. CDC recommends vaccination for all individuals aged 6 months and older.
+7. Deaths due to pneumonia, influenza, or COVID-19 (PIC) were at 28.6%, primarily driven by COVID-19, surpassing epidemic thresholds.
+8. SARS-CoV-2 co-infections were identified in 5.7% of flu positives in public lab testing.
+9. Antiviral resistance to neuraminidase inhibitors, peramivir, and baloxavir was not observed in tested samples.
+10. Two jurisdictions reported moderate activity, while four saw high/very high activity; most areas report low or minimal ILI activity.
+
+11. Summary for predictions: Sporadic influenza activity, concurrent circulation of other respiratory viruses, lower vaccination rates, and co-infections with SARS-CoV-2 underline the potential for uneven flu activity in coming weeks.

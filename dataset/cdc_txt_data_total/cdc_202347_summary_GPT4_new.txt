@@ -1,0 +1,12 @@
+Week47, 2023
+1. Influenza activity is increasing nationwide, particularly in the South Central, Southeast, Mountain, and West Coast regions, with 6.2% of specimens testing positive for influenza this week.
+2. Of the 379 viruses identified in public health labs, 82.1% were Influenza A (with 82.2% of subtyped A viruses being A(H1N1)) and 17.9% were Influenza B.
+3. The cumulative hospitalization rate is 3.7 per 100,000, with elderly adults (65+ years) having the highest rate (8.9 per 100,000) and Influenza A comprising 81.6% of confirmed cases among hospitalized patients.
+4. Deaths due to influenza accounted for 0.1% of mortalities this week, remaining stable but slightly trending upward since October. Five pediatric influenza-associated deaths were reported this week, bringing the season total to 8.
+5. Outpatient visits for respiratory illness (ILI) reached 3.9%, above the national baseline of 2.9% for the fourth consecutive week; increases were seen in 7 of 10 regions, with 13 jurisdictions reporting high or very high activity.
+6. Of total flu viruses subtyped since October 1, 72.3% have been Influenza A, and 27.7% Influenza B. Regional variation shows more Influenza B (38%) in regions 4 and 6 compared to other areas.
+7. Influenza vaccines remain available, and vaccination is strongly recommended for everyone 6 months and older as flu activity rises. No novel influenza viruses or significant vaccine strains mismatches are noted so far.
+8. The CDC estimates 1.8 million illnesses, 17,000 hospitalizations, and 1,100 deaths from influenza have occurred this season.
+9. Nationwide upward trends in both influenza positivity and hospitalization suggest potential for further increases, especially as respiratory viruses RSV and SARS-CoV-2 co-circulate.
+
+10. Summary of predictive insights: Continued increases in influenza positivity rates, severe cases (hospitalizations and pediatric deaths), and respiratory illness visits suggest heightened flu activity in coming weeks. Vaccination remains critical, as increases in multiple respiratory viruses may compound public health impacts. Elevated activity in specific regions and subtypes like A(H1N1) highlight regional variability and potential forecasting challenges.

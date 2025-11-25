@@ -1,0 +1,10 @@
+1. The past time-series ILI occurrences over the 5 weeks exhibited a consistent and significant upward trend, with values increasing steadily from '1676' (Week 17, 2022) to '2058' (Week 21, 2022). The ILI occurrences grew progressively each week, indicating a sustained rise in influenza-like illness activity over the observed period, which likely set the stage for reduced activity in the future due to eventual decline from peak levels.
+
+2. A negative correlation between the past and future ILI occurrences is observed. While the past data (Week 17 to Week 21, 2022) shows a persistent increase, the significant drop to 1196 in future data (Week 26, 2022) likely indicates that the peak in ILI activity occurred during the observed weeks, followed by a natural decline as the influenza season progressed and mitigation efforts or seasonality factors took effect.
+
+3. Multiple factors from the CDC reports correlate strongly with the future decrease in ILI occurrences:  
+   - Declining influenza test positivity rates over the 5 weeks: These decreased steadily from 8.6% (Week 18, 2022) to 5.7% (Week 21, 2022), signaling the waning phase of the influenza season.  
+   - Stabilization of outpatient visits for ILI: Outpatient ILI visits plateaued at approximately 2.3–2.4% (Weeks 19–21, 2022) and remained below the national baseline, reflecting decreasing healthcare-seeking for respiratory illnesses.  
+   - Minimal increases in co-infections: SARS-CoV-2 co-infection percentages (4.7% to 4.4%) and low influenza B activity (<1%) suggest limited compounded disease burden associated with other respiratory pathogens, likely contributing to reduced ILI occurrences in the future.
+
+4. In summary, the future ILI occurrences dropping to 1196 (Week 26, 2022) can be attributed to the past upward trend peaking during Weeks 17–21, 2022, as shown by the increasing ILI occurrences during this period. The waning of influenza activity, confirmed by decreasing test positivity rates, stable outpatient ILI visits below baseline, and minimal impact from other respiratory co-infections, collectively resulted in a predicted and observed decline in ILI cases after 5 weeks.

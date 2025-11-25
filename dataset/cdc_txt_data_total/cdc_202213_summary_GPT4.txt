@@ -1,0 +1,22 @@
+Week13, 2022
+- **Viruses, illness, and deaths**: Influenza activity increased nationally and is highest in central, south-central, and increasing in northeastern regions. Majority of detected viruses are Influenza A (H3N2). 7.5% of deaths nationally were attributed to pneumonia, influenza, or COVID-19, exceeding the epidemic threshold of 7.0%. Two pediatric influenza deaths were reported this week, totaling 16 for the season.
+
+- **U.S. virologic surveillance**: Clinical labs reported 8.3% of respiratory specimens testing positive for influenza (98.5% Influenza A and 1.5% Influenza B). Public health labs indicated 99.8% were Influenza A (100% H3N2) and 0.2% were Influenza B.
+
+- **Cumulative hospitalization rate**: The overall cumulative hospitalization rate is 8.0 per 100,000, higher than the 2020-2021 season but lower compared to pre-pandemic seasons. Adults 65+ years have the highest rate (21.8 per 100,000).
+
+- **Trends of deaths attributed to influenza**: 15 influenza-related deaths occurred this week, primarily associated with COVID-19 rather than influenza, reflecting higher PIC mortality.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A constitutes 98.5% (clinical labs) and 99.8% (public health labs) of positives. Influenza B accounts for a smaller proportion, 1.5% in clinical labs and 0.2% in public health labs.
+
+- **Novel influenza virus (like COVID-19)**: No reports of novel influenza virus outbreaks or co-circulation of SARS-CoV-2 across regions significantly impacting patterns.
+
+- **Vaccination trends**: Flu vaccines remain recommended as a primary preventive measure. Most H3N2 viruses are genetically related to vaccine strains, although some antigenic differences exist.
+
+- **Outpatient respiratory illness visits**: Nationwide, 1.9% of outpatient visits were for influenza-like illness (ILI), below the national baseline. Activity increased in specific regions, with co-circulation of other respiratory viruses contributing to illness.
+
+- **Expectation of flu activity from CDC**: CDC reports increased influenza activity nationally, expecting continued impact with co-circulation of influenza and other respiratory viruses.
+
+- **Other key factors**: Hospital admissions for influenza have increased over the last nine weeks. Co-infection with influenza and SARS-CoV-2 has been reported in 5.3% of tested cases.
+
+This rising activity—especially with Influenza A (H3N2)—coupled with indicators of moderate vaccination protection, may signal increased flu burden in upcoming weeks.

@@ -1,0 +1,10 @@
+- Seasonal influenza activity remains elevated in most parts of the country.
+- Influenza A(H1N1)pdm09 viruses are the most frequently reported influenza viruses.
+- Genetic and antigenic characterization of influenza viruses are conducted to monitor their similarity to reference viruses and their susceptibility to antiviral medications.
+- Outpatient respiratory illness visits are above the national baseline, with varying activity levels across different regions.
+- Four states reported local influenza activity, while others reported sporadic or no activity.
+- Hospitalization rates and pneumonia and influenza mortality rates are monitored to assess severe disease impact.
+- No influenza-associated pediatric deaths have been reported during the current season.
+- CDC recommends annual flu vaccination and the use of antiviral drugs for treatment of flu illness.
+- Surveillance systems provide data on virologic activity, outpatient illness, geographic spread, hospitalizations, mortality, and pediatric deaths.
+- CDC's FluView Interactive and international surveillance systems provide additional influenza surveillance information.

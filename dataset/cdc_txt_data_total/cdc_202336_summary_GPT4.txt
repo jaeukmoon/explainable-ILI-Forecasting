@@ -1,0 +1,21 @@
+Week36, 2023
+- **Viruses, illness, and deaths**: Influenza activity remains low, with 0.7% of respiratory specimens testing positive for influenza this week. Influenza A accounts for 66.0% of positive specimens, and Influenza B accounts for 34.0%. 7.0% of deaths were due to pneumonia, influenza, and/or COVID-19 (PIC), exceeding the epidemic threshold of 5.6%. Among these, 12 deaths were influenza-related. No pediatric influenza-associated deaths were reported this week.
+
+- **U.S. virologic surveillance**: Clinical labs report that Influenza A constitutes 97.3% of cumulative positives since October 2022, whereas Influenza B accounts for 2.7%. Public health labs identified Influenza A as 69.0% of positives this week (100% H1N1pdm09) and Influenza B (Victoria lineage) as 31.0% of positives.
+
+- **Cumulative hospitalization rate**: FluSurv-NET data collection ended after April 30, 2023, for the 2022-2023 season. This week, 775 influenza-related hospitalizations were reported.
+
+- **Trends of deaths attributed to influenza**: 7.0% of reported deaths were due to PIC causes, above the epidemic threshold, but only 0.78% were specifically attributed to influenza.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A made up 66.0% of clinical lab positives this week and 69.0% of public health positives. Influenza B accounted for 34.0% of clinical lab positives and 31.0% of public health positives this week.
+
+- **Novel influenza virus (like COVID-19)**: No novel influenza virus or variants, such as H3N2v, were reported this week. COVID-19 deaths remain a significant portion of PIC deaths (507 of 1,548 reported).
+
+- **Vaccination trends**: No specific vaccination trends were reported, but previous recommendations for flu vaccinations remain critical.
+
+- **Outpatient respiratory illness visits**: 2.0% of outpatient visits were due to ILI, below the national baseline, with co-circulation of multiple respiratory viruses. Visit rates were highest in ages 0-4 years (6.5%) and lowest in those 65+ years (0.9%).
+
+- **Expectation of flu activity from CDC**: Influenza activity remains low but is expected to increase in the coming weeks with co-circulation of other respiratory viruses.
+
+- **Other key factors**: Respiratory illness activity varied geographically, with one jurisdiction reporting high activity, three reporting moderate activity, and 42 reporting minimal activity. Age-specific ILI percentages indicate higher rates of respiratory illness among younger age groups. 
+

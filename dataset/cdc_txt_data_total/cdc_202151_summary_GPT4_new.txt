@@ -1,0 +1,13 @@
+Week51, 2021
+1. Influenza activity is increasing across the U.S., with influenza A(H3N2) predominantly detected and regional variation in virus circulation.
+2. Clinical labs reported 6.2% positivity for influenza, with 98.7% of positive specimens being Influenza A and 1.3% Influenza B.
+3. Public health labs found 99.7% of positive specimens were Influenza A, almost all subtype H3N2.
+4. Outpatient respiratory illness visits increased, accounting for 3.8% of visits nationwide, above baseline, with multiple respiratory viruses co-circulating.
+5. Hospitalization rates are rising, with a cumulative rate of 1.8 per 100,000 and 1,825 new influenza-related admissions reported this week.
+6. Mortality attributed to pneumonia, influenza, or COVID-19 (PIC) reached 19.2%, exceeding the epidemic threshold, but influenza-specific deaths remain minimal (12 reported).
+7. No pediatric influenza deaths were reported this week; two have been reported for the season.
+8. Early signs suggest lower flu vaccination uptake compared to the previous season, but vaccination and antiviral treatments are strongly recommended as flu activity increases.
+9. Flu activity is just beginning and is likely to grow; most detected H3N2 viruses are genetically similar to vaccine strains but show some antigenic differences due to ongoing virus evolution.
+10. Young adults (ages 5-24) initially comprise the largest proportion of Influenza A(H3N2) cases, but cases among adults aged 25+ are increasing.
+11. Data interpretation may be affected by changes in healthcare-seeking and reporting delays due to holidays.
+12. Regional influenza activity shows varying levels, with moderate-to-high activity in central and eastern U.S. while the western region remains lower.

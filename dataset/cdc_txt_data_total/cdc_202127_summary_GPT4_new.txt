@@ -1,0 +1,13 @@
+Week27, 2021
+1. Influenza activity is low nationwide, with only 0.1% of respiratory specimens testing positive for influenza.
+2. Of the positive specimens from public health labs, 29.4% were Influenza A and 70.6% Influenza B, with the Victoria lineage confirmed for Influenza B.
+3. Outpatient visits for influenza-like illness (ILI) accounted for 1.3% of all visits, below the national 2.6% baseline but with slight increases in the 5–24 and 25–49 age groups.
+4. No influenza-associated pediatric deaths were reported for this week; only one pediatric death has been reported this season.
+5. Pneumonia, influenza, or COVID-19 (PIC) accounted for 6.5% of deaths, exceeding the 5.7% epidemic threshold, though current PIC deaths are primarily linked to COVID-19.
+6. Influenza-associated hospitalization data are limited for this period as reporting ceased for patients admitted after April 30, 2021.
+7. Analysis of healthcare-seeking behaviors indicates limited traditional data interpretation due to alternative care settings during the COVID-19 pandemic.
+8. No notable trends in influenza vaccination were presented.
+9. CDC highlights that flu activity predictions remain challenging due to ongoing disruptions in healthcare-seeking patterns and concurrent COVID-19 activity.
+10. Minimal ILI activity was reported across most jurisdictions, with no areas showing high or very high activity.
+
+11. Summary Insights: Current influenza activity and impacts are minimal but overshadowed by COVID-19 trends. Data interpretation is complicated by changed healthcare use patterns.

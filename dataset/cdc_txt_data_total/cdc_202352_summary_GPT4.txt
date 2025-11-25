@@ -1,0 +1,20 @@
+Week52, 2023
+- **Viruses, illness, and deaths**: Influenza activity remains elevated and continues to increase. 17.5% of respiratory specimens tested positive for influenza, predominantly influenza A(H1N1)pdm09. Seven pediatric influenza-associated deaths reported this week bring the seasonal total to 27 deaths. CDC estimates 10 million illnesses, 110,000 hospitalizations, and 6,500 deaths so far this season.
+
+- **U.S. virologic surveillance**: Clinical labs report 82.2% of positives as influenza A and 17.8% as influenza B this week. Public health labs report 89.2% of positive specimens as influenza A (87.7% of subtyped A viruses were H1N1, 12.3% were H3N2) and 10.8% as influenza B (100% Victoria lineage).
+
+- **Cumulative hospitalization rate**: The cumulative influenza-related hospitalization rate is 22.3 per 100,000 population, the second-highest for Week 52 since 2010. Hospitalization rates are highest in adults aged 65+ years (58.2 per 100,000), followed by ages 50-64 years (27.6) and children aged 0-4 years (23.7).
+
+- **Trends of deaths attributed to influenza**: 0.9% of deaths during Week 52 were attributed to influenza, an increase from the previous week.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounts for 82.2% of clinical lab results and 89.2% of public health lab results. Influenza B is 17.8% and 10.8%, respectively.
+
+- **Novel influenza virus (like COVID-19)**: Influenza viruses are a key contributor to respiratory illnesses alongside other viruses, such as SARS-CoV-2 and RSV. No novel influenza strains are reported.
+
+- **Vaccination trends**: CDC continues to recommend influenza vaccination for everyone 6 months and older, stating vaccination remains beneficial this season.
+
+- **Outpatient respiratory illness visits**: 6.9% of outpatient visits were for respiratory illnesses, above the national baseline of 2.9% since Week 44. Respiratory illness activity was high to very high in 39 jurisdictions and moderate in 6 jurisdictions.
+
+- **Expectation of flu activity from CDC**: Elevated influenza activity is expected to continue.
+
+- **Other key factors**: Hospitalizations due to influenza increased nationally and in 9 of the 10 HHS regions. Week 52 had a high weekly hospitalization rate of 3.9 per 100,000. High levels of adamantane resistance were observed in A(H1N1) and A(H3N2) viruses, while antiviral susceptibility remains generally high for neuraminidase inhibitors.

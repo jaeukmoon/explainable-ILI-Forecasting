@@ -1,0 +1,21 @@
+Week23, 2022
+- **Viruses, illness, and deaths**: Seasonal influenza activity is decreasing nationally. Influenza A(H3N2) is the predominant strain, with 98.8% of clinical lab specimens testing Influenza A. One pediatric death was reported this week, bringing the total to 29 for the season. Estimated seasonal totals include at least 8 million flu illnesses, 82,000 hospitalizations, and 5,000 deaths.  
+
+- **U.S. virologic surveillance**: 3.4% of clinical specimens tested positive for influenza this week. Influenza A accounted for 98.8% of positive clinical specimens and 99.3% of public health lab specimens, nearly all of which were A(H3N2). Influenza B accounted for 1.2% of positives in clinical labs and 0.7% in public health labs.  
+
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate is 17.1 per 100,000 population, with adults 65+ experiencing the highest rate (49.6 per 100,000). Weekly hospitalization rates are declining after peaking in late April.  
+
+- **Trends of deaths attributed to influenza**: There are no updates this week due to a system-wide coding upgrade.  
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounts for 98.8% of clinical lab positives and 99.3% of public health lab positives, mostly subtype A(H3N2). Influenza B remains minimal.  
+
+- **Novel influenza virus (like COVID-19)**: No novel influenza viruses reported. SARS-CoV-2 coinfections occurred in 4.2% of positive influenza samples tested.  
+
+- **Vaccination trends**: CDC continues to recommend vaccination for everyone 6 months and older as long as flu activity persists.  
+
+- **Outpatient respiratory illness visits**: 2.1% of visits were for respiratory illness, below the baseline, continuing a four-week downward trend. Multiple respiratory viruses were circulating, with regional variation in influenza's relative contribution.  
+
+- **Expectation of flu activity from CDC**: Seasonal influenza activity is decreasing nationally. Hospitalizations and outpatient visits are trending downward.  
+
+- **Other key factors**: Long-term care facilities reported 0.4% testing positive for influenza. Among hospitalized patients, 2.3% tested positive for both influenza and SARS-CoV-2. H3N2 viruses showed limited antigenic differences from vaccine viruses, but some evolutionary developments were noted.  
+

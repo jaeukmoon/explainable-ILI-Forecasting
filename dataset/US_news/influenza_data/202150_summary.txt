@@ -1,0 +1,8 @@
+- Development of multivalent mRNA vaccine candidates for seasonal or pandemic influenza is underway.
+- mRNA vaccines have been successful in targeting single antigens like COVID-19.
+- The mRNA therapeutic (MRT) platform can be optimized for complex multi-antigen vaccines.
+- Seasonal influenza vaccines typically include three or four hemagglutinin (HA) antigens and may also include the influenza neuraminidase (NA) antigen.
+- mRNA-LNP formulations of HA and NA antigens have induced strong immune responses in non-human primates, including functional antibodies and cellular responses.
+- These immune responses have shown protective efficacy against viral challenge in mice.
+- mRNA vaccines have advantages such as inducing both humoral and T cell-mediated immunity and minimal risk of host genome integration.
+- The rapid development and approval of COVID-19 mRNA vaccines support the exploration of the platform for addressing other viral pathogens like influenza.

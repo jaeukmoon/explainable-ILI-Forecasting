@@ -1,0 +1,6 @@
+- The ongoing COVID-19 pandemic increases the possibility of coinfection with influenza and SARS-CoV-2.
+- In a study using mice, it was found that coinfection with influenza and SARS-CoV-2 resulted in severe morbidity and high mortality rates, compared to nonfatal influenza or lower mortality rates with SARS-CoV-2 alone.
+- Coinfection led to elevated influenza viral loads in the respiratory organs.
+- Prior immunity to influenza, but not to SARS-CoV-2, provided protection against severe disease and mortality.
+- The protection against severe disease and mortality in coinfection was antibody-dependent.
+- The study supports the importance of seasonal influenza vaccination to reduce the risk of severe influenza/COVID-19 comorbidity during the COVID-19 pandemic.

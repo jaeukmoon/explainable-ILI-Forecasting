@@ -1,0 +1,5 @@
+- The ferret transmission model is commonly used to study the potential pandemic of newly emerging influenza A viruses.
+- In a study, the levels of virus in ferret nasal washes and viral RNA emitted into the air were measured for various influenza viruses.
+- Transmissible viruses showed robust replication and fast release into the air, while poorly- and non-transmissible viruses had reduced or delayed replication and lower detection of airborne viral RNA.
+- Efficient ferret-to-ferret transmission via the air is directly associated with the fast emission of virus-laden particles.
+- Quantification of viral RNA in the air can be a useful addition to assessing new influenza virus strains.

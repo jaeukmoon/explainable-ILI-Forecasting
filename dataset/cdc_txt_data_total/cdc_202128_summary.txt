@@ -1,0 +1,15 @@
+The weekly ILI surveillance report provides key updates on the status of influenza activity in the United States. 
+
+1. Virologic Surveillance: The report analyzes data from clinical and public health laboratories to monitor the presence and distribution of influenza viruses. In week 28, 1.3% of respiratory specimens tested positive for influenza through clinical laboratories. In public health laboratories, Influenza A accounted for 70.5% of positive specimens, with 73.7% being A(H1N1)pdm09 and 26.3% being Influenza B.
+
+2. Outpatient Illness Surveillance: The report tracks ILI activity through the U.S. Outpatient Influenza-Like Illness Surveillance Network (ILINet). During week 28, 1.3% of patient visits were due to ILI, which is below the national baseline of 2.6%. The ILI activity level varied across jurisdictions, with minimal activity reported in most states.
+
+3. Geographic Spread: The geographic spread of influenza is assessed by state and territorial epidemiologists. In week 28, no states reported high or very high activity. Moderate activity was reported in two states, while low activity was reported in one state. The majority of states reported minimal activity.
+
+4. Influenza-Associated Hospitalizations: The report includes information from the Influenza Hospitalization Surveillance Network (FluSurv-NET) on laboratory-confirmed influenza-related hospitalizations. Data for week 28 is not available in the report.
+
+5. Pneumonia and Influenza (P&I) Mortality: The report provides data on the percentage of deaths attributed to pneumonia and influenza. In week 28, 7.1% of deaths were due to P&I, exceeding the epidemic threshold of 5.6%.
+
+6. Influenza-Associated Pediatric Mortality: No influenza-associated pediatric deaths were reported during week 28. Only one influenza-associated pediatric death has been reported for the 2020-2021 season.
+
+These surveillance data provide insights into the current levels of influenza activity and help inform public health recommendations, such as the importance of vaccination and antiviral treatment, to mitigate the impact of influenza.

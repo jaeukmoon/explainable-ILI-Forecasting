@@ -1,0 +1,14 @@
+The key updates from the CDC's weekly influenza surveillance report for Week 20, ending May 20, 2023, are as follows:
+
+1. Seasonal influenza activity remains low nationally.
+2. Outpatient respiratory illness visits remain below the national baseline, with 2.0% of patient visits reported through ILINet being due to respiratory illness (ILI).
+3. Long-term care facilities report a low percentage (0.3%) of facilities with at least one influenza-positive test among residents.
+4. FluSurv-NET hospitalization data indicates a low rate of hospitalization for laboratory-confirmed influenza.
+5. NCHS mortality surveillance shows that 6.5% of deaths in Week 20 were due to pneumonia, influenza, and/or COVID-19.
+6. Two influenza-associated pediatric deaths were reported during Week 20, bringing the total number of pediatric deaths for the season to 154.
+7. Virologic surveillance data indicates that 1.1% of respiratory specimens tested in clinical laboratories were positive for influenza, with influenza B viruses being the most frequently reported.
+8. Virus characterization analysis shows that the majority of influenza viruses tested are similar to the strains included in the current influenza vaccine.
+9. Antiviral susceptibility testing indicates that the circulating influenza viruses remain susceptible to antiviral medications.
+10. ILI activity levels vary across states and CBSAs, with some areas experiencing very high or high ILI activity levels, while others have minimal or no activity.
+
+Please note that all data are preliminary and may change as more reports are received. It is important to consult the CDC's weekly influenza surveillance reports for the most up-to-date information.

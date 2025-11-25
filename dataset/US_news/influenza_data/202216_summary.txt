@@ -1,0 +1,6 @@
+- Researchers have discovered an anti-influenza A virus microbial metabolite called APL-16-5.
+- APL-16-5 was originally isolated from the plant endophytic fungus Aspergillus sp. CPCC 400735.
+- APL-16-5 binds to both the E3 ligase TRIM25 and IAV polymerase subunit PA, leading to the ubiquitination and degradation of PA in the proteasome.
+- This mode of action is similar to that of a proteolysis targeting chimera, which induces the degradation of target proteins through the ubiquitin-proteasome machinery.
+- APL-16-5 has potent anti-IAV activity and effectively protects mice from lethal IAV infection.
+- This discovery has potential implications for the development of new therapeutics for influenza A virus.

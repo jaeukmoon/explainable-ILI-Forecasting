@@ -1,0 +1,13 @@
+Week38, 2024
+1. National influenza activity is currently low, with 0.4% of respiratory specimens testing positive for influenza this week across clinical labs.
+2. Clinical laboratories reported 147 positive specimens, of which 85.7% were Influenza A and 14.3% were Influenza B.
+3. Public health labs detected 55 positive specimens, predominantly Influenza A (96.4%), with subtypes H1N1 (61.7%) and H3N2 (38.3%) prevalent; Victoria lineage represented all Influenza B cases.
+4. Outpatient visits for influenza-like illness (ILI) accounted for 1.8% of all visits, below the national baseline, and no jurisdictions reported moderate or higher activity levels.
+5. Weekly hospitalization rates for influenza remain at 0 per 100,000 population, with a seasonal cumulative total of 25,405 cases (84.6% associated with Influenza A).
+6. Deaths attributed to influenza are low at 0.06% this week, with one pediatric death reported, bringing the seasonal total to 195.
+7. No new novel influenza virus infections were detected, though 20 total novel influenza A cases have been reported this season, including seven variant strains.
+8. CDC reports robust antigenic similarity between circulating viruses and current vaccines, with >95% of tested strains showing compatibility with vaccine strains.
+9. Vaccination updates were not highlighted in the report, but annual flu vaccination remains emphasized by the CDC for prevention.
+10. Respiratory illness visits increased slightly for ages 0–24 years, while other age groups remained stable; multiple respiratory viruses, including RSV and COVID-19, continue to circulate.
+
+11. Summary of insights: Influenza activity remains low with stable trends in virologic surveillance and healthcare visits for respiratory symptoms. Co-circulation of multiple respiratory viruses, low hospitalization rates, and consistent antigenic matching between circulating strains and vaccines suggest manageable flu risks if vaccination coverage is maintained. Monitoring variant cases of novel influenza A and changing respiratory virus patterns remains essential for predicting future ILI activity.

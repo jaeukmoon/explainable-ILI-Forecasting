@@ -1,0 +1,13 @@
+Week53, 2020
+1. Influenza activity remains unusually low, with only 0.1% of respiratory specimens testing positive for influenza at clinical labs this week.
+2. Clinical lab data reported 42.9% of positives as Influenza A and 57.1% as Influenza B; public health labs reported 93.7% of positives as Influenza A and 6.3% as Influenza B.
+3. Circulation of A(H1N1)pdm09 viruses has increased recently, making it the predominant strain nationally, while Influenza B/Victoria dominated earlier in the season.
+4. Outpatient visits for ILI remain stable at 1.6%, below the national baseline of 2.6%, though regional increases were seen in two monitoring areas.
+5. Influenza-associated pediatric deaths remain at one for this season, with no new cases reported this week.
+6. Pneumonia, influenza, or COVID-19 (PIC) accounted for 14.5% of deaths, far surpassing the epidemic threshold of 6.9%, but the majority of these were attributed to COVID-19.
+7. Hospitalization rates are too low to calculate stable rates, with 118 laboratory-confirmed hospitalizations reported since October 2020, mainly among older adults.
+8. One human infection with a novel influenza A(H3N2)v virus was detected in Hawaii, making it the first such case reported in the U.S. since 2018.
+9. COVID-19 pandemic conditions continue to affect healthcare-seeking behavior and outpatient ILI surveillance, complicating interpretation of traditional data.
+10. CDC anticipates flu activity could increase in coming months and recommends receiving a flu vaccine for protection.
+
+11. Summary: Influenza activity remains minimal, influenced by overlapping COVID-19 impacts, unusually low hospitalization and lab-positivity rates, and emerging regional trends. Monitoring is vital due to the potential for increases in flu activity.

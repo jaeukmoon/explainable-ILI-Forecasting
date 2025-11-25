@@ -1,0 +1,20 @@
+Week32, 2021
+- **Viruses, illness, and deaths**: Influenza virus activity remains low. Two human infections with Influenza A(H1N2)v (variant) were reported in Wisconsin, linked to swine exposure at a county fair. No human-to-human transmission identified. No pediatric influenza-associated deaths were reported during week 32.
+
+- **U.S. virologic surveillance**: Influenza virus circulation remains low. Seven human cases of novel influenza A virus variants (H3N2v, H1N2v, H1N1v) have been reported for the season, all linked to contact with swine.
+
+- **Cumulative hospitalization rate**: Influenza-related hospitalization data is not being updated for admissions post-April 30, 2021.
+
+- **Trends of deaths attributed to influenza**: PIC (pneumonia, influenza, and/or COVID-19) deaths accounted for 14.6% of all deaths (above the epidemic threshold of 5.4%), but mortality is primarily driven by COVID-19, with only one death attributed to influenza.
+
+- **Percentage of Influenza A and Influenza B**: No specific proportions of Influenza A and B were reported for the current week.
+
+- **Novel influenza virus (like COVID-19)**: Seven novel influenza A virus infections (4 in adults, 3 in children) identified this season in the U.S., linked to swine. No sustained human-to-human novel influenza transmission reported.
+
+- **Vaccination trends**: No updates on vaccination trends for week 32.
+
+- **Outpatient respiratory illness visits**: Nationwide, 2.1% of outpatient visits were for ILI, below the 2.6% baseline. Region 4 exceeded its baseline. ILI activity trends are increasing, particularly in ages 5–24.
+
+- **Expectation of flu activity from CDC**: Influenza activity remains low; increases in ILI are attributed to non-influenza respiratory viruses.
+
+- **Other key factors**: Most jurisdictions (45) reported minimal ILI activity; one jurisdiction reported high activity, and data from one jurisdiction was insufficient. A rise in PIC deaths emphasizes the ongoing impact of COVID-19 over influenza.

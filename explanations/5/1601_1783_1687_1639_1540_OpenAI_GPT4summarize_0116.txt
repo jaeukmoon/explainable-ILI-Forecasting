@@ -1,0 +1,18 @@
+1. The ILI occurrences from the past 5 weeks (Week34, 2021 to Week38, 2021) show a generally decreasing trend with values of 1601, 1783, 1687, 1639, and 1540. The decline from Week35 (1783) to Week38 (1540) suggests a consistent downward movement in activity after a slight spike in Week35. This trend is reflective of low influenza activity reported in the CDC summaries, compounded by dominant non-influenza respiratory viruses, and indicates stabilization at lower levels.
+2. Week43, 2021 falls within the "Peak onset season," as it is positioned between Week35 and Week46 when ILI activity begins to rise as influenza season approaches. The gradual decrease in ILI activity in preceding weeks coupled with reports of low influenza test positivity supports this classification, aligning with historical patterns of increasing activity during this time.
+3. A time-series analysis of the past weeks’ ILI occurrences reveals a decreasing trend. The average decline per week over the last four weeks (Week35 to Week38) is calculated as follows:
+4. - Weekly decline rates: Week35 to Week36: (1783 - 1687) = -96
+5. Week36 to Week37: (1687 - 1639) = -48
+6. Week37 to Week38: (1639 - 1540) = -99
+7. - Average weekly decline: (-96 - 48 - 99)/3 = -81.
+8. This suggests that if the downward trend were to continue, we could project a further decrease over the next five weeks. However, considering Week43 occurs in the “peak onset season,” influenza circulation generally begins to increase after Week38 with a notable rise in activity expected in specific regions. To account for this seasonal rise, an upward adjustment in ILI predictions is necessary, indicating a shift toward forecasted growth instead of continued declines.
+4. Several factors from the CDC reports influence the prediction:
+5. 1) Minimal circulating influenza (detection rates of 0.1% in Week34 to Week38) and generally lower flu positivity rates across regions suggest sustained low activity. However, gradual seasonal increases are likely to begin approaching Week43, particularly seen in historical ILI patterns for the Peak onset season.
+6. 2) Vaccination status remains a critical factor, though no recent data were shared in CDC summaries. Annual vaccination recommendations by the CDC support a smoother transition into peak flu periods, preventing sharp spikes, and allow ILI levels to rise in a more moderated progression.
+7. 3) Non-influenza respiratory virus activity, including larger impacts from COVID-19 and other respiratory viruses, continues to heavily influence outpatient respiratory illness reports. While its effects dampen influenza-based ILI rises, concurrent transmission impacts could cause a gradual return to increased ILI activity as the peak onset season proceeds.
+8. Considering these factors, adjustments to the predictions must factor in the expected upward rise in ILI activity typical for this season, driven by gradual influenza circulation.
+5. To forecast the ILI occurrences for Week43, 2021, a time-series modeling is applied:
+6. - Average of the past 5 weeks’ values: (1601 + 1783 + 1687 + 1639 + 1540) / 5 = 1649.
+7. - A peak adjustment factor of approximately +11% is added to account for the onset growth typical during this period. This adjustment derives from historical growth rates in weeks transitioning from late September to mid-to-late October.
+8. - Forecasted ILI = 1649 x 1.11 ≈ 1829.
+9. Thus, the predicted ILI occurrences for Week43, 2021 are projected to be **1829**.

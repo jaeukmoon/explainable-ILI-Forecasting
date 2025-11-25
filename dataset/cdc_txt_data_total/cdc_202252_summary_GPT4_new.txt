@@ -1,0 +1,11 @@
+Week52, 2022
+1. Influenza activity remains high but is declining in most areas; 15.0% of specimens tested positive this week.
+2. Influenza A makes up 99.1% of positive clinical lab results, with 70% being A(H3N2) and 30% A(H1N1). Influenza B accounts for 0.9% of cases.
+3. Outpatient visits for influenza-like illness (ILI) were 5.4%, above the national baseline of 2.5%, though decreasing in most regions.
+4. The cumulative hospitalization rate is 48.6 per 100,000, 3.5 times higher than typical rates for Week 52 in past flu seasons.
+5. 12.8% of deaths were attributed to pneumonia, influenza, or COVID-19, remaining above the epidemic threshold.
+6. A total of 13 pediatric deaths were reported this week, bringing the season's total to 74.
+7. Nationwide, all tested influenza viruses remain antigenically similar to those included in the 2022-23 influenza vaccine.
+8. CDC reported 22 million illnesses, 230,000 hospitalizations, and 14,000 deaths from influenza so far this season.
+9. Flu vaccine effectiveness remains high, and CDC continues to recommend vaccination for individuals aged 6 months and older.
+10. Respiratory activity includes co-circulating viruses like SARS-CoV-2 and RSV, impacting ILI data interpretations.

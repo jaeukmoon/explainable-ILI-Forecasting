@@ -1,0 +1,13 @@
+1. The past time-series ILI occurrences over the 5 weeks showed fluctuations with notable increases, starting at 2028 in Week 52, 2020, peaking at 2367 in Week 2, 2021, and ending at 2118 in Week 3, 2021. The trend indicates an overall active ILI season, with intermittent surges likely influenced by changing surveillance conditions and healthcare-seeking behaviors.
+
+2. A positive correlation is evident between past and future ILI occurrences. The increases in Weeks 1 and 2 of 2021, peaking at 2367, suggest heightened respiratory illness activity during the observed timeframe, culminating in a future ILI occurrence of 1521 by Week 8, 2021. This decline might be linked to changes in seasonal dynamics or external mitigations.
+
+3. Outpatient visits for ILI remained relatively stable yet below the national baseline, changing slightly from 1.6% (Week 52, 2020) to 1.3% (Week 3, 2021). This stability, combined with low influenza positivity rates, suggests suppressed traditional influenza activity but persistent or increasing non-specific respiratory illnesses, which could have contributed to eventual ILI activity levels after Week 3.
+
+4. Deaths due to pneumonia, influenza, and COVID-19 (PIC) remained significantly elevated, ranging from 13.6% (Week 52, 2020) to 17.2% (Week 1, 2021), consistently above the epidemic threshold. This indicates heightened overall respiratory illness activity throughout the reporting period, aligning with the observed and future ILI data trends.
+
+5. Persistent impacts of the COVID-19 pandemic disrupted healthcare-seeking and traditional surveillance behaviors, as highlighted in all five reports. These disruptions likely contributed to underreporting or delayed surges in ILI occurrences while amplifying residual respiratory illnesses unrelated to seasonal influenza activity.
+
+6. Despite low influenza positivity rates (e.g., 0.1% in Week 53, 2020, and 0.3% in Week 3, 2021), ongoing surveillance challenges and the interplay of influenza-like illnesses from non-influenza pathogens appear to have sustained ILI activity, reflected in future occurrences.
+
+7. In summary, the future ILI occurrence of 1521 (Week 8, 2021) is attributed to the active ILI trend observed in Weeks 1–3, 2021, persistent PIC mortality above epidemic thresholds, stable outpatient ILI visits signaling ongoing respiratory illnesses, and pandemic-driven disruptions to surveillance and healthcare behaviors. These factors collectively sustained ILI activity, albeit with fluctuations and variances in traditional patterns.

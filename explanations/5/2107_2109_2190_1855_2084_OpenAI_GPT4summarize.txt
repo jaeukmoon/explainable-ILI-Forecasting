@@ -1,0 +1,10 @@
+1. The past time-series ILI occurrences over the 5-week period (Weeks 44–48, 2021) revealed a fluctuating pattern, with values ['2107', '2109', '2190', '1855', '2084']. While there was a slight upward trend initially from 2107 (Week 44) to a peak of 2190 (Week 46), a decrease followed in Week 47 to 1855. However, the data rebounded to 2084 in Week 48, suggesting a pattern of increasing ILI activity with intermittent drops within the overall period.
+
+2. A correlation is evident between the past time-series and future occurrences. Specifically, the initial rise until Week 46, followed by a rebound by Week 48, is indicative of increasing respiratory illness activity. This trend aligns with the elevated future ILI occurrences (3203) after 5 weeks (Week 53, 2021), indicating that the fluctuating but overall upward trajectory serves as a precursor to the surge.
+
+3. Multiple factors from the CDC reports correlate strongly with the future ILI increase:  
+   - Outpatient visits for ILI gradually approached the national baseline across the weeks, rising from 2.1% (Week 44) to 2.5% (Week 48). These consistent increases signal an underlying trend of heightened respiratory illness activity driving the future rise.  
+   - Hospitalizations due to lab-confirmed influenza surged steadily, from 295 (Week 44) to 841 (Week 48). This rapid increase reflects escalating severity in flu activity, which likely contributed to the recorded future ILI cases.  
+   - The dominance of Influenza A(H3N2), particularly among ages 5–24, persisted throughout the period, with growing cases in older adults by Week 48. Such generational spread and regional concentration likely amplified the observed ILI occurrences.  
+
+4. In summary, the reported future ILI occurrences (3203, Week 53, 2021) can be attributed to the fluctuating but upward trend in past ILI data, a strong correlation with rising outpatient ILI visits and hospitalizations, the increasing impact of Influenza A(H3N2), and the compounding effects of growing flu activity across regions and age groups.

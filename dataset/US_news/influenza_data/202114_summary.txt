@@ -1,0 +1,10 @@
+1. Influenza viruses cause annual epidemics and occasional pandemics of respiratory tract infections in humans.
+2. The novel betacoronavirus severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in December 2019 and has caused a pandemic.
+3. Both viral and host factors determine the extent and severity of virus-induced lung damage.
+4. The host's response to viral infection is necessary for viral clearance but may also contribute to severe disease phenotypes.
+5. Tissue repair mechanisms are required for recovery from infection, but dysregulated repair responses may lead to chronic lung dysfunction.
+6. Understanding the mechanisms of immunopathology and tissue repair following viral lower respiratory tract infection can inform treatment options.
+7. Influenza virus infection has been well-characterized in terms of pathogenesis, host response, and repair mechanisms.
+8. Information about SARS-CoV-2 and its disease manifestations in humans is still being learned, but there are similarities and differences between SARS-CoV-2 and influenza viruses.
+9. Influenza viruses are classified into four genera (IAV, IBV, ICV, and IDV), with IAVs and IBVs being of main concern for human health.
+10. Influenza viruses are constantly evolving within animal reservoirs, such as avian species.

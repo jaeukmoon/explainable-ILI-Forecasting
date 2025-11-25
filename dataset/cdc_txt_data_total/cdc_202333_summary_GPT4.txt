@@ -1,0 +1,20 @@
+Week33, 2023
+- **Viruses, illness, and deaths**: Influenza activity is low with 0.5% of respiratory specimens testing positive. Influenza A dominates, making up 85.5% of positives in clinical labs and 94.9% in public health labs. Seven deaths this week were attributed to influenza. However, 10.0% of deaths were due to pneumonia, influenza, and/or COVID-19 (PIC), which is above the epidemic threshold, primarily driven by COVID-19.
+
+- **U.S. virologic surveillance**: Among clinical labs, 85.5% of positive specimens were Influenza A and 14.5% Influenza B. Public health labs reported 94.9% Influenza A positives (96.6% of which was H3N2) and 5.1% Influenza B. No human-to-human transmission of variant influenza viruses detected.
+
+- **Cumulative hospitalization rate**: For week 33, 477 flu-confirmed hospitalizations were reported. FluSurv-NET data for hospitalizations post-June 11, 2022, are not included.
+
+- **Trends of deaths attributed to influenza**: Seven deaths were due to influenza this week. The proportion of deaths due to PIC (10.0%) remains above the epidemic threshold, largely contributed by COVID-19.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A comprises 85.5% of clinical lab positives and 94.9% of public health lab positives. Influenza B accounts for 14.5% and 5.1%, respectively.
+
+- **Novel influenza virus (like COVID-19)**: A human infection with a swine-origin Influenza A(H1N2)v virus was reported in Ohio, the 5th U.S. case of a variant influenza virus in 2022. No person-to-person transmission detected.
+
+- **Vaccination trends**: No specific updates on vaccination trends were provided in the report.
+
+- **Outpatient respiratory illness visits**: During week 33, 1.5% of outpatient visits were for ILI. By age distribution, ILI visits were 6.3% in ages 0-4, 2.4% in 5-24, 1.0% in 25-49, 0.8% in 50-64, and 0.6% in 65 and older.
+
+- **Expectation of flu activity from CDC**: Influenza activity is low but co-circulation of multiple respiratory viruses observed, with regional variations in the contribution of influenza to ILI.
+
+- **Other key factors**: Among 14,575 long-term care facilities, 0.2% reported influenza-positive tests among residents. FluSurv-NET hospitalization data after June 2022 will not be included in current surveillance updates.

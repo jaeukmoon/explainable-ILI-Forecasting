@@ -1,0 +1,13 @@
+Week16, 2021
+1. Influenza activity remains unusually low for this time of year, with only 0.1% of respiratory specimens testing positive for influenza in clinical laboratories.
+2. Public health labs reported 2 positive specimens in Week 16, divided equally between Influenza A (50%) and Influenza B (50%).
+3. Outpatient visits for influenza-like illness (ILI) held steady at 1.1%, well below the national baseline of 2.6%.
+4. The cumulative influenza-associated hospitalization rate is 0.8 per 100,000 population, significantly lower than in past seasons.
+5. No pediatric deaths were reported this week, with the seasonal total at one.
+6. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) accounted for 11.8% of total deaths, surpassing the epidemic threshold of 6.7%; COVID-19 is the primary contributor.
+7. Influenza A accounted for 55.6% of positive clinical lab specimens, while Influenza B made up 44.4%.
+8. Vaccination reminders were issued, but no new trends in vaccination rates were highlighted.
+9. Healthcare-seeking behaviors and ILI data remain impacted by COVID-19, requiring cautious interpretation of trends.
+10. Flu activity is expected to remain low, but simultaneous surveillance of influenza and COVID-19 complicates long-term predictions.
+
+11. Summary of insights: Influenza activity is exceptionally low, with minimal ILI activity across all jurisdictions, and COVID-19 remains the dominant driver of PIC deaths. Predictive trends are hindered by altered healthcare behaviors and concurrent COVID-19 monitoring.

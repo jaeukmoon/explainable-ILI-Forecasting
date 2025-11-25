@@ -1,0 +1,12 @@
+Week27, 2022
+- **Viruses, illness, and deaths**: Influenza activity remains low in the U.S. 0.7% of respiratory specimens tested positive for influenza this week. Of these, 97.2% were Influenza A (primarily H3N2), and 2.8% were Influenza B. 8.8% of deaths were due to pneumonia, influenza, and/or COVID-19 (PIC), above the epidemic threshold of 5.7%, but primarily driven by COVID-19. No influenza-associated pediatric deaths were reported this week.  
+- **U.S. virologic surveillance**: Clinical labs reported 97.2% of positive specimens as Influenza A, while public health labs reported 98% as Influenza A (H3N2 accounted for 100% of subtyped Influenza A cases this week). Influenza B remains minimal at 2.8% of clinical lab positives and 2% of public health lab positives.  
+- **Cumulative hospitalization rate**: 751 patients were hospitalized with laboratory-confirmed influenza, marking continued low activity.  
+- **Trends of deaths attributed to influenza**: Influenza-attributed deaths were low, with only 13 out of 1,796 total PIC deaths attributed to influenza.  
+- **Percentage of Influenza A and Influenza B**: Influenza A (H3N2 dominant) constituted 97.2%-98% of positives, while Influenza B made up 2%-2.8% of positives, showing strong predominance of Influenza A.  
+- **Novel Influenza virus (like COVID-19)**: COVID-19 remains a major contributor to PIC deaths. No novel influenza virus activity (e.g., H1N1pdm09 or H3N2v) was reported this week.  
+- **Vaccination trends**: Not explicitly discussed in the report for this week.  
+- **Outpatient respiratory illness visits**: 1.7% of outpatient visits were due to influenza-like illness (ILI), with the highest percentage among ages 0-4 years (7.3%). ILI activity by jurisdiction: 1 high, 1 moderate, 4 low, and 48 minimal.  
+- **Expectation of flu activity from CDC**: Influenza activity is expected to remain low with sporadic flu cases in the coming weeks.  
+- **Other key factors**: 23 of 14,541 long-term care facilities reported influenza cases, indicating very low spread in these settings. Data monitoring continues to align influenza, PIC, and COVID-19 trends for comprehensive respiratory illness tracking.  
+

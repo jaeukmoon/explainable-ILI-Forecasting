@@ -1,0 +1,20 @@
+Week5, 2024
+- **Viruses, illness, and deaths:** Seasonal influenza remains elevated nationally, with influenza A(H1N1)pdm09 predominant. 0.8% of deaths this week were attributed to influenza, with 15,000 deaths estimated this season. Eight pediatric deaths were reported, totaling 74 this season.
+
+- **U.S. virologic surveillance:** 15.8% of respiratory specimens tested positive for influenza, with 68.8% being Influenza A and 31.2% Influenza B. Of public health lab isolates, 76.1% were Influenza A (67.5% H1N1, 32.5% H3N2) and 23.9% Influenza B.
+
+- **Cumulative hospitalization rate:** The cumulative rate is 51.5 per 100,000, the third-highest for Week 5 since 2010. Hospitalizations were highest among adults 65+ years (138.7 per 100,000).
+
+- **Trends of deaths attributed to influenza:** Week 5 saw a 0.1% decrease in influenza-attributed deaths compared to the previous week.
+
+- **Percentage of Influenza A and B:** Clinical labs report Influenza A at 68.8% and B at 31.2%. Public health labs show Influenza A at 76.1% and B at 23.9%.
+
+- **Novel Influenza virus (like COVID-19):** No novel influenza viruses were reported; 4.0% of influenza-related hospitalizations also tested positive for SARS-CoV-2.
+
+- **Vaccination trends:** CDC continues to recommend vaccination for everyone 6+ months, emphasizing benefits even late in the season.
+
+- **Outpatient respiratory illness visits:** Nationally, 4.4% of outpatient visits were for respiratory illness (above the baseline of 2.9%). High or very high activity was reported in 25 jurisdictions.
+
+- **Expectation of flu activity from CDC:** Activity remains elevated with regional variation; influenza B is increasing in regions 5 and 7.
+
+- **Other key factors:** Hospitalizations for laboratory-confirmed influenza decreased nationally but increased in regions 1, 5, and 7. Respiratory visits for younger age groups rose, particularly 5-24 years. Several respiratory viruses, including RSV and SARS-CoV-2, contribute to respiratory illness activity.

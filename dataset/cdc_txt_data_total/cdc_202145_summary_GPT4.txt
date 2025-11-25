@@ -1,0 +1,20 @@
+Week45, 2021
+- **Viruses, illness, and deaths**: Influenza activity remains low but increasing. 0.7% of clinical lab specimens tested positive this week. Influenza A(H3N2) predominates, with 91.1% of reported cases among ages 5–24. Four influenza-attributed deaths, all classified under PIC (pneumonia, influenza, or COVID-19), occurred, but current PIC mortality is primarily due to COVID-19 (14.4% of deaths above the 6.2% epidemic threshold).
+
+- **U.S. virologic surveillance**: 88.7% of positive clinical lab specimens were Influenza A (primarily H3N2), and 11.3% were Influenza B. Public health labs reported 97.1% of positives as Influenza A (100% H3N2), with Influenza B accounting for 2.9%.
+
+- **Cumulative hospitalization rate**: 332 patients were hospitalized this week with confirmed influenza; cumulative hospitalization rates will be reported later.
+
+- **Trends of deaths attributed to influenza**: 14.4% of deaths this week were from pneumonia, influenza, or COVID-19. Influenza mortality remains low, and COVID-19 is the key contributing factor.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounted for 88.7% (clinical labs) and 97.1% (public health labs) of positive specimens, while Influenza B made up 11.3% (clinical labs) and 2.9% (public health labs).
+
+- **Novel influenza virus (like COVID-19)**: No novel influenza virus cases reported; COVID-19 mortality continues to dominate PIC deaths.
+
+- **Vaccination trends**: 162.5M flu vaccine doses distributed by Nov 5, 2021. CDC recommends vaccination for everyone 6 months and older.
+
+- **Outpatient respiratory illness visits**: 2.1% of outpatient visits were for ILI, below the 2.5% national baseline but showing gradual increases in recent weeks, particularly among ages 0-24.
+
+- **Expectation of flu activity from CDC**: Flu activity remains low but is gradually increasing. Increases among children and young adults suggest future elevated activity, primarily by H3N2.
+
+- **Other key factors**: Long-term care facilities reported 0.2% of residents with influenza-positive tests. Activity levels varied geographically, with only one state reporting high activity, 44 states reporting minimal levels, and others classified as moderate or low. Multiple respiratory viruses, including influenza, COVID-19, and others, are co-circulating, influencing case data.

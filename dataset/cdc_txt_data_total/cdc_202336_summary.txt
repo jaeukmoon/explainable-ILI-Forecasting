@@ -1,0 +1,19 @@
+First, virologic surveillance is conducted in clinical and public health laboratories to monitor the percentage of specimens that test positive for influenza and the distribution of influenza virus types and subtypes.
+- In week 36, 0.7% of specimens tested in clinical laboratories were positive for influenza, with a majority being Influenza A.
+- In public health laboratories, 69% of positive specimens were Influenza A, with 100% of those being H1N1pdm09 subtype.
+
+Outpatient respiratory illness surveillance, conducted through the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet), tracks the percentage of healthcare visits for respiratory illness.
+- In week 36, 2.0% of patient visits reported through ILINet were due to respiratory illness that included fever plus a cough or sore throat.
+
+Geographic activity is monitored to assess the spread of influenza across states and jurisdictions.
+- During week 36, there were no states with very high or high ILI activity levels, and most areas reported minimal ILI activity.
+
+Hospitalization surveillance is conducted through the Influenza Hospitalization Surveillance Network (FluSurv-NET) to monitor laboratory-confirmed influenza-related hospitalizations.
+- Data on hospitalizations for the current season are not available at this time.
+
+Mortality surveillance tracks the percentage of deaths attributed to pneumonia, influenza, and COVID-19 (PIC) and in pediatric populations.
+- In week 36, 7.0% of deaths were attributed to PIC, which is above the epidemic threshold.
+
+Additional national and international influenza surveillance information is available through various organizations and websites.
+
+Overall, these surveillance systems provide data on influenza activity, including the percentage of positive specimens, outpatient illness rates, geographic spread, hospitalizations, and mortality, to predict and monitor future ILI occurrences.

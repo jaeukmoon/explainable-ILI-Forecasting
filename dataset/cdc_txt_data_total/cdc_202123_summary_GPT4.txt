@@ -1,0 +1,20 @@
+Week23, 2021
+- **Viruses, Illness, and Deaths**: Influenza activity remains low, with no reported influenza-associated pediatric deaths during week 23. No influenza was listed as a cause of death among the 1,360 PIC (pneumonia, influenza, and/or COVID-19) deaths this week, indicating PIC mortality is driven by COVID-19.
+
+- **U.S. Virologic Surveillance**: Clinical laboratories report a low percentage of influenza-positive specimens. Public health laboratories did not report significant influenza subtype activity, highlighting minimal viral activity.
+
+- **Cumulative Hospitalization Rate**: No new influenza-related hospitalization data after April 30, 2021; limited hospitalization data available for the current period.
+
+- **Trends of Deaths Attributed to Influenza**: 7.6% of deaths in week 23 were due to PIC, above the epidemic threshold of 6.0%. However, no deaths directly attributed to influenza.
+
+- **Percentage of Influenza A and Influenza B**: Data on subtype distribution (Influenza A vs. B) is not reported for week 23.
+
+- **Novel Influenza Virus (like COVID-19)**: Current PIC mortality driven by COVID-19, as 601 deaths had COVID-19 listed as a cause. No novel influenza activity reported.
+
+- **Vaccination Trends**: No new vaccination data is highlighted in this report.
+
+- **Outpatient Respiratory Illness Visits**: Nationwide, 1.2% of outpatient visits were for ILI, below the national baseline of 2.6%. The percentage of visits decreased for children aged 0–4, while remaining stable for other age groups.
+
+- **Expectation of Flu Activity from CDC**: Influenza activity remains low and stable, with no indications of increasing flu trends at this time.
+
+- **Other Key Factors**: Most U.S. jurisdictions report minimal ILI activity, with no areas reporting high activity. Changes in healthcare-seeking behavior during the COVID-19 pandemic may influence ILI data interpretation.

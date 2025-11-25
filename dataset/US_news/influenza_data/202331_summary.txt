@@ -1,0 +1,5 @@
+- Seasonal influenza viruses continually evolve to escape host immunity
+- The interplay between the evolution of immunity induced by previous infections or vaccination and the evolution of seasonal influenza viruses is complex
+- Functional constraints limit the evolution of the viruses, while within-host evolutionary processes drive the emergence of new virus variants
+- Improving the effectiveness of vaccines and antiviral drugs requires overcoming viral and immunological barriers
+- Factors such as antigenic drift and the accumulation of antibody-mediated immunity in humans affect viral evolution and epidemiology

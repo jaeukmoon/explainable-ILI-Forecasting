@@ -1,0 +1,5 @@
+- Vanderbilt University Medical Center researchers have isolated human monoclonal antibodies against influenza B, a virus that disproportionately affects children, the elderly, and immunocompromised individuals.
+- Seasonal flu vaccines do not stimulate the broadest possible immune responses against both influenza A and B viruses, and individuals with weakened immune systems may not respond effectively to the flu shot.
+- The researchers isolated two groups of monoclonal antibodies from the bone marrow of an individual previously vaccinated against influenza. One of the antibodies, FluB-400, inhibited virus replication and protected against influenza B in laboratory cultures and animal models.
+- The researchers suggest that intranasal antibody administration may be more effective and have fewer side effects than intravenous or intramuscular routes, as the antibodies can trap the virus in nasal mucus, preventing infection of the underlying epithelial surface.
+- These findings support the development of a monoclonal antibody, FluB-400, for the prevention and treatment of influenza B, and can inform efforts to develop a universal influenza vaccine.

@@ -1,0 +1,5 @@
+The study focuses on the structure-based design of stabilized recombinant influenza neuraminidase (NA) tetramers.
+Recombinant NAs across non-bat subtypes adopt various tetrameric conformations, including an "open" state.
+The researchers used homology-directed protein design to stabilize multiple recombinant NAs in the "closed" state, resulting in improved thermal stability.
+Stabilization of the NA tetramers also improves their affinity to protective antibodies elicited by viral infection.
+The findings provide insights into NA structure, stability, and antigenicity, and offer design strategies for reinforcing the conformational integrity of recombinant NA proteins.

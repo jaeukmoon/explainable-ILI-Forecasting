@@ -1,0 +1,13 @@
+Week6, 2021
+1. Influenza activity remains unusually low, with only 0.1% of respiratory specimens testing positive nationwide this week.
+2. Of the 14 positive specimens reported by clinical labs, 14.3% were Influenza A and 85.7% were Influenza B.
+3. Public health labs reported three positive specimens: 33.3% Influenza A and 66.7% Influenza B (one Victoria subtype).
+4. Outpatient visits for ILI accounted for 1.1% of visits, stable from last week and below the baseline of 2.6%.
+5. Cumulative hospitalization rates for influenza are 0.6 per 100,000, the lowest recorded since 2005 for this time of year.
+6. 22.3% of deaths were attributed to PIC (pneumonia, influenza, or COVID-19), well above the epidemic threshold, primarily due to COVID-19.
+7. No new influenza-associated pediatric deaths were reported; the season's total remains one.
+8. CDC emphasizes annual influenza vaccination; no updates on vaccination rates were provided.
+9. ILI trends are impacted by the COVID-19 pandemic, with altered healthcare-seeking behaviors limiting reliable data analysis.
+10. Nationwide, all jurisdictions reported minimal ILI activity, with ongoing uncertainty about future flu activity due to pandemic influences.
+
+11. Summary of factors useful for prediction: Minimal influenza activity, low hospitalization rates, dominant Influenza B detections, and COVID-19 disruptions to surveillance and healthcare trends suggest continued atypical flu trends.

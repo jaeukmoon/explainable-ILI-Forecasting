@@ -1,0 +1,20 @@
+Week39, 2022
+- **Viruses, illness, and deaths**: A total of 7.3% of deaths were due to pneumonia, influenza, and/or COVID-19 (PIC), above the epidemic threshold of 5.7%. Of these, 11 were influenza-related, and 615 were COVID-19-related. One pediatric death from influenza A(H3) was reported, bringing the season’s total to 177 pediatric deaths. 
+
+- **U.S. virologic surveillance**: Clinical labs reported 1.0% of specimens tested were positive for influenza, with 64.0% Influenza A and 36.0% Influenza B. Public health labs found 84.2% of positive specimens were Influenza A (95.2% H1N1pdm09, 4.8% H3N2) and 15.8% Influenza B (100% Victoria lineage).
+
+- **Cumulative hospitalization rate**: During week 39, 1,040 patients were hospitalized with laboratory-confirmed influenza, with FluSurv-NET data available only through April 2023 for 2022-2023 hospitalization trends.
+
+- **Trends of deaths attributed to influenza**: 11 influenza-attributed deaths were reported in week 39. The proportion of deaths due to pneumonia, influenza, and COVID-19 (PIC) was above the epidemic threshold.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounted for 64.0% of clinical lab positives and 84.2% of public health lab positives. Influenza B comprised 36.0% of clinical lab positives and 15.8% of public health lab positives.
+
+- **Novel influenza virus (like COVID-19)**: Multiple respiratory viruses (e.g., influenza, RSV, SARS-CoV-2) are co-circulating. No novel influenza virus detections were reported this week.
+
+- **Vaccination trends**: Vaccination was not explicitly mentioned in this week's summary, though it is critical for preventing influenza and reducing complications.
+
+- **Outpatient respiratory illness visits**: Nationwide, 2.1% of outpatient visits were reported for influenza-like illness (ILI), with age-specific percentages highest in children aged 0-4 years (7.1%). Activity levels included three jurisdictions with “high” ILI activity, while most (44 jurisdictions) reported “minimal” ILI activity.
+
+- **Expectation of flu activity from CDC**: No specific projections about flu activity were outlined for upcoming weeks, though historic trends suggest potential increases during fall.
+
+- **Other key factors**: Respiratory illness and co-circulation of pathogens such as COVID-19 and RSV are impacting ILI trends. Variability in activity across jurisdictions highlights regional differences in respiratory illness patterns.

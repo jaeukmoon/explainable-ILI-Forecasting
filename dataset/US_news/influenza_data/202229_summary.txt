@@ -1,0 +1,11 @@
+- Influenza virus infections are a significant global health threat.
+- Vaccination is the main defense against influenza, but the effectiveness of vaccines can vary.
+- Current seasonal influenza vaccines primarily target the hemagglutinin (HA) glycoprotein, which can lead to a narrow and strain-specific immune response.
+- The HA undergoes antigenic drift, which can result in a loss of vaccine effectiveness and the need for annual reformulation and readministration of vaccines.
+- Neuraminidase (NA), a subdominant glycoprotein, has been identified as a potential target for vaccine development.
+- A newly developed recombinant influenza virus N1 neuraminidase vaccine candidate, named N1-MPP, adjuvanted with CpG 1018, showed a strong and robust immune response against NA.
+- The N1-MPP vaccine provided full protection against morbidity and mortality after high lethal challenges in a mouse model.
+- Other vaccine constructs, such as N2-MPP and B-NA-MPP, have also been generated to cover the range of influenza viruses circulating in humans.
+- Adjuvating the vaccine constructs with CpG 1018 induced a strong immune response against NA.
+- This study provides important insights for the development of a broadly protective NA-based influenza virus vaccine.
+- Influenza viruses cause millions of severe cases and hundreds of thousands of deaths globally each year.

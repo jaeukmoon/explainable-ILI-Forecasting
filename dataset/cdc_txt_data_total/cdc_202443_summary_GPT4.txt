@@ -1,0 +1,11 @@
+Week43, 2024
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains low nationally. Influenza A (88%) predominates over Influenza B (12%), with subtypes A(H3N2) (56.5%) and A(H1N1)pdm09 (32.3%) circulating. Eight human infections with influenza A(H5) were reported, all presenting mild symptoms. No influenza-associated pediatric deaths for the 2024-2025 season have been reported.  
+- **U.S. virologic surveillance**: Clinical labs report 1.0% of specimens tested positive for influenza; Influenza A accounted for 88%, and Influenza B for 12%. Public health labs tested 1,234 specimens, with 94.8% Influenza A and 5.1% Influenza B, predominantly A(H3N2) and A(H1N1)pdm09.  
+- **Cumulative hospitalization rate**: 134 laboratory-confirmed influenza-associated hospitalizations, with a cumulative rate of 0.4 per 100,000 population. Weekly hospitalization rate in Week 43 was 0.1 per 100,000.  
+- **Trends of deaths attributed to influenza**: 0.03% of deaths during Week 43 were due to influenza, stable compared to previous weeks.  
+- **Percentage of Influenza A and Influenza B**: Influenza A comprises 88% of clinical and 94.8% of public health lab positives; Influenza B accounts for 12% and 5.1%, respectively.  
+- **Novel Influenza virus (like COVID-19)**: Eight human infections with influenza A(H5) were detected, including avian influenza exposure in California and Washington. No human-to-human transmission has been identified.  
+- **Vaccination trends**: CDC continues to recommend flu vaccination for everyone aged 6 months and older, ideally by the end of October.  
+- **Outpatient respiratory illness visits**: 2.2% of outpatient visits reported through ILINet were due to ILI, below the national baseline and stable compared to previous weeks. Regions 4, 6, and 9 showed slight increases in ILI activity.  
+- **Expectation of flu activity from CDC**: Influenza activity remains low; multiple respiratory viruses, including RSV and COVID-19, contribute to respiratory illnesses.  
+- **Other key factors**: Widespread human infections with influenza A(H5) warrant continued surveillance, particularly for potential zoonotic transmission.

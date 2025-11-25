@@ -1,0 +1,20 @@
+Week38, 2021
+- **Viruses, illness, and deaths**: Influenza activity remains low. 20.9% of deaths were attributed to pneumonia, influenza, and/or COVID-19 (PIC), above the epidemic threshold of 5.6%. COVID-19 was the primary cause of PIC mortality, with only four deaths attributed to influenza. No new influenza-associated pediatric deaths were reported.
+
+- **U.S. virologic surveillance**: Influenza virus circulation was low, with no significant uptick in influenza activity. 
+
+- **Cumulative hospitalization rate**: No updated data provided for laboratory-confirmed influenza-related hospitalizations in this reporting period.
+
+- **Trends of deaths attributed to influenza**: Deaths attributed to influenza remain minimal. COVID-19 is the leading contributor to PIC mortality.
+
+- **Percentage of Influenza A and Influenza B**: Data on the breakdown of Influenza A and B was not provided in this report.
+
+- **Novel Influenza virus (like COVID-19)**: COVID-19 continues to dominate respiratory illness trends, but no novel influenza viruses were reported.
+
+- **Vaccination trends**: No updates or recommendations for vaccination trends were provided.
+
+- **Outpatient respiratory illness visits**: 1.9% of outpatient visits were due to ILI, which remains below the national baseline of 2.6%. Outpatient ILI visits decreased across all age groups, and increases in activity are likely due to other respiratory viruses rather than influenza.
+
+- **Expectation of flu activity from CDC**: Influenza activity remains low, and no immediate uptick is expected based on current data.
+
+- **Other key factors**: Most jurisdictions reported minimal ILI activity, with slight increases attributed to other respiratory pathogens, highlighting the need for careful differentiation between influenza and COVID-19 impacts.

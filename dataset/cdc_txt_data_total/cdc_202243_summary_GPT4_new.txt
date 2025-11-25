@@ -1,0 +1,13 @@
+Week43, 2022
+1. Influenza activity is increasing nationwide, with the Southeastern and South-Central regions reporting the highest levels, followed by the Mid-Atlantic and South-Central West Coast regions.
+2. 9.0% of clinical lab specimens tested positive for influenza, with 98.9% being Influenza A and 1.1% Influenza B.
+3. Public health labs reported that 99.8% of positive specimens were Influenza A, comprising 33.8% A(H1N1) and 66.3% A(H3N2).
+4. Outpatient visits for influenza-like illness (ILI) accounted for 4.3% of visits, exceeding the national baseline of 2.5%, with increases seen in all age groups and most regions.
+5. The cumulative hospitalization rate of 2.9 per 100,000 is the highest for week 43 since the 2010-2011 season, particularly high in adults aged ≥65 (6.3/100,000) and children aged 0-4 (5.5/100,000).
+6. 9.1% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), above the epidemic threshold of 6.0%, though primarily driven by COVID-19.
+7. Two influenza-associated pediatric deaths have been reported so far this season, both linked to Influenza A(H3).
+8. A novel influenza A(H3N2v) case with swine exposure was reported in New Mexico; no person-to-person transmission identified.
+9. CDC estimates 1.6 million flu illnesses, 13,000 hospitalizations, and 730 deaths this season to date, emphasizing the value of annual vaccination.
+10. Trends in vaccination uptake and antiviral efficacies were not detailed but remain critical in limiting severe outcomes and spread.
+
+11. Summary insights suggest a highly active flu season, dominated by Influenza A(H3N2), increased ILI activity, and hospitalization rates signaling greater severity compared to previous seasons. Regional surges and concurrent COVID-19 trends could further influence flu outcomes.

@@ -1,0 +1,22 @@
+Week38, 2022
+- **Viruses, illness, and deaths**: Influenza activity remains relatively low with 1.3% of clinical specimens testing positive for influenza during week 38. Influenza A constitutes 92.8% of positives, while Influenza B accounts for 7.2%. 8.7% of deaths were due to pneumonia, influenza, and/or COVID-19 (PIC), primarily driven by COVID-19. Two influenza-associated pediatric deaths (Influenza A) were reported this week, bringing the season total to 39.
+
+- **U.S. virologic surveillance**: Clinical labs reported 92.8% Influenza A and 7.2% Influenza B among positive specimens. Public health labs confirmed 90.4% Influenza A (63.6% H3N2, 36.4% H1N1pdm09, and <0.1% H3N2v) and 9.6% Influenza B.
+
+- **Cumulative hospitalization rate**: 739 patients were hospitalized with laboratory-confirmed influenza during week 38. Data through June 11, 2022, showed hospitalization rates, but no further cumulative updates were available for this report.
+
+- **Trends of deaths attributed to influenza**: Roughly 8.7% of deaths attributed to PIC were above the epidemic threshold of 5.6%, but most deaths were due to COVID-19 rather than influenza.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounted for most positive specimens (92.8% clinical labs, 90.4% public health labs), while Influenza B was minimal (7.2% clinical labs, 9.6% public health labs).
+
+- **Novel influenza virus (like COVID-19)**: No novel influenza variants of concern were detected, apart from four H3N2v cases since October 2021. COVID-19 remains a primary driver of PIC mortality.
+
+- **Vaccination trends**: No direct vaccination data was reported. The CDC emphasizes vaccination as the key to flu prevention.
+
+- **Outpatient respiratory illness visits**: ILINet reported 2.2% of outpatient visits for ILI, with highest rates among children aged 0-4 (9.0%) compared to older populations. Multiple respiratory viruses, including influenza, co-circulated.
+
+- **Expectation of flu activity from CDC**: Flu activity appears low but is influenced by various respiratory pathogens. No specific prediction for increases was included in this report.
+
+- **Other key factors**: Only 0.2% of long-term care facilities reported at least one influenza-positive test. Minimal to low outpatient ILI activity was reported in most jurisdictions, with only a few areas observing moderate to high levels. 
+
+Analysis suggests current influenza trends are subdued, with activity influenced by other respiratory pathogens predominantly. Monitoring and vaccination remain critical as the season progresses.

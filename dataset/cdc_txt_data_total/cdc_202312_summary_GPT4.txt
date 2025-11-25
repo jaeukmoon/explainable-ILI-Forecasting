@@ -1,0 +1,21 @@
+Week12, 2023
+- **Viruses, Illness, and Deaths**: Seasonal influenza activity remains low nationally. 8.3% of deaths were attributed to pneumonia, influenza, or COVID-19 (above the threshold of 7.1%). Four influenza-associated pediatric deaths were reported this week, totaling 138 this season. CDC estimates at least 26 million illnesses, 290,000 hospitalizations, and 18,000 deaths from flu so far this season.
+
+- **U.S. Virologic Surveillance**: In clinical laboratories, 0.9% of respiratory specimens tested positive this week, with Influenza A being 61.7% and Influenza B at 38.3%. Public health labs reported 67.2% of positive specimens as Influenza A (58.8% H3N2, 41.2% H1N1) and 32.8% as Influenza B.
+
+- **Cumulative Hospitalization Rate**: The overall cumulative flu-related hospitalization rate is 60.8 per 100,000 population. Adults aged 65 and older have the highest rate at 180.7 per 100,000.
+
+- **Trends of Deaths Attributed to Influenza**: PIC (pneumonia, influenza, COVID-19) mortality has stabilized in recent weeks at low levels. Only 21 deaths this week were attributed to influenza.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounts for 61.7% (clinical labs) and 67.2% (public health labs) of positive specimens. Influenza B represents 38.3% (clinical labs) and 32.8% (public health labs).
+
+- **Novel Influenza Virus (e.g., COVID-19)**: One A(H3N2)v (variant) virus was reported season-to-date. Over 99.9% of viruses tested this season remain susceptible to antivirals.
+
+- **Vaccination Trends**: CDC emphasizes continued flu vaccination for everyone aged 6 months and older.
+
+- **Outpatient Respiratory Illness Visits**: 2.3% of outpatient visits were due to ILI, remaining stable and below the national baseline of 2.5%. Eight of ten HHS regions reported ILI activity below respective baselines, with co-circulation of multiple respiratory viruses.
+
+- **Expectation of Flu Activity from CDC**: CDC anticipates overall low levels of flu activity but continues to monitor respiratory illnesses.
+
+- **Other Key Factors**: Over 95% of circulating influenza viruses are antigenically similar to vaccine strains, indicating effective vaccination. Hospitalizations were highest in elderly adults (age 65+) and children under 5. There were no significant increases in influenza activity week-over-week.
+

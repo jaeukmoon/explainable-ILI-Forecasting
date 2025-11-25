@@ -1,0 +1,15 @@
+According to the CDC's surveillance report for week 44 ending November 4, 2023, there is an increasing trend in seasonal influenza activity in most parts of the country, particularly in the South Central, Southeast, and West Coast regions. The report provides updates on various surveillance components:
+
+1. Virologic Surveillance: The percentage of respiratory specimens testing positive for influenza in clinical laboratories increased compared to the previous week. In public health laboratories, the most frequently reported influenza viruses were influenza A(H1N1).
+
+2. Outpatient Respiratory Illness: The percentage of visits to healthcare providers for respiratory illness (ILI) increased and is now at the national baseline of 2.9%. ILI activity is trending upward in 8 of the 10 HHS regions.
+
+3. Hospitalization Surveillance: The FluSurv-NET network reported 354 laboratory-confirmed influenza-associated hospitalizations for the current season. The overall cumulative hospitalization rate for the season is 1.2 per 100,000 population.
+
+4. Mortality Surveillance: Based on mortality surveillance data, 0.09% of deaths in week 44 were attributed to influenza, which remained stable compared to the previous week.
+
+5. Pediatric Deaths: One influenza-associated pediatric death was reported for the current season, and a total of 182 deaths were reported for the previous season.
+
+The report also highlights the importance of influenza vaccination and the availability of antiviral drugs for treatment. It provides links to additional national and international influenza surveillance information.
+
+Please note that the surveillance data is preliminary and subject to change as more reports are received.

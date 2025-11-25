@@ -1,0 +1,13 @@
+Week4, 2023
+1. Influenza activity is declining, with 2.1% of respiratory specimens testing positive for influenza and Influenza A(H3N2) being the most commonly reported virus.
+2. Influenza A accounted for 94.1% of positive clinical lab specimens, while 5.9% were Influenza B; public health labs similarly reported 99.4% Influenza A and 0.6% Influenza B.
+3. Of subtyped Influenza A cases in public health labs, 62% were A(H3N2) and 38% were A(H1N1)pdm09.
+4. Cumulative influenza hospitalization rates remain high at 58.6 per 100,000, with adults aged 65+ most affected.
+5. Weekly influenza-associated hospitalizations decreased compared to week 3, with 2,671 new admissions during week 4.
+6. Influenza-associated pediatric deaths reached 97 this season, with six new deaths reported this week, all linked to Influenza A.
+7. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) accounted for 11.1%, slightly above the epidemic threshold, with most deaths linked to COVID-19.
+8. Vaccination remains effective, with most circulating influenza viruses antigenically similar to the season's vaccine components.
+9. Outpatient visits for influenza-like illness (ILI) accounted for 2.6% of visits, slightly above the national baseline, with a stable trend across most regions.
+10. Co-circulation of respiratory viruses like COVID-19 and RSV remains a factor; 3.4% of hospitalized influenza cases had concurrent positive SARS-CoV-2 tests.
+
+11. Useful for prediction: High cumulative hospitalization rates, prevalence of co-circulating viruses, and regional variations in ILI activity may signal potential future challenges for managing ILI trends.

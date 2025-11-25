@@ -1,0 +1,6 @@
+1. Influenza A virus (IAV)-specific CD8+ T-cell response provides protection against pandemic and seasonal influenza infections.
+2. The composition of IAV released from infected cells is regulated by the neuraminidase (NA) activity.
+3. Cells infected by NA-defective virus cause intracellular viral protein accumulation and cell death.
+4. NA-defective viruses, when taken up by dendritic cells (DCs), induce an expression of major histocompatibility complex class I to activate IAV-specific CD8+ T-cell response.
+5. Infection by NA-defective IAV induces a CD8+ T-cell response to highly conserved viral antigens and an increasing expression of IL10, IL12, and IL27.
+6. Vaccination with NA-defective H1N1 A/WSN/33 induces a strong IAV-specific CD8+ T-cell response against H1N1, H3N2, and H5N1, suggesting potential for the development of universal influenza vaccines.

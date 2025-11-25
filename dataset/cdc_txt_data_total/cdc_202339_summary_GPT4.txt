@@ -1,0 +1,20 @@
+Week39, 2023
+- **Viruses, illness, and deaths**: Influenza activity is low, with 1.0% of respiratory specimens testing positive for influenza in week 39. Influenza A accounts for 64.0% of clinical lab positives, and Influenza B accounts for 36.0%. Mortality data shows 7.3% of deaths were due to pneumonia, influenza, and/or COVID-19 (PIC), above the epidemic threshold of 5.7%; 11 deaths were listed as influenza-related. One influenza-associated pediatric death has been reported for the season.
+
+- **U.S. virologic surveillance**: Of public health lab specimens testing positive, 84.2% were Influenza A and 15.8% were Influenza B. Among Influenza A specimens, 95.2% were H1N1pdm09 and 4.8% were H3N2. For Influenza B specimens, 100% were Victoria lineage.
+
+- **Cumulative hospitalization rate**: During week 39, 1,040 influenza-related hospitalizations were reported. FluSurv-NET hospitalization updates ended after April 30, 2023.
+
+- **Trends of deaths attributed to influenza**: 7.3% of deaths attributed to PIC is above the epidemic threshold, signaling heightened concern. 
+
+- **Percentage of Influenza A and B**: Clinical labs report 64.0% Influenza A and 36.0% Influenza B. Public health labs show 84.2% Influenza A and 15.8% Influenza B.
+
+- **Novel influenza virus (like COVID-19)**: No novel influenza viruses were reported. COVID-19 accounted for 615 underlying/contributing cause deaths in week 39.
+
+- **Vaccination trends**: No specific vaccination trends reported for the current week; vaccination remains the primary preventive measure.
+
+- **Outpatient respiratory illness visits**: Nationwide, 2.1% of outpatient visits were for ILI. By age group, 7.1% of visits were for ages 0-4 years, 3.3% for 5-24 years, and decreased percentages for older age groups. Most jurisdictions showed minimal ILI activity, with only 3 jurisdictions reporting high and 2 moderate activity.
+
+- **Expectation of flu activity from CDC**: Flu activity is expected to increase in the coming weeks as respiratory viruses co-circulate.
+
+- **Other key factors**: Respiratory illnesses from other pathogens, including RSV and SARS-CoV-2, remain contributors to outpatient ILI visits. Activity levels vary by jurisdiction, with most reporting minimal or low levels.

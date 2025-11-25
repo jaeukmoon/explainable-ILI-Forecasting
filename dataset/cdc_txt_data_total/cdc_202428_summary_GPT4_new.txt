@@ -1,0 +1,13 @@
+Week28, 2024
+1. Influenza activity remains low nationally, with 0.8% of respiratory specimens testing positive for influenza in clinical labs this week.
+2. Among positive clinical lab specimens, 87.3% were Influenza A and 12.7% were Influenza B.
+3. Public health labs reported 117 positive specimens, with 96.6% being Influenza A (64.2% H3N2, 35.8% H1N1pdm09) and 3.4% Influenza B (100% Victoria lineage).
+4. Outpatient visits for respiratory illness accounted for 1.4% of total visits, remaining under the national baseline with no activity classified as moderate, high, or very high.
+5. Weekly influenza-associated hospitalization rates were 0.1 per 100,000 population, with a cumulative seasonal total of 25,274 hospitalizations.
+6. There were 2 influenza-associated pediatric deaths reported this week; one from each of the past two flu seasons, bringing the 2023-24 total to 187.
+7. Influenza-related deaths accounted for 0.1% of total deaths nationally, remaining stable from the prior week.
+8. Five cases of human infection with novel Influenza A(H5) were reported from Colorado, all related to poultry exposure, marking an important development in avian influenza surveillance.
+9. Influenza A (H1N1), A (H3N2), and B viruses all displayed high antigenic similarity to vaccine reference strains, with minimal resistance detected to recommended antiviral drugs.
+10. Future flu activity is expected to remain low, but the co-circulation of seasonal flu, avian influenza, and other respiratory viruses requires continued surveillance.
+
+11. Summary of key factors: Low seasonal flu activity persists, with widespread co-circulation of Influenza A and B types, minimal ILI or hospitalization rates, and isolated novel avian influenza cases raising vigilance.

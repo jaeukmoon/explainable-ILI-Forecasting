@@ -1,0 +1,20 @@
+Week22, 2022
+- **Viruses, illness, and deaths**: Seasonal influenza activity continues with increasing activity in parts of the U.S. Influenza A (H3N2) is predominant and genetically related to vaccine viruses, though antigenic differences were observed. Three pediatric deaths were reported this week, totaling 28 for the season. Estimated seasonal burden: 7.8M illnesses, 80,000 hospitalizations, and 4,900 deaths.
+
+- **U.S. virologic surveillance**: 5.9% of specimens tested positive for influenza in clinical laboratories, primarily Influenza A (99.0%). Public health labs reported 100% Influenza A viruses this week, with H3N2 comprising 99.1% and H1N1pdm09 comprising 0.9%.
+
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate is 16.7 per 100,000 population. Adults aged 65+ have the highest rate, especially those aged 85+ (95.7 per 100,000). 
+
+- **Trends of deaths attributed to influenza**: No update on mortality due to a system-wide coding upgrade. Weekly mortality data paused for weeks 22 and 23.
+
+- **Percentage of Influenza A and Influenza B**: 99.0% of clinical lab and 100.0% of public health lab confirmed positives are Influenza A. Influenza B activity remains very low (<1%).
+
+- **Novel Influenza virus (like COVID-19)**: Of 12,805 influenza positives tested this season, 555 (4.3%) were co-positive for SARS-CoV-2. A(H3N2)v was detected in one specimen earlier in the season.
+
+- **Vaccination trends**: CDC continues to recommend flu vaccination for individuals 6 months and older as long as activity persists. Antiviral treatments are available for flu illness.
+
+- **Outpatient respiratory illness visits**: 2.3% of outpatient visits were for ILI, slightly below the national baseline. Activity is high/very high in 4 jurisdictions and minimal in 42.
+
+- **Expectation of flu activity from CDC**: Influenza activity is expected to continue, with regional variations in intensity due to other respiratory viruses circulating concurrently.
+
+- **Other key factors**: Late-season influenza activity led to the extension of FluSurv-NET surveillance. Hospital admissions for influenza remain stable, though trending downward. The majority of H3N2 viruses are antigenically different from vaccine viruses.

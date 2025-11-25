@@ -1,0 +1,11 @@
+Vaccine effectiveness: Recent years have seen low to moderate effectiveness of seasonal influenza vaccines, indicating the need for improved vaccines that can protect against multiple influenza virus variants within each season.
+
+Broadly reactive vaccines: Broadly reactive vaccine candidates have the potential to address the issue of variant strains, but their efficacy may decline as the viruses continue to mutate. Therefore, a method is needed to update broadly reactive vaccine antigens to better protect against current and future viral variants.
+
+Next-generation H3N2 HA vaccines: Using a next-generation algorithm and design methodology, nine next-generation H3N2 influenza hemagglutinin (HA) vaccines were created. These vaccines demonstrated superiority in eliciting antibodies with high HAI activity against historical and co-circulating H3N2 influenza viruses, as well as the ability to neutralize future emerging H3N2 isolates.
+
+Influenza virus circulation and severity: Seasonal influenza seasons dominated by A(H3N2) viruses tend to be more severe, resulting in a greater number of hospitalizations and deaths compared to seasons dominated by other subtypes. The 2017-2018 season, in particular, was severe and led to a high number of hospitalizations and deaths.
+
+Vaccine effectiveness against A(H3N2) viruses: Vaccine effectiveness against A(H3N2) viruses is typically lower compared to effectiveness against A(H1N1)pdm09 and influenza B viruses. The A(H3N2) component of the vaccine during the 2018-2019 season provided immune protection against only around 9% of A(H3N2) virus infections.
+
+Composition of seasonal influenza vaccines: Seasonal influenza vaccines typically include strains from both influenza A subtypes (A(H1N1) and A(H3N2)) and strains representing the Victoria and Yamagata lineages of influenza B viruses. Trivalent vaccines containing one H1N1, one H3N2, and one influenza B strain are also used in some countries.

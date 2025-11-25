@@ -1,0 +1,12 @@
+Week29, 2024
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains low nationally with 0.7% of respiratory specimens testing positive for influenza. Influenza A(H1N1)pdm09, A(H3N2), and B viruses co-circulate. Four additional human infections with influenza A(H5) viruses were reported. 0.04% of deaths this week were attributed to influenza. Cumulatively, 25,000 deaths have been reported this season, with no pediatric deaths reported this week.  
+- **U.S. virologic surveillance**: Clinical labs reported 89.2% of positive specimens as Influenza A and 10.8% as Influenza B (Week 29). Public health labs reported 93.8% as Influenza A (37.1% H1N1, 62.9% H3N2) and 6.2% as Influenza B.  
+- **Cumulative hospitalization rate**: Weekly hospitalization rate was 0.1 per 100,000 this week. Cumulatively, 25,279 hospitalizations were reported since October 2023, 84.6% associated with Influenza A and 14.7% with Influenza B.  
+- **Trends of deaths attributed to influenza**: Deaths due to influenza remained stable (<0.1% week-over-week change).  
+- **Percentage of Influenza A and Influenza B**: Influenza A accounts for 89.2% (clinical labs) and 93.8% (public health labs) of positive specimens. Influenza B accounts for 10.8% (clinical labs) and 6.2% (public health labs).  
+- **Novel Influenza virus (like COVID-19)**: Four new human cases of A(H5) virus were reported in Colorado, linked to poultry exposure. Total A(H5) cases since 2022 in the U.S. now stand at 14.  
+- **Vaccination trends**: No updates on current vaccination trends in this report. Antiviral treatment is emphasized for high-risk groups.  
+- **Outpatient respiratory illness visits**: Nationwide, 1.4% of health provider visits were for respiratory illness, stable and below the national baseline. All jurisdictions reported “minimal” ILI activity.  
+- **Expectation of flu activity from CDC**: Influenza activity is low nationally with co-circulation of other respiratory viruses like COVID-19 and RSV.  
+- **Other key factors**: Surveillance indicates multiple respiratory viruses are contributing to illness. Observed A(H5) infections highlight the importance of monitoring novel strains. Data integration with COVID-19 and RSV surveillance is ongoing.  
+

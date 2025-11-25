@@ -1,0 +1,11 @@
+Week38, 2022
+1. Influenza activity remains low, with 1.3% of specimens testing positive nationally during week 38.
+2. Clinical labs reported 92.8% of positives as Influenza A and 7.2% as Influenza B; public health labs reported 90.4% Influenza A (36.4% H1N1pdm09 and 63.6% H3N2) and 9.6% Influenza B.
+3. Nationwide outpatient visits for influenza-like illness (ILI) were 2.2%, below baseline, with higher reports among children aged 0-4 years (9.0%).
+4. Influenza-related hospitalizations totaled 739 during week 38.
+5. Mortality due to pneumonia, influenza, and COVID-19 (PIC) was at 8.7%, exceeding the epidemic threshold; PIC deaths are primarily attributed to COVID-19.
+6. Two pediatric deaths associated with Influenza A were belatedly reported, bringing the total for the season to 39.
+7. H3N2 continues to dominate Influenza A subtype surveillance, accounting for the majority of cases.
+8. Co-circulation of multiple respiratory viruses, including RSV and COVID-19, complicates interpretation of ILI data.
+9. Alternative healthcare-seeking behaviors due to COVID-19 impact outpatient and syndromic surveillance.
+10. Flu activity remains unpredictable, and the CDC recommends annual vaccination and continued monitoring for emerging trends.

@@ -1,0 +1,13 @@
+First, virologic surveillance indicates that seasonal influenza activity remains low in the United States. The percentage of respiratory specimens testing positive for influenza in clinical laboratories is 0.1% for the reported week. In public health laboratories, influenza activity has been low in recent weeks. 
+
+Outpatient illness surveillance shows that 1.3% of visits to healthcare providers were for influenza-like illness (ILI), which is below the national baseline of 2.6%. The majority of jurisdictions experienced minimal ILI activity, while one jurisdiction had moderate activity, and one had low activity.
+
+The geographic spread of influenza, as assessed by state and territorial epidemiologists, is not reported for the 2020-21 influenza season due to the impact of COVID-19 on ILI surveillance.
+
+Severe disease indicators include hospitalization rates and mortality rates from pneumonia, influenza, and COVID-19 (PIC). The hospitalization rates are not reported for the current week. The PIC mortality rate for the previous week was 8.1%, which is above the epidemic threshold of 6.0%. One influenza-associated pediatric death occurred during the previous season, bringing the total for that season to 195. No deaths have been reported for the current season.
+
+Virus characterization data, including genetic and antigenic information, will be updated weekly later in the season when sufficient specimens are tested.
+
+Importantly, an annual flu vaccine is recommended as the best way to protect against influenza. Antiviral drugs are also available for treating flu illness.
+
+These surveillance components provide critical information for predicting and monitoring future influenza occurrences and guiding public health interventions.

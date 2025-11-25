@@ -1,0 +1,13 @@
+Week5, 2022
+1. Influenza activity remains sporadic across the country, with 2.0% of clinical lab specimens testing positive for influenza this week.
+2. Influenza A(H3N2) accounted for the majority of detections, comprising 97.6% of clinical lab positives and 99.5% of public health lab positives. Only 2.4% were Influenza B.
+3. Outpatient visits for respiratory illness were 1.7%, below the national baseline, with all age groups showing a downward trend.
+4. Hospitalization rates increased slightly, with a cumulative rate of 4.5 per 100,000; seniors aged 65+ had the highest hospitalization rates.
+5. Pneumonia, influenza, and COVID-19 (PIC) accounted for 26.3% of deaths, surpassing the epidemic threshold, though influenza contributed minimally compared to COVID-19.
+6. No pediatric influenza-associated deaths were reported this week; the season total remains at 5.
+7. Of 6,774 influenza specimens tested this season, 5.9% were also positive for SARS-CoV-2, indicating co-circulation.
+8. Flu vaccination coverage is lower than last season, and vaccine uptake remains critical as CDC continues to recommend the annual flu vaccine.
+9. Moderate influenza activity was reported in 4 jurisdictions, while others reported low or minimal activity with no high or very high regions.
+10. Influenza A(H3N2) viruses are largely similar to this season's vaccine strain but show some antigenic differences as these viruses evolve.
+
+11. Key predictive insights: The low vaccination rate, continued co-circulation of SARS-CoV-2, evolving antigenicity in H3N2 viruses, and sporadic flu activity may influence future ILI trends.

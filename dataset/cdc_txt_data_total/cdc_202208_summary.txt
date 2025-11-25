@@ -1,0 +1,19 @@
+Based on the updated weekly ILI surveillance report from CDC for Week 8, ending February 26, 2022, the key facts regarding predicting future ILI occurrence are as follows:
+
+1. Sporadic influenza activity continues across the country, and in some areas, influenza activity is increasing.
+
+2. The majority of influenza viruses detected are Influenza A(H3N2) viruses.
+
+3. Genetic and antigenic characterization of influenza viruses are being performed to assess their similarity to the reference viruses used for vaccine development.
+
+4. Outpatient visits for respiratory illness, including ILI, remained stable nationally compared to the previous week but are below the national baseline.
+
+5. Long-term care facilities reported a low percentage (0.5%) of influenza-positive tests among residents during the reported period.
+
+6. FluSurv-NET hospitalization surveillance data showed a higher cumulative hospitalization rate (5.2 per 100,000) compared to the previous season but lower than the rates seen before the COVID-19 pandemic.
+
+7. There were two influenza-associated pediatric deaths reported during the week, bringing the total for the season to eight.
+
+8. A high percentage (16.7%) of deaths during the reported week were attributed to pneumonia, influenza, or COVID-19, above the epidemic threshold.
+
+These facts provide insights into the current influenza activity, the predominant viruses circulating, and the impact on hospitalizations and mortality. They also emphasize the importance of vaccination and antiviral treatment for influenza prevention and management.

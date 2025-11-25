@@ -1,0 +1,13 @@
+Week42, 2022
+1. Influenza activity is increasing, with the Southeast and South-Central U.S. experiencing the highest levels.
+2. Clinical labs reported 6.2% of specimens testing positive for influenza; 98.4% were Influenza A and 1.6% were Influenza B.
+3. Public health labs identified 97.7% Influenza A (74.6% H3N2 and 25.4% H1N1) and 2.3% Influenza B, with limited subtyping performed.
+4. Outpatient respiratory illness visits accounted for 3.3% nationally, above the 2.5% baseline, with 13 jurisdictions reporting high or very high activity.
+5. The cumulative hospitalization rate is 1.5 per 100,000, higher than previous seasons, with older adults (65+) and young children (0-4) having the highest rates.
+6. Deaths attributed to pneumonia, influenza, and COVID-19 were 9.2%, exceeding the 5.9% epidemic threshold, primarily driven by COVID-19.
+7. One pediatric death was reported this week, associated with Influenza A (H3).
+8. CDC highlights the importance of vaccination, recommending it for everyone 6 months and older.
+9. The use of antiviral drugs is encouraged for treatment, particularly when initiated early.
+10. Multiple respiratory viruses, including SARS-CoV-2 and RSV, continue to circulate, complicating attribution of respiratory illnesses to influenza.
+
+11. Summary of key insights: Influenza A (H3N2) predominates and is highly active in specific regions, with increasing outpatient visits and hospitalizations. The elevated hospitalization rate and deaths linked to respiratory illnesses highlight the season's severity. Changes in healthcare-seeking and co-circulation of other respiratory pathogens may impact predictive models. Vaccination and early treatment remain critical preventive strategies.

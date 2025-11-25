@@ -1,0 +1,12 @@
+Week25, 2024
+- **Viruses, illness, and deaths:** Seasonal influenza activity remains low nationally. Influenza A (H1N1)pdm09, A(H3N2), and B viruses co-circulate. 0.1% of deaths were attributed to influenza this week. Three pediatric deaths were reported, totaling 181 for the season.  
+- **U.S. virologic surveillance:** 1.1% of clinical lab specimens tested positive for influenza (80.4% Influenza A, 19.6% Influenza B). Public health labs show 81.2% positivity for Influenza A and 18.8% for Influenza B, with Influenza A(H3N2) dominating (62.5% of subtyped Influenza A).  
+- **Cumulative hospitalization rate:** 0.2 per 100,000 population for Week 25; season total of 25,155 hospitalizations (84.6% associated with Influenza A).  
+- **Trends of deaths attributed to influenza:** 0.1% of deaths this week attributed to influenza, remaining stable compared to last week.  
+- **Percentage of Influenza A and Influenza B:** Among clinical lab positives, 80.4% were Influenza A and 19.6% Influenza B. Among public health lab positives, 81.2% were Influenza A and 18.8% Influenza B.  
+- **Novel influenza virus:** Two human infections with novel Influenza A(H1N2)v were reported from Pennsylvania, linked to swine exposure. These bring the year’s total to three cases.  
+- **Vaccination trends:** No new updates in the report, but antiviral drugs for treatment are emphasized, particularly for high-risk patients. Vaccination remains critical for prevention.  
+- **Outpatient respiratory illness visits:** 1.5% of outpatient visits were for respiratory illness nationally, below baseline. No states reported moderate or high ILI activity. Minimal activity reported in 53 jurisdictions.  
+- **Expectation of flu activity from CDC:** Low activity is expected to persist given current trends, with stable respiratory illness rates.  
+- **Other key factors:** The novel Influenza A(H1N2)v cases suggest the need for close monitoring of zoonotic influenza. Resistance to the adamantanes antiviral persists in Influenza A. Minimal pediatric and overall hospitalization and mortality rates indicate continued low burden of seasonal influenza.  
+

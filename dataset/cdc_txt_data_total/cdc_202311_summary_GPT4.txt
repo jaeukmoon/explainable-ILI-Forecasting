@@ -1,0 +1,20 @@
+Week11, 2023
+- **Viruses, illness, and deaths**: Influenza activity remains low nationally, with Influenza A(H1N1) being the most reported variant. 8.7% of deaths were due to pneumonia, influenza, or COVID-19, exceeding the epidemic threshold of 7.2%. Two pediatric deaths were reported this week, totaling 134 for the 2022–2023 season.
+
+- **U.S. virologic surveillance**: 0.8% of clinical lab specimens tested positive for influenza (67.5% Influenza A; 32.5% Influenza B). Public health labs reported 73.9% Influenza A and 26.1% Influenza B among positive specimens, with A(H1N1) accounting for 63% of subtyped Influenza A cases.
+
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate was 60.6 per 100,000, the second-highest rate for week 11 since 2010–2011. Hospitalizations remain highest among adults aged 65 and older (180.3 per 100,000).
+
+- **Trends of deaths attributed to influenza**: Mortality due to pneumonia, influenza, and COVID-19 (PIC) has stabilized at 8.7% but is above the epidemic threshold. Influenza's share of PIC deaths has decreased and remained low for six weeks.
+
+- **Percentage of Influenza A and Influenza B**: Nationally, 67.5% of clinical lab positives were Influenza A, and 32.5% were Influenza B. Public health labs reported 73.9% Influenza A and 26.1% Influenza B. 
+
+- **Novel influenza virus (like COVID-19)**: No novel influenza viruses were reported. Among hospitalized cases, 3.7% were co-infected with SARS-CoV-2.
+
+- **Vaccination trends**: CDC continues recommending annual flu vaccination for individuals 6 months and older. Most circulating viruses remain antigenically similar to the vaccine components.
+
+- **Outpatient respiratory illness visits**: 2.4% of healthcare visits were attributed to respiratory illness, stable compared to last week and below the national baseline of 2.5%. Regions 2, 3, and 9 exceeded their baselines, while others were below.
+
+- **Expectation of flu activity from CDC**: Flu activity is expected to remain stable at low levels.
+
+- **Other key factors**: Long-term care facilities showed a decrease in influenza-positive tests (>5% lower than the previous week). Multiple respiratory pathogens are co-circulating, contributing variably to ILI rates. Weekly hospital admissions (1,382 patients) remained stable.

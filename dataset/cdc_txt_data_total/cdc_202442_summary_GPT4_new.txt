@@ -1,0 +1,25 @@
+Week42, 2024
+1. Influenza activity remains low nationwide, with respiratory specimens testing positive for influenza at 0.7% in both clinical and public health labs.
+
+2. Of 97 viruses reported by public health labs, 96.9% were Influenza A, and 3.1% were Influenza B; Influenza A(H1N1)pdm09 dominated at 58.7% of subtyped viruses, followed by A(H3N2) at 41.3%.
+
+3. Six human infections with Influenza A(H5) were reported this week, all linked to occupational exposure in California and Washington, with mild symptoms and no sustained human-to-human transmission observed.
+
+4. The cumulative hospitalization rate for influenza remains low at 0.3 per 100,000 population, with 93 total hospitalizations reported since October 1.
+
+5. Mortality attributed to influenza accounted for 0.05% of deaths this week, remaining stable from the previous week.
+
+6. Outpatient visits for influenza-like illness (ILI) accounted for 2.1% of reported visits, below the national baseline and showing no increase from the previous week.
+
+7. Influenza A accounted for 88.2% of positive isolates from clinical labs, with Influenza B accounting for the remaining 11.8%.
+
+8. No pediatric deaths have been reported for the current season, and there is no significant increase in severe outcomes.
+
+9. CDC continues to recommend annual influenza vaccination by the end of October, supported by stable coverage data and no significant changes in vaccine effectiveness so far.
+
+10. Future influenza activity remains challenging to predict due to co-circulation of other respiratory viruses, such as RSV and COVID-19, and regional variations in virus distribution.
+
+11. Key additional insights for prediction:
+12. - Influenza A(H5) infections linked to occupational exposure may indicate the need for increased surveillance in agricultural and farming sectors.
+13. - Stability in ILI and positivity rates suggests limited community spread of flu, though regions with slight positivity increases could be early indicators.
+14. - Continued monitoring of co-circulating respiratory pathogens like SARS-CoV-2 and RSV will be crucial for future trend assessment.

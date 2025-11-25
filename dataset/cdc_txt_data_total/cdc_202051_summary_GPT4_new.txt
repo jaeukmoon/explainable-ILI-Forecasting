@@ -1,0 +1,11 @@
+Week51, 2020
+1. Seasonal influenza activity in the U.S. remains unusually low; 0.3% of respiratory specimens tested positive for influenza at clinical labs.
+2. Of the positive specimens reported, 35.1% were Influenza A and 64.9% were Influenza B in clinical labs, while public health labs reported 100% as Influenza A (H1N1 subtype).
+3. Outpatient visits for influenza-like illness (ILI) remained stable at 1.6%, below the national baseline of 2.6%, with minimal ILI activity reported in most jurisdictions.
+4. 13.6% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), exceeding the epidemic threshold of 6.8%, with most attributed to COVID-19.
+5. No new influenza-associated pediatric deaths were reported, keeping the season total at one.
+6. A total of 101 laboratory-confirmed influenza-associated hospitalizations have been reported this season, at lower levels than typical for this time of year.
+7. Vaccination is strongly encouraged as the best method to prevent serious complications, though trends in vaccine uptake were not specified.
+8. Healthcare-seeking behaviors and ILI reporting remain influenced by the COVID-19 pandemic, limiting traditional surveillance accuracy.
+9. Virologic surveillance indicates lower-than-normal flu activity, despite an increased number of tests conducted compared to previous seasons.
+10. CDC advises that flu activity may increase in the coming months, though key factors like COVID-19 and healthcare changes make predictions uncertain.

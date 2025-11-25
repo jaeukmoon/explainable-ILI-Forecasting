@@ -1,0 +1,5 @@
+- Highly pathogenic avian influenza H7N9 virus has shown resistance to the antiviral drug oseltamivir.
+- Substitution of I222L-E119V in the neuraminidase of the virus led to a synergistic resistance effect to the drug.
+- The resistant virus demonstrated good replication capacity and high peak values in cell culture.
+- In mice, the virus with the I222L-E119V substitution caused significant weight loss, diffuse pneumonia, and fatality.
+- The findings highlight the need for surveillance of drug resistance and the development of new antiviral drugs for HPAI H7N9.

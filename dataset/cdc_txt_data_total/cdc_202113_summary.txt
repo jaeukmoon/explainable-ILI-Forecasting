@@ -1,0 +1,13 @@
+Based on the Weekly U.S. Influenza Surveillance Report, here are the key facts regarding predicting future ILI occurrence:
+
+1. Viroligic Surveillance: The surveillance monitors the percentage of respiratory specimens that test positive for influenza in clinical laboratories. During the reported period, the percentage was 0.1%, indicating low influenza activity. The number of positives specimens reported by public health labs remains unusually low.
+
+2. Outpatient Illness Surveillance: This component tracks the percentage of patient visits to healthcare providers for influenza-like illness (ILI). During the reported period, 1.0% of visits were due to ILI, which is below the national baseline of 2.6%. ILI activity levels may be impacted by the COVID-19 pandemic and should be interpreted with caution.
+
+3. Geographic Spread: The geographic spread of influenza, as assessed by state and territorial epidemiologists, indicates the level of activity but does not measure severity. During the reported period, all jurisdictions experienced minimal ILI activity.
+
+4. Severe Disease: Hospitalization rates for laboratory-confirmed influenza-related hospitalizations are lower than average for this point in the season. Pneumonia, influenza, and COVID-19 (PIC) mortality is above the epidemic threshold, with the majority of PIC deaths attributed to COVID-19.
+
+5. Pediatric Deaths: No influenza-associated pediatric deaths were reported during the reported period. However, one influenza-associated pediatric death has been reported for the current season.
+
+These surveillance components provide information on the current influenza activity, which helps in predicting future ILI occurrence. It is important to note that ILI activity may be affected by the COVID-19 pandemic, and data should be interpreted with caution.

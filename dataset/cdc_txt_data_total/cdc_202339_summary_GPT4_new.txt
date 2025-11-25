@@ -1,0 +1,11 @@
+Week39, 2023
+1. Influenza activity is low with 1.0% of clinical lab specimens testing positive; 64.0% were Influenza A and 36.0% Influenza B.
+2. Public health labs reported 95 positive specimens, with 84.2% Influenza A and 15.8% Influenza B; most Influenza A subtypes were H1N1 (74%) and fewer were H3N2.
+3. Outpatient visits for influenza-like illness (ILI) made up 2.1% of visits, which is below the national baseline; children aged 0-4 years had the highest rate at 7.1%.
+4. Hospitalizations due to laboratory-confirmed influenza totaled 1,040 during week 39.
+5. Deaths due to pneumonia, influenza, or COVID-19 (PIC) accounted for 7.3% of total deaths, exceeding the epidemic threshold of 5.7%.
+6. One influenza-associated pediatric death (Influenza A (H3)) was reported for the season, with a cumulative total of 177 pediatric deaths reported.
+7. No novel influenza viruses were detected, and co-circulation with other respiratory viruses, including SARS-CoV-2, continues.
+8. Vaccination updates were not highlighted; recommendations for annual vaccination remain unchanged.
+9. CDC reports minimal to low ILI activity in most jurisdictions, but moderate or high activity levels were observed in a few areas.
+10. Monitoring continues for hospitalization rates, respiratory virus co-circulation, and regional variations to predict future ILI trends.

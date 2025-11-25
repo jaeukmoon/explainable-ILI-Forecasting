@@ -1,0 +1,20 @@
+Week9, 2021
+- **Viruses, illness, and deaths**: Influenza activity remains unusually low. In clinical labs, only 0.1% of respiratory specimens tested positive for influenza. Influenza A and B are nearly equally represented. 14.6% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), with COVID-19 being the primary driver. One pediatric death from influenza has been reported this season.  
+
+- **U.S. virologic surveillance**: Clinical labs show 52.4% of positive specimens were Influenza A, and 47.6% were Influenza B. Public health labs report 100% of positive specimens as Influenza A, with no Influenza B cases detected this week.
+
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate was 0.7 per 100,000 population, lower than previous low-severity seasons.
+
+- **Trends of deaths attributed to influenza**: 14.6% of PIC deaths exceeded the epidemic threshold of 7.2%, though driven primarily by COVID-19 rather than influenza.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A made up 52.4% in clinical labs and 100% in public health labs. Influenza B accounted for 47.6% in clinical labs and 0% in public health labs.
+
+- **Novel influenza virus (like COVID-19)**: COVID-19 remains a significant driver of PIC deaths, with no evidence of novel influenza viruses reported.
+
+- **Vaccination trends**: Updates for the 2021-2022 flu vaccine composition have been outlined, focusing on influenza A(H1N1)pdm09 and A(H3N2) components as well as strains from Influenza B (Victoria and Yamagata lineages).
+
+- **Outpatient respiratory illness visits**: 0.8% of outpatient visits nationwide were due to ILI, below the 2.6% national baseline. Slight increases in ILI were noted for ages 0-4, while other groups showed decreases.
+
+- **Expectation of flu activity from CDC**: CDC anticipates flu activity may increase in the coming months despite unusually low current activity.
+
+- **Other key factors**: The COVID-19 pandemic has significantly impacted influenza surveillance and detection, and ILI data requires cautious interpretation. The majority of jurisdictions report minimal ILI activity.

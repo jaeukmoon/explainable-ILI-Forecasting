@@ -1,0 +1,13 @@
+Week9, 2023
+1. Influenza activity remains low nationally, with 0.9% of clinical specimens and 1.4% of public health lab specimens testing positive for influenza.
+2. Among clinical lab positives, 70.1% were influenza A and 29.9% were influenza B; public health labs reported 81.8% influenza A and 18.2% influenza B.
+3. Influenza A subtypes were 54.9% H3N2 and 45.1% H1N1 in public health lab samples.
+4. Outpatient visits for influenza-like illness (ILI) were 2.4%, below the national baseline, and decreased compared to the previous week.
+5. Flu hospitalizations totaled 17,565 this season, with a cumulative rate of 60.0 per 100,000 people, decreasing compared to the previous week.
+6. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) accounted for 8.9% of deaths, above the epidemic threshold, with influenza contributing to 22 deaths.
+7. Eight pediatric deaths brought the season's total to 125, all involving influenza A, predominantly H3N2.
+8. The 2022-2023 flu vaccine remains well-matched to circulating strains; vaccination is recommended as flu activity persists.
+9. Antiviral susceptibility testing showed nearly all viruses remain susceptible to oseltamivir, zanamivir, peramivir, and baloxavir, with only one exception.
+10. CDC predicts influenza activity will remain low, though co-circulation of respiratory viruses (e.g., SARS-CoV-2) continues to influence ILI trends.
+
+11. Summary of predictive insights: Influenza A (H3N2) predominance, co-circulating respiratory viruses, stable antiviral effectiveness, vaccination adherence, and ongoing PIC mortality trends may influence future flu patterns.

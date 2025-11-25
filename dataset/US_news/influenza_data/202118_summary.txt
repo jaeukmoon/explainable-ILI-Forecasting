@@ -1,0 +1,8 @@
+- The influenza virus is a global threat to human health, with recurring pandemics emerging over the past hundred years.
+- The World Health Organization (WHO) established a global influenza surveillance network in the 1950s, which monitors circulating influenza strains in humans and animal reservoirs.
+- The United States Centers for Disease Control and Prevention and the WHO have developed pandemic risk assessment tools to evaluate emerging influenza strains and determine research and funding priorities.
+- Influenza A and B viruses are responsible for annual epidemics, and influenza A viruses have caused four pandemics since 1918.
+- Aquatic avian species serve as the natural reservoir of influenza A viruses, which can adapt to infect other animals and transmit to humans through genetic reassortment.
+- The 2009 H1N1 pandemic demonstrated the unpredictability of influenza pandemics and the need for comprehensive frameworks to evaluate strains and assess public health risks.
+- The WHO and CDC have scoring systems to evaluate prepandemic influenza viruses based on virus properties, human population attributes, and virological markers.
+- Continuous evaluation and revision of risk assessment and pandemic preparedness plans, as well as incorporating new research and information, are essential.

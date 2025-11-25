@@ -1,0 +1,11 @@
+Week48, 2021
+1. Influenza activity is low but increasing, with 2.6% of respiratory specimens testing positive for influenza in clinical labs, led by Influenza A(H3N2).
+2. Influenza A accounted for 97.2% of positive specimens in clinical labs and 99.1% in public health labs, with most Influenza A(H3N2) cases occurring among ages 5-24 but increasing in adults 25+.
+3. 2.5% of outpatient visits were for influenza-like illness (ILI), reaching the national baseline, with regions 1, 2, 3, and 7 above their baselines; multiple respiratory viruses are co-circulating.
+4. No pediatric deaths due to influenza have been reported so far this season.
+5. The proportion of deaths attributed to pneumonia, influenza, or COVID-19 (PIC) was 17.5%, above the epidemic threshold, largely driven by COVID-19.
+6. A total of 841 hospitalizations due to confirmed influenza were reported this week.
+7. Flu vaccination uptake shows early signs of being lower compared to the previous season; CDC continues to recommend vaccination for those 6 months and older.
+8. Long-term care facilities reported a low rate (0.4%) of at least one positive influenza test among residents.
+9. The majority of Influenza A(H3N2) viruses were reported across all 10 HHS regions, with virologic testing continuing and characterization updates pending.
+10. ILI visits are trending upwards across all age groups, signaling potential increases in respiratory illness as flu activity begins to rise.

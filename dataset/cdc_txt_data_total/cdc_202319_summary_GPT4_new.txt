@@ -1,0 +1,13 @@
+Week19, 2023
+1. Influenza activity remains low nationally, with only 1.0% of respiratory specimens testing positive for influenza in clinical labs.
+2. Influenza B accounted for 63.4% of clinical lab positives and 55.6% of public health lab positives, with the Victoria lineage comprising all characterized B viruses.
+3. Outpatient visits for influenza-like illness (ILI) were stable at 1.9%, below the national baseline of 2.5%, with 9 of 10 HHS regions also below baselines.
+4. Cumulative hospitalization rate for the season was 62.6 per 100,000, with the highest rate among adults aged 65+ (186.7 per 100,000).
+5. Deaths from pneumonia, influenza, or COVID-19 (PIC) were stable at 6.8%, slightly above the epidemic threshold of 6.6%.
+6. Two pediatric influenza-associated deaths were reported this week, bringing the season total to 152.
+7. Vaccination relevance remains, as most circulating viruses are antigenically similar to strains in the current vaccine. CDC continues to recommend annual flu vaccination.
+8. 97.5% of public health lab samples this season were Influenza A, predominated by H3N2 (72.9%), followed by H1N1 (27.1%).
+9. Co-circulation of multiple respiratory viruses, including influenza, SARS-CoV-2, and RSV, complicates interpretation of ILI trends.
+10. Flu antiviral susceptibility is unchanged, with over 99.9% of viruses being susceptible to recommended treatments.
+
+11. Summary Insights: Overall, low influenza activity, widespread vaccination effectiveness, and stable ILI trends indicate minimal immediate concern, but the ongoing overlap of SARS-CoV-2 and RSV adds uncertainty to future prediction.

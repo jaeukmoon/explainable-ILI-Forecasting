@@ -1,0 +1,20 @@
+Week37, 2021
+- **Viruses, illness, and deaths:** Influenza activity remains low. One human infection with influenza A(H1N2)v was reported in Ohio, marking the third for 2021. Ten human infections with novel influenza A viruses (H1N2v, H3N2v, H1N1v) were noted throughout the 2020-2021 season. One pediatric death associated with influenza has been reported for the season. 21.1% of deaths were due to pneumonia, influenza, and/or COVID-19 (PIC), primarily driven by COVID-19.
+
+- **U.S. virologic surveillance:** Influenza virus circulation remains low. Testing results indicate limited influenza activity, with variant influenza A viruses like H1N2v cases being identified.
+
+- **Cumulative hospitalization rate:** No updates provided on hospitalization rates as FluSurv-NET surveillance ended for patients after April 30, 2021.
+
+- **Trends of deaths attributed to influenza:** Of 4,517 PIC deaths, COVID-19 was the primary cause in 3,704 cases, with one influenza-related death reported.
+
+- **Percentage of Influenza A and Influenza B:** Specific proportions of Influenza A and B were not provided; variant influenza A infections were emphasized.
+
+- **Novel influenza virus (like COVID-19):** Ten human infections with novel influenza A viruses were reported this season, with limited human-to-human transmission noted. Most cases involved individuals with swine exposure.
+
+- **Vaccination trends:** No vaccination updates were provided in this report.
+
+- **Outpatient respiratory illness visits:** Nationwide, 2.1% of outpatient visits were due to influenza-like illness (ILI), below the national baseline of 2.6%. Only Region 3 exceeded its local baseline. ILI activity appears stable or decreasing across all age groups, and increases are attributed to other respiratory viruses, not influenza.
+
+- **Expectation of flu activity from CDC:** Influenza activity remains low, with no signs of wide circulation. Variant influenza cases were closely monitored for public health purposes.
+
+- **Other key factors:** ILI activity levels are minimal in 41 jurisdictions and low in 10 jurisdictions. Moderate activity was noted in two states. The CDC emphasizes interpreting ILI data cautiously due to overlapping symptoms with other respiratory pathogens like SARS-CoV-2.

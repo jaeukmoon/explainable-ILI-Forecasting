@@ -1,0 +1,6 @@
+- A nanoparticle composite called TPNT1 has been found to be effective against SARS-CoV-2 and influenza viruses.
+- TPNT1 contains gold nanoparticles, silver nanoparticles, zinc oxide nanoparticles, and ClO2 (chlorine dioxide) in an aqueous solution.
+- In vitro cell-based assays have shown that TPNT1 can inhibit six major clades of SARS-CoV-2 and can block viral entry into host cells.
+- TPNT1 also reduces the cytopathic effects of human (H1N1) and avian (H5N1) influenza viruses, including both wild-type and oseltamivir-resistant strains.
+- TPNT1 has previously demonstrated efficacy as an antimicrobial agent and can provide prophylactic effects against both SARS-CoV-2 and opportunistic infections.
+- Metal nanoparticles, such as those in TPNT1, can interfere with viral attachment and entry into host cells and may also interact with viral genomes to exert antiviral activity.

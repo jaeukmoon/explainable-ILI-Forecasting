@@ -1,0 +1,20 @@
+Week30, 2024
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains low nationally. There were 188 influenza-associated pediatric deaths this season. A total of 25,000 flu-related deaths have been estimated nationally.
+
+- **U.S. virologic surveillance**: Influenza A viruses dominate, comprising 89.1% of clinical lab positives and 93.2% of public health lab positives. Subtypes H1N1pdm09 and H3N2 accounted for 66% and 34% of subtyped influenza A cases, respectively. Influenza B accounted for 10.9% of clinical lab positives and 6.8% of public health lab positives.
+
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate is 0.1/100,000 for Week 30, with a peak of 9.0/100,000 during Week 52 of this season. 84.5% of hospitalizations were due to influenza A.
+
+- **Trends of deaths attributed to influenza**: 0.03% of deaths this week were attributed to influenza, remaining stable from the prior week.
+
+- **Percentage of Influenza A and Influenza B**: Of cumulative specimens since Week 40, Influenza A represents 69.1%, and Influenza B 30.9% by clinical labs. Public health labs report 76.5% influenza A and 23.5% influenza B.
+
+- **Novel influenza virus (like COVID-19)**: No new human infections of novel influenza were reported this week. There were 16 novel influenza A cases this season, including 13 H5N1 cases and 3 H1N2v cases.
+
+- **Vaccination trends**: Vaccination effectiveness data were not included in this report, but current influenza vaccines are recommended for preventing flu illness.
+
+- **Outpatient respiratory illness visits**: 1.5% of outpatient visits were for respiratory illness, below the national baseline. No jurisdiction had moderate or high activity levels this week. Activity increased slightly in children aged 0-4 years.
+
+- **Expectation of flu activity from CDC**: Influenza activity remains low but shows co-circulation with other respiratory viruses like COVID-19 and RSV.
+
+- **Other key factors**: Influenza viruses remain largely antigenically similar to reference vaccine strains this season. Monitoring of antiviral resistance continues, with isolated cases of reduced susceptibility to oseltamivir, peramivir, and zanamivir.

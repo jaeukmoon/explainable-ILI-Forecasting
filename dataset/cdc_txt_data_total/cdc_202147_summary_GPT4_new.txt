@@ -1,0 +1,28 @@
+Week47, 2021
+1. Influenza activity remains low nationwide, but reports of positive influenza specimens and outpatient visits for respiratory illness have increased.
+
+2. Clinical laboratories reported 632 positive influenza specimens this week (1.5%), with 96.2% being Influenza A and 3.8% Influenza B.
+
+3. Public health laboratories found 330 Influenza A (99.4%) and 2 Influenza B (0.6%) viruses; most Influenza A cases were H3N2 (99.6%).
+
+4. Influenza A(H3N2) made up the majority of viruses detected, with over 80% of cases reported in those aged 5-24 years.
+
+5. Outpatient visits for influenza-like illness (ILI) accounted for 2.4% of visits, trending upward but remaining below the national baseline of 2.5%.
+
+6. Hospitalizations for influenza totaled 495 this week; full-season cumulative hospitalization rates are not yet available.
+
+7. Deaths attributed to pneumonia, influenza, and COVID-19 (PIC) accounted for 15.5% of deaths, above the epidemic threshold, mainly driven by COVID-19.
+
+8. No pediatric influenza-associated deaths have been reported this season.
+
+9. Vaccination efforts have distributed 166.9 million flu vaccine doses in the U.S., with CDC recommending flu vaccination for those 6 months and older.
+
+10. Multiple respiratory viruses are co-circulating, suggesting varying contributions to ILI across regions and age groups.
+
+11. Regional differences show some areas experiencing moderate to high ILI activity, with most jurisdictions reporting minimal or low activity.
+
+12. Data interpretation remains affected by healthcare-seeking changes due to the ongoing COVID-19 pandemic, complicating traditional surveillance methods.
+
+13. The CDC continues to recommend antiviral drugs as a treatment option and highlights future updates on virus characterization and hospitalization rates.
+
+14. Summary: Influenza activity remains low but is gradually increasing, led by Influenza A(H3N2), with most cases in younger age groups. Vaccination efforts are substantial, though impacts of co-circulating respiratory illnesses and healthcare-seeking behavior limit predictions of flu activity trends.

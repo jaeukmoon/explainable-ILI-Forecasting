@@ -1,0 +1,11 @@
+Week7, 2024
+- **Viruses, illness, and deaths**: Influenza activity remains elevated nationally, with influenza A(H1N1)pdm09 predominating. Nine pediatric deaths were reported this week, totaling 91 this season. An estimated 25 million illnesses, 280,000 hospitalizations, and 17,000 deaths have occurred this season.  
+- **U.S. virologic surveillance**: Clinical labs report 14.8% positivity for influenza overall, with 60.7% Influenza A and 39.3% Influenza B. Public health labs report 71.7% Influenza A and 28.3% Influenza B, with A(H1N1)pdm09 being the predominant subtype (51.3%). Influenza B activity is increasing in regions 3, 5, and 7.  
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate is 58.2 per 100,000, the third highest for this time of year since 2010. Adults aged 65+ have the highest rate (156.5 per 100,000).  
+- **Trends of deaths attributed to influenza**: 0.8% of deaths this week were attributed to influenza, an increase from the previous week.  
+- **Percentage of Influenza A and Influenza B**: Influenza A accounts for 75.7% cumulatively and 60.7% this week in clinical labs. Public health labs report similar ratios, with Influenza B at 24.3% cumulative and 28.3% this week.  
+- **Novel influenza virus (like COVID-19)**: No novel influenza viruses, such as COVID-19 or H3N2v, have been reported.  
+- **Vaccination trends**: CDC continues to recommend flu vaccination for everyone 6 months and older. Vaccination can still provide protection this season.  
+- **Outpatient respiratory illness visits**: 4.5% of outpatient visits were for ILI (above the national baseline). Respiratory illness activity is high or very high in 27 jurisdictions, moderate in 11, and minimal or low in 16.  
+- **Expectation of flu activity from CDC**: Flu activity remains elevated, with regional increases noted in regions 2, 3, and 7. CDC anticipates continued elevated activity in the coming weeks.  
+- **Other key factors**: Influenza A is more resistant to amantadine and rimantadine; co-circulation of respiratory viruses (e.g., RSV and SARS-CoV-2) may complicate trends. Most regions report ILI levels above their baselines despite slight stabilization in hospitalization and outpatient visit rates compared to earlier in the season.  

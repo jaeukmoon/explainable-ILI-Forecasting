@@ -1,0 +1,20 @@
+Week12, 2021
+- **Viruses, Illness, and Deaths**: Influenza activity in the U.S. remains unusually low for this time of year, with only 0.1% of respiratory specimens testing positive for influenza in clinical labs. No new influenza-associated pediatric deaths were reported (season total: 1). Mortality attributed to pneumonia, influenza, or COVID-19 (PIC) was 11.4%, primarily driven by COVID-19, exceeding the epidemic threshold of 7.0%.
+
+- **U.S. Virologic Surveillance**: Clinical labs report 45.0% of positive specimens as Influenza A and 55.0% as Influenza B. Public health labs detected only one Influenza A specimen (H3N2), with no reports of Influenza B specimens this week.
+
+- **Cumulative Hospitalization Rate**: The rate is 0.7 per 100,000 population, significantly lower than previous seasons, at one-seventh the comparable rate in the 2011-12 season.
+
+- **Trends of Deaths Attributed to Influenza**: PIC mortality remains elevated mainly due to COVID-19, with three influenza-related deaths recorded during week 12.
+
+- **Percentage of Influenza A and B**: Influenza A constitutes 45.0% of clinical lab positives (35.6% season cumulative), and Influenza B 55.0% (64.4% season cumulative).
+
+- **Novel Influenza Virus (like COVID-19)**: Surveillance shows no reports of novel influenza viruses such as SARS-CoV-2.
+
+- **Vaccination Trends**: No specific updates on vaccination coverage provided, but CDC continues to recommend annual flu vaccination as the best protective measure.
+
+- **Outpatient Respiratory Illness Visits**: National ILI activity has remained stable for three weeks at 0.9%, significantly below the baseline of 2.6%. All jurisdictions reported minimal ILI activity levels.
+
+- **Expectation of Flu Activity from CDC**: Influenza activity is expected to remain low but could increase in the coming months.
+
+- **Other Key Factors**: The ongoing COVID-19 pandemic continues to affect healthcare-seeking behavior and ILI trends, potentially impacting the interpretation of influenza surveillance.

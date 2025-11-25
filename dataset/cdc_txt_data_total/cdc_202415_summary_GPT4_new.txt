@@ -1,0 +1,11 @@
+Week15, 2024
+1. Seasonal influenza activity declined nationally, with 5.9% of respiratory specimens testing positive for influenza this week.
+2. Public health labs reported 210 positive cases, with 62.4% being Influenza A and 37.6% Influenza B; Influenza A subtypes included 47.3% (H1N1)pdm09 and 52.7% H3N2.
+3. Outpatient visits for influenza-like illness (ILI) were 2.5%, below the national baseline, with decreases reported in most regions.
+4. The cumulative hospitalization rate for influenza stands at 77.5 per 100,000, the second highest at this point in the season since 2010-2011, with hospital admissions notably decreasing since January.
+5. Four pediatric influenza-associated deaths were reported, bringing the season total to 142.
+6. Influenza vaccines continue to be recommended, with antiviral drugs advised for early treatment in high-risk groups.
+7. Mortality data show 0.4% of deaths attributed to influenza, a slight increase from the previous week.
+8. Influenza A(H1N1)pdm09 and A(H3N2), along with B viruses, are co-circulating and contribute to variable regional activity.
+9. Genetic and antigenic characterizations show most viruses are well-matched to the current season's vaccine components.
+10. Regional and population-specific variations, including higher hospitalization rates among older adults and certain racial/ethnic groups, remain critical for future ILI predictions.

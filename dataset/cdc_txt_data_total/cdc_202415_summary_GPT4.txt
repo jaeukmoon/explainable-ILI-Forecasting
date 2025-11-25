@@ -1,0 +1,20 @@
+Week15, 2024
+- **Viruses, illness, and deaths**: 5.9% of respiratory specimens tested positive for influenza, with Influenza A (54%) slightly more common than Influenza B (46%). Four new pediatric deaths were reported, totaling 142 pediatric deaths this season. Cumulative flu-associated deaths are estimated at 24,000.
+
+- **U.S. virologic surveillance**: Among public health lab specimens, 62.4% were Influenza A (47.3% A(H1N1)pdm09, 52.7% A(H3N2)) and 37.6% were Influenza B (entirely Victoria lineage). Influenza A viruses continue to dominate lab detections this season.
+
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate is 77.5 per 100,000, the second highest in-season rate for Week 15 since 2017-2018. Adults 65+ have the highest rate (211.7 per 100,000), with non-Hispanic Black individuals having the highest age-adjusted rates.
+
+- **Trends of deaths attributed to influenza**: 0.4% of deaths during Week 15 were attributed to influenza, a slight increase from Week 14.
+
+- **Percentage of Influenza A and B**: Influenza A accounts for 54% of clinical samples and 62.4% of public health lab detections. Influenza B represents 46% of clinical samples and 37.6% of public health lab detections.
+
+- **Novel influenza virus like COVID-19**: No novel influenza virus detections have been reported, though multiple respiratory viruses (including SARS-CoV-2 and RSV) are co-circulating.
+
+- **Vaccination trends**: CDC continues recommending flu vaccination for individuals aged 6 months and older. Vaccination is emphasized as still beneficial while influenza viruses are circulating.
+
+- **Outpatient respiratory illness visits**: 2.5% of outpatient visits were attributed to influenza-like illness (ILI)—a decrease from Week 14 and below the national baseline. Two jurisdictions reported high ILI activity, and three reported moderate activity.
+
+- **Expectation of flu activity from CDC**: National and regional influenza activity is declining, with all regions except Region 1 below baselines. CDC anticipates continued seasonal decline.
+
+- **Other key factors**: Weekly flu hospitalizations have steadily decreased since January. Regional influenza positivity rates remain substantially varied, ranging from 13.4% (Region 7) to 8.3% (Region 1). Co-circulation of Influenza A subtypes, B strains, and other respiratory viruses highlights the ongoing viral variability.

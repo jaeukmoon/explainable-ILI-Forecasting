@@ -1,0 +1,11 @@
+Week35, 2022
+1. Influenza activity remains low; 0.6% of tested specimens were positive in clinical labs.
+2. Of positive clinical specimens, 92.3% were Influenza A and 7.7% Influenza B.
+3. Public health labs reported 18 positive specimens, with 83.3% being Influenza A and 16.7% Influenza B.
+4. Influenza A subtyping revealed 50% each for (H1N1)pdm09 and H3N2; no novel subtypes like H3N2v were identified.
+5. Outpatient visits for ILI accounted for 1.9% of visits nationally, below the baseline, with children aged 0-4 years having the highest rates at 7.2%.
+6. Hospital admissions for influenza included 509 patients during week 35.
+7. No new influenza-associated pediatric deaths were reported, with a total of 34 for the season.
+8. Pneumonia, influenza, and COVID-19 deaths (PIC) accounted for 9.6%, above the epidemic threshold; most were attributed to COVID-19.
+9. 28 long-term care facilities (0.2%) reported at least one influenza-positive resident.
+10. Flu activity predictions remain uncertain, with co-circulation of respiratory viruses and evolving healthcare use patterns.

@@ -1,0 +1,20 @@
+Week24, 2021
+- **Viruses, illness, and deaths:** Influenza activity remains low in the U.S. during week 24. 7.1% of deaths were attributed to pneumonia, influenza, and/or COVID-19 (PIC), above the epidemic threshold of 5.9%. PIC mortality was primarily driven by COVID-19, with only 2 deaths listing influenza as a cause.
+
+- **U.S. virologic surveillance:** No detailed breakdown of circulating influenza virus subtypes or lineages was reported for this week.
+
+- **Cumulative hospitalization rate:** Influenza-associated hospitalization data for this week are unavailable, as hospitalization reporting for the season ended on April 30, 2021.
+
+- **Trends of deaths attributed to influenza:** Influenza was listed as a factor in only 2 deaths. Deaths due to pneumonia and influenza alone remain low and are overshadowed by COVID-19-related deaths within the PIC category.
+
+- **Percentage of Influenza A and Influenza B:** No specific data on the proportions of Influenza A and B were reported this week.
+
+- **Novel influenza virus (like COVID-19):** COVID-19 continues to dominate respiratory illness data, with no reports of novel influenza viruses.
+
+- **Vaccination trends:** No updates on influenza vaccination trends were provided in this report.
+
+- **Outpatient respiratory illness visits:** 1.2% of outpatient visits nationwide were due to influenza-like illness (ILI), which remains below the national baseline of 2.6%. ILI visits increased in children aged 0–4 years but were stable for all other age groups.
+
+- **Expectation of flu activity from CDC:** Influenza activity is expected to remain low while PIC mortality trends are mainly influenced by COVID-19.
+
+- **Other key factors:** All U.S. jurisdictions except two reported minimal ILI activity. This context, alongside low influenza-related deaths and hospitalization data, suggests a continued minimal influenza burden overall. COVID-19's substantial contribution to PIC remains the dominant trend.

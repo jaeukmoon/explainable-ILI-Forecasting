@@ -1,0 +1,20 @@
+Week13, 2024
+- **Viruses, illness, and deaths:** Influenza activity remains elevated but is decreasing nationally. Of viruses reported, 61.1% were Influenza A and 38.9% Influenza B. Influenza A subtypes evenly split between H1N1 and H3N2. Seven pediatric deaths were reported this week, totaling 133 for the season. Overall, 22,000 deaths and 360,000 hospitalizations have occurred this season, with 0.5% of deaths attributed to influenza in Week 13.
+
+- **U.S. virologic surveillance:** Clinical labs reported 9.1% positivity for influenza, lower than previous weeks. Influenza A constitutes 49.0% and Influenza B 51.0% of clinical lab specimens. Public health labs show 61.1% Influenza A and 38.9% Influenza B, with subtyped Influenza A viruses split evenly between H1N1 (50%) and H3N2 (50%).
+
+- **Cumulative hospitalization rate:** FluSurv-NET reports a cumulative hospitalization rate of 74.2 per 100,000, the second highest for Week 13 since 2010-11, with the highest rates in adults 65+ years (202.6/100,000).
+
+- **Trends of deaths attributed to influenza:** Influenza-attributed deaths remained stable at 0.5% of total deaths.
+
+- **Percentage of Influenza A and B:** Influenza A accounted for 49%-61% of specimens overall, while Influenza B represented 39%-51%.
+
+- **Novel influenza virus:** A human infection with highly pathogenic avian influenza (HPAI) A(H5N1) was reported in Texas. No human-to-human transmission linked to this case has been identified.
+
+- **Vaccination trends:** CDC continues to recommend vaccination for everyone aged six months and older, as influenza viruses remain active. Vaccination is still beneficial this season.
+
+- **Outpatient respiratory illness visits:** 3.0% of outpatient visits were for respiratory illnesses, above the national baseline. High ILI activity was seen in six jurisdictions, with five reporting moderate activity and 21 jurisdictions at low levels.
+
+- **Expectation of flu activity from CDC:** Influenza activity is decreasing nationally but remains elevated. Weekly hospitalizations and outpatient respiratory illness were declining.
+
+- **Other key factors:** Multiple respiratory viruses (including RSV and COVID-19) co-circulate with influenza. Resistance to oseltamivir and peramivir was detected in a small proportion of influenza A viruses. Cases largely impacting individuals with underlying conditions; older adults, children aged 0-4, and non-Hispanic Blacks have the highest hospitalization rates. Regional trends show variability, with six regions below their baselines and four at or above baselines.

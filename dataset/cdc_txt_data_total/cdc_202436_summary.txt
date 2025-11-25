@@ -1,0 +1,33 @@
+According to the latest FluView report, seasonal influenza activity remains low in the United States.
+
+In the clinical lab, 3.1% of respiratory specimens tested positive for influenza, which is similar to the previous week.
+
+Influenza A viruses, including H3N2 and H1N1pdm09, dominated in the public health lab.
+
+ILI activity remains below the national baseline, but it slightly increased from the previous week, with 1.4% of visits to healthcare providers being for ILI.
+
+Most jurisdictions experienced minimal ILI activity, but Louisiana had moderate ILI activity.
+
+Only four out of 53 jurisdictions reported local flu activity, while the rest reported sporadic or no flu activity.
+
+The hospitalization rates and P&I mortality are below their respective threshold levels.
+
+No influenza-associated pediatric deaths have been reported for the current season so far.
+
+CDC expects flu activity to remain low but increase in the coming weeks.
+
+The CDC recommends everyone 6 months or older to get a flu vaccine by the end of October.
+
+Flu antiviral drugs are also available for treatment.
+
+Virologic surveillance monitors the percentage of positive specimens and the distribution of virus types and subtypes.
+
+Outpatient ILI surveillance tracks the percentage of visits for respiratory illness and compares it to national baselines.
+
+Geographic activity varies, with some areas experiencing minimal ILI activity and others experiencing moderate activity.
+
+Severe disease indicators, such as hospitalization rates and mortality rates, are below the epidemic threshold.
+
+Virus characterization provides information on genetic and antigenic properties and antiviral susceptibility.
+
+These factors combined enable a robust approach to predict and respond to future ILI occurrences.

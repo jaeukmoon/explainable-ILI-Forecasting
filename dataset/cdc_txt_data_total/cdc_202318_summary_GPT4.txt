@@ -1,0 +1,20 @@
+Week18, 2023
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains low nationally. Influenza B predominates this week (51.4%, public health labs) over Influenza A (48.6%). Cumulative pediatric flu deaths for 2022-2023 total 150. Cumulative flu estimates include 27 million illnesses, 290,000 hospitalizations, and 19,000 deaths.
+
+- **U.S. virologic surveillance**: Influenza A comprised 40.8% of clinical lab positives and 48.6% of public health lab positives; Influenza B accounted for 59.2% and 51.4%, respectively. Subtyping shows Influenza A H1N1 (75%) is more common than H3N2 (25%) this week.
+
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate is 62.6 per 100,000, with the highest rates among adults aged 65+ (186.5 per 100,000).
+
+- **Trends of deaths attributed to influenza**: 6.9% of deaths this week were attributed to pneumonia, influenza, or COVID-19 (above the epidemic threshold of 6.7%). Eleven deaths reported this week were influenza-related.
+
+- **Percentage of Influenza A and Influenza B**: Influenza B surpassed Influenza A in public health labs (51.4% vs. 48.6%, respectively). Cumulatively, Influenza A (H3N2) remains dominant (73% of subtyped Influenza A).
+
+- **Novel influenza virus (like COVID-19)**: No novel influenza viruses, including those similar to SARS-CoV-2, were reported this week.
+
+- **Vaccination trends**: Influenza vaccines this season remain effective, with the majority of tested viruses antigenically similar to vaccine strains. CDC continues to recommend annual vaccination for those aged 6 months and older.
+
+- **Outpatient respiratory illness visits**: 2.0% of outpatient visits nationally were for influenza-like illness (ILI), below the baseline of 2.5%. Region 9 is above its baseline. High ILI activity was reported in 1 jurisdiction, while another reported moderate activity.
+
+- **Expectation of flu activity from CDC**: Flu activity is expected to remain low as the season progresses.
+
+- **Other key factors**: Hospitalizations from flu totaled 920 this week and remain stable. Long-term care facilities reporting flu-positive tests dropped to 0.3%. Most influenza viruses remain susceptible to antiviral medications. Regions with higher respiratory virus activity include those seeing co-circulation of SARS-CoV-2, RSV, and influenza.

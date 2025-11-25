@@ -1,0 +1,13 @@
+Week5, 2023
+1. Influenza activity remains low nationwide; 1.7% of clinical specimens tested positive, with 90.2% influenza A and 9.8% influenza B.
+2. Public health labs confirmed 94.8% influenza A (54.2% A(H3N2) and 45.8% A(H1N1pdm09)) and 5.2% influenza B (100% Victoria lineage).
+3. The cumulative hospitalization rate is 59.2 per 100,000, with the highest rate among adults 65+ years, particularly those 85+.
+4. Deaths due to pneumonia, influenza, or COVID-19 (PIC) account for 10.4%, above the epidemic threshold, though the influenza-related proportion is decreasing.
+5. Nine pediatric deaths were reported this week, bringing the total for the season to 106.
+6. Vaccination remains in alignment with circulating strains; 98.8% of A(H1N1) and 93.7% of A(H3N2) viruses were well-matched to the vaccine.
+7. Visits for influenza-like illness (ILI) accounted for 2.6%, above the 2.5% national baseline; respiratory illness activity varied across jurisdictions.
+8. SARS-CoV-2 was detected in 3.5% of flu hospitalizations, indicating simultaneous tracking of multiple viruses.
+9. Antiviral susceptibility remains strong, except for one A(H1N1)pdm09 virus resistant to oseltamivir (0.1%).
+10. The CDC anticipates continued circulation of multiple respiratory viruses as flu activity progresses.
+
+11. Summary of key factors: Influenza activity is stable but low nationwide. Influenza A dominates and overlaps with SARS-CoV-2 infections in hospitalized patients. Vaccination matches well with circulating strains, and antiviral medications remain effective. Continued surveillance is essential for anticipating virus behaviors and future spread.

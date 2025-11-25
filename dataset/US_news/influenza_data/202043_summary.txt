@@ -1,0 +1,4 @@
+- Patients hospitalized with COVID-19 have a higher risk of in-hospital complications compared to patients hospitalized with influenza.
+- Hospitalized COVID-19 patients have a more than five times higher risk of in-hospital death and increased risk for 17 respiratory and nonrespiratory complications compared to hospitalized influenza patients.
+- COVID-19 is associated with increased risk for most respiratory and nonrespiratory complications compared to influenza.
+- Certain racial and ethnic minority groups, such as non-Hispanic Black or African American and Hispanic patients, have higher risks for sepsis and respiratory, neurologic, and renal complications of COVID-19 compared to non-Hispanic White patients.

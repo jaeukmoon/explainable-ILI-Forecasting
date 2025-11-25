@@ -1,0 +1,9 @@
+- Influenza virus poses a human health threat with pandemic potential.
+- Formulating effective vaccines against influenza is challenging due to mutations in circulating strains.
+- The use of computationally optimized broadly reactive antigen (COBRA) hemagglutinin (HA) proteins is a promising vaccine strategy.
+- The COBRA HA proteins have shown effectiveness in preclinical studies.
+- The mechanistic basis driving the broad reactivity of COBRA proteins is still being investigated.
+- The crystal structure of the COBRA HA called P1 has been determined.
+- The structure revealed antigenic and glycosylation properties that contribute to its immunogenicity.
+- The cryo-EM structure of the P1-elicited broadly neutralizing antibody 1F8 bound to COBRA P1 has also been determined.
+- 1F8 recognizes an atypical receptor binding site epitope via an unexpected mode of binding.

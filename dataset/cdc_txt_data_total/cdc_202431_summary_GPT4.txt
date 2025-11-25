@@ -1,0 +1,12 @@
+Week31, 2024
+- **Viruses, illness, and deaths**: 0.6% of clinical specimens tested positive for influenza. Co-circulation of Influenza A (H1N1)pdm09, A(H3N2), and B/Victoria was observed. The percentage of deaths attributed to influenza was 0.03%. No pediatric deaths were reported this week.  
+- **U.S. virologic surveillance**: 84.3% of clinical lab positives were Influenza A, and 15.7% were Influenza B. Public health labs identified 98% of positive specimens as Influenza A (42.2% H1N1, 57.8% H3N2). Influenza B (Victoria lineage) made up 2.0%.  
+- **Cumulative hospitalization rate**: The hospitalization rate was 0.0 per 100,000 for Week 31. Seasonal cumulative hospitalizations were 25,317 since October 2023, with 84.6% associated with Influenza A and 14.7% with Influenza B.  
+- **Trends of deaths attributed to influenza**: Influenza-related mortality remained stable (<0.1% change) from the previous week.  
+- **Percentage of Influenza A and B**: From clinical labs, Influenza A comprised 84.3% of positives, and Influenza B comprised 15.7%.  
+- **Novel influenza virus**: One case of A(H3N2)v was reported in Colorado, linked to agricultural exposure. Additionally, 17 cumulative human infections with novel influenza viruses (H5 and variant viruses) were reported this season.  
+- **Vaccination trends**: No new vaccination updates were provided. CDC continues to emphasize vaccination and early antiviral treatment for high-risk patients.  
+- **Outpatient respiratory illness visits**: 1.5% of outpatient visits nationwide were for respiratory illness, below the national baseline. All jurisdictions reported minimal ILI activity. Rates were stable across all age groups except for a decrease in the 0-4 years group.  
+- **Expectation of flu activity from CDC**: Flu activity remains low nationally, but circulation of multiple viruses (influenza, RSV, and COVID-19) contributes to respiratory illnesses.  
+- **Other key factors**: No jurisdictions reported moderate or high ILI activity. An ongoing H5N1 outbreak in poultry and cattle is under observation, with no human transmissions detected for Week 31.  
+

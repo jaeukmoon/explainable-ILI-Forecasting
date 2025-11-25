@@ -1,0 +1,13 @@
+Week8, 2023
+1. Nationwide influenza activity remains low, with 1.0% of respiratory specimens testing positive this week.
+2. Of the 682 positive clinical lab specimens, 78.9% were Influenza A and 21.1% Influenza B.
+3. Public health labs reported 73 positive specimens; 91.8% were Influenza A, with 63.3% A(H3N2) and 36.7% A(H1N1); 8.2% were Influenza B (all Victoria lineage).
+4. Cumulative hospitalization rate was 59.9 per 100,000, with the highest rates among those aged 65+ (especially 85+) and children aged 0-4.
+5. Weekly influenza hospitalizations decreased to 1,520 from 1,817 the previous week.
+6. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) were 9.2%, above the epidemic threshold, stable compared to last week, with influenza-related deaths primarily associated with COVID-19.
+7. Outpatient visits for influenza-like illness (ILI) accounted for 2.6%, above the national baseline, with mild variability by region and age group.
+8. The CDC reported two pediatric flu deaths this week, totaling 117 for the season; both were associated with Influenza A.
+9. Current flu vaccine components are antigenically similar to circulating viruses, and over 99.9% of influenza strains remain susceptible to antiviral drugs.
+10. Moderate flu activity in one jurisdiction, high in five others; long-term care facilities reporting flu cases dropped >5% from last week.
+
+11. Summary of key factors for prediction: National influenza remains low, dominated by Influenza A(H3N2); vaccination matches circulating strains, and age-related hospitalization trends highlight vulnerable subpopulations. PIC mortality dynamics remain linked to COVID-19, while respiratory illness visits exceed the baseline but remain stable, with regional variations suggesting localized risks.

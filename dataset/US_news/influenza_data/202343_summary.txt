@@ -1,0 +1,6 @@
+- WHO has released new infodemic management tools to support pandemic planning and preparedness for pandemic influenza and respiratory pathogen disease events.
+- A new public health taxonomy for social listening on respiratory pathogens has been developed, allowing analysts to align data to a search strategy and understand how the public conversation is changing.
+- The taxonomy covers viral, bacterial, and fungal pathogens across five topic areas: cause, illness, intervention, treatments, and information.
+- The taxonomy has been integrated into the WHO Early AI-Powered Social Listening Tool (EARS) platform, which categorizes content from online sources and provides real-time insights into public conversation, concerns, and misinformation.
+- The platform has been piloted with 30 countries and 17 languages, and provides a public-facing dashboard as well as an advanced back-end for regional and country WHO teams.
+- This tool demonstrates the ability of the EARS platform to support social listening in different areas of pandemic and infodemic preparedness, and ongoing testing and iterations will ensure its relevance and usefulness.

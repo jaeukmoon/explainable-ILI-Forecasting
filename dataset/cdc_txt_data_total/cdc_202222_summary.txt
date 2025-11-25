@@ -1,0 +1,9 @@
+First, virologic surveillance data shows that seasonal influenza viruses continue to circulate, with an increasing activity in some parts of the country. The majority of detected viruses are influenza A(H3N2). Genetic and antigenic characterization of influenza viruses is ongoing to monitor their similarity to vaccine reference viruses and assess susceptibility to antiviral medications.
+
+Outpatient respiratory illness surveillance indicates that 2.3% of patient visits reported through the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet) were due to respiratory illness, which decreased slightly over the past three weeks. The relative contribution of influenza to respiratory illness varies by location, with co-circulation of other respiratory viruses.
+
+Hospitalization surveillance data from FluSurv-NET and HHS Protect show that there have been a total of 4,898 laboratory-confirmed influenza-associated hospitalizations for the current season. The overall cumulative hospitalization rate is 16.7 per 100,000 population. Rates are highest among adults aged 65 and older and among certain racial/ethnic groups.
+
+The National Center for Health Statistics (NCHS) mortality surveillance data is temporarily paused due to a system-wide upgrade. Three influenza-associated pediatric deaths were reported during the reported week, bringing the total for the season to 28.
+
+Overall, it is important to note that all data presented are preliminary and may change as more reports are received. The CDC recommends annual influenza vaccination as the best way to protect against influenza, and there are antiviral drugs available for treatment. Monitoring multiple surveillance components provides a comprehensive understanding of influenza activity and helps inform public health recommendations and interventions.

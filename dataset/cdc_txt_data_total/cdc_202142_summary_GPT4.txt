@@ -1,0 +1,21 @@
+Week42, 2021
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains low. 16.5% of deaths attributed to pneumonia, influenza, or COVID-19 surpassed the epidemic threshold (5.9%), primarily due to COVID-19. No pediatric influenza-associated deaths were reported for the 2021-2022 season.  
+
+- **U.S. virologic surveillance**: Clinical labs reported 0.1% of respiratory specimens tested positive for influenza (38.5% Influenza A, 61.5% Influenza B). Public health labs reported 87.5% of positive specimens were Influenza A (84.6% H3N2, 7.7% H3N2v), and 12.5% Influenza B (no lineage dominant).  
+
+- **Cumulative hospitalization rate**: 288 patients were admitted to hospitals with laboratory-confirmed influenza, with rates for FluSurv-NET not yet available.  
+
+- **Trends of deaths attributed to influenza**: Influenza was identified in 4 deaths, with most pneumonia, influenza, and COVID-19 combined (PIC) deaths attributed to COVID-19.  
+
+- **Percentage of Influenza A and Influenza B**: Influenza A constitutes 47.0% cumulative clinical lab positives and 56.4% public health lab positives. Influenza B accounts for 53.0% and 43.6%, respectively.  
+
+- **Novel influenza virus (like COVID-19)**: One H3N2v case has been identified cumulatively; no other novel influenza viruses were reported.  
+
+- **Vaccination trends**: CDC recommends all individuals aged 6 months and older receive annual flu vaccinations to prevent serious complications.  
+
+- **Outpatient respiratory illness visits**: ILINet reports 1.8% of outpatient visits were for influenza-like illness (ILI), below the 2.5% national baseline, with stable trends in ILI percentages across all age groups.  
+
+- **Expectation of flu activity from CDC**: Influenza virus circulation is low, with ILI increases attributed to other respiratory viruses.  
+
+- **Other key factors**: 0.2% of long-term care facilities reported at least one influenza-positive test. ILI activity was minimal in 50 jurisdictions and low in 3, suggesting minor local transmission.  
+

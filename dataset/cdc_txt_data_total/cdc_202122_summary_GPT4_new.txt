@@ -1,0 +1,11 @@
+Week22, 2021
+1. Influenza activity remains minimal nationwide, with 1.2% of patient visits for influenza-like illness (ILI), below the national baseline of 2.6%.
+2. Clinical lab data showed minimal influenza detection, while public health labs reported two influenza cases (one Influenza A, one Influenza B).
+3. Pneumonia, influenza, or COVID-19 (PIC) accounted for 7.5% of deaths, surpassing the epidemic threshold of 6.1%, largely attributed to COVID-19.
+4. No pediatric influenza-associated deaths were reported this week; one has been reported for the entire 2020-21 season.
+5. ILI visits increased slightly in ages 0–4 years but remained stable across all other age groups compared to the previous week.
+6. Vaccination data and trends were not highlighted in the report, but CDC continues to recommend annual influenza vaccination.
+7. Healthcare-seeking patterns and ILI surveillance remain potentially disrupted due to COVID-19-related behavior changes, with alternative care systems affecting data accuracy.
+8. The CDC notes an emphasis on syndromic surveillance combining ILI and COVID-19 data to monitor respiratory illness trends.
+9. Geographic spread data collection was suspended for the 2020-21 season, limiting spatial analysis of influenza activity.
+10. Future influenza activity remains uncertain, influenced by COVID-19 transmission, healthcare access changes, and low reported influenza levels.

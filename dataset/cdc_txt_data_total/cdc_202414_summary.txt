@@ -1,0 +1,21 @@
+During Week 14 ending on April 6, 2024, the key facts regarding predicting future ILI occurrence are as follows:
+
+1. Virologic surveillance: The percentage of respiratory specimens testing positive for influenza in clinical laboratories decreased compared to the previous week. Influenza A(H1N1)pdm09, A(H3N2), and B viruses were all co-circulating.
+
+2. Outpatient respiratory illness surveillance: 2.8% of patient visits reported through ILINet were due to respiratory illness (ILI), which is below the national baseline. Some regions experienced moderate or high ILI activity.
+
+3. Geographic spread: The reported influenza activity varied by jurisdiction, with some states experiencing local influenza activity, while others reported sporadic activity or no activity.
+
+4. Severe disease indicators: The number of influenza-related hospitalizations decreased compared to the previous week. The percentage of deaths attributed to pneumonia and influenza (P&I) remained stable and below the epidemic threshold. Five influenza-associated pediatric deaths were reported during Week 14, bringing the season total to 138.
+
+5. Influenza virus characterization: The genetic and antigenic characteristics of circulating influenza viruses are monitored. Influenza A(H1N1)pdm09, A(H3N2), and B/Victoria viruses were well-recognized by ferret antisera, indicating a good match with the reference viruses used for developing vaccines.
+
+6. Antiviral susceptibility: Most influenza viruses tested were susceptible to neuraminidase inhibitors like oseltamivir, zanamivir, and peramivir. Some variations in susceptibility were observed, but resistance to adamantanes (amantadine and rimantadine) persisted among influenza A viruses.
+
+7. Influenza vaccine and antiviral treatment: CDC recommends annual flu vaccination for everyone aged 6 months and older. Antiviral drugs are available for treatment and should be initiated early, especially in high-risk patients.
+
+8. Influenza activity and COVID-19: Integrated information about COVID-19, flu, and respiratory syncytial virus (RSV) activity is provided on a weekly basis.
+
+These surveillance systems and data provide valuable insights into the current state of influenza activity and help predict future occurrences. 
+
+(Note: This summary is based on the provided example from Week 40, 2019, and may not reflect the most recent information.)

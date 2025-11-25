@@ -1,0 +1,11 @@
+Week37, 2024
+1. Seasonal influenza activity remains low nationally, with 0.4% of clinical lab specimens testing positive, and Influenza A accounting for 85.7% of positive results while Influenza B contributed 14.3%.
+2. Public health labs noted 55 positive specimens, predominantly Influenza A (96.4%), with subtypes H1N1 (61.7%) and H3N2 (38.3%) dominating; all Influenza B positives (3.6%) were Victoria lineage.
+3. Outpatient respiratory illness visits were at 1.8%, below the national baseline, with increases among ages 0–24 years but stable across other groups.
+4. There were no new influenza-associated hospitalizations reported this week (0.0 per 100,000), and cumulative hospitalizations remain largely Influenza A-related (84.6%).
+5. Influenza-attributed deaths accounted for 0.06% of total deaths, and one pediatric death associated with Influenza A(H3) was reported, bringing the season total to 195.
+6. No new human cases of novel Influenza A viruses were detected this week, although ongoing H5N1 monitoring continues due to animal outbreaks and occupational exposures.
+7. Nationwide, there is continued co-circulation of respiratory viruses, including influenza, RSV, and SARS-CoV-2.
+8. Vaccinations continue to be recommended, with no detailed vaccination coverage data reported in this summary.
+9. Antiviral resistance remains rare; high levels of resistance to adamantanes persist, making them ineffective against Influenza A.
+10. CDC reports predictably low flu activity trends across all regions, with minimal ILI activity in most jurisdictions.

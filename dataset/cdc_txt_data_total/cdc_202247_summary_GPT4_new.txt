@@ -1,0 +1,13 @@
+Week47, 2022
+1. Influenza activity is increasing in most regions, with a notable rise in the South Central, Southeast, Mountain, and West Coast regions.
+2. Of the 379 positive specimens reported by public health labs, 82.1% were Influenza A and 17.9% Influenza B. Most Influenza A viruses were A(H1N1) (82.2%), followed by A(H3N2) (17.8%).
+3. Outpatient visits for influenza-like illness (ILI) accounted for 3.9% of visits, remaining above the national baseline (2.9%) for the fourth consecutive week.
+4. Influenza-associated hospitalization rates increased, reaching a cumulative rate of 3.7 per 100,000—a high for this point in the season compared to previous years since 2010, except for the 2022-23 season.
+5. Five pediatric influenza-associated deaths were reported this week, totaling 8 deaths so far this season.
+6. Clinical labs reported 75.1% of positive specimens as Influenza A and 24.9% as Influenza B, while public health labs detected a greater proportion of Influenza B (38%) in Regions 4 and 6.
+7. Vaccination efforts continue, with CDC urging individuals aged six months and older to get vaccinated, as vaccines remain widely available.
+8. Mortality surveillance showed 0.1% of deaths attributed to influenza, trending slightly upward since early October but stable compared to the previous week.
+9. No significant antiviral resistance has been detected among circulating influenza viruses tested to date, ensuring the continued effectiveness of available treatment options.
+10. Multiple respiratory viruses, including COVID-19 and RSV, are co-circulating, complicating the attribution of respiratory illness trends to influenza alone.
+
+11. Summary indicates rising flu activity, elevated hospitalization and outpatient trends, and emphasizes vaccination and early antiviral treatment to mitigate impact.

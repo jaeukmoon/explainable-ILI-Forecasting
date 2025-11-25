@@ -1,0 +1,5 @@
+- Memory CD8 T cells induced by influenza virus and cytomegalovirus (CMV) can control respiratory vaccinia virus infection.
+- Different subsets of memory CD8 T cells have unique characteristics in terms of phenotype, localization, and maintenance.
+- The induction of tissue resident memory T cells by influenza virus and effector-like memory cells by CMV does not result in different capacities to control respiratory vaccinia virus infection.
+- Influenza-induced memory CD8 T cells respond to antigen through local proliferation, while CMV-induced memory CD8 T cells relocate from the vasculature into the tissue in an antigen-independent and partially chemokine-driven manner.
+- These findings have implications for the development of vaccines targeting protective memory CD8 T cell pools in mucosal sites.

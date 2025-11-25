@@ -1,0 +1,11 @@
+1. The past time-series ILI occurrences over the 5 weeks showed a fluctuating trend with a gradual increase toward the end. Values were ['1819' (Week 40, 2020), '1566' (Week 41, 2020), '1554' (Week 42, 2020), '1544' (Week 43, 2020), and '1705' (Week 44, 2020)]. After a decrease from Week 40 to Week 43, a notable rise occurred in Week 44, suggesting a resurgence in ILI activity at the conclusion of the observed period.
+
+2. A positive correlation between past and future ILI occurrences is indicated, as the initial decline in the time-series slope (Weeks 40–43, 2020) transitions to an increase in Week 44, setting the stage for the observed uptick to 1822 future occurrences (Week 49, 2020). The late increase in Week 44 suggests that rising activity contributed to the elevated future value.
+
+3. Outpatient visits for ILI increased from 1.1% (Week 40, 2020) to 1.3% (Week 44, 2020), indicating a stepwise growth in ILI-related healthcare interactions, which is consistent with a corresponding rise to future ILI occurrences at Week 49, 2020.  
+
+4. Mortality associated with pneumonia, influenza, or COVID-19 (PIC) consistently exceeded epidemic thresholds, rising from 7.0% (Week 40, 2020) to 8.1% (Week 44, 2020). This trend points to sustained respiratory illness activity, contributing to increased ILI reporting and reflecting broader public health pressures influencing future occurrences.
+
+5. Pandemic-related disruptions in healthcare-seeking behaviors and influenza surveillance, consistently highlighted across all weeks, likely contributed to delayed or concentrated reporting of ILI cases. These shifts, paired with simultaneous tracking of COVID-19, may have amplified future ILI numbers.
+
+6. In summary, the increase to 1822 future ILI occurrences (Week 49, 2020) is attributed to the resurgence in Weekly ILI numbers by Week 44, rising percentages of outpatient ILI visits, persistent mortality above epidemic thresholds, and pandemic-induced changes in healthcare and surveillance patterns that collectively amplified respiratory illness reporting.

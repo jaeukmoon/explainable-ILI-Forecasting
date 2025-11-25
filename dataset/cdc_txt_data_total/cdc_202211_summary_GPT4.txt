@@ -1,0 +1,20 @@
+Week11, 2022
+- **Viruses, illness, and deaths:** Influenza activity is increasing across the U.S., with 7.7% of respiratory specimens testing positive for influenza. Influenza A(H3N2) predominates this season. The cumulative flu burden includes 3.1 million illnesses, 31,000 hospitalizations, and 1,800 deaths, with 13 pediatric deaths reported this season.
+
+- **U.S. virologic surveillance:** Of positive specimens tested by clinical labs, 99.1% are Influenza A and 0.9% Influenza B. Public health labs confirm 100% of positive specimens this week as Influenza A, with 99.9% being H3N2. A subset of Influenza A (H3N2) viruses shows antigenic differences from vaccine reference viruses.
+
+- **Cumulative hospitalization rate:** Cumulative hospitalization rate is 6.5 per 100,000, higher than during the entire 2020-2021 season but lower than pre-pandemic years. Most hospitalizations are among those aged 65+ years.
+
+- **Trends of deaths attributed to influenza:** 9.1% of deaths were attributed to pneumonia, influenza, or COVID-19, above the epidemic threshold of 7.1%. COVID-19 remains the primary contributor.
+
+- **Percentage of Influenza A and Influenza B:** Clinical labs report 99.1% of positive specimens as Influenza A and 0.9% as Influenza B. Public health labs report 100% Influenza A.
+
+- **Novel influenza virus (like COVID-19):** 5.5% of influenza-positive specimens also tested positive for SARS-CoV-2. One Influenza A(H3N2) virus showed reduced susceptibility to baloxavir.
+
+- **Vaccination trends:** CDC continues to recommend flu vaccination for everyone aged 6 months and older. Vaccination is highlighted as the best preventive measure.
+
+- **Outpatient respiratory illness visits:** 1.8% of outpatient visits were for respiratory illness, below the national baseline. Respiratory illness visits increased among children aged 0–4 and 5–24 years. Region 7 is above its baseline, while others remain below.
+
+- **Expectation of flu activity from CDC:** Flu activity is expected to increase in coming weeks, particularly in central and south-central U.S. regions.
+
+- **Other key factors:** Hospital admissions for influenza have risen for seven consecutive weeks. Respiratory viruses, including RSV and SARS-CoV-2, are co-circulating and contributing to illness trends. Data from nine hospitalizations show the majority with underlying conditions such as hypertension.

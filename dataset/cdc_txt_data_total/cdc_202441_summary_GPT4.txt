@@ -1,0 +1,20 @@
+Week41, 2024
+- **Viruses, Illness, and Deaths:** Seasonal influenza activity remains low nationally. 100% of public health lab positive specimens were Influenza A, with 48.3% A(H1N1)pdm09 and 51.7% A(H3N2) among subtyped samples. Seven human cases of influenza A(H5) associated with ongoing outbreaks in dairy cows were reported in California. No pediatric influenza-associated deaths for the 2024-2025 season have been reported.  
+
+- **U.S. Virologic Surveillance:** 0.8% of respiratory specimens tested in clinical labs were positive for influenza, including 90% Influenza A and 10% Influenza B. Public health labs confirmed 38 Influenza A positives this week, 76.3% subtyped, with A(H3N2) slightly predominating over A(H1N1)pdm09. Seven (A/H5) cases were detected during outbreak-related monitoring.
+
+- **Cumulative Hospitalization Rate:** The weekly hospitalization rate is 0.1 per 100,000. A total of 46 influenza-associated hospitalizations were reported between October 1-12, 2024.
+
+- **Trends of Deaths Attributed to Influenza:** 0.04% of deaths reported during Week 41 were due to influenza, stable compared to the previous week.
+
+- **Percentage of Influenza A and Influenza B:** Influenza A accounted for 90% of positive clinical specimens and 100% of public health lab positives. Influenza B made up 10% of clinical positives.
+
+- **Novel Influenza Virus (like COVID-19):** Seven new human A(H5) cases were identified this week, totaling 25 human A(H5) cases nationally in 2024. No human-to-human transmission has been identified.
+
+- **Vaccination Trends:** CDC continues to recommend all individuals aged ≥6 months to receive an annual influenza vaccine, ideally by the end of October.
+
+- **Outpatient Respiratory Illness Visits:** 2.1% of patient visits were for ILI, below the 3.0% national baseline. ILI activity increased in regions 2, 3, and 8 but remained minimal in 54 jurisdictions.
+
+- **Expectation of Flu Activity from CDC:** Flu activity is expected to remain low but may increase as the season progresses. Continued vigilance and vaccination are urged. 
+
+- **Other Key Factors:** Increased A(H5) cases in agricultural workers highlight risks of occupational exposure during avian influenza outbreaks. Monitoring for further human cases and potential spillover remains crucial. Multiviral surveillance now integrates flu, COVID-19, and RSV activity.

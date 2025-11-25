@@ -1,0 +1,11 @@
+Week23, 2023
+1. Influenza activity decreased, with 1.0% of respiratory specimens testing positive for influenza this week.
+2. Clinical labs reported 255 positive specimens, with 54.5% being Influenza A and 45.5% Influenza B.
+3. Public health labs detected 39 positive specimens: 33.3% Influenza A (predominantly H1N1 at 90.0%) and 66.7% Influenza B (100% Victoria lineage).
+4. Outpatient visits for influenza-like illness (ILI) accounted for 1.6% of visits, remaining below the national baseline.
+5. Hospitalization numbers were at 850 for laboratory-confirmed influenza for week 23.
+6. Pneumonia, influenza, or COVID-19 (PIC) caused 6.3% of deaths this week, exceeding the epidemic threshold of 6.1%; influenza accounted for 10 deaths this week.
+7. Three influenza-associated pediatric deaths were reported, two caused by Influenza B and one by Influenza A.
+8. Nationwide, 51 states/jurisdictions reported "minimal" ILI activity, with a slight decline in higher activity levels in CBSAs.
+9. No updates or significant trends in influenza vaccination were noted in this report.
+10. Ongoing coexistence of other respiratory viruses may affect future influenza trends, with regional variances in influenza contributions to ILI.

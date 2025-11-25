@@ -1,0 +1,11 @@
+Week16, 2022
+1. Influenza activity is increasing in some areas, with a 7.8% positivity rate for respiratory specimens nationwide.
+2. Influenza A(H3N2) is dominant (98.8% of influenza A) this season, while only 1.2% of positive specimens were Influenza B.
+3. Cumulative hospitalization rates are 11.1 per 100,000, higher compared to 2020-21 but lower than pre-COVID-19 seasons.
+4. Pediatric deaths increased by 1 this week, totaling 23 for the season.
+5. Pneumonia, influenza, or COVID-19 (PIC)-attributed deaths are 6.8%, at the epidemic threshold; most attributed to COVID-19.
+6. 2.1% of outpatient respiratory illness visits were due to influenza-like illness (ILI), below the national baseline.
+7. The first human case of avian influenza A(H5) was reported in Colorado, connected to exposure to infected poultry.
+8. More than 96% of hospitalizations are associated with Influenza A, predominantly A(H3N2).
+9. Among respiratory illness visits, increases were observed in the youngest age group (0-4 years).
+10. Vaccination remains emphasized as the best preventive measure, though no significant trends were reported this week.

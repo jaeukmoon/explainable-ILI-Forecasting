@@ -1,0 +1,20 @@
+Week47, 2020
+- **Viruses, Illness, and Deaths**: Seasonal influenza activity remains lower than usual for this time of year, with only 0.2% of respiratory specimens testing positive for influenza in clinical labs. Influenza B accounts for 55% of clinical lab positives, while Influenza A accounts for 45%. No influenza-associated pediatric deaths have been reported. 11.3% of deaths are attributed to pneumonia, influenza, or COVID-19 (PIC), above the epidemic threshold of 6.3%. Most PIC deaths are due to COVID-19.  
+
+- **U.S. Virologic Surveillance**: Public health labs report 58.3% of positive specimens as Influenza A (H1N1pdm09 and H3N2 present in roughly equal proportions), and 41.7% as Influenza B (majority lineage not performed). Few specimens tested positive in the last weeks.
+
+- **Cumulative Hospitalization Rate**: Hospitalization rates will be updated later; no current data available.
+
+- **Trends of Deaths Attributed to Influenza**: Deaths attributed to PIC are primarily driven by COVID-19 and not influenza.
+
+- **Percentage of Influenza A and Influenza B**: Clinical lab positives consist of 45.0% Influenza A and 55.0% Influenza B. Public health lab positives consist of 58.3% Influenza A and 41.7% Influenza B.
+
+- **Novel Influenza Virus (like COVID-19)**: COVID-19 continues to significantly impact ILI and PIC data. No other novel influenza viruses reported.
+
+- **Vaccination Trends**: CDC continues to emphasize influenza vaccination as the best protection. Those unvaccinated are urged to get vaccinated immediately.
+
+- **Outpatient Respiratory Illness Visits**: 1.6% of outpatient visits were due to ILI, below the national baseline of 2.6%. Multiple regions showed stable or minimal ILI activity levels, though interpretation of ILI data is complicated by the overlap with COVID-19.
+
+- **Expectation of Flu Activity from CDC**: Flu activity is unusually low but may increase in the coming months. 
+
+- **Other Key Factors**: National ILI surveillance and geographic spread metrics are impacted by the pandemic, leading to data interpretation challenges. Two regions showed increases in ILI, one region decreased, and others remained stable.

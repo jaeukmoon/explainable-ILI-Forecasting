@@ -1,0 +1,20 @@
+Week8, 2024
+- **Viruses, illness, and deaths:** Influenza activity remains elevated nationally, with influenza A and B contributing to respiratory illnesses. Influenza B/Victoria is reported as the most frequent virus by public health labs. Two pediatric influenza-associated deaths were reported this week, bringing the season total to 93. The cumulative estimated flu burden is 26 million illnesses, 290,000 hospitalizations, and 18,000 deaths.
+
+- **U.S. virologic surveillance:** Public health labs reported 65.7% of positive specimens as influenza A and 34.3% as influenza B. Subtyped influenza A included 55.0% A(H1N1)pdm09 and 45.0% A(H3N2). Clinical labs found 59.0% influenza A and 41.0% influenza B. B/Victoria was dominant among B viruses.
+
+- **Cumulative hospitalization rate:** The cumulative hospitalization rate is 61.5 per 100,000, the second-highest observed at Week 8 compared to prior seasons. Adults aged 65+ have the highest hospitalization rate (166.1 per 100,000).
+
+- **Trends of deaths attributed to influenza:** 0.7% of deaths were attributed to influenza, stable compared to Week 7.
+
+- **Percentage of Influenza A and Influenza B:** Influenza A comprised 59.0% of clinical lab positives and 65.7% of public health lab positives. Influenza B accounted for 41.0% of clinical lab positives and 34.3% of public health lab positives.
+
+- **Novel influenza virus (like COVID-19):** No novel influenza viruses were reported this week.
+
+- **Vaccination trends:** CDC continues to recommend flu vaccination for everyone aged 6 months and older as long as influenza viruses are circulating. Vaccination is emphasized as beneficial for the current season.
+
+- **Outpatient respiratory illness visits:** Respiratory illness visits equaled 4.4% of outpatient visits, remaining above baseline. All HHS regions reported rates above their baselines, with 12 jurisdictions reporting moderate activity and 27 reporting high or very high activity.
+
+- **Expectation of flu activity from CDC:** Flu activity remains elevated with regional variations. Continued increases are expected in some areas.
+
+- **Other key factors:** Hospitalizations and outpatient visits show influenza remains a significant contributor to respiratory illness activity. Regions 7, 5, and 6 had the highest clinical lab positivity rates, with activity highest in adults aged 65+ and specific racial/ethnic groups like non-Hispanic Black persons.

@@ -1,0 +1,20 @@
+Week39, 2024
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains low in the U.S. Two human infections with influenza A(H5) virus were reported, associated with dairy cow exposure. 201 pediatric influenza-associated deaths were reported for the 2023-2024 season.  
+
+- **U.S. virologic surveillance**: 0.5% of clinical lab specimens tested positive for influenza in Week 39, with 78.0% Influenza A and 22.0% Influenza B. Public health labs identified 95.6% as Influenza A (72.2% A(H1N1)pdm09, 27.8% A(H3N2)) and 4.4% as Influenza B (100% Victoria lineage).
+
+- **Cumulative hospitalization rate**: 25,456 hospitalizations reported since October 2023, with 84.6% associated with Influenza A, 67.5% of which were A(H1N1)pdm09.
+
+- **Trends of deaths attributed to influenza**: Influenza-related deaths remained stable (<0.1% change) compared to the previous week.  
+
+- **Percentage of Influenza A and B**: Influenza A dominated with 78% of clinical lab positives and 95.6% of public health lab positives.  
+
+- **Novel influenza virus (like COVID-19)**: Two flu A(H5) human infections reported and linked to HPAI outbreaks. Monitoring continues for more cases.
+
+- **Vaccination trends**: CDC recommends vaccination for individuals aged 6+ months by the end of October.
+
+- **Outpatient respiratory illness visits**: Respiratory illness visits reported in ILINet remained below the national baseline, stable across all regions and age groups.
+
+- **Expectation of flu activity from CDC**: Influenza activity remains low nationwide with stable trends reported across key surveillance systems.
+
+- **Other key factors**: An ongoing HPAI A(H5N1) outbreak in poultry and dairy cows remains a concern for potential future zoonotic transmissions. Continued monitoring for antiviral resistance revealed low levels of resistance (<0.3%) to major influenza antivirals.

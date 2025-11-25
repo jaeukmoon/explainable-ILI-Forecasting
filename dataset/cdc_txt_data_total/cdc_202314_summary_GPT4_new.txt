@@ -1,0 +1,13 @@
+Week14, 2023
+1. Influenza activity remains low nationwide with 1.0% of respiratory specimens testing positive for influenza in clinical labs.
+2. Of reported clinical lab specimens, 52.2% were Influenza A and 47.8% were Influenza B; public health labs showed 57.1% Influenza A and 42.9% Influenza B.
+3. Among Influenza A subtypes in public health labs, 29.2% were A(H3N2) and 70.8% were A(H1N1).
+4. Outpatient visits for influenza-like illness (ILI) averaged 2.1%, below the national baseline of 2.5%, with 3 jurisdictions at moderate and 2 at high activity levels.
+5. The cumulative hospitalization rate for this season is 61.4 per 100,000, with adults aged 65+ experiencing the highest rate (182.7 per 100,000).
+6. Pediatric flu-associated deaths increased by 2 this week, bringing the season total to 141.
+7. Pneumonia, influenza, or COVID-19 (PIC) deaths accounted for 7.6% this week, slightly above the epidemic threshold of 7.0%.
+8. Flu vaccinations remain recommended for everyone aged six months and older, with this season's vaccine antigenically matching circulating viruses.
+9. Among hospitalized cases, a small subset (3.8%) additionally tested positive for SARS-CoV-2, reflecting ongoing virus co-circulation.
+10. Antiviral susceptibility remains high, with nearly all viruses responsive to recommended treatments.
+
+11. Additional factors: Seasonal activity shows no significant increase in influenza positivity, hospitalization rates decreased by >5%, and respiratory viruses other than influenza (e.g., COVID-19) are contributing to ILI cases.

@@ -1,0 +1,13 @@
+1. The past time-series ILI occurrences over the 5 weeks demonstrated a consistent upward trend, with values of ['1376', '1469', '1659', '1859', '2036']. This increase began at 1376 in Week 26, 2021, and steadily rose to 2036 in Week 30, 2021, highlighting escalating ILI activity throughout this period.
+
+2. A positive correlation between past and future ILI occurrences is evident, as the continuous upward trend observed during the past 5 weeks (Weeks 26–30, 2021) aligns with the substantial increase to 2964 future occurrences after 5 weeks. This progressive rise in ILI activity in the latter weeks acts as a strong precursor for the amplified activity measured in the future.
+
+3. Outpatient visits for ILI showed consistent incremental growth, increasing from 1.2% (Week 26, 2021) to 1.9% (Week 30, 2021). This growth reflects an expanding burden of respiratory illnesses, aligning with the subsequent rise to 2964 ILI occurrences.
+
+4. PIC (Pneumonia, Influenza, or COVID-19) mortality remained consistently elevated, rising from 6.2% in Week 26 to 9.0% in Week 30, 2021, and continually surpassing epidemic thresholds. While primarily driven by COVID-19, these consistent increases in PIC-related mortality demonstrate a growing impact of respiratory illnesses, which correlates with future ILI surges.
+
+5. The CDC highlighted changes in healthcare-seeking behavior throughout all 5 weeks, driven by the COVID-19 pandemic, complicating traditional ILI surveillance. These disruptions likely delayed recognition of escalating ILI activity during the reporting period, leading to a concentrated rise visible in the future data.
+
+6. Despite minimal influenza circulation reported across Weeks 26–30, 2021, increases in ILI likely reflect broader respiratory illness activity, potentially driven by non-specific illnesses or other pathogens. The gradual escalation in outpatient ILI visits aligns with behavioral and environmental factors contributing to the increase in future occurrences.
+
+7. In summary, the reported future ILI occurrences of 2964 can be attributed to the consistent upward trajectory of past ILI activity (Weeks 26–30, 2021), increasing outpatient ILI visits, persistently high PIC-related mortality, and the compounding effects of pandemic-driven healthcare-seeking and surveillance challenges.

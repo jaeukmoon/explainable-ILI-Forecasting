@@ -1,0 +1,20 @@
+Week2, 2024
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains elevated. 13.7% of respiratory specimens tested positive for influenza this week, with influenza A(H1N1)pdm09 predominating. 1.2% of deaths were attributed to influenza this week (a decrease from the previous week), and 7 pediatric deaths were reported, bringing the seasonal total to 47.  
+
+- **U.S. virologic surveillance**: 81.3% of public health lab specimens tested were influenza A, and 18.7% were influenza B. Among influenza A viruses subtyped, 73.1% were A(H1N1)pdm09, and 26.9% were A(H3N2).  
+
+- **Cumulative hospitalization rate**: The cumulative rate is 37.3 per 100,000 population, with adults aged 65+ having the highest rate (99.8 per 100,000).  
+
+- **Trends of deaths attributed to influenza**: Influenza-related mortality decreased to 1.2% this week compared to the prior week.
+
+- **Percentage of Influenza A and B**: Clinical labs reported 79.4% of positive specimens as influenza A and 20.6% as influenza B.  
+
+- **Novel influenza virus**: No novel influenza viruses, including variants like SARS-CoV-2, were identified.  
+
+- **Vaccination trends**: CDC continues to recommend flu vaccination for everyone 6 months and older, emphasizing benefit even now.
+
+- **Outpatient respiratory illness visits**: 4.7% of outpatient visits were due to respiratory illnesses this week, above the baseline of 2.9%. This declined slightly compared to the prior week.  
+
+- **Expectation of flu activity from CDC**: Flu activity has decreased slightly after peaks in late 2023. CDC is monitoring for a potential second wave post-holidays.
+
+- **Other key factors**: 14 jurisdictions reported moderate ILI activity, while 25 reported high or very high activity. Hospitalizations and ILI visits have slightly decreased for the second consecutive week. Multiple respiratory viruses, including RSV and COVID-19, are contributing to overall respiratory illness levels.

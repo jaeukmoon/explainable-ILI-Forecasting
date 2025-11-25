@@ -1,0 +1,7 @@
+- Influenza A virus (IAV) infection in swine can impact the agricultural industry and has the potential for zoonotic transmission to humans.
+- Researchers have developed a universal swine H3 influenza vaccine using the epigraph computational algorithm.
+- The vaccine utilizes epigraph hemagglutinin proteins delivered through an Adenovirus type 5 vector.
+- Vaccination with the epigraph vaccine induces significant cross-reactive antibody and T-cell responses in mice against a diverse panel of swine H3 isolates.
+- The epigraph vaccine also reduces weight loss and lung viral titers in mice after challenge with divergent swine H3 viruses.
+- Studies in swine show stronger levels of cross-reactive antibodies and T-cell responses after immunization with the epigraph vaccine compared to the wild-type and commercial FluSure vaccines.
+- The results suggest that the epigraph vaccine may provide superior cross-reactive immunity and should be further investigated as a universal swine H3 vaccine.

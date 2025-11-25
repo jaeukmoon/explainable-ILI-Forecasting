@@ -1,0 +1,11 @@
+Week23, 2022
+1. Seasonal influenza activity is decreasing, with 3.4% of respiratory specimens testing positive for influenza this week.
+2. Influenza A(H3N2) was the most frequently detected virus nationally, accounting for 98.8% of positive specimens in clinical labs and 99.3% in public health labs.
+3. Outpatient visits for respiratory illness accounted for 2.1% of healthcare visits, below the baseline, with a downward trend over the past four weeks.
+4. Cumulative hospitalization rate is 17.1 per 100,000 population, with 2,089 new influenza-associated hospitalizations this week; the majority (96.5%) are related to Influenza A.
+5. One pediatric influenza-associated death was reported this week, totaling 29 for the season.
+6. No mortality data are available this week due to a system upgrade, and pediatric deaths showed influenza A(H3).
+7. Of the 563 influenza-positive specimens tested for SARS-CoV-2 this season, 4.2% were co-infected with COVID-19.
+8. Vaccination against influenza continues to be emphasized, with current vaccines showing mixed antigenic match to circulating H3N2 viruses.
+9. Respiratory illness activity varied geographically, with 3 jurisdictions reporting high activity and no regions reporting very high activity.
+10. Key predictive factors include late-season influenza activity, co-circulation of other respiratory viruses, evolving antigenic variations in H3N2 strains, and reduced outpatient respiratory care-seeking behavior.

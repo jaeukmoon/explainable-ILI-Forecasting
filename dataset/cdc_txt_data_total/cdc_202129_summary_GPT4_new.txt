@@ -1,0 +1,11 @@
+Week29, 2021
+1. Influenza activity remains minimal across most regions, with outpatient visits for influenza-like illness (ILI) at 1.7%, below the national baseline of 2.6%.
+2. Nationwide, ILI visits have increased for three consecutive weeks across all age groups, particularly among ages 0–4, 5–24, and 25–49 years.
+3. Public health labs and clinical labs data indicate extremely low activity: no significant findings on Influenza A or B subtype dominance were reported.
+4. No influenza-associated pediatric deaths were reported for week 29 of the 2020-2021 season; one pediatric death was previously recorded during this season.
+5. Mortality due to pneumonia, influenza, or COVID-19 (PIC) was 7.4%, exceeding the epidemic threshold of 5.5%; most PIC-related deaths were attributed to COVID-19.
+6. Alternative healthcare-seeking behaviors during the COVID-19 pandemic continue to impact the accurate capture and interpretation of ILI and flu trends.
+7. No clear vaccination trends were highlighted; the CDC encourages annual flu vaccinations as preparation for possible future increases in flu activity.
+8. Regional ILI activity levels remain mostly minimal or low, with only one jurisdiction reporting moderate activity and no jurisdictions at high or very high levels.
+9. Novel viruses like SARS-CoV-2 are influencing respiratory illness surveillance systems, complicating influenza trend predictability.
+10. Limited data on virologic testing and hospitalizations indicate continued monitoring is needed; trends may shift with further infection reports or seasonal changes.

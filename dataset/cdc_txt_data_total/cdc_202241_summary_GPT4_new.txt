@@ -1,0 +1,13 @@
+Week41, 2022
+1. Influenza activity is increasing in the U.S., with the southeast and south-central regions reporting the highest levels.
+2. 4.4% of respiratory specimens tested positive for influenza in clinical labs, with 97.3% Influenza A and 2.7% Influenza B.
+3. Public health labs found 98.5% of positive influenza specimens were Influenza A, predominantly subtype H3N2 (77.5%).
+4. Outpatient visits for influenza-like illness (ILI) accounted for 3.0% of visits, above the national baseline of 2.5%, with increasing trends across all age groups.
+5. A total of 1,674 patients were hospitalized for influenza this week; cumulative hospitalization data is pending updates.
+6. Deaths due to pneumonia, influenza, or COVID-19 (PIC) reached 8.8%, above the epidemic threshold, with 18 attributed specifically to influenza.
+7. No pediatric influenza-associated deaths were reported this week.
+8. A novel Influenza A(H3N2)v case was reported in Michigan from indirect swine exposure; no person-to-person transmission was detected.
+9. The CDC recommends annual vaccination, with emphasis on receiving the flu vaccine by the end of October.
+10. Regions 3, 4, 6, and 9 reported a significant increase in flu positivity rates, while other areas saw stable or declining trends.
+
+11. Summary of other predictive factors: Early seasonal flu activity, rising ILI percentages, regional disparities, and swine-related novel influenza cases suggest potential for increased flu activity. Multiple respiratory viruses co-circulating may complicate flu outbreak predictions.

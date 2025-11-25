@@ -1,0 +1,6 @@
+- Influenza A viruses exhibit distinct patterns of seasonality and circulate in pairs, with alternating dominant strains in successive seasons.
+- The alternation of dominant strains makes epidemic forecasting challenging.
+- Cross-reactive host immunity is a key driver of influenza seasonality, alongside extrinsic factors such as air humidity and host susceptibility.
+- Cross-reactive immunity reduces host susceptibility to other strains and contributes to seasonal infection patterns.
+- There is a competition for susceptible hosts between different influenza A virus strains on a global level.
+- The presence of cross-reactive immunity determines the strain of influenza A virus that emerges at the onset of each epidemic season.

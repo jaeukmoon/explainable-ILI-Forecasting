@@ -1,0 +1,4 @@
+1. The past time-series ILI occurrences over the 5 weeks demonstrated a consistent and significant upward trend, starting from 14,311 in Week 29, 2021, and progressively increasing to 21,495 in Week 33, 2021. Each sequential jump in weekly occurrences, particularly the rapid increases seen from Week 31 to Week 33, indicates a steady escalation in ILI activity during this period.
+
+2. A strong positive correlation between past and future ILI occurrences is evident, as the continuous and sharp increase in the past data (Weeks 31–33, 2021) strongly aligns with the reported decline to 11,487 occurrences by Week 38, 2021. The elevated ILI activity peaking in Week 33 likely represents a buildup that corresponds to a tapering off of ILI occurrences in line with the downward regular. 
+

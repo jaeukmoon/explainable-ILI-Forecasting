@@ -1,0 +1,13 @@
+1. The past time-series ILI occurrences over the 5 weeks demonstrated a clear upward trend, with values of ['1021', '1166', '1474', '1676', '1770']. Starting from 1021 in Week 14, 2022, the ILI occurrences increased consistently each week, peaking at 1770 in Week 18, 2022. This sustained increase suggests growing influenza-like illness activity heading into the subsequent period.
+
+2. There is a direct positive correlation between the past and future ILI occurrences, as the steady rise observed during Weeks 14–18, 2022, culminates in 1595 occurrences after 5 weeks (Week 23, 2022). The peak at 1770 in Week 18, 2022, indicates the highest activity, followed by a slight stabilization in subsequent weeks, eventually leading to the reported future value.
+
+3. Increasing outpatient visits for respiratory illness contribute to rising ILI activity. Visits climbed from 2.0% during Week 14, 2022, to 2.3% in Week 18, 2022, indicating higher healthcare engagement due to respiratory symptoms across several regions.
+
+4. Hospitalizations related to influenza also increased steadily over the 5 weeks. Cumulative rates rose from 8.9 per 100,000 in Week 14 to 13.4 per 100,000 in Week 18, 2022, reflecting worsening severity and higher burdens on healthcare systems.
+
+5. The percentage of deaths attributed to pneumonia, influenza, or COVID-19 (PIC) remained above the epidemic threshold (6.9%) in every week, increasing modestly from 7.1% in Week 14, 2022, to 7.2% in Week 18, 2022. This persistence indicates an elevated level of respiratory illness severity influencing ILI data.
+
+6. Co-circulation of Influenza A(H3N2) (dominant in 99.2%-99.9% of cases), SARS-CoV-2, and other respiratory viruses created a compounded pathogenic environment. This overlap likely magnified overall ILI occurrences, contributing to continued elevated activity.
+
+7. In summary, the future ILI occurrences of 1595 in Week 23, 2022, can be attributed to the consistent upward trajectory observed in Weeks 14–18, 2022, coupled with rising outpatient visit rates for respiratory illness, increasing influenza-related hospitalizations, persistently high PIC mortality percentages, and the compounded effects of co-circulating respiratory viruses.

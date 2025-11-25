@@ -1,0 +1,11 @@
+Week32, 2021
+1. Influenza activity remains low nationwide, with 2.1% of outpatient visits due to ILI and only one region above the baseline of 2.6%, suggesting increased circulation of other respiratory viruses.
+2. Two human infections with novel Influenza A(H1N2)v were reported in Wisconsin, both linked to swine exposure at a county fair, with no human-to-human transmission detected.
+3. Outpatient ILI visits have increased over the past four weeks for all age groups, with significant rises among individuals aged 5–24 in week 32.
+4. Pneumonia, influenza, and COVID-19 (PIC) deaths accounted for 14.6% of mortalities, primarily due to COVID-19, with flu-related deaths minimal.
+5. No influenza-associated pediatric deaths were reported in week 32; only one pediatric death has been reported for the 2020–2021 season.
+6. Flu vaccination trends were not explicitly indicated in the report; CDC emphasizes routine annual influenza vaccination.
+7. National virologic surveillance shows very low influenza virus activity, with minimal positive specimen detections from clinical and public health labs.
+8. Healthcare-seeking behaviors continue to affect ILI surveillance due to COVID-19-related alternative care settings and overlapping symptoms.
+9. Future flu activity might increase if other respiratory viruses continue to spread in parallel with novel influenza variants reported in isolated human cases.
+10. Continued monitoring of swine-related influenza and cross-pathogen impacts, as well as changes in healthcare access, are critical for predicting future trends.

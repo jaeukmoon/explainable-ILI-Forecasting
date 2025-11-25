@@ -1,0 +1,20 @@
+Week50, 2022
+- **Viruses, Illness, and Deaths**: Influenza activity is elevated and increasing. Influenza A predominates (81.9%), with H1N1 making up 78.2% of subtyped Influenza A viruses this week. No pediatric influenza deaths were reported this week; cumulative deaths this season are 14. Influenza-related deaths account for 0.3% of total deaths this week. CDC estimates 5.3 million illnesses, 54,000 hospitalizations, and 3,200 deaths from flu this season.
+
+- **U.S. Virologic Surveillance**: 12.8% of clinical lab specimens tested positive for influenza this week, with 82.8% Influenza A and 17.2% Influenza B. Public health labs similarly report 81.9% Influenza A (primarily H1N1) and 18.1% Influenza B.
+
+- **Cumulative Hospitalization Rate**: Overall rate is 11.3 per 100,000 population, the second-highest cumulative rate for week 50 in the past decade. Adults aged 65+ have the highest rate (28.1 per 100,000).
+
+- **Trends of Deaths Attributed to Influenza**: Influenza-related deaths remain low at 0.3%, stable compared to the previous week.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounts for 82.8% of clinical lab positives and 81.9% of public lab positives. Influenza B represents 17.2% and 18.1%, respectively.
+
+- **Novel Influenza Virus (like COVID-19)**: No novel influenza viruses, including H3N2v, have been reported.
+
+- **Vaccination Trends**: CDC continues to recommend vaccination for everyone 6 months or older. Vaccines are still available, and now is emphasized as a good time to get vaccinated to prevent complications.
+
+- **Outpatient Respiratory Illness Visits**: 5.1% of outpatient visits were for influenza-like illness (ILI), above the 2.9% national baseline. All regions report ILI activity above baseline, with 25 jurisdictions experiencing high or very high activity.
+
+- **Expectation of Flu Activity from CDC**: Influenza activity is expected to remain elevated and increase in many areas. 
+
+- **Other Key Factors**: Hospitalizations this week totaled 9,825, marking an increase from last week across nearly all regions. Influenza A (H1N1) continues to predominate nationally, though regional variations are noted.

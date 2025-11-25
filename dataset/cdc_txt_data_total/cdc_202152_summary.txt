@@ -1,0 +1,19 @@
+First, the key update for Week 52 is that seasonal influenza activity in the United States is increasing, with varying levels of activity across different regions. 
+
+In terms of viruses, the majority of detected viruses are Influenza A(H3N2). 
+
+Genetic characterization data are now being reported, which help monitor evolutionary changes in influenza viruses. 
+
+Outpatient respiratory illness visits are increasing, with 4.8% of patient visits reported through the ILINet system being due to respiratory illness. 
+
+The ILI activity map shows that 10 jurisdictions experienced moderate activity, while 31 jurisdictions experienced high or very high activity. 
+
+Long-term care facilities have reported 1.3% of facilities having at least one influenza-positive test among residents. 
+
+Hospitalizations due to influenza are increasing, with a cumulative hospitalization rate of 2.6 per 100,000 population in the FluSurv-NET system. 
+
+19.9% of deaths during Week 52 were attributed to pneumonia, influenza, or COVID-19, above the epidemic threshold. 
+
+No influenza-associated pediatric deaths were reported during Week 52. 
+
+Overall, the data suggest that influenza activity is on the rise, with increasing outpatient visits, hospitalizations, and mortality. Vaccination and antiviral treatment are recommended to prevent and manage influenza.

@@ -1,0 +1,5 @@
+- Influenza and COVID-19 discharge diagnoses as a percentage of emergency department (ED) visits were tracked in the United States from June 2018 to March 2021.
+- The percentage of ED visits for COVID-19 reached a peak of 2.8% in early July 2020 before declining, followed by a larger increase starting in September 2020 and peaking at 7.2% in early January 2021.
+- Influenza activity typically increases in October and continues throughout the winter months. 
+- The data suggests a correlation between the timing of flu season and the surge of COVID-19 cases.
+- The information helps in understanding the impact of COVID-19 and influenza on ED visits and the overlap of these two respiratory illnesses.

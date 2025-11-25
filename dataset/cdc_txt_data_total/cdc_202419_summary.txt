@@ -1,0 +1,13 @@
+Based on the FluView report for Week 19, ending on May 11, 2024, the key facts regarding predicting future ILI occurrence are as follows:
+
+- Seasonal influenza activity is currently low nationally.
+- The percentage of respiratory specimens testing positive for influenza in clinical laboratories decreased compared to the previous week.
+- Influenza A(H1N1)pdm09, A(H3N2), and B viruses are all co-circulating.
+- 2.0% of patient visits reported through the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet) were due to respiratory illness (ILI), which is below the national baseline.
+- No jurisdictions experienced moderate, high, or very high ILI activity during the reported week.
+- The cumulative hospitalization rate for laboratory-confirmed influenza-associated hospitalizations is 80.6 per 100,000 population.
+- The percentage of deaths attributed to influenza during the reported week is 0.1%.
+- Three influenza-associated pediatric deaths were reported during the reported week, bringing the total to 167 pediatric deaths for the season.
+- CDC estimates that there have been at least 35 million illnesses, 390,000 hospitalizations, and 24,000 deaths from flu so far this season.
+- CDC recommends annual flu vaccination for everyone 6 months and older.
+- Antiviral medications are available for treatment of flu illness, especially for higher risk patients.

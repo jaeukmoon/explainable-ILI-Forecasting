@@ -1,0 +1,17 @@
+Based on the weekly ILI surveillance report from the CDC:
+- The percentage of respiratory specimens testing positive for influenza in clinical laboratories was 1.4%.
+- Influenza A viruses predominated, with both H3N2 and H1N1pdm09 viruses reported.
+- ILI activity remained below the national baseline of 2.4%, with 1.4% of visits to healthcare providers being for ILI.
+- The majority of jurisdictions experienced minimal ILI activity, but Louisiana had moderate activity.
+- Four out of 53 jurisdictions reported local flu activity, while the rest reported sporadic or no flu activity.
+- 5.0% of deaths were attributed to pneumonia and influenza (P&I), below the epidemic threshold of 5.6%.
+- No influenza-associated pediatric deaths occurred during the current season.
+- CDC expects flu activity to remain low but increase in the coming weeks.
+- A flu vaccine is recommended for everyone 6 months or older.
+- Antiviral drugs can be used to treat flu illness.
+- The CDC conducts virologic surveillance to monitor the type and prevalence of circulating influenza viruses.
+- The CDC performs genetic and antigenic characterization of influenza viruses to assess their similarity to vaccine strains and monitor changes in the circulating viruses.
+- The CDC tracks the geographic spread of influenza by monitoring activity levels reported by state and territorial epidemiologists.
+- The CDC's surveillance data is available on FluView Interactive, which provides customizable visuals and comparisons across flu seasons and demographics.
+- Additional influenza surveillance information is available from international organizations and participating countries.
+- The CDC's influenza surveillance system and methodology are described in detail on their website.

@@ -1,0 +1,11 @@
+Week40, 2024
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains low nationally. All 56 influenza-positive specimens reported by public health labs were Influenza A, with 55.8% A(H1N1)pdm09 and 44.2% A(H3N2). Two human infections with influenza A(H5) were reported in California. There were no influenza-associated pediatric deaths in Week 40.  
+- **U.S. virologic surveillance**: Clinical labs reported 0.7% of respiratory specimens tested positive for influenza (87.6% Influenza A, 12.4% Influenza B). Influenza A(H1N1)pdm09 and A(H3N2) co-circulate, varying by region.  
+- **Cumulative hospitalization rate**: The hospitalization rate was 0.0 per 100,000, with 15 confirmed flu-associated hospitalizations reported since October 1, 2024.  
+- **Trends of deaths attributed to influenza**: 0.06% of deaths in Week 40 were due to influenza, consistent with the previous week and indicating low mortality rates.  
+- **Percentage of Influenza A and Influenza B**: 87.6% were Influenza A and 12.4% Influenza B in clinical labs. Public health labs only reported Influenza A (100%).  
+- **Novel influenza virus (like COVID-19)**: Two cases of influenza A(H5) were reported, both linked to HPAI A(H5N1) outbreaks in dairy cows. No human-to-human transmission was identified.  
+- **Vaccination trends**: CDC recommends annual flu vaccination for individuals 6 months and older before the end of October. Vaccination is emphasized as the best preventive measure.  
+- **Outpatient respiratory illness visits**: 1.9% of outpatient visits were for ILI, below the national baseline of 3.0%. Slight regional fluctuations were observed, with co-circulation of various respiratory viruses.  
+- **Expectation of flu activity from CDC**: CDC reports low current activity but continues monitoring, including for other respiratory viruses like COVID-19 and RSV.  
+- **Other key factors**: Ongoing surveillance detected resistance in 0.4% of A(H1N1)pdm09 viruses to select antivirals (oseltamivir, peramivir). Investigations continue into avian influenza outbreaks impacting humans and animals.

@@ -1,0 +1,6 @@
+- The influenza vaccine field is constantly evolving to improve manufacturing, immune response, and vaccine performance.
+- The recombinant influenza vaccine tetravalent (RIV4) is the only one on the market that uses a baculovirus expression vector system to express recombinant haemagglutinin (rHA) in insect cells.
+- The unique structural features of rHA in RIV4, including its sequence integrity and unique post-translational processing in insect cells, improve protective immune responses compared to conventional influenza vaccines.
+- These structural features of rHA in RIV4 help preserve and expose conserved epitopes on the HA molecules, resulting in high levels of broadly cross-reactive and protective antibodies.
+- RIV4 also has uniform compact HA oligomers and lacks egg proteins, viral RNA, or process impurities found in conventional vaccines, which can eliminate potential adverse reactions in susceptible individuals.
+- These unique features and purities of the recombinant HA vaccine in RIV4 provide several benefits in vaccine performance that can potentially be extended to other viral targets, such as COVID-19.

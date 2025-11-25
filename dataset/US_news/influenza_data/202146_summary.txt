@@ -1,0 +1,7 @@
+1. The effectiveness of seasonal influenza vaccines can vary between individuals and is influenced by pre-existing immunity and vaccine history.
+2. Pre-existing immunity and vaccine history are closely linked to the development of hemagglutinin-specific CD4 T cell and antibody responses following influenza vaccination.
+3. Individuals who have not received the seasonal influenza vaccine in the previous year, whether they are vaccine-naïve or have previous vaccine experience, show a strong early immune response upon immunization.
+4. This early response is characterized by the presence of CD4 T cells with a follicular helper T cell phenotype and increasing levels of hemagglutinin-specific antibodies.
+5. However, participants who received the seasonal vaccine in the previous year may not exhibit the same strong early response.
+6. Levels of pre-existing antibodies and expression of CD127 on CD4 T cells at baseline are strong predictors of a robust early response to influenza vaccination, regardless of vaccine history.
+7. Both pre-existing immunity and vaccine history contribute to the overall immune response to seasonal influenza vaccines.

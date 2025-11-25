@@ -1,0 +1,13 @@
+Week21, 2022
+1. Influenza activity is increasing in parts of the U.S., with 5.7% of respiratory specimens testing positive for influenza this week.
+2. The majority of influenza viruses identified are Influenza A(H3N2), which accounts for 99.4% of positive specimens in clinical labs and 100% in public health labs this week.
+3. Outpatient visits for respiratory illness accounted for 2.3%, below baseline, though regions 4 and 10 showed increased levels.
+4. Hospitalization rates are 16.0 per 100,000 population cumulatively, with older adults (65+) and young children (0-4 years) experiencing the highest rates.
+5. 7.8% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), exceeding the epidemic threshold, largely due to COVID-19.
+6. There were no pediatric influenza-related deaths reported this week; the total for the season remains 25.
+7. Genetic characterization shows most H3N2 viruses are antigenically different from cell-grown vaccine viruses but similar to specific egg-based vaccine strains.
+8. SARS-CoV-2 co-infection was reported in 4.4% of public health lab influenza-positive specimens this season; 2.2% of influenza-associated hospitalizations tested positive for SARS-CoV-2.
+9. Vaccination continues to be the best prevention measure; the CDC recommends vaccination as influenza activity is still ongoing.
+10. Long-term care facility outbreaks remain minimal, with 0.5% reporting at least one influenza-positive case among residents.
+
+11. Key insights for predicting ILI occurrence: Influenza activity remains variable by region, respiratory co-infections, especially with SARS-CoV-2, remain a concern, and observed antigenic differences may influence future vaccine effectiveness. Trends suggest elevated activity in specific regions combined with RSV, COVID-19, and other respiratory pathogens may impact late-season ILI patterns.

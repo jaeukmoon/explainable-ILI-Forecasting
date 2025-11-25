@@ -1,0 +1,20 @@
+Week21, 2022
+- **Viruses, Illness, and Deaths:** Influenza activity is increasing in parts of the U.S., with 5.7% of respiratory specimens testing positive this week. Influenza A (99.4%) predominates, mostly H3N2 viruses. 7.8% of deaths were attributed to pneumonia, influenza, or COVID-19 (above the epidemic threshold of 6.3%). No influenza-associated pediatric deaths were reported this week, keeping the seasonal total at 25.
+
+- **U.S. Virologic Surveillance:** Clinical labs report 5.7% positivity this week, with Influenza A accounting for 99.4% of positive specimens. Public health labs show Influenza A (100%) predominates, with H3N2 making up 99.9% of subtype data this season. Co-detection with SARS-CoV-2 occurred in 4.4% of public health lab specimens tested for both viruses. 
+
+- **Cumulative Hospitalization Rate:** The overall cumulative rate is 16.0 per 100,000 population. Adults 65 years and older had the highest rate (46.4 per 100,000), particularly those 85 and older (92.2).
+
+- **Trends of Deaths Attributed to Influenza:** 7.8% of deaths were attributed to pneumonia, influenza, or COVID-19, with COVID-19 being the primary contributor.
+
+- **Percentage of Influenza A and Influenza B:** Influenza A accounts for 99.4% of clinical lab positives and 100% of public health lab positives. Influenza B remains low (0.6% clinical labs, 0% public health labs).
+
+- **Novel Influenza Virus:** No reports of novel influenza viruses detected.
+
+- **Vaccination Trends:** CDC continues to recommend flu vaccination for everyone 6 months and older. H3N2 viruses have some antigenic differences from vaccine reference strains but remain genetically closely related.
+
+- **Outpatient Respiratory Illness Visits:** ILI visits were 2.3% nationwide, slightly below the baseline. High/very high activity was reported in four jurisdictions. Respiratory illness is driven by multiple viruses, including influenza.
+
+- **Expectation of Flu Activity from CDC:** CDC notes late-season flu activity with regional variability. Activity is expected to persist.
+
+- **Other Key Factors:** HHS reported 2,660 new influenza-associated hospitalizations this week. Long-term care facilities had a 0.5% positivity rate. FluSurv-NET data showed 96.8% of hospitalizations were due to Influenza A, mainly H3N2. Co-circulation of respiratory viruses, including SARS-CoV-2, contributes to regional ILI variation.

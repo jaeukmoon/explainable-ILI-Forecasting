@@ -1,0 +1,11 @@
+Week41, 2023
+- **Viruses, illness, and deaths:** Seasonal influenza activity remains low nationally. Influenza A accounted for 78% of public health lab detections (93.9% A(H1N1) and 6.1% A(H3N2)), while Influenza B accounted for 22%. One influenza-associated pediatric death from the 2022-2023 season was reported this week. Only 0.05% of deaths during week 41 were attributed to influenza.  
+- **U.S. virologic surveillance:** Clinical labs reported 1.3% of tested specimens positive for influenza, with Influenza A comprising 69.1% and Influenza B 30.9%. Public health labs reported 159 positive specimens; 78% were Influenza A and 22% were Influenza B. No novel influenza viruses were detected.  
+- **Cumulative hospitalization rate:** Overall rate is 0.3 per 100,000 population, with higher rates in adults (0.4) compared to children (0.2).  
+- **Trends of deaths attributed to influenza:** Weekly influenza-related mortality remained stable at 0.05%.  
+- **Percentage of Influenza A and Influenza B:** Influenza A dominated virologic data with 78% in public health labs and 69.1% in clinical labs. Subtyping of A viruses showed dominance of A(H1N1) at 93.9%. Influenza B made up 22% of public health lab positives, all from the Victoria lineage.  
+- **Novel influenza virus (like COVID-19):** No novel influenza viruses or updates on SARS-CoV-2 were reported.  
+- **Vaccination trends:** CDC continues to recommend influenza vaccination for everyone 6 months and older by the end of October. Antiviral medications are advised for treatment.  
+- **Outpatient respiratory illness visits:** 2.3% of outpatient visits were for respiratory illness (below the 2.9% national baseline). Region 8 recorded increased activity, while Region 2 decreased; all other regions remained stable. Two jurisdictions showed high activity levels, and four jurisdictions had low activity.  
+- **Expectation of flu activity from CDC:** CDC anticipates continued low influenza activity nationally, with some localized increases.  
+- **Other key factors:** Hospital admissions remained low but slightly increased (>5%) compared to the previous week. Regions 5, 6, 8, and 9 reported slight increases in hospitalizations. Co-circulation of respiratory viruses like RSV and COVID-19 alongside influenza could influence ILI trends.

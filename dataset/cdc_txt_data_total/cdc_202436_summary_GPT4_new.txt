@@ -1,0 +1,13 @@
+Week36, 2024
+1. Influenza activity remains low nationally, with 0.4% of clinical lab specimens testing positive for influenza this week.
+2. Among positive clinical lab specimens, 85.7% were Influenza A and 14.3% were Influenza B.
+3. Public health labs reported 55 positive specimens this week: 96.4% were Influenza A (61.7% A(H1N1)pdm09, 38.3% A(H3N2)) and 3.6% were Influenza B (all Victoria lineage).
+4. Outpatient respiratory illness visits accounted for 1.8% of healthcare visits, stable from the previous week and below the national baseline.
+5. Weekly influenza-associated hospitalization rates were 0 per 100,000 population, while cumulative hospitalizations this season totaled 25,405.
+6. One pediatric influenza-associated death was reported, contributing to a total of 195 pediatric deaths this season, with the majority related to Influenza A.
+7. Deaths attributed to influenza accounted for 0.06% this week, stable from the previous week.
+8. No novel influenza virus infections were reported this week; 20 novel influenza A cases, including H5 and variant strains, have been documented this season.
+9. Vaccination trends were not included in this report, but CDC continues to recommend annual flu vaccination.
+10. Co-circulation of influenza, COVID-19, and RSV persists, with varying contributions to respiratory illnesses regionally.
+
+11. Summary of insights for prediction: Stable low activity and minimal illness metrics suggest no immediate surge, but co-circulating viruses and novel strain outbreaks require close monitoring for future ILI increases.

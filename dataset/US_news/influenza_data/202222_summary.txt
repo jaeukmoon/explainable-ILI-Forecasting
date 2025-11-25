@@ -1,0 +1,5 @@
+- An ecological study was conducted in New York City to assess the relationship between influenza vaccination uptake and COVID-19 death rate.
+- The study found that areas with a higher prevalence of influenza vaccination had lower rates of COVID-19 mortality.
+- For every one-unit increase in influenza vaccination uptake for each zip code area, the rate of COVID-19 deaths decreased by 5.17 per 100,000 residents.
+- The findings suggest a potential link between influenza vaccination and COVID-19 severity, particularly in elderly populations.
+- Further research is needed to explore the relationship between influenza vaccination uptake and COVID-19 mortality at the individual level.

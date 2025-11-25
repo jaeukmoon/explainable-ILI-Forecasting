@@ -1,0 +1,10 @@
+1. The past time-series ILI occurrences over the observed 5 weeks (Week13–Week17, 2022) exhibited an overall upward trend with fluctuations: starting at 2021 (Week13, 2022), peaking at 2531 (Week16, 2022), and slightly decreasing to 2443 (Week17, 2022). The initial sharp increase from Week13 to Week16 reflects growing respiratory illness activity, while the slight dip in Week17 indicates a potential plateau or shift in the trend.
+
+2. A positive correlation is evident between the past and future ILI occurrences. The peak at Week16 (2531) is followed by a decline to 2443 in Week17. Despite this, the general increase across the 5-week period sets a baseline for the subsequent decrease to 1695 occurrences after 5 weeks (Week22, 2022). This suggests the decline in past weekly occurrences aligns with the observed future reduction.
+
+3. Several contributory factors from CDC reports show high correlation to future occurrences:
+   - The steady rise in outpatient respiratory visits, climbing from 1.9% in Week13 to 2.2% in Week17, while remaining below baseline levels, indicates sustained but regionally varied respiratory illness transmission likely associated with the eventual drop to 1695 future occurrences.
+   - The co-circulation of multiple respiratory viruses (e.g., RSV and SARS-CoV-2) coupled with antigenic differences in A(H3N2) vaccines potentially mitigated influenza-specific ILI occurrences, leading to subdued activity in subsequent weeks.
+   - Reported plateauing of PIC-attributed deaths (7.5% Week13 to 7.2% Week17) signals a stabilization in severe respiratory illness by Week17, temporally coinciding with the reduction in future ILI occurrences.
+
+4. In summary, the future ILI occurrences of 1695 (Week22, 2022) reflect the overall stabilization following the past upward trend (Week13–Week17, 2022), influenced by gradually increasing but subthreshold outpatient visits, co-circulation of viruses impacting influenza-specific trends, and a plateau in severe illness metrics such as PIC mortality and hospitalizations.

@@ -1,0 +1,20 @@
+Week10, 2023
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains low nationally. Influenza A accounted for 66.2% of clinical lab positive cases, with A(H1N1) being the most frequently reported virus. Influenza B represented 33.8% of positive clinical lab cases. 8.6% of deaths were attributed to pneumonia, influenza, or COVID-19, exceeding the epidemic threshold of 7.2%. Seven pediatric influenza-associated deaths were reported, totaling 132 deaths this season. 
+
+- **U.S. virologic surveillance**: Among public health lab-confirmed cases, 73.4% were Influenza A and 26.6% were Influenza B. Subtyped Influenza A cases were 65.7% A(H1N1) and 34.3% A(H3N2). Antigenic testing of circulating viruses shows compatibility with the current season's vaccine.
+
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate was 60.4 per 100,000 population, the second-highest since 2010-11 for week 10 data. Adults 65+ had the highest hospitalization rate (179.5 per 100,000), especially those aged 85+ (329.4 per 100,000).
+
+- **Trends of deaths attributed to influenza**: Deaths due to pneumonia, influenza, or COVID-19 (PIC) have stabilized in recent weeks, with the current proportion largely driven by COVID-19 but with influenza contributing at low levels.
+
+- **Percentage of Influenza A and Influenza B**: Clinical labs reported Influenza A at 66.2% and Influenza B at 33.8%. Public health labs reported Influenza A at 73.4% and Influenza B at 26.6%.
+
+- **Novel influenza virus (like COVID-19)**: There were no reports of novel influenza viruses or variants like SARS-CoV-2.
+
+- **Vaccination trends**: CDC continues to recommend influenza vaccination for everyone aged 6 months and older while flu activity continues. High antigenic similarity between vaccine strains and circulating viruses supports vaccination effectiveness.
+
+- **Outpatient respiratory illness visits**: Nationwide, 2.4% of outpatient visits were for respiratory illness, which remains below the national baseline of 2.5%. Six regions are below their baselines; four are at or above. Moderate activity was reported in 4 jurisdictions, while 2 reported high activity.
+
+- **Expectation of flu activity from CDC**: Influenza activity remains low nationally, with some regional variation. Additional respiratory viruses such as RSV and SARS-CoV-2 are co-circulating and contributing to respiratory illnesses.
+
+- **Other key factors**: Weekly influenza hospital admissions (1,387) were stable compared to the previous week. Most circulating influenza viruses tested are susceptible to antiviral medications. Long-term care facility positivity rate was 0.5%, stable from the prior week. The highest hospitalization rates were observed in non-Hispanic Black persons and those aged 65+.

@@ -1,0 +1,6 @@
+- Influenza A viruses (IAVs) can circulate in various host species, including wild birds.
+- IAVs can cross over into humans, causing severe disease and potentially leading to pandemics.
+- There are barriers that prevent the transmission and adaptation of avian IAVs into humans, such as the viral haemagglutinin receptor and the host antiviral factor Mx1.
+- A recent study suggests that human butyrophilin subfamily 3 member A3 (BTN3A3) restricts replication of avian IAVs but not human IAVs.
+- Avian IAVs have specific genetic determinants that allow them to evade BTN3A3 and promote spillover into humans.
+- Understanding the zoonotic potential of avian IAVs and the factors that enable spillover into humans is still limited.

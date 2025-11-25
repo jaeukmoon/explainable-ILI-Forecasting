@@ -1,0 +1,11 @@
+1. The past time-series ILI occurrences over the 5 weeks showed a steady increase in values—1166 (Week 15, 2022), 1474 (Week 16, 2022), 1676 (Week 17, 2022), 1770 (Week 18, 2022), and 1809 (Week 19, 2022). This consistent upward trend indicates rising ILI activity, with the highest value recorded in Week 19, 2022, suggesting increasing activity that likely contributed to the future occurrences.
+
+2. A strong correlation exists between the upward trend in ILI activity in Weeks 15 to 19, 2022, and the future ILI occurrences. The steady increases in occurrences each week (from 1166 to 1809) serve as a precursor, strongly aligning with the eventual decrease to 1399 occurrences after 5 weeks (Week 24, 2022). The reduction from 1809 to 1399 likely reflects the late-season tapering of influenza activity.
+
+3. Influenza activity was consistently increasing across multiple regions during the observed period, as highlighted in the CDC reports, with positivity rates rising from 8.1% (Week 17, 2022) to 8.6% (Week 18, 2022) before slightly dropping to 7.0% (Week 19, 2022). This rise and partial plateau in activity contributed to the future reported occurrences.  
+
+Outpatient visits for ILI also showed incremental increases, from 2.2% in Week 17, 2022, to 2.3% in Week 18, 2022, and 2.4% in Week 19, 2022, supporting a broader rise in respiratory illness activity during this period.
+
+Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) exceeded the epidemic threshold throughout Weeks 17 to 19, rising from 7.2% to 7.5%. This reflects elevated respiratory illness activity, which aligns with the observed ILI trends and future reported occurrences.
+
+4. In summary, the observed future ILI occurrences of 1399 (Week 24, 2022) can be attributed to the steady increase in the past 5 weeks (Weeks 15 to 19, 2022), reflecting heightened respiratory illness activity. This includes rising outpatient visits, consistently high PIC-related mortality exceeding epidemic thresholds, and regionally varied but ongoing influenza activity. The slight decline in future occurrences likely represents the waning of late-season influenza activity.

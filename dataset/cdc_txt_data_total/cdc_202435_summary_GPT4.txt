@@ -1,0 +1,21 @@
+Week35, 2024
+- **Viruses, illness, and deaths:** Seasonal influenza activity remains low nationally, with 0.4% of clinical lab specimens testing positive for influenza this week. Influenza A (85.7%) predominates over Influenza B (14.3%). One pediatric death was reported this week, totaling 195 pediatric deaths for the current season. 0.06% of deaths were attributed to influenza.  
+ 
+- **U.S. virologic surveillance:** Clinical labs show Influenza A accounts for 85.7% of positives, while Influenza B accounts for 14.3%. Public health labs report Influenza A as 96.4% of positive specimens, with 61.7% H1N1pdm09 and 38.3% H3N2. No novel strains (e.g., H5 or H3N2v) were reported this week.  
+
+- **Cumulative hospitalization rate:** Weekly hospitalization rate remains low at 0.0 per 100,000. The peak this season was 8.9 per 100,000 in Week 52 (2023). Cumulatively, 25,405 hospitalizations were reported, with 84.6% associated with Influenza A and 14.8% with Influenza B.
+
+- **Trends of deaths attributed to influenza:** 0.06% of deaths this week were attributed to influenza, showing no significant change compared to the prior week.  
+
+- **Percentage of Influenza A and Influenza B:** Influenza A represents 69.1% of cumulative clinical lab positives and 76.8% of public health lab positives this season.  
+
+- **Novel influenza virus (like COVID-19):** No new human infections with novel influenza A viruses reported this week. The total for the season includes 13 H5 cases and seven variant cases (H1N2v, H3N2v, H1N1v).  
+
+- **Vaccination trends:** No specific vaccination updates provided, but antiviral drugs are emphasized for treating flu illnesses in high-risk populations.  
+
+- **Outpatient respiratory illness visits:** ILINet data shows 1.8% of outpatient visits nationally were for respiratory illnesses, below baseline. Activity increased slightly in children (0-24 years), with minimal activity reported in all states/jurisdictions.  
+
+- **Expectation of flu activity from CDC:** Seasonal flu activity is expected to remain low. Ongoing monitoring for co-circulating respiratory viruses, including COVID-19 and RSV, continues.  
+
+- **Other key factors:** Multiple respiratory viruses are co-circulating. Genomic and antigenic characterization indicates continued similarity between circulating strains and vaccine reference viruses, supporting vaccine effectiveness. High levels of resistance to adamantanes persist, but antiviral susceptibility to oseltamivir, zanamivir, and baloxavir remains high with only minor resistance detected in isolated cases.  
+

@@ -1,0 +1,20 @@
+Week43, 2021
+- **Viruses, illness, and deaths**: Influenza activity remains low but increasing in detected cases. 0.2% of respiratory specimens tested positive for influenza this week. 15.6% of deaths were attributed to pneumonia, influenza, or COVID-19 (above threshold), primarily driven by COVID-19, with only one influenza-related death reported. No pediatric deaths from influenza have been reported this season.
+
+- **U.S. virologic surveillance**: Clinical labs reported 0.2% positive influenza specimens, with 65.4% as Influenza A and 34.6% as Influenza B. Public health labs reported 91.4% of positive specimens as Influenza A (100% H3N2 this week), and 8.6% as Influenza B (all Victoria lineage this week). Influenza virus detections are slowly increasing nationally.
+
+- **Cumulative hospitalization rate**: Hospitalizations due to influenza are tracked; 282 laboratory-confirmed influenza cases were admitted to hospitals this week.
+
+- **Trends of deaths attributed to influenza**: Influenza deaths remain negligible compared to COVID-19-related deaths. One influenza-associated death was reported.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounts for 65.4% of clinical lab positives and 91.4% of public health lab positives. Influenza B makes up 34.6% of clinical lab positives and 8.6% of public health lab positives.
+
+- **Novel influenza viruses**: No new reports of significant novel influenza virus spread. One case of H3N2v was reported earlier this season, with no evidence of sustained human-to-human transmission.
+
+- **Vaccination trends**: CDC continues to recommend vaccination for everyone aged 6 months or older as the best way to prevent influenza and complications.
+
+- **Outpatient respiratory illness visits**: 1.9% of outpatient visits were for influenza-like illness (ILI), below the national baseline of 2.5%. Two jurisdictions reported moderate ILI activity, with none reporting high or very high activity levels. Seasonal trends indicate respiratory viruses other than influenza are currently contributing to ILI.
+
+- **Expectation of flu activity from CDC**: Influenza activity remains low but is expected to gradually increase in the coming weeks.
+
+- **Other key factors**: 0.2% of long-term care facilities reported at least one influenza-positive test this week. Data suggests ongoing COVID-19-related impacts, with circulation of other respiratory viruses contributing to ILI metrics.

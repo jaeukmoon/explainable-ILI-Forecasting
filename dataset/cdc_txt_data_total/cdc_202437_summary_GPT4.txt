@@ -1,0 +1,20 @@
+Week37, 2024
+- **Viruses, Illness, and Deaths**: Seasonal influenza activity remains low nationally. 0.06% of deaths were attributed to influenza this week. One pediatric influenza-associated death was reported, bringing the season's total to 195.
+
+- **U.S. Virologic Surveillance**: Clinical labs reported 0.4% of specimens testing positive for influenza (147 total positives), with 85.7% Influenza A and 14.3% Influenza B. Public health labs reported 55 positives, with 96.4% Influenza A (61.7% H1N1, 38.3% H3N2) and 3.6% Influenza B (all Victoria lineage). Influenza A dominates flu cases.
+
+- **Cumulative Hospitalization Rate**: The cumulative hospitalization rate for this season is 0.0 per 100,000 this week, with no new hospitalizations reported. Total hospitalizations this season are 25,405, with 84.6% Influenza A-related and 14.8% Influenza B-related.
+
+- **Trends of Deaths Attributed to Influenza**: Deaths attributed to influenza remained stable compared to the previous week.
+
+- **Percentage of Influenza A and Influenza B**: Clinical labs show 85.7% Influenza A and 14.3% Influenza B among positives. Public health labs report 96.4% Influenza A and 3.6% Influenza B.
+
+- **Novel Influenza Virus like COVID-19**: No new cases of novel influenza viruses were reported this week, though 20 novel influenza A cases, including 13 H5 and 7 variant cases, have been reported this season.
+
+- **Vaccination Trends**: Vaccination information was not explicitly updated in this report, but vaccination remains a critical preventative measure.
+
+- **Outpatient Respiratory Illness Visits**: 1.8% of outpatient visits were for respiratory illness, below the national baseline. Activity was minimal in 53 states/jurisdictions.
+
+- **Expectation of Flu Activity from CDC**: Flu activity remains low nationally; multiple respiratory viruses (including SARS-CoV-2 and RSV) are co-circulating but not at high levels.
+
+- **Other Key Factors**: H5N1 continues in domestic cows and poultry, with ongoing monitoring. Antiviral resistance remains low for most influenza viruses, but isolated resistance cases remain. ILI activity rates increased slightly in younger age groups (0-24 years).

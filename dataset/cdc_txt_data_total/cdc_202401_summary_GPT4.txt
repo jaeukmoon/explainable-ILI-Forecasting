@@ -1,0 +1,12 @@
+Week1, 2024
+- **Viruses, illness, and deaths:** Seasonal influenza activity remains elevated. 14.0% of respiratory specimens tested positive for influenza. Influenza A(H1N1)pdm09 predominates. 1.3% of deaths were attributed to influenza this week. Thirteen influenza-associated pediatric deaths were reported this week, totaling 40 for the season.  
+- **U.S. virologic surveillance:** 79.5% of clinical lab positives and 80.1% of public health lab positives were Influenza A; the rest were Influenza B. Among subtyped Influenza A viruses, 79.6% were A(H1N1)pdm09 and 20.4% were A(H3N2).  
+- **Cumulative hospitalization rate:** A cumulative hospitalization rate of 31.7 per 100,000 population is reported, the second highest in-season rate observed for Week 1 since 2010-2011.  
+- **Trends of deaths attributed to influenza:** Deaths due to influenza increased slightly compared to the previous week.  
+- **Percentage of Influenza A and Influenza B:** Influenza A accounts for 79.5%-80.1% of positive specimens, and Influenza B for 19.9%-20.5%.  
+- **Novel influenza virus (like COVID-19):** No novel influenza A viruses or other novel viruses like COVID-19 were found.  
+- **Vaccination trends:** CDC continues recommending vaccinations for everyone aged 6 months and older as influenza activity continues.  
+- **Outpatient respiratory illness visits:** 5.7% of visits were due to respiratory illness, above the 2.9% national baseline. Moderate to very high activity was reported in 44 jurisdictions. Rates remain elevated despite decreases from the previous week.  
+- **Expectation of flu activity from CDC:** CDC anticipates a potential second spike in activity following winter holidays due to historical trends.  
+- **Other key factors:** 18,526 hospital admissions for laboratory-confirmed influenza occurred this week. Co-circulation of multiple respiratory viruses, including RSV and COVID-19, complicates attribution of ILI. High hospitalization rates are heavily concentrated in adults aged 65+ and children aged 0-4 years.  
+

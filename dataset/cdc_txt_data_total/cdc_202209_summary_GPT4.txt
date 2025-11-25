@@ -1,0 +1,20 @@
+Week9, 2022
+- **Viruses, illness, and deaths**: Influenza activity is increasing in most of the country. Influenza A(H3N2) is the predominant virus. 13.1% of deaths were attributed to pneumonia, influenza, or COVID-19 (above the epidemic threshold of 7.2%). Two influenza-associated pediatric deaths were reported this week, bringing the season’s total to 10.
+
+- **U.S. virologic surveillance**: Clinical labs reported 5.8% of respiratory specimens positive for influenza this week, with 99.7% being Influenza A and 0.3% Influenza B. Public health labs confirm 99.4% of influenza specimens as Influenza A, mostly H3N2 (100%), and 0.6% as Influenza B.
+
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate is 5.5 per 100,000 population, higher than last season but lower than pre-pandemic rates. 94.5% of hospitalizations were associated with Influenza A, primarily H3N2 (99%).
+
+- **Trends of deaths attributed to influenza**: A higher proportion of deaths (13.1%) this week is attributed to pneumonia, influenza, and/or COVID-19, though this is primarily driven by COVID-19.
+
+- **Percentage of Influenza A and Influenza B**: Clinical labs report 99.7% of positive specimens as Influenza A and 0.3% as Influenza B. Public health labs report 99.4% as Influenza A and 0.6% as Influenza B.
+
+- **Novel influenza virus like COVID-19 (SARS-CoV-2)**: 5.9% of influenza-positive specimens tested for SARS-CoV-2 also tested positive, indicating co-circulation of respiratory viruses.
+
+- **Vaccination trends**: The CDC continues to recommend flu vaccination for everyone 6 months and older as long as flu activity continues. Vaccines have variable genetic and antigenic matches to circulating strains, with H3N2 showing antigenic differences from vaccine viruses.
+
+- **Outpatient respiratory illness visits**: 1.6% of outpatient visits nationwide were for respiratory illness, below the national baseline. Activity increased among individuals aged 5-24 years, while it remained stable in other age groups.
+
+- **Expectation of flu activity from CDC**: Influenza activity is expected to continue increasing as hospital admissions and percent positivity for flu rise consistently.
+
+- **Other key factors**: Hospital admissions have risen for five consecutive weeks. 0.5% of long-term care facilities reported at least one positive test among residents. The central and south-central U.S. regions reported the highest percentage of influenza positivity.

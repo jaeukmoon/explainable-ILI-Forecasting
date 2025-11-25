@@ -1,0 +1,5 @@
+- In the 2013-14 and 2015-16 influenza seasons, reduced vaccine effectiveness (VE) was observed for the H1N1 component of the FluMist quadrivalent live attenuated influenza vaccine (QLAIV) in the USA.
+- The reduced VE was attributed to low replicative fitness of the vaccine strain A/Bolivia/559/2013 (A/BOL13), which led to inter-strain competition in QLAIV formulations.
+- A/BOL13 was outcompeted in trivalent (TLAIV) and QLAIV formulations, resulting in reduced protection from wild-type challenge.
+- The monovalent formulation of A/BOL13 provided significant protection at low doses, but in TLAIV and QLAIV formulations, it failed to provide the same level of protection.
+- The reduced replicative fitness of A/BOL13 contributed to its reduced VE in the 2015-16 season.

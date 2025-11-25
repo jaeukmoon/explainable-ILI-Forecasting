@@ -1,0 +1,20 @@
+Week29, 2021
+- **Viruses, illness, and deaths**: Influenza activity remains low with minimal hospitalizations. 7.4% of deaths were attributed to pneumonia, influenza, and/or COVID-19 (PIC), exceeding the epidemic threshold of 5.5%. COVID-19 caused the majority of these deaths, with only one death attributed to influenza.
+
+- **U.S. virologic surveillance**: No specific details on proportions of Influenza A or B reported for week 29. Monitoring trends indicate influenza activity remains below baseline levels.
+
+- **Cumulative hospitalization rate**: Influenza-related hospitalizations are not being collected after April 30, 2021. Existing data show no significant impact from influenza this season.
+
+- **Trends of deaths attributed to influenza**: Current PIC mortality is primarily driven by COVID-19, with influenza contributing minimally.
+
+- **Percentage of Influenza A and Influenza B**: No current data available for the proportion of Influenza A versus B.
+
+- **Novel influenza virus (like COVID-19)**: COVID-19 remains the dominant respiratory pathogen influenced PIC-related deaths; no novel influenza strains are reported.
+
+- **Vaccination trends**: Vaccination updates not included in this week’s report.
+
+- **Outpatient respiratory illness visits**: Nationwide ILI visits were 1.7%, below the national baseline of 2.6%, with slight increases across three age groups (0–4, 5–24, and 25–49 years) over the past three weeks.
+
+- **Expectation of flu activity from CDC**: Influenza activity is expected to remain low, with the majority of ILI attributed to non-influenza respiratory pathogens like SARS-CoV-2.
+
+- **Other key factors**: ILI activity was categorized as "minimal" in 51 jurisdictions, with only 1 reporting moderate activity. Syndromic ILI surveillance data should be analyzed cautiously due to the overlap with COVID-19 presentation and changes in healthcare-seeking behaviors due to the pandemic.

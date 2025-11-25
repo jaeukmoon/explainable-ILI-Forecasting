@@ -1,0 +1,7 @@
+During Week 33 of the 2020-2021 influenza season, the prevalence of inﬂuenza remained low, with 2.2% of patient visits reported through the U.S. Outpatient Inﬂuenza-like Illness Surveillance Network (ILINet) being due to inﬂuenza-like illness (ILI). This percentage was below the national baseline of 2.6%. While one region (Region 4) was above its region-speciﬁc baseline, the remaining regions were below their baselines. The age groups most affected by ILI were children aged 0-4 years and individuals aged 5-24 years. 
+
+In terms of virologic surveillance, the percentage of respiratory specimens testing positive for inﬂuenza in clinical laboratories was not provided in the report for Week 33. However, data from public health laboratories indicated that there was low inﬂuenza virus circulation, and the majority of circulating viruses belonged to the inﬂuenza B lineage. 
+
+Inﬂuenza-associated hospitalizations were not reported in the Week 33 surveillance report. Additionally, there were no inﬂuenza-associated pediatric deaths reported during this week. 
+
+Overall, the data suggests that inﬂuenza activity remains low, and increases in ILI activity are likely due to circulation of other respiratory viruses rather than inﬂuenza. It is important to interpret ILI data with caution, especially during the COVID-19 pandemic, as health-seeking behaviors and healthcare access may have changed, impacting ILI reporting. The surveillance data provides valuable information for tracking inﬂuenza activity and informing public health strategies for prevention and response.

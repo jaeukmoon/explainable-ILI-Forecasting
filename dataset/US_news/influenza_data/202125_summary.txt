@@ -1,0 +1,10 @@
+- Influenza is an infectious disease that leads to severe illness and respiratory deaths worldwide each year.
+- Early detection and prediction of influenza outbreaks are crucial for efficient resource planning and saving lives and healthcare costs.
+- A data-driven methodology for influenza outbreak detection and prediction at local levels has been proposed.
+- The methodology utilizes a doctor's diagnostic dataset of influenza-like illness from over 3000 clinics in Malaysia.
+- A new region index (RI) is proposed to measure the severity of influenza outbreaks based on the diagnostic dataset.
+- Anomalies in the weekly RI value are analyzed to identify potential outbreaks using statistical methods.
+- An ensemble learning method is developed to predict potential influenza outbreaks.
+- The methodology has shown to be sensitive and accurate in predicting outbreaks, with average recall, precision, and accuracy scores of 75%, 74%, and 83%, respectively.
+- The results are validated using data from Google Flu Trends, news reports, and surveillance data from the World Health Organization.
+- Early detection of influenza outbreaks is crucial for efficient resource planning, saving costs, saving lives, and controlling the spread of the virus.

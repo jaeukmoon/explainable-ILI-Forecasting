@@ -1,0 +1,20 @@
+Week40, 2022
+- **Viruses, illness, and deaths:** Seasonal influenza activity remains low nationally. Influenza A(H1N1) is the most frequently reported virus. 0.05% of deaths this week were attributed to influenza. One influenza-associated pediatric death from the 2022-2023 season was reported.
+
+- **U.S. virologic surveillance:** 1.1% of specimens tested in clinical labs were positive for influenza, with 60.4% Influenza A and 39.6% Influenza B. Public health labs reported 86.2% Influenza A (91% H1N1 and 9% H3N2) and 13.8% Influenza B.
+
+- **Cumulative hospitalization rate:** The cumulative hospitalization rate is 0.1 per 100,000. A total of 1,127 patients were admitted in week 40 (slight increase from the previous week).
+
+- **Trends of deaths attributed to influenza:** 0.05% of deaths this week were due to influenza, remaining stable compared to the previous week.
+
+- **Percentage of Influenza A and Influenza B:** Influenza A comprised 60.4% of clinical lab positives and 86.2% of public health lab positives, while Influenza B accounted for 39.6% and 13.8%, respectively.
+
+- **Novel influenza virus:** No reports of novel influenza viruses such as COVID-19 or H3N2v.
+
+- **Vaccination trends:** CDC emphasizes annual vaccination for everyone aged six months and older by the end of October.
+
+- **Outpatient respiratory illness visits:** 2.2% of outpatient visits were for respiratory illness, below the national baseline of 2.9%. Activity remained stable compared to the previous week, with one jurisdiction reporting moderate ILI activity.
+
+- **Expectation of flu activity from CDC:** CDC expects flu activity to remain low but advises monitoring due to co-circulation of respiratory viruses.
+
+- **Other key factors:** Regions 4 and 9 showed an increase in positive influenza tests in clinical labs. Multiple respiratory viruses, including RSV and COVID-19, are co-circulating.

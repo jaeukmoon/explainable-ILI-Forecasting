@@ -1,0 +1,11 @@
+1. The past time-series ILI occurrences over the 5-week period exhibited a clear upward trend, beginning at 1240 (Week 46, 2021) and increasing consistently to 1874 (Week 50, 2021). This rise indicates escalating influenza-like illness activity during this interval, with the most pronounced increase occurring between Week 48 and Week 50, 2021, where the values jumped from 1772 to 1874. This trend suggests heightened respiratory illness activity as flu season intensified.
+
+2. The upward trajectory in the past 5 weeks aligns with the reported future value of 2084 after 5 weeks (Week 5, 2022). The steady rise in ILI occurrences, particularly in the last few weeks of the observed period, indicates a progression toward higher activity levels, consistent with the continued upward trend observed after Week 50, 2021.
+
+3. The percentage of outpatient visits for ILI steadily increased across the 5 weeks, rising from 2.2% (Week 46, 2021) to 3.1% (Week 50, 2021), surpassing the national baseline. This growth in ILI-related healthcare encounters reflects broader respiratory illness activity, contributing to the elevated future occurrences of 2084.  
+
+4. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) consistently remained well above the epidemic threshold throughout the 5 weeks, climbing from 14.5% in Week 46, 2021, to 18.8% in Week 50, 2021. This persistent PIC mortality signals widespread respiratory illness during this period, correlating strongly with the increased ILI activity in subsequent weeks.
+
+5. The dominance of Influenza A(H3N2), as observed in CDC data (e.g., 99.2% of positive specimens in Week 50, 2021), and its rising prevalence across age groups and regions suggest a robust virologic driver of influenza-like illness activity. Coupled with lower vaccination uptake compared to previous seasons, this trend likely contributed to the observed rise in future ILI occurrences.
+
+6. In summary, the reported future ILI occurrences of 2084 (Week 5, 2022) can be attributed to the persistent upward trend in ILI activity during Weeks 46–50, 2021, increasing outpatient ILI visits, sustained PIC mortality exceeding epidemic thresholds, and the dominance of Influenza A(H3N2) amidst lower vaccination rates. These factors collectively point to an intensifying flu season driving the subsequent surge in ILI occurrences.

@@ -1,0 +1,11 @@
+Week12, 2021
+1. Influenza activity remains unusually low, with only 0.1% of respiratory specimens testing positive for influenza.
+2. Clinical labs reported 20 positive specimens, with 45% being Influenza A and 55% Influenza B.
+3. Public health labs identified just one Influenza A specimen, with no subtype characterization; no Influenza B was detected.
+4. Outpatient visits for influenza-like illness (ILI) remain very low at 0.9%, well below the national baseline of 2.6%.
+5. ILI activity across all U.S. jurisdictions remains minimal, with stable trends across most age groups; only the 0–4 age group showed a slight increase.
+6. Cumulative hospitalization rates are extremely low at 0.7 per 100,000, one-seventh of the rate seen during the low-severity 2011–12 season.
+7. 11.4% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), primarily driven by COVID-19, exceeding the epidemic threshold of 7.0%.
+8. No pediatric deaths were reported for the week; one pediatric death has been reported this season.
+9. Vaccine remains the primary preventive measure for influenza, though no updates on vaccination trends were provided.
+10. CDC warns flu activity could increase in the coming months, impacted by overlapping COVID-19 trends and healthcare-seeking behavior changes during the pandemic.

@@ -1,0 +1,11 @@
+Week17, 2024
+1. Influenza activity is declining across the U.S., with 3.9% of respiratory specimens testing positive for influenza this week.
+2. Clinical labs reported 58.5% of positive specimens were Influenza A and 41.5% were Influenza B, while public health labs identified 64.3% Influenza A (33.3% A(H1N1)pdm09 and 66.7% A(H3N2)) and 35.7% Influenza B.
+3. The cumulative hospitalization rate is 79.8 per 100,000, with most hospitalizations caused by Influenza A (84.7%), particularly A(H1N1)pdm09.
+4. Mortality attributed to influenza decreased to 0.2% this week, with 10 pediatric deaths reported, bringing the season's total to 158.
+5. Outpatient visits for respiratory illness remain stable at 2.2%, below the national baseline, with all regions below their respective baselines.
+6. Vaccination recommendations continue; no significant new trends in vaccination rates were noted in the report.
+7. Influenza A and B are co-circulating, with significant regional variation and contributions from other respiratory illnesses like SARS-CoV-2 and RSV.
+8. The percentage of specimens testing positive for influenza decreased nationally, with variation by region; some regions remained stable.
+9. Among hospitalized individuals, the highest risk groups are adults ≥65 years, followed by those 50-64 years, and children aged 0-4 years.
+10. Overall flu activity is expected to continue declining as indicated by national and regional data trends during Week 17.

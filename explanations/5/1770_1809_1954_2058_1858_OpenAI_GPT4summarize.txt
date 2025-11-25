@@ -1,0 +1,9 @@
+1. The past time-series ILI occurrences over the 5 weeks displayed a fluctuating but overall downward trend, with values of ['1770', '1809', '1954', '2058', '1858']. Although there was an increase from 1770 (Week 18, 2022) to 2058 (Week 21, 2022), the final week (Week 22, 2022) saw a decline to 1858. This pattern indicates a potential waning of ILI activity by the end of the 5-week period, despite mid-period increases.
+
+2. A negative correlation between past and future ILI occurrences is evident, as the overall decline toward 1858 in Week 22, 2022, aligns with a significant drop to 1122 future occurrences by Week 27, 2022. The downward shift in Week 22 likely reflects the start of a broader decline in ILI-related activity that culminates 5 weeks later.
+
+3. The ILI percentage of outpatient visits (e.g., 2.3% in Week 18, gradually trending downward or remaining stable across the observed weeks) aligns with the lower future ILI occurrence of 1122. This stagnation or reduction of healthcare-seeking behavior likely contributed to the observed decline.  
+   Cumulative hospitalization rates rose slightly across Week 18 (13.4 per 100,000) to Week 22 (16.7 per 100,000), primarily affecting vulnerable populations (older adults and young children). However, these increases are more localized and do not seem to have fueled broader, future ILI growth.  
+   Respiratory virus co-infections (e.g., SARS-CoV-2) remained low—a consistent ~4.5%—across all weeks, minimizing compounded illness impacts that might have otherwise boosted future ILI numbers.
+
+4. In summary, the reported 1122 future ILI occurrences by Week 27, 2022, can be attributed to the notable overall decline in past ILI trends, low and stable outpatient visit percentages, limited impact of respiratory virus co-infections, and the subsiding contribution of late-season influenza activity. These factors collectively reduced ILI occurrences, resulting in the observed future decrease.

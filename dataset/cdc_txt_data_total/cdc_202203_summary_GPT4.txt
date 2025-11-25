@@ -1,0 +1,20 @@
+Week3, 2022
+- **Viruses, illness, and deaths**: Influenza virus circulation remains stable, primarily driven by Influenza A(H3N2). This week, 2.8% of outpatient visits were for respiratory illness, which is above the baseline. 0.8% of long-term care facilities reported ≥1 influenza-positive test. 28.4% of deaths attributed to pneumonia, influenza, or COVID-19 (primarily driven by COVID-19); 5 pediatric deaths reported this season but none this week.
+
+- **U.S. virologic surveillance**: 1.9% of specimens tested in clinical labs were positive for influenza, with 97.4% Influenza A (predominantly H3N2) and 2.6% Influenza B. Public health labs also report 99.8% Influenza A (100% H3N2 in week 3) and 0.2% Influenza B. Antiviral resistance remains very low with no significant changes.
+
+- **Cumulative hospitalization rate**: 4.3 hospitalizations per 100,000 population this season. The rate is higher than the entire 2020-2021 season but lower than pre-COVID seasons. Among hospitalizations, 94.2% involved Influenza A (99% H3N2).
+
+- **Trends of deaths attributed to influenza**: 28.4% of overall mortality attributed to pneumonia, influenza, or COVID-19, though currently driven more by COVID-19 than influenza. Minimal influenza deaths reported.
+
+- **Percentage of Influenza A and Influenza B**: Clinical and public health lab data confirm Influenza A as the dominant strain, accounting for 97.4%-99.8% of positive samples, primarily H3N2.
+
+- **Novel influenza virus like COVID-19 (SARS-CoV-2)**: No novel influenza viruses reported. 1.9% of influenza-associated hospitalized cases tested positive for SARS-CoV-2.
+
+- **Vaccination trends**: Flu vaccination coverage is lower this season compared to the prior year. CDC emphasizes that there is still time to get vaccinated to protect against influenza complications.
+
+- **Outpatient respiratory illness visits**: Respiratory illness visits for ILI were 2.8%, above the national baseline, with moderate to very high activity reported in 18 jurisdictions. Illness trends are declining across all age groups.
+
+- **Expectation of flu activity from CDC**: Influenza activity is expected to persist for several more weeks. Co-circulation of multiple respiratory viruses (e.g., influenza, RSV, SARS-CoV-2) varies regionally.
+
+- **Other key factors**: Influenza A(H3N2) evolves with some antigenic differences noted. Most H3N2 viruses remain genetically close to the vaccine strain, yet effectiveness may vary. The highest hospitalization rates are among adults ≥65 years. Underlying medical conditions are common in severe cases.

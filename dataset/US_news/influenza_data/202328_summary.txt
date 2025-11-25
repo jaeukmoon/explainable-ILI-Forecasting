@@ -1,0 +1,6 @@
+1. The study investigates an intranasal influenza-vectored COVID-19 vaccine that restrains the SARS-CoV-2 inflammatory response in hamsters.
+2. The vaccine induces innate immunity, trained immunity, and tissue-resident memory T cells in the upper and lower respiratory tract.
+3. It suppresses viral load and reduces pro-inflammatory cytokine levels, leading to less immune-induced tissue injury.
+4. The vaccine is a potential broad-spectrum COVID-19 vaccine strategy to reduce disease burden.
+5. Intranasal delivery of the vaccine induces local cellular immunity and trained immunity.
+6. The study highlights the importance of developing vaccines that provide respiratory tract protection and can combat SARS-CoV-2 variants.

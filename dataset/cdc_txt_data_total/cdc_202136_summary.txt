@@ -1,0 +1,15 @@
+The virologic surveillance system tracks the percentage of respiratory specimens testing positive for influenza in clinical laboratories and monitors the distribution of influenza virus types and subtypes in public health laboratories. As of week 36, the percentage of specimens testing positive for influenza in clinical laboratories was 2.3%. The influenza A and B viruses were circulating, with the majority being influenza A.
+
+Outpatient illness surveillance, specifically the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet), monitors the percentage of patient visits for influenza-like illness (ILI) compared to the national baseline. In week 36, 2.3% of patient visits reported through ILINet were due to ILI, which was below the national baseline of 2.6%. However, it should be noted that ILI data may be influenced by factors such as changes in healthcare-seeking behavior and circulation of other respiratory viruses.
+
+Geographic activity levels of influenza indicate the spread of the virus across states and territories. In week 36, most jurisdictions (41 states) reported minimal ILI activity, while three regions (Regions 3, 7, and 9) were above their region-specific baselines.
+
+Hospitalization surveillance through the Influenza Hospitalization Surveillance Network (FluSurv-NET) provides information on laboratory-confirmed influenza-related hospitalizations. Data on hospitalizations for the 2020-2021 season are not yet available.
+
+Mortality surveillance tracks pneumonia and influenza (P&I) mortality rates. In week 36, the percentage of deaths due to P&I was 21.0%, above the epidemic threshold of 5.5%. However, it should be noted that most of these deaths were primarily due to COVID-19 rather than influenza.
+
+No influenza-associated pediatric deaths were reported during week 36 of the 2020-2021 season. One influenza-associated pediatric death was reported during the season.
+
+In addition to national surveillance, international influenza surveillance is conducted through organizations such as the World Health Organization (WHO) and its collaborating centers. The CDC collaborates with WHO member nations and provides information on influenza activity in the United States.
+
+Overall, the data from virologic surveillance, outpatient illness surveillance, geographic spread, hospitalization, mortality, and pediatric mortality provide an understanding of the current influenza activity and help predict future occurrences. This information is essential for public health interventions and the development of preventive measures like vaccines and antiviral drugs.

@@ -1,0 +1,4 @@
+- An mRNA-based universal flu vaccine encoding antigens from all known influenza virus A and B subtypes showed promising results in animal models.
+- Subtypes of influenza A virus have caused pandemics in the past, and predicting the next pandemic subtype is challenging.
+- Predicting which influenza A and B virus subtypes will dominate each year for inclusion in seasonal vaccines is an ongoing challenge.
+- The development of a universal flu vaccine that can provide broad protection against different subtypes of the virus is a hopeful prospect for future flu prevention efforts.

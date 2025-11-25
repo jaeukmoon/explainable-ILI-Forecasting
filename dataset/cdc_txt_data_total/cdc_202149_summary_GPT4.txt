@@ -1,0 +1,20 @@
+Week49, 2021
+- **Viruses, illness, and deaths**: Influenza activity is increasing in the U.S., with Influenza A (H3N2) as the predominant virus. No pediatric influenza-associated deaths have been reported this season. 17.4% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), primarily due to COVID-19, above the epidemic threshold of 6.6%.
+
+- **U.S. virologic surveillance**: Clinical labs reported 3.5% of specimens positive for influenza; 98.6% were Influenza A, with 279 public health lab Influenza A detections identified as H3N2 (99.8%). Influenza B remains minimal at 1.4% of clinical lab positives and 0% of public health lab positives.
+
+- **Cumulative hospitalization rate**: FluSurv-NET has recorded 242 influenza-associated hospitalizations since October 2021. Hospital admissions for influenza have risen, with 1,057 reported in week 49. Full rates are pending stabilization of data.
+
+- **Trends of deaths attributed to influenza**: The percentage of deaths due to PIC is above the epidemic threshold, but influenza's contribution remains low compared to COVID-19.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounts for 98.6% of clinical lab positives and 100% of public health lab positives. Influenza B positivity is minimal (1.4% clinical labs; 0% public health labs).
+
+- **Novel influenza virus (like COVID-19)**: No reports of novel influenza viruses such as COVID-19 have been noted.
+
+- **Vaccination trends**: Early signs indicate influenza vaccination uptake is lower this season compared to the previous one. Flu vaccines remain available, with recommendations for everyone aged 6 months and older.
+
+- **Outpatient respiratory illness visits**: ILI accounted for 2.7% of outpatient visits nationwide, above the baseline. Respiratory illness activity has increased in all age groups and regions. Multiple respiratory viruses are circulating in addition to influenza.
+
+- **Expectation of flu activity from CDC**: Influenza activity is expected to increase, with eastern and central parts of the U.S. currently experiencing higher levels of circulation.
+
+- **Other key factors**: 0.5% of long-term care facilities reported influenza cases. Younger populations (ages 5-24) are most impacted, but cases among adults (25+) are rising. The flu season has just begun, with widespread co-circulation of other respiratory viruses like RSV and SARS-CoV-2.

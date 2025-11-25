@@ -1,0 +1,7 @@
+- Traditional influenza vaccines primarily induce a narrow antibody response that offers no protection against heterosubtypic infections.
+- Murine studies have shown that T cells can protect against a broad range of influenza strains.
+- Ferrets are a potent model for studying immune correlates of protection in influenza infection.
+- H1N1-priming induced systemic and respiratory T cells that responded against pandemic H2N2 in ferrets.
+- CD8-positive T cell responses in the upper and lower respiratory tract were exceptionally high.
+- H2N2-responsive T cells are present in healthy human blood donors.
+- These findings underline the importance of the T cell response in influenza immunity and show that T cells are a potent target for future universal influenza vaccines.

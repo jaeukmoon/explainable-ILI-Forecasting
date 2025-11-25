@@ -1,0 +1,11 @@
+Week20, 2022
+1. Influenza activity is increasing in some parts of the U.S., with 6.4% of clinical lab specimens testing positive, predominantly for Influenza A(H3N2).
+2. Influenza A accounted for 99.6% of clinical lab positive results and 100% of public health lab results this week; Influenza B remains rare at 0.4%.
+3. Outpatient visits for influenza-like illness (ILI) are at 2.4%, stable compared to the previous week and below baseline, with moderate to high activity in 8 jurisdictions.
+4. A cumulative hospitalization rate of 15.5 per 100,000 population was reported, with 3,039 new hospitalizations this week; older adults and very young children show the highest rates.
+5. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) reached 8.0%, above the epidemic threshold, with influenza contributing minimally to deaths.
+6. One pediatric death was reported this week, bringing the season's total to 25.
+7. Vaccination is ongoing, and the CDC continues to recommend influenza vaccination as most viruses are genetically similar to the vaccine strains, but antigenic differences are present.
+8. Co-circulation of respiratory viruses is noted, with 4.5% of influenza-positive samples also testing positive for SARS-CoV-2.
+9. Antiviral resistance remains negligible, with only one H3N2 virus showing reduced susceptibility to baloxavir.
+10. Late-season activity extends surveillance; future influenza activity may vary regionally and needs continuous monitoring.

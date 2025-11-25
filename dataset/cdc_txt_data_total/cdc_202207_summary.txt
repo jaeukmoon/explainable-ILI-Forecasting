@@ -1,0 +1,10 @@
+1. Influenza activity remains sporadic across the United States.
+2. Majority of the detected viruses are Influenza A(H3N2).
+3. The percentage of outpatient visits for respiratory illness, including ILI, remains below baseline.
+4. Hospitalization rates for influenza are higher than the previous season but lower than previous seasons before the COVID-19 pandemic.
+5. The mortality rate attributed to pneumonia, influenza, or COVID-19 is above the epidemic threshold.
+6. Only one influenza-associated pediatric death has been reported this season.
+7. The majority of circulating influenza viruses are susceptible to antiviral medications.
+8. Influenza activity varies by region and age group.
+9. Data collected from long-term care facilities show a low percentage of influenza-positive tests among residents.
+10. CDC recommends annual flu vaccination for everyone aged 6 months and older to protect against influenza and its complications.

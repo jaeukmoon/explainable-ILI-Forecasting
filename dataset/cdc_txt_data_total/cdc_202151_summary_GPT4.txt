@@ -1,0 +1,20 @@
+Week51, 2021
+- **Viruses, illness, and deaths**: Influenza activity is increasing nationwide; 6.2% of respiratory specimens tested positive for influenza. Influenza A(H3N2) predominates, accounting for 98.7% of clinical lab positives and 99.7% of public health lab positives. COVID-19 contributes significantly to pneumonia, influenza, and COVID-related deaths (19.2%), with 12 influenza-related deaths reported this week. No pediatric influenza-associated deaths were reported this week.
+
+- **U.S. virologic surveillance**: Clinical labs reported 98.7% of positive specimens as Influenza A, primarily H3N2, with 1.3% as Influenza B. Public health labs similarly reported 99.7% Influenza A, with H3N2 accounting for nearly all subtyped specimens.
+
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate is 1.8 per 100,000 population, more than double the rate of the same period during the previous flu season. A total of 1,825 influenza-related hospitalizations occurred this week.
+
+- **Trends of deaths attributed to influenza**: 19.2% of deaths were due to pneumonia, influenza, or COVID-19, above the epidemic threshold of 6.8%. Most were due to COVID-19, with limited influenza-related deaths.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A dominates at 98.7% in clinical labs and 99.7% in public health labs. Influenza B accounts for only 1.3% and 0.3%, respectively.
+
+- **Novel Influenza virus (like COVID-19)**: COVID-19 continues to contribute significantly to respiratory illness and PIC mortality. No novel influenza viruses have been reported.
+
+- **Vaccination trends**: Early signs indicate flu vaccine uptake is lower this season. CDC emphasizes vaccination for everyone 6 months and older; there’s still time to benefit from flu shots as flu activity increases.
+
+- **Outpatient respiratory illness visits**: 3.8% of outpatient visits were due to respiratory illness (above the national baseline), with increases in all age groups. Respiratory viruses including influenza, SARS-CoV-2, and others are co-circulating.
+
+- **Expectation of flu activity from CDC**: Influenza activity is expected to increase throughout the flu season. Vaccination and antiviral treatments are promoted to mitigate disease severity.
+
+- **Other key factors**: Moderate to very high ILI activity was observed in 31 jurisdictions; three jurisdictions reported very high activity. Eastern and central U.S. report higher influenza circulation than western states. Influenza disproportionately affects ages 5–24 but is increasingly infecting adults aged 25 and older. Genetic characterization shows H3N2 viruses are mostly related to the vaccine strain, though some antigenic differences are noted.

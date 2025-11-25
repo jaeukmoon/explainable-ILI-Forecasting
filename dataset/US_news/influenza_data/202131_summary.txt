@@ -1,0 +1,7 @@
+- Intradermal vaccination with a live attenuated influenza vaccine (DelNS1-LAIV) has been shown to provide effective and long-lasting protection against homologous and heterologous influenza challenges in mice.
+- A single intradermal injection of DelNS1-LAIV resulted in 100% survival and no weight loss in mice after A(H1N1)09 influenza virus challenge.
+- DelNS1-LAIV reduced lung viral load, airway epithelial cell death, and lung inflammation post-challenge.
+- The protection provided by intradermal DelNS1-LAIV lasted for 6 months after immunization.
+- The vaccine elicited strong immune responses, including activation of antigen-presenting cells and production of inflammatory cytokines/chemokines.
+- The protection induced by intradermal DelNS1-LAIV was mainly attributed to antibody responses.
+- Intradermal vaccination of LAIV offers an alternative route of administration that may benefit individuals who are not suitable for intranasal vaccination.

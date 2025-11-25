@@ -1,0 +1,13 @@
+1. The past time-series ILI occurrences over the 5 weeks showed a steady decline initially, followed by a minor rebound, with values of ['2058', '1858', '1595', '1399', '1543']. From Week 21, 2022 (2058 cases) to Week 24, 2022 (1399 cases), there was a consistent downward trend, reaching the lowest point in Week 24. However, Week 25, 2022, recorded a slight increase to 1543 cases, indicating potential stabilization or a pending increase in respiratory illness activity.
+
+2. A positive correlation between past and future ILI occurrences is evident, as the declining trend observed from Week 21 to Week 24, 2022, aligns with the reduction in future ILI occurrences after 5 weeks to 785 (Week 30, 2022). The slight rebound in Week 25 (1543 cases) likely represents the transitional phase leading to the low values reported 5 weeks later.
+
+3. A decline in outpatient visits for respiratory illnesses accompanied by a falling percentage of influenza positivity supports the reduced future ILI. Across Weeks 21–25, 2022, outpatient ILI visits decreased from 2.3% (Week 21) to 1.8% (Week 25), mirroring the overall trend in ILI occurrences.  
+    - Influenza positivity also dropped steeply, from 5.9% in Week 22 to 1.8% in Week 25, with Influenza A(H3N2) remaining dominant but with diminishing activity.  
+    - Coinfections with other respiratory viruses like SARS-CoV-2 and RSV declined, as indicated by reports from Week 22 (4.3% coinfection rate) to Week 25 (minimal activity), likely reducing overall ILI contributions.  
+   
+4. Late-season dynamics, regional variability, and vaccination mismatches among circulating H3N2 strains influenced ILI trends and predicted the decline. As influenza activity waned nationally (evidenced by minimal high activity jurisdictions in Week 25), the persistence of antigenic mismatches and vaccination hesitancy further contributed to suppressed ILI occurrences.
+
+5. Shifts in healthcare-seeking behaviors due to the pandemic disrupted ILI reporting patterns, complicating some observations. Nonetheless, reduced PIC (pneumonia, influenza, and COVID-19) activity noted in Week 25, 2022, directly aligns with the future reduction in ILI cases. Limited reporting of severe outcomes in high-risk populations (e.g., hospitalizations in children and the elderly) likely signals a true decline in respiratory illness burden.
+
+6. In summary, the future reduction to 785 ILI occurrences (Week 30, 2022) correlates with the declining past trend observed in Weeks 21–24, 2022. This was further reinforced by reduced outpatient visits, falling influenza positivity, waning influenza activity nationally, and diminished coinfections, compounded by pandemic-driven healthcare modifications and variable vaccination efficacy.

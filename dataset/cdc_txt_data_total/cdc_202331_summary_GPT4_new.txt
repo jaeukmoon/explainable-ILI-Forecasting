@@ -1,0 +1,13 @@
+Week31, 2023
+1. Influenza activity remains minimal in the U.S., with just 1.0% of specimens testing positive for influenza in clinical labs.
+2. Of the positive specimens reported by clinical labs, 55.9% were Influenza A and 44.1% were Influenza B; public health labs reported 64.0% Influenza A and 36.0% Influenza B, with all Influenza B being Victoria lineage.
+3. Outpatient visits for ILI accounted for 1.1% of all visits, remaining below the national baseline and varying by age group, with children aged 0-4 showing the highest percentage (4.1%).
+4. Hospital admissions for influenza included 638 laboratory-confirmed cases during Week 31.
+5. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) accounted for 5.9%, slightly exceeding the epidemic threshold of 5.6%; of these, 12 deaths were influenza-related.
+6. No influenza-associated pediatric deaths were reported this week, with 166 reported for the 2022-2023 season to date.
+7. Influenza A (H1N1)pdm09 accounted for 88.9% of subtyped Influenza A cases in public health labs, while H3N2 made up 11.1%.
+8. No novel influenza viruses, such as H3N2v or SARS-CoV-2 influenza-like viruses, were identified.
+9. Vaccination trends were not reported this week; CDC encourages annual influenza vaccination.
+10. Respiratory illness activity remains low across most jurisdictions, with 53 reporting "minimal" ILI activity and 1 reporting "low" activity.
+
+11. Summary insights indicate overall low influenza activity but continued monitoring of circulating viruses and PIC deaths remains critical.

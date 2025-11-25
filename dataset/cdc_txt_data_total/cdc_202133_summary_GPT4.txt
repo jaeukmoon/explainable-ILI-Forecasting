@@ -1,0 +1,20 @@
+Week33, 2021
+- **Viruses, illness, and deaths**: Influenza virus circulation remains low. 17.2% of deaths were attributed to pneumonia, influenza, and COVID-19 (PIC), primarily due to COVID-19 rather than influenza. Four deaths had influenza listed as an underlying cause. No pediatric influenza-associated deaths were reported during week 33.
+
+- **U.S. virologic surveillance**: Data indicates low influenza virus activity. Increases in ILI activity are attributed to the circulation of non-influenza respiratory viruses like COVID-19.
+
+- **Cumulative hospitalization rate**: FluSurv-NET excludes reported influenza-related hospitalizations after April 30, 2021; no updated data on influenza hospitalizations for week 33.
+
+- **Trends of deaths attributed to influenza**: PIC deaths remain above the epidemic threshold (5.4%) due to COVID-19, with limited influenza-related mortality.
+
+- **Percentage of Influenza A and Influenza B**: No detailed subtype data provided; low influenza activity noted overall.
+
+- **Novel influenza virus (like COVID-19)**: COVID-19 significantly influences PIC data and causes higher respiratory illness rates. No other novel influenza viruses reported.
+
+- **Vaccination trends**: No updates on flu vaccination data, though vaccination against influenza remains a key preventive measure.
+
+- **Outpatient respiratory illness visits**: Nationwide, 2.2% of outpatient visits were due to ILI, below the 2.6% baseline. Region 4 exceeded its baseline, while all other regions were below theirs. Increases were linked to respiratory viruses other than influenza.
+
+- **Expectation of flu activity from CDC**: CDC notes low influenza circulation but highlights increasing ILI activity due to non-influenza respiratory viruses.
+
+- **Other key factors**: ILI rates have been increasing over at least four weeks, particularly in the 0–4 and 5–24 age groups. Local variations in activity levels show relatively few "high" or "moderate" areas, with most regions experiencing "minimal" activity.

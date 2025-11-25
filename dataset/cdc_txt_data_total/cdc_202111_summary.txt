@@ -1,0 +1,17 @@
+Based on the weekly U.S. Influenza Surveillance Reports from the CDC, the following key facts regarding predicting future ILI occurrence can be summarized:
+
+1. Virologic Surveillance: The percentage of respiratory specimens testing positive for influenza in clinical laboratories remains low (0.1%) and public health labs report unusually low numbers of positive influenza specimens.
+
+2. Outpatient Illness Surveillance: ILI activity remains below the national baseline (0.9% of patient visits) but increased slightly from the previous week. ILI activity levels may be impacted by the COVID-19 pandemic and should be interpreted with caution.
+
+3. Geographic Spread: Minimal ILI activity was reported in all jurisdictions, with no reports of widespread or high activity. ILI activity levels may be impacted by the COVID-19 pandemic and should be interpreted with caution.
+
+4. Severe Disease: Hospitalization rates for influenza remain low compared to previous seasons. Pneumonia, influenza, and/or COVID-19 (PIC) accounted for 12.1% of deaths, above the epidemic threshold. However, the majority of PIC deaths were due to COVID-19 rather than influenza.
+
+5. Pediatric Deaths: No influenza-associated pediatric deaths have been reported during the current season.
+
+6. Influenza Virus Characterization: Data on genetic and antigenic characterization of circulating influenza viruses will be reported later this season.
+
+7. Key Messages from CDC: CDC expects flu activity to remain low but may increase in the coming months. Annual flu vaccination is the best way to protect against influenza.
+
+It is important to note that the ILI activity and other surveillance data may be impacted by the ongoing COVID-19 pandemic, and caution should be exercised when interpreting the results.

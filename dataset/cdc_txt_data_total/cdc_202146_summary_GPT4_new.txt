@@ -1,0 +1,11 @@
+Week46, 2021
+1. National influenza activity remains low, but laboratory-confirmed detections and outpatient visits for ILI have increased recently.
+2. 1.0% of specimens tested by clinical labs were positive for influenza, and 93.7% of these were Influenza A, with Influenza B constituting 6.3%.
+3. Public health labs reported 125 positive specimens, 98.4% of which were Influenza A, primarily subtype A(H3N2).
+4. ILI visits accounted for 2.2% of outpatient healthcare visits, still below the national baseline of 2.5%.
+5. No pediatric influenza deaths have been reported for the 2021-2022 season.
+6. Pneumonia, influenza, or COVID-19 (PIC) accounted for 14.5% of deaths, significantly exceeding the epidemic threshold of 6.3%, primarily linked to COVID-19.
+7. Vaccination distribution has reached 166.9 million doses in the U.S. as of November 19, 2021, with continued encouragement for flu vaccination.
+8. A novel Influenza A virus infection (H1 variant) was reported in Oklahoma, linked to swine exposure but with no human-to-human transmission identified.
+9. 356 patients were hospitalized with laboratory-confirmed influenza during the week.
+10. Increasing ILI activity among the age group of 5-24 years and dominance of A(H3N2) are noted trends for monitoring future flu activity.

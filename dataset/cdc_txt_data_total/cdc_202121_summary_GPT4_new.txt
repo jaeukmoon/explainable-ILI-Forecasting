@@ -1,0 +1,11 @@
+Week21, 2021
+1. Influenza activity remains minimal nationwide, with 1.1% of outpatient visits attributed to ILI, well below the national baseline of 2.6%.
+2. Clinical labs reported a low number of positive specimens for influenza; no clear trend was noted in the circulating virus types.
+3. Five novel Influenza A virus cases, including three H1N1v, one H1N2v, and one H3N2v, have been identified this season, all linked to swine exposure and showing no human-to-human transmission.
+4. No pediatric deaths due to influenza were reported for the current season, and overall mortality from pneumonia, influenza, and COVID-19 (PIC) was at 8.3%, higher than the epidemic threshold of 6.2%.
+5. Public health labs continue to conduct virologic surveillance, but the proportion of Influenza A and B subtypes was not explicitly detailed in this report.
+6. No influenza-related hospitalization rates were updated, as data on cases post-April 30, 2021, are not currently included.
+7. COVID-19 continues to influence healthcare-seeking behaviors, leading to caution in interpreting ILI data from alternative care settings.
+8. Vaccination trends were not highlighted, and the CDC continues to recommend annual influenza vaccination.
+9. Geographic spread of influenza is not assessed this season due to reliance on impacted ILI data.
+10. Future influenza activity remains difficult to predict due to low current activity and the healthcare system's concurrent focus on COVID-19 surveillance.

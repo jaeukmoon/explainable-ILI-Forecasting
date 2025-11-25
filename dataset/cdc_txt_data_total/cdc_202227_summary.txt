@@ -1,0 +1,9 @@
+First, virologic surveillance plays a critical role by monitoring the percentage of specimens tested that are positive for influenza in both clinical and public health laboratories. For week 27, 0.7% of specimens tested in clinical labs and 0.3% of specimens tested in public health labs were positive for influenza.
+Outpatient respiratory illness surveillance, conducted through the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet), monitors the percentage of patient visits for respiratory illness that includes fever plus a cough or sore throat. During week 27, 1.7% of visits reported through ILINet were due to respiratory illness.
+ILI activity varied by jurisdiction, with some reporting minimal ILI activity while others reported low, moderate, or high activity levels.
+The geographic spread of influenza, as reported by state and territorial epidemiologists, indicated local activity in some states, sporadic activity in others, and no activity in a few states.
+Hospitalization surveillance through FluSurv-NET and HHS Protect provides data on laboratory-confirmed influenza-related hospitalizations, but specific weekly data was not provided in the report.
+Mortality surveillance indicated that 8.8% of deaths during week 27 were due to pneumonia, influenza, and/or COVID-19 (PIC). Among the PIC deaths, most were attributed to COVID-19 rather than influenza.
+No influenza-associated pediatric deaths were reported during week 27, but a total of 32 influenza-associated pediatric deaths occurred during the 2021-2022 season.
+The report also provides links to additional national and international influenza surveillance information, including FluView Interactive, WHO FluNet, and surveillance data from various countries and regions.
+Overall, the report provides a snapshot of influenza activity at a specific point in time and highlights the importance of surveillance systems in monitoring and tracking the spread of influenza.

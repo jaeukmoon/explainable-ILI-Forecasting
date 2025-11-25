@@ -1,0 +1,11 @@
+Week20, 2023
+1. Influenza activity remains low nationally; 1.1% of clinical specimens tested positive for influenza this week, stable from the previous week.
+2. Public health labs reported 36 positive specimens, with 36.1% Influenza A (all A(H1N1)pdm09) and 63.9% Influenza B (Victoria lineage).
+3. Outpatient visits for influenza-like illness (ILI) accounted for 2.0%, below the national baseline of 2.5%, with stable trends across age groups and regions.
+4. Hospitalizations this week were 939, contributing to a cumulative rate of 62.6 per 100,000, with the highest rates in adults aged 65+ and children aged 0-4 years.
+5. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) accounted for 6.5%, slightly above the epidemic threshold; 15 deaths were influenza-associated.
+6. Two influenza-associated pediatric deaths were reported this week for a total of 154 this season.
+7. Influenza A accounted for 98% of infections this season, with A(H3N2) dominating overall, while B comprised only 2% of total cases (mostly Victoria lineage).
+8. CDC reported all tested viruses were susceptible to antiviral medications, except one A(H1N1)pdm09 virus with reduced inhibition to oseltamivir.
+9. CDC recommends annual flu vaccination; this season’s vaccine is reported to be antigenically similar to circulating strains, with no new vaccination trends highlighted.
+10. Co-circulation of multiple respiratory pathogens, including SARS-CoV-2, impacts respiratory illness patterns, with 3.7% of flu-associated hospitalizations also positive for COVID-19.

@@ -1,0 +1,5 @@
+- Co-infection of SARS-CoV-2 and influenza virus in hamsters leads to more severe and prolonged pneumonia.
+- Each virus can efficiently spread in the lungs without interference from the other.
+- SARS-CoV-2 and influenza virus do not appear at the same sites in the respiratory organs of co-infected hamsters, suggesting they may have different cell tropisms or inhibit each other's infection.
+- Co-infected hamsters show a significant increase in IL-6 levels, indicating that IL-6 may play a role in the increased severity of pneumonia.
+- The results suggest that co-infection of SARS-CoV-2 and influenza virus can pose serious health risks and caution should be taken in such cases.

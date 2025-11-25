@@ -1,0 +1,20 @@
+Week14, 2022
+- **Viruses, Illness, and Deaths**: Influenza activity increased nationally, highest in central and south-central regions, with influenza A(H3N2) predominating. 7.1% of deaths were attributed to pneumonia, influenza, or COVID-19 (above the epidemic threshold). Three pediatric deaths were reported this week, totaling 19 so far this season. CDC estimates 4.3 million illnesses, 42,000 hospitalizations, and 2,500 deaths from influenza this season.
+
+- **U.S. Virologic Surveillance**: Clinical labs reported 8.4% positivity this week, with 99.3% of positive specimens being influenza A and 0.7% influenza B. Public health labs reported 100% of positive specimens as influenza A, with 99.9% of subtyped influenza A being H3N2.
+
+- **Cumulative Hospitalization Rate**: FluSurv-NET reported a cumulative hospitalization rate of 8.9 per 100,000, higher than the 2020-2021 season but lower than pre-COVID seasons. Adults aged 65+ (25.0 per 100,000) and children 0-4 years (12.3 per 100,000) had the highest rates.
+
+- **Trends of Deaths Attributed to Influenza**: Mortality data shows 7.1% of deaths were due to pneumonia, influenza, or COVID-19, mainly driven by COVID-19, with only 19 deaths caused by influenza.
+
+- **Percentage of Influenza A and B**: Clinical labs show 99.3% of influenza cases are influenza A, while influenza B constituted 0.7%. Public health labs reported 100% influenza A cases.
+
+- **Novel Influenza Virus (COVID-19)**: 5.1% of flu-positive tests by public health labs were also positive for SARS-CoV-2. Co-infections were observed among 3.0% of hospitalized influenza patients.
+
+- **Vaccination Trends**: CDC continues to advocate flu vaccination for anyone aged 6 months or older. Vaccination is emphasized as effective protection against severe outcomes.
+
+- **Outpatient Respiratory Illness Visits**: Nationwide, 2.0% of outpatient visits were due to respiratory illness (below baseline). Seven regions had rates below their baselines, with contributions coming from multiple respiratory viruses.
+
+- **Expectation of Flu Activity from CDC**: Influenza activity is expected to continue increasing in some regions, particularly in areas already seeing high activity.
+
+- **Other Key Factors**: H3N2 viruses showed antigenic differences while being genetically close to vaccine strains. High hospitalization rates occurred among individuals with underlying conditions, particularly older adults and children. Trends suggest an ongoing increase in hospital admissions over the past 10 weeks.

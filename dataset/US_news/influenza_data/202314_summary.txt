@@ -1,0 +1,8 @@
+- Seasonal influenza outbreaks continue to be a public health concern, causing hospitalizations and deaths among high-risk groups.
+- Understanding the transmission dynamics of influenza is crucial for designing effective control measures and reducing the burden of outbreaks.
+- A study analyzed surveillance data from Kamigoto Island, Japan, a semi-isolated island population, to identify drivers of influenza transmission during outbreaks.
+- Pre-school and school-aged children were found to be at the highest risk of getting infected with influenza.
+- The number of imported cases was consistently higher in the most populated and busy districts on the island.
+- Lower local vaccination coverage and higher number of inhabitants in districts were associated with more secondary transmissions.
+- Being younger than 18 years old and infection with influenza type A were also associated with higher numbers of onwards transmissions.
+- Individual vaccination status did not show an association with onwards transmissibility.

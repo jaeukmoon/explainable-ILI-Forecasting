@@ -1,0 +1,8 @@
+Influenza Antiviral Medications: 
+
+- Antiviral treatment is recommended for patients with suspected or confirmed influenza who are hospitalized, have severe or progressive illness, or are at higher risk for complications.
+- Empiric antiviral treatment should be initiated as soon as possible for these priority groups, and treatment should not wait for laboratory confirmation of influenza virus infection.
+- For hospitalized patients, oral or enterically administered oseltamivir is recommended as the initiation of antiviral treatment.
+- For outpatients with complications or progressive disease, oral oseltamivir is recommended.
+- For outpatients with uncomplicated influenza, oral oseltamivir, inhaled zanamivir, intravenous peramivir, or oral baloxavir may be used, depending on age groups and contraindications.
+- During periods of co-circulation of influenza viruses and SARS-CoV-2, empiric antiviral treatment for influenza is recommended for hospitalized patients with respiratory illness, outpatients with severe or progressive respiratory illness, and outpatients at higher risk for complications who present with acute respiratory illness symptoms.

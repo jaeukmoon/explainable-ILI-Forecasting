@@ -1,0 +1,11 @@
+Week43, 2022
+- **Viruses, illness, and deaths**: Influenza activity is increasing nationwide, with Influenza A(H3N2) as the predominant virus. 9.1% of deaths were due to pneumonia, influenza, or COVID-19 (above the epidemic threshold of 6.0%). Two influenza-associated pediatric deaths were reported, one during the current season and one from the prior season.  
+- **U.S. virologic surveillance**: Clinical labs reported 9.0% of specimens positive for influenza, with 98.9% Influenza A and 1.1% Influenza B. Public health labs found 99.8% of positive specimens as Influenza A, predominately H3N2 (66.3%), followed by H1N1pdm09 (33.8%).  
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate is 2.9 per 100,000, the highest observed at week 43 since 2010-2011. The highest rates are among individuals aged ≥65 years (6.3) and children aged 0-4 years (5.5).  
+- **Trends of deaths attributed to influenza**: 9.1% of deaths are due to pneumonia, influenza, or COVID-19 (PIC), driven primarily by COVID-19. Only 29 deaths attributed to influenza this week.  
+- **Percentage of Influenza A and Influenza B**: Influenza A constitutes 98.9% of clinical lab positives and 99.8% of public health lab positives, with H3N2 being the dominant subtype. Influenza B remains minimal at 1.1% and 0.2% in clinical and public health labs, respectively.  
+- **Novel Influenza virus (e.g., COVID-19)**: A human infection with a novel Influenza A(H3N2)v virus was reported in New Mexico, associated with swine exposure. No person-to-person transmission was detected.  
+- **Vaccination trends**: CDC emphasizes annual flu vaccination as critical, with recommendations for everyone aged 6 months and older.  
+- **Outpatient respiratory illness visits**: 4.3% of outpatient visits were for influenza-like illness (ILI), above the national baseline of 2.5%. High or very high ILI activity was reported in 19 jurisdictions, while 4 reported moderate activity.  
+- **Expectation of flu activity from CDC**: Flu activity is expected to continue increasing, with higher incidence in the southeastern, south-central, and mid-Atlantic U.S. regions.  
+- **Other key factors**: Multiple respiratory viruses, including SARS-CoV-2 and RSV, are co-circulating. Long-term care facilities reported 0.8% positivity for influenza among residents.

@@ -1,0 +1,20 @@
+Week3, 2024
+- **Viruses, illness, and deaths**: Influenza activity remains elevated nationwide. Of public health lab-tested viruses, 83.1% were Influenza A (71.4% A(H1N1), 28.6% A(H3N2)), and 16.9% were Influenza B. 14.2% of respiratory specimens tested positive overall. There were 10 pediatric deaths this week, totaling 57 this season. Influenza has caused 18 million illnesses, 210,000 hospitalizations, and 13,000 deaths cumulatively this season.  
+ 
+- **U.S. Virologic Surveillance**: Influenza A(H1N1)pdm09 predominated. Influenza positivity rates varied regionally, with highest rates in Regions 6 (25.1%), 8 (20.0%), and 5 (15.7%).  
+
+- **Cumulative hospitalization rate**: Hospitalization rate is 43.3 per 100,000 population this season, the second highest for Week 3 since the 2010-2011 season. Older adults (65+) have the highest rate (115.9 per 100k).  
+
+- **Trends of deaths attributed to influenza**: 1.1% of deaths this week were attributed to influenza, a decrease from last week.  
+
+- **Percentage of Influenza A/B**: 78.0% of clinical lab positives and 83.1% of public health lab positives were Influenza A; remaining were Influenza B. Victoria lineage accounted for all detected Influenza B lineage cases.  
+
+- **Novel Influenza Virus**: No novel influenza viruses (e.g., H3N2v, Yamagata) or COVID-19-related changes were detected.  
+
+- **Vaccination trends**: CDC urges vaccination for everyone 6 months and older as viruses continue spreading.  
+
+- **Outpatient respiratory illness visits**: 4.3% of outpatient visits were for respiratory illness, above the 2.9% baseline. Most regions showed decreased activity, except Region 6, which remained stable. Moderate, high, or very high activity was reported in 34 jurisdictions.  
+
+- **Expectation of flu activity from CDC**: Influenza activity remains elevated but has stabilized or declined overall, except possible late-season resurgence post-holidays.  
+
+- **Other key factors**: Co-circulating respiratory viruses (RSV and COVID-19) contribute to ILI cases. Multiple hospitalizations are associated with preexisting conditions, notably among older adults and children with conditions like asthma and neurological diseases.

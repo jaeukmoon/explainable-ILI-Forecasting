@@ -1,0 +1,22 @@
+Week26, 2022
+- **Viruses, illness, and deaths:** Influenza activity is low; 1.4% of specimens tested in clinical labs were positive, with 97.3% Influenza A and 2.7% Influenza B. 12 influenza deaths occurred, while the majority of pneumonia, influenza, and COVID-19 (PIC) deaths (8.8%) are attributed to COVID-19 rather than influenza. One pediatric influenza-associated death (Influenza B) was reported.
+
+- **U.S. virologic surveillance:** Public health labs reported 97.7% of positive specimens as Influenza A (100% H3N2) and 2.3% as Influenza B. Cumulatively, 98.5% of positive specimens were Influenza A and 1.5% Influenza B.
+
+- **Cumulative hospitalization rate:** No cumulative hospitalization data were explicitly provided for week 26, but 964 new lab-confirmed influenza hospitalizations were reported.
+
+- **Trends of deaths attributed to influenza:** Influenza accounts for a very small proportion of PIC deaths this week (12 deaths), with COVID-19 dominating mortality trends.
+
+- **Percentage of Influenza A and Influenza B:** Influenza A made up 97.3% of clinical lab positives and 97.7% of public health lab positives, while Influenza B accounted for 2.7% and 2.3%, respectively.
+
+- **Novel influenza virus (like COVID-19):** No new novel influenza viruses (e.g., H3N2v) have been reported.
+
+- **Vaccination trends:** No vaccination data or updates were provided in this report.
+
+- **Outpatient respiratory illness visits:** 1.7% of outpatient visits were due to ILI (fever plus cough/sore throat). ILI percentages by age group were highest in children aged 0-4 years (7.4%).
+
+- **Expectation of flu activity from CDC:** Flu activity remains low, and no specific projections for the coming weeks were shared.
+
+- **Other key factors:** Only 0.2% of long-term care facilities reported influenza-positive residents. Minimal ILI activity was observed in most jurisdictions, though one area reported high activity.
+
+This data supports the consistent dominance of Influenza A (H3N2) and very limited impact of Influenza B. PIC mortality remains heavily driven by COVID-19 rather than influenza. Future ILI trends could focus on age-specific impacts and regional activity variations.

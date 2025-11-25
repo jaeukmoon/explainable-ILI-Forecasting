@@ -1,0 +1,11 @@
+Week30, 2023
+1. Influenza activity remained minimal nationwide, with 1.0% of clinical lab specimens testing positive; 54.2% were Influenza A and 45.8% were Influenza B.
+2. Public health labs reported low positivity, with 64.3% Influenza A (93.7% H1N1 and 6.3% H3N2) and 35.7% Influenza B (Victoria lineage exclusively).
+3. Outpatient visits for ILI accounted for 1.2% of visits, with higher percentages in children under 5 years (4.2%) but minimal activity overall.
+4. Two novel Influenza A variant cases (H3v and H1N2v) linked to swine exposure were reported, with no sustained human-to-human transmission observed.
+5. Hospitalization rates included 649 admissions for laboratory-confirmed influenza, while surveillance for FluSurv-NET concluded data collection for this season.
+6. Mortality surveillance reported 5.7% of deaths due to pneumonia, influenza, and/or COVID-19, slightly exceeding the epidemic threshold (5.6%). Influenza contributed to four deaths.
+7. Two pediatric deaths associated with Influenza A (H1N1) were added to the cumulative total of 166 for the 2022-23 season.
+8. Multiple respiratory viruses, including RSV and SARS-CoV-2, continue to co-circulate and contribute to respiratory illness visits.
+9. Vaccination updates or trends were not explicitly mentioned in the report.
+10. CDC projections for future flu activity remain unquantified but emphasize ongoing surveillance and preparedness.

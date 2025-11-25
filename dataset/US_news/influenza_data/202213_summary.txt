@@ -1,0 +1,6 @@
+- The COVID-19 pandemic has caused global suppression of influenza circulation due to public health measures and travel restrictions.
+- The influenza B/Yamagata lineage has not been detected since April 2020, and other influenza lineages (A(H3N2), A(H1N1), and B/Victoria) have circulated with less genetic diversity.
+- Regional outbreaks of influenza A(H3N2) have been confined to South and Southeast Asia, B/Victoria to China, and A(H1N1) to West Africa.
+- The suppression of global influenza transmission is causing seasonal influenza transmission lineages to perish globally, except in these select hotspots.
+- Waning population immunity and sporadic case detection will pose challenges for influenza vaccine strain selection and epidemic control.
+- It is important to consider the short- and long-term evolutionary dynamics of seasonal influenza and potential consequences as global travel gradually returns to pre-pandemic levels.

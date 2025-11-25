@@ -1,0 +1,11 @@
+Week31, 2024
+1. Influenza activity remains low nationally, with only 0.6% of respiratory specimens testing positive for influenza in clinical labs.
+2. Of the 172 clinical lab specimens testing positive, 84.3% were Influenza A and 15.7% were Influenza B.
+3. Public health labs detected 50 positive specimens; 98% were Influenza A, with subtypes H1N1 (42.2%) and H3N2 (57.8%) co-circulating, and 2% were Influenza B (all Victoria lineage).
+4. No influenza-associated pediatric deaths were reported this week, with cumulative deaths for the season at 188.
+5. FluSurv-NET reported no influenza-related hospitalizations for Week 31, with a cumulative total of 25,317 this season.
+6. Outpatient visits for ILI accounted for 1.5% of healthcare visits, staying below the national baseline.
+7. One human infection with Influenza A(H3N2)v was reported, with no severe outcomes or transmission to close contacts.
+8. CDC reports ongoing circulation of multiple respiratory viruses, including influenza, SARS-CoV-2, and RSV, potentially impacting ILI trends.
+9. Antiviral susceptibility testing shows a small presence of resistant strains, with high resistance to adamantanes observed in Influenza A.
+10. Future flu activity remains uncertain due to the interplay of several respiratory viruses and variations in regional influenza patterns.

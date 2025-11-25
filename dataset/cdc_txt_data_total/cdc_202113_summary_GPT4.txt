@@ -1,0 +1,20 @@
+Week13, 2021
+- **Viruses, illness, and deaths**: Influenza activity remains unusually low for this time of year. Only 0.1% of respiratory specimens tested positive for influenza in clinical labs. Influenza A accounted for 60% of positives, and Influenza B for 40%. One pediatric death has been reported this season. 11.4% of all deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), primarily due to COVID-19, above the epidemic threshold of 7.0%. 
+
+- **U.S. virologic surveillance**: Positive influenza specimens are unusually low. Public health labs report 80% Influenza A (137 cumulative) and 20% Influenza B (88 cumulative).
+
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate is 0.7 per 100,000 population, significantly lower than previous seasons' rates, including the low-severity 2011-12 season.
+
+- **Trends of deaths attributed to influenza**: Current PIC deaths are mostly attributed to COVID-19, with very few due to influenza, reflecting much lower-than-average influenza-associated mortality.
+
+- **Percentage of Influenza A and Influenza B**: Clinical labs report 60% Influenza A and 40% Influenza B. Public health labs indicate a similar split with 80% Influenza A and 20% Influenza B.
+
+- **Novel influenza virus (like COVID-19)**: No novel influenza viruses have been reported.
+
+- **Vaccination trends**: Flu vaccination continues to be emphasized as the best preventive measure against influenza.
+
+- **Outpatient respiratory illness visits**: ILI visits account for 1.0% of patient visits, below the national baseline of 2.6%. All jurisdictions report minimal ILI activity, but Region 8 experienced a slight increase. Young children (0-4 years) show increasing ILI trends, while other age groups remain stable or decline.
+
+- **Expectation of flu activity from CDC**: CDC expects low flu activity to continue but cautions it may rise in the coming months.
+
+- **Other key factors**: The impact of COVID-19 on healthcare-seeking behavior means ILI data should be interpreted with caution. Data suggest little contribution of influenza to mortality or hospitalization during this season.

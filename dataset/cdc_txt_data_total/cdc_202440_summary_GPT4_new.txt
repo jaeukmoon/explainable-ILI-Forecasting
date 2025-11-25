@@ -1,0 +1,11 @@
+Week40, 2024
+1. Seasonal influenza activity remains low, with 0.7% of clinical specimens testing positive for influenza and stable positivity rates overall, except for a slight increase in Region 10.
+2. Of the 380 clinical lab positive specimens, 87.6% were Influenza A and 12.4% Influenza B; all 56 public health lab positives were Influenza A, with 55.8% A(H1N1)pdm09 and 44.2% A(H3N2).
+3. Two cases of human infections with Influenza A(H5) were reported; both were dairy farm workers and associated with an ongoing outbreak of avian HPAI A(H5N1) virus.
+4. No pediatric deaths from influenza were reported for the 2024-2025 season; influenza caused 0.06% of total deaths for Week 40, a stable trend.
+5. Outpatient visits for influenza-like illness (ILI) were 1.9%, stable compared to the previous week and below the national baseline of 3.0%, though showing slight regional variations.
+6. Hospitalization rates for influenza were 0.0 per 100,000 population, with 15 confirmed cases reported since the start of October.
+7. Genetic and antigenic characterization showed strong alignment of circulating strains with the 2024-2025 vaccine components; resistance to oseltamivir and peramivir was observed in 0.4% of A(H1N1)pdm09 viruses.
+8. Vaccination efforts were emphasized, with recommendations for all individuals aged six months and older to be vaccinated by the end of October.
+9. COVID-19, RSV, and other respiratory viruses are contributing to overall respiratory illness levels, complicating the attribution of symptoms solely to influenza.
+10. Ongoing surveillance of avian influenza outbreaks in domestic animals and human cases is critical for assessing risks of novel virus transmission.

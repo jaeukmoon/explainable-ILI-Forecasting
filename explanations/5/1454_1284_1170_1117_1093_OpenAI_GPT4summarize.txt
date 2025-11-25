@@ -1,0 +1,13 @@
+1. The past time-series ILI occurrences over the 5 weeks showed a consistent, gradual decline, with values of ['1454', '1284', '1170', '1117', '1093']. This decline suggests a steady reduction in ILI activity during the observed period, culminating at 1093 in Week 5, 2021, the lowest value in the series. This trend signifies suppressed overall respiratory illness activity likely influenced by broader epidemiological factors.
+
+2. A negative correlation between past and future ILI occurrences is observed, as the continuous decline during Weeks 1–5 of 2021 starkly contrasts with the sudden drop to 949 future ILI occurrences by Week 10, 2021. The reduction observed in Week 5 serves as a precursor to further suppressed ILI figures, with no indications of a reversal in activity uptick.
+
+3. Outpatient ILI visits showed consistent decreases over the period, from 1.7% (Week 1, 2021) to 1.1% (Week 5, 2021), all well below the national baseline of 2.6%. This decreasing trend suggests diminished healthcare encounters for respiratory illnesses, reinforcing the suppressed future ILI trajectory.
+
+4. Low influenza positivity rates in clinical and public health labs were key contributing factors. Weekly influenza positivity rates remained far below expectations (e.g., 0.4% in Week 1 and 0.1% by Weeks 4 and 5, 2021). This absence of significant influenza activity played a decisive role in driving down ILI figures, including the future occurrence of 949.
+
+5. COVID-19-related impacts overwhelmingly influenced ILI reporting and healthcare-seeking behavior. Repeated notes on alternative care settings and disrupted traditional ILI surveillance throughout all CDC reports suggest underreporting or shifts in illness dynamics, contributing to the historically low ILI rates.
+
+6. Despite some variability in influenza A and B detections (e.g., 52.2% Influenza A in Week 2, 2021, versus higher Influenza B activity in Week 4, 2021), overall testing indicated extremely low case numbers, with cumulative hospitalizations (0.6 per 100,000 population by Week 5) reflecting historically subdued respiratory illness activity, driving the observed drop to 949.
+
+7. In summary, the reported 949 future ILI occurrences (Week 10, 2021) are attributable to the consistent downward trend in Weeks 1–5, reduced outpatient ILI visits, minimal influenza positivity rates, disruption due to COVID-19 impacts, and historically low respiratory illness activity, all consistently suppressing ILI metrics.

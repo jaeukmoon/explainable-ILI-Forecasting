@@ -1,0 +1,5 @@
+- The study focuses on visualizing and quantifying antibody-virus interactions for antibodies targeting the influenza hemagglutinin stem.
+- The researchers developed a form of antigenic cartography called a "neutralization landscape" to analyze the composition and functional properties of stem antibodies.
+- The landscape helps to understand the tradeoff between potency and breadth of antibodies in neutralizing the influenza virus.
+- The framework can be used to analyze how an individual's antibody repertoire evolves after vaccination or infection.
+- The study highlights the complexity of the immune landscape and the challenges in quantifying the effectiveness of antibody mixtures.

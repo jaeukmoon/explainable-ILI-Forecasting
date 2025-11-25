@@ -1,0 +1,11 @@
+Week35, 2024
+1. National influenza activity remains low, with 0.4% of respiratory specimens testing positive for influenza this week.
+2. Of the 147 positive specimens in clinical labs, 85.7% were Influenza A and 14.3% Influenza B; public health labs reported 55 positives, with 96.4% Influenza A and 3.6% Influenza B.
+3. Subtype distribution in public health labs includes 61.7% A(H1N1)pdm09 and 38.3% A(H3N2), with no H5 or other novel subtypes detected this week.
+4. Outpatient visits for respiratory illness are at 1.8%, below the national baseline, with no jurisdictions reporting moderate or higher activity.
+5. Weekly hospitalization rates for influenza are at 0 per 100,000, and cumulative counts show 25,405 total cases this season, 84.6% associated with Influenza A.
+6. Deaths attributed to influenza account for 0.06% of reported mortality, with one pediatric death bringing the season's total to 195.
+7. Influenza vaccinations continue to be recommended, though no significant vaccination trend updates were noted in this report.
+8. No new human infections of novel influenza A viruses were reported this week, though 13 cases of avian influenza A(H5) have been documented this season.
+9. Antiviral resistance remains low, with minor cases of reduced susceptibility observed for oseltamivir, peramivir, and baloxavir in specific subtypes.
+10. CDC advises ongoing monitoring due to co-circulation of seasonal influenza, COVID-19, and RSV, which may affect future ILI occurrences.

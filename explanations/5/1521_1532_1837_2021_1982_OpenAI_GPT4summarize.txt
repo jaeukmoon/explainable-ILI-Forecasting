@@ -1,0 +1,11 @@
+1. The past time-series ILI occurrences over the 5 weeks showed a fluctuating trend with an overall increase, progressing from 1521 (Week 8, 2021) to a peak of 2021 (Week 11, 2021) before slightly declining to 1982 in Week 12, 2021. These observations highlight an upward trajectory, despite a minor dip in the final week, suggesting heightened ILI activity toward the later weeks of the period.
+
+2. A positive correlation is observed between past and future ILI occurrences, as the elevated values toward the later weeks of the past data (Weeks 10–11, 2021) align with the reported future increase to 1816 occurrences after 5 weeks. The stable to elevated ILI values in Weeks 10 and 11 likely served as precursors to sustained elevated activity reflected in the future data.
+
+3. Outpatient visits for ILI remained consistent at 0.8–0.9% throughout the 5-week period but showed stable trends despite being significantly below the baseline of 2.6%. However, pediatric (0–4 years) ILI activity exhibited a slight increasing trend, as noted in Weeks 9 and 12, 2021. These childcare trends could have contributed to the heightened occurrences observed after 5 weeks.
+
+4. Persistent elevated percentages of deaths attributed to pneumonia, influenza, or COVID-19 (PIC), ranging from 16.4% in Week 8 to 11.4% in Week 12, 2021, consistently exceeded the epidemic threshold (7.0–7.2%). These elevated PIC mortality patterns, driven largely by COVID-19, indicate underlying respiratory illness activity that correlates with the observed future rise in ILI occurrences.
+
+5. The impact of COVID-19-related healthcare-seeking behavior changes and overlapping symptoms, noted across all weeks, undermined traditional surveillance, potentially resulting in underreported ILI cases during the observed weeks. This could explain the apparent sudden increase to 1816 occurrences 5 weeks later as data normalized.
+
+6. In summary, the reported 1816 future ILI occurrences (Week 17, 2021) can be attributed to the upward trend in Weeks 10–11, 2021, pediatric ILI activity increases, sustained elevated PIC mortality rates, and the compounding effects of COVID-19-driven disruptions to healthcare-seeking and reporting behaviors. These factors collectively explain the resurgence of ILI activity reflected in the future occurrences.

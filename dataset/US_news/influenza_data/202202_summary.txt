@@ -1,0 +1,7 @@
+- Influenza A viruses cause seasonal epidemics and global pandemics, posing a significant burden on healthcare systems.
+- The viral RNA-dependent RNA polymerase is essential for the replication cycle of influenza viruses.
+- The structure of the RNA polymerase of the 1918 pandemic influenza virus has been determined using cryo-electron microscopy (cryo-EM).
+- Single-domain nanobodies have been found to bind to the polymerase and inhibit its function.
+- Five sites on the polymerase have been identified as sensitive to inhibition by nanobodies.
+- Targeting these sites could be effective in developing antiviral treatments for influenza.
+- The polymerase is highly conserved across influenza A subtypes, suggesting that these sites could be effective targets for influenza antiviral development in general.

@@ -1,0 +1,20 @@
+Week42, 2023
+- **Viruses, Illness, and Deaths**: Seasonal influenza activity remains low nationally with slight increases in some regions. Of 134 influenza-positive specimens from public health labs, 71.6% were Influenza A, predominantly A(H1N1). Influenza attributed to 0.08% of deaths this week, with no pediatric deaths reported.
+
+- **U.S. Virologic Surveillance**: Among clinical lab specimens, 1.7% were positive for influenza (68.8% Influenza A, 31.2% Influenza B). Public health labs show 71.6% of positives were Influenza A (89.3% A(H1N1), 10.7% A(H3N2)) and 28.4% Influenza B (100% Victoria lineage).
+
+- **Cumulative Hospitalization Rate**: The cumulative hospitalization rate is 0.5 per 100,000 population (0.3 per 100,000 among children; 0.6 per 100,000 among adults).
+
+- **Trends of Deaths Attributed to Influenza**: Influenza-related deaths remain low at 0.08% this week, stable compared to the previous week.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounts for 67.2%-76.7% of positive specimens (clinical and public health labs), while Influenza B comprises 23.3%-32.8%.
+
+- **Novel Influenza Virus (like COVID-19)**: No reports of novel influenza viruses such as COVID-19 or H3N2v this week.
+
+- **Vaccination Trends**: CDC continues to recommend vaccinations for everyone 6 months and older by the end of October as the best prevention.
+
+- **Outpatient Respiratory Illness Visits**: 2.5% of outpatient visits were for respiratory illness (below the 2.9% national baseline). ILI activity increased in 6 HHS regions and in specific age groups (0-4, 5-24, 65+ years). Five jurisdictions reported moderate activity, and one reported high activity.
+
+- **Expectation of Flu Activity from CDC**: Influenza activity remains low but may increase in the coming weeks as respiratory viruses co-circulate.
+
+- **Other Key Factors**: Regions 4, 6, 9, and 10 reported increases in positivity rates for influenza. Slight increases were observed in hospital admissions, with 1,456 flu-related hospitalizations reported this week.

@@ -1,0 +1,11 @@
+Week49, 2021
+1. Influenza activity is increasing, with the eastern and central U.S. seeing the largest rises; western states report lower virus circulation.
+2. Positive influenza tests rose to 3.5%, predominantly Influenza A (98.6%), specifically the A(H3N2) subtype (99.8%).
+3. Outpatient respiratory illness visits accounted for 2.7% of reported visits, trending above the baseline with increases across all age groups and regions.
+4. Influenza hospitalizations are increasing, with 1,057 new admissions this week, though cumulative rates are pending further data.
+5. Mortality due to pneumonia, influenza, or COVID-19 reached 17.4% of deaths, primarily driven by COVID-19.
+6. Vaccination uptake is lower than last season, but CDC urges vaccination as flu activity begins to rise.
+7. Flu-associated long-term care facility outbreaks were minimal, with only 0.5% of facilities reporting at least one positive test.
+8. Influenza activity is driven mostly by A(H3N2), with younger individuals (5-24 years) predominant, though infections in adults over 25 are now increasing.
+9. Pediatric influenza-associated deaths remain at zero for this season.
+10. The flu season is intensifying in some regions, with co-circulation of respiratory viruses complicating ILI assessments.

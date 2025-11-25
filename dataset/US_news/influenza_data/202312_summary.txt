@@ -1,0 +1,5 @@
+Influenza hospital admissions are predicted to remain stable or have an uncertain trend nationally, with 200 to 4,500 new confirmed influenza hospital admissions likely reported in the week ending April 15, 2023.
+19 modeling groups have contributed 20 forecasts for influenza hospital admissions.
+Ensemble forecasts, which combine forecasts from diverse models, have been reliable in previous influenza and COVID-19 forecasting efforts.
+The number of new confirmed influenza hospital admissions reported in the United States each week from September 1, 2022, through March 18, 2023, is shown in a chart.
+State-level forecasts show the predicted number of new influenza hospital admissions per week for the next 4 weeks by state.

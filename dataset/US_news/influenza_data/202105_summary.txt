@@ -1,0 +1,6 @@
+- Researchers have used messenger RNA (mRNA)-encoded Cas13a to target RNA viruses, specifically influenza virus A and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), in animal models.
+- They designed CRISPR RNAs (crRNAs) specific for certain viral genes and selected the most effective ones in reducing viral RNA levels in cell culture.
+- The researchers delivered polymer-formulated Cas13a mRNA and the validated guides to the respiratory tract using a nebulizer.
+- In mice, Cas13a efficiently degraded influenza RNA in lung tissue after infection.
+- In hamsters, Cas13a delivery reduced SARS-CoV-2 replication and symptoms.
+- These findings suggest that Cas13a-mediated targeting of pathogenic viruses can mitigate respiratory infections.

@@ -1,0 +1,20 @@
+Week48, 2020
+- **Viruses, illness, and deaths**: Influenza activity remains unusually low for this time of year. Only 0.1% of respiratory specimens tested positive for influenza in clinical labs (58.8% Influenza A and 41.2% Influenza B). 12.8% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), with most deaths due to COVID-19. No influenza-associated pediatric deaths reported for the 2020-2021 season.
+
+- **U.S. virologic surveillance**: Clinical labs reported 58.8% of positive specimens as Influenza A and 41.2% as Influenza B. Public health labs detected 60.0% Influenza A (35.7% H1N1 and 64.3% H3N2 when subtyped) and 40.0% Influenza B, with most classified as "lineage not performed." 
+
+- **Cumulative hospitalization rate**: Hospitalization data unavailable but will be updated later this season.
+
+- **Trends of deaths attributed to influenza**: PIC deaths remain above the epidemic threshold of 6.4%, but the increase is primarily driven by COVID-19 rather than influenza.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounts for 58.8% (clinical labs) and 60.0% (public health labs), while Influenza B accounts for 41.2% (clinical labs) and 40.0% (public health labs).
+
+- **Novel influenza virus (like COVID-19)**: Influenza surveillance is heavily influenced by simultaneous COVID-19 tracking; no novel influenza virus reported during this period.
+
+- **Vaccination trends**: CDC recommends immediate vaccination as flu activity may increase in the coming months. Annual vaccination is emphasized as the best preventive measure.
+
+- **Outpatient respiratory illness visits**: 1.6% of healthcare visits were for ILI, below the 2.6% national baseline. Two regions showed slight increases in ILI activity, while three regions decreased and five were stable.
+
+- **Expectation of flu activity from CDC**: Flu activity is expected to remain low but may increase later in the season.
+
+- **Other key factors**: Surveillance data is significantly impacted by the COVID-19 pandemic, altering healthcare-seeking behaviors and creating challenges in interpreting ILI trends. Use caution when analyzing ILI surveillance data due to overlapping symptoms of influenza and COVID-19.

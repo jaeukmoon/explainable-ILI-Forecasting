@@ -1,0 +1,20 @@
+Week33, 2022
+- **Viruses, illness, and deaths**: Influenza activity remains low, with 0.5% of respiratory specimens testing positive nationally in week 33. Influenza A was predominant (85.5% of positive clinical lab results) compared to Influenza B (14.5%). There were seven influenza-associated deaths reported, but the majority of PIC mortality was attributed to COVID-19, making up 1,268 of 2,320 reported deaths. 
+
+- **U.S. virologic surveillance**: Clinical labs reported 159 influenza-positive specimens, 136 Influenza A (85.5%) and 23 Influenza B (14.5%). Public health labs detected 39 positive specimens, with 37 Influenza A (94.9%)—of which 96.6% were H3N2—and 2 Influenza B (5.1%).
+
+- **Cumulative hospitalization rate**: 477 laboratory-confirmed influenza-related hospitalizations were reported in week 33.
+
+- **Trends of deaths attributed to influenza**: 10.0% of deaths were attributed to pneumonia, influenza, and/or COVID-19 (PIC) during week 33, above the epidemic threshold of 5.5%. However, most were due to COVID-19, with only seven deaths attributed to influenza.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounted for 85.5% of clinical lab positives and 94.9% of public health lab positives. Influenza B constituted 14.5% and 5.1%, respectively.
+
+- **Novel influenza virus (like COVID-19)**: One human infection with a novel swine-origin Influenza A(H1N2)v virus was reported in Ohio, the second H1N2v case in the U.S. this year. No person-to-person transmission has been identified.
+
+- **Vaccination trends**: No vaccination updates were provided in this report.
+
+- **Outpatient respiratory illness visits**: Nationwide, 1.5% of outpatient visits were due to ILI, with varying activity levels. By age group, ILI visits were highest among children aged 0-4 years (6.3%) and steadily declined with older age groups. Minimal activity was reported by 51 jurisdictions.
+
+- **Expectation of flu activity from CDC**: Influenza activity remains low, and PIC mortality is being primarily driven by COVID-19.
+
+- **Other key factors**: Only 0.2% of reporting long-term care facilities had at least one influenza-positive resident. Multiple respiratory viruses are co-circulating, but influenza contributes minimally to respiratory illness activity compared to other viruses like COVID-19.

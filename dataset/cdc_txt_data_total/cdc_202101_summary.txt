@@ -1,0 +1,11 @@
+First, virologic surveillance data from clinical labs indicate that 0.4% of respiratory specimens tested positive for influenza, with both Influenza A and Influenza B viruses detected. Public health labs also reported a lower number of positive influenza cases compared to previous years despite an increase in testing.
+
+Outpatient illness surveillance shows that 1.7% of patient visits to healthcare providers were for influenza-like illness (ILI), which is similar to the previous week and below the national baseline of 2.6%. However, caution should be exercised in interpreting ILI activity due to the impact of the COVID-19 pandemic and changes in healthcare-seeking behaviors.
+
+Geographically, ILI activity varied, with some jurisdictions experiencing low or minimal activity. The level of ILI activity may also be affected by the COVID-19 pandemic.
+
+Hospitalization rates for influenza have not been presented yet, and mortality rates attributed to pneumonia, influenza, or COVID-19 (PIC) were above the epidemic threshold, primarily driven by COVID-19.
+
+No new influenza-associated pediatric deaths were reported, with only one reported for the current season.
+
+Overall, influenza activity remains unusually low at this time, but it may increase in the coming months. Vaccination and antiviral drugs are recommended to prevent and treat influenza. Virologic surveillance, virus characterization, outpatient illness surveillance, and geographic spread monitoring contribute to the understanding of influenza trends and inform public health measures.

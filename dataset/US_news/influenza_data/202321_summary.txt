@@ -1,0 +1,5 @@
+- The study discusses the development of an engineered influenza virus for delivering antigens for lung cancer vaccination.
+- The researchers used a chimeric antigenic peptide influenza virus (CAP-Flu) system to deliver antigenic peptides to the lung.
+- Attenuated influenza viruses were conjugated with an immunostimulatory agent called CpG and administered intranasally to the mouse lung.
+- The vaccination with the engineered virus showed increased immune cell infiltration to the tumor, antigen uptake by dendritic cells, a specific immune cell response, increased tumor-infiltrating lymphocytes, regression of lung metastases, and prolonged mouse survival after rechallenge.
+- The engineered influenza virus can be equipped with any tumor neoantigen to generate lung cancer vaccines.

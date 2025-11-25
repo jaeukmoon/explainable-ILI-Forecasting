@@ -1,0 +1,11 @@
+Week1, 2024
+1. Influenza activity remains elevated nationally, primarily driven by Influenza A(H1N1)pdm09.
+2. Of the influenza-positive specimens reported, 80.1% were Influenza A and 19.9% were Influenza B; most Influenza A subtypes identified were A(H1N1)pdm09 (79.6%) and A(H3N2) (20.4%).
+3. The cumulative hospitalization rate is 31.7 per 100,000, with adults aged 65+ having the highest rate (85.3 per 100,000).
+4. Weekly influenza-related hospitalizations decreased slightly, with 18,526 hospital admissions reported.
+5. Influenza-attributed deaths accounted for 1.3% of total deaths, slightly increasing from the prior week.
+6. The outpatient respiratory illness rate is 5.7%, above the 2.9% baseline, with moderate to high activity reported in most areas.
+7. A total of 13 pediatric deaths were reported this week, bringing the count to 40 this season.
+8. Vaccination against influenza is ongoing, with CDC recommending vaccination for everyone 6 months and older.
+9. Co-circulation of other respiratory viruses, including RSV and COVID-19, complicates monitoring and prediction of ILI trends.
+10. CDC warns of potential for a second increase in flu activity following the winter holidays and continues to monitor progression closely.

@@ -1,0 +1,20 @@
+Week4, 2022
+- **Viruses, Illness, and Deaths**: Influenza activity has decreased, with 1.7% of respiratory specimens testing positive for influenza in clinical labs. Influenza A (H3N2) predominates. Of 6,378 influenza positives, 5.7% were co-positive for SARS-CoV-2. 28.6% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), above the threshold. Five pediatric influenza-associated deaths were reported this season.
+
+- **U.S. Virologic Surveillance**: 97% of clinical lab positives are Influenza A, and 3% are Influenza B. Public health labs detected 99.2% Influenza A, of which 99.9% are A(H3N2), and 0.8% Influenza B. No antiviral resistance was identified among viruses tested.
+
+- **Cumulative Hospitalization Rate**: The current rate is 4.4 per 100,000, higher than the 2020-2021 season but lower than pre-COVID rates. Adults aged ≥65 years have the highest hospitalization rates (11.5 per 100,000).
+
+- **Trends of Deaths Attributed to Influenza**: PIC deaths are primarily driven by COVID-19, with influenza causing a minor contribution.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A dominates at 97% of clinical lab positives and 99.2% of public health lab positives, while Influenza B remains rare (3.0% in clinical and 0.8% in public health labs).
+
+- **Novel Influenza Virus (COVID-19)**: Co-positivity for SARS-CoV-2 was 5.7% among influenza positives. No novel strains were reported.
+
+- **Vaccination Trends**: Flu vaccination coverage remains lower compared to last season. CDC emphasizes continued vaccination as the best preventive measure.
+
+- **Outpatient Respiratory Illness Visits**: Nationwide, 2.0% of outpatient visits were due to respiratory illnesses, below the baseline. Activity trends are decreasing, but 2 regions are above their baselines.
+
+- **Expectation of Flu Activity from CDC**: Sporadic influenza activity persists. CDC emphasizes monitoring co-circulating respiratory viruses.
+
+- **Other Key Factors**: 0.5% of long-term care facilities reported at least one influenza-positive resident. Hospital admissions for influenza decreased slightly (827 this week). Asthma and underlying conditions were prevalent among hospitalized individuals.

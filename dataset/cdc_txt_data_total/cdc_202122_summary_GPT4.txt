@@ -1,0 +1,13 @@
+Week22, 2021
+- **Viruses, illness, and deaths**: Influenza activity remains low. Among 1,360 PIC deaths reported during week 22, 661 were due to COVID-19, and 2 were influenza-related, indicating PIC mortality is primarily driven by COVID-19.  
+- **U.S. virologic surveillance**: Data reflect continued low influenza circulation.  
+- **Cumulative hospitalization rate**: Influenza-related hospitalization data are not updated post-April 30, 2021; information is limited for week 22.  
+- **Trends of deaths attributed to influenza**: 7.5% of deaths during week 22 were due to pneumonia, influenza, and/or COVID-19, exceeding the epidemic threshold of 6.1%. Influenza's contribution is minimal compared to COVID-19.  
+- **Percentage of Influenza A and Influenza B**: Specific subtype or lineage data for Influenza A and B are not documented in this report.  
+- **Novel Influenza virus (like COVID-19)**: COVID-19 remains a dominant contributor to respiratory illness and mortality in PIC data.  
+- **Vaccination trends**: No explicit vaccination trend data provided for this week.  
+- **Outpatient respiratory illness visits**: 1.2% of outpatient visits were due to ILI, remaining below the national baseline of 2.6%. Visits from children aged 0–4 years slightly increased, while rates for other age groups remained stable.  
+- **Expectation of flu activity from CDC**: Influenza activity is expected to stay low, with ongoing caution needed due to overlapping COVID-19 effects.  
+- **Other key factors**: Geographic surveillance was suspended for the season due to COVID-19 impacts altering ILI data reliability. Pandemic-driven behavioral changes significantly influenced healthcare-seeking patterns and ILI data interpretation.  
+
+This report underlines the low but persistent presence of influenza and the major ongoing influence of COVID-19 on respiratory and mortality patterns.

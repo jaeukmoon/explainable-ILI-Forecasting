@@ -1,0 +1,13 @@
+First, virologic surveillance is conducted in both clinical laboratories and public health laboratories. The data from clinical laboratories show that 0.9% of specimens tested positive for influenza, with a predominance of Influenza A (59.4%) and Influenza B (40.6%) viruses. In public health laboratories, 65.3% of positive specimens were Influenza A, with the majority being the (H1N1)pdm09 subtype. Influenza B accounted for 34.7% of positive specimens.
+
+Outpatient respiratory illness surveillance, specifically the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet), provides information on healthcare visits for influenza-like illness (ILI), which is defined as fever plus cough or sore throat. During the reported period, ILI accounted for 2.0% of patient visits. The percentage of visits for respiratory illness varied by age group, with higher rates among younger children.
+
+Reports from state and territorial epidemiologists indicate the geographic spread of influenza activity. During the reported period, four states reported local flu activity, while the majority reported sporadic activity. No activity was reported in six states.
+
+Hospitalization surveillance, conducted through the Influenza Hospitalization Surveillance Network (FluSurv-NET), provides data on laboratory-confirmed influenza-related hospitalizations. However, no data for hospitalizations were reported for the current period.
+
+Mortality surveillance, specifically monitoring pneumonia and influenza (P&I) mortality, showed that 7.2% of deaths during the reported week were attributed to pneumonia, influenza, and/or COVID-19. However, no influenza-associated pediatric deaths were reported for the current week.
+
+Additional information on influenza surveillance in the United States and internationally is available through FluView Interactive, the World Health Organization (WHO) FluNet, WHO Collaborating Centers for Influenza, Public Health Agency of Canada, and Public Health England.
+
+Overall, these surveillance systems provide valuable data on virologic activity, outpatient illness, geographic spread, hospitalizations, and mortality related to influenza. They help inform public health interventions and guide influenza prevention and control efforts.

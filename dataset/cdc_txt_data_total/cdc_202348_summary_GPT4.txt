@@ -1,0 +1,20 @@
+Week48, 2023
+- **Viruses, illness, and deaths**: Seasonal influenza activity is increasing nationwide, with highest levels in the southeast and south-central areas. Influenza A(H1N1) predominates this week. 6.8% of clinical respiratory specimens tested positive for influenza. 0.2% of deaths were attributed to influenza this week, trending slightly upward. Four influenza-associated pediatric deaths were reported this week, totaling 12 deaths for the season.
+
+- **U.S. virologic surveillance**: Of public health lab specimens, 79.9% were Influenza A (74.1% A(H1N1) and 25.9% A(H3N2)) and 20.1% Influenza B (all Victoria lineage). Among clinical lab positives, 80.3% were Influenza A and 19.7% Influenza B.
+
+- **Cumulative hospitalization rate**: The season's cumulative hospitalization rate is 5.5 per 100,000, with the weekly rate at 1.4 per 100,000. 85.6% of hospitalizations were associated with Influenza A, predominantly A(H1N1), and 13.5% with Influenza B.
+
+- **Trends of deaths attributed to influenza**: Influenza-related deaths account for 0.2% of all weekly deaths, stable from the previous week but showing an upward trend.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounts for 80.4% of public health lab cumulative positives since October; Influenza B represents 19.6%.
+
+- **Novel influenza virus (like COVID-19)**: No novel influenza viruses (e.g., SARS-CoV-2 variants) were reported.
+
+- **Vaccination trends**: CDC continues to recommend that everyone aged 6 months and older get vaccinated, emphasizing that vaccines are still available.
+
+- **Outpatient respiratory illness visits**: Nationwide ILI visits remain at 4.0%, above the baseline of 2.9%. Nine jurisdictions reported moderate activity, and 16 reported high or very high activity.
+
+- **Expectation of flu activity from CDC**: Seasonal flu activity is expected to continue increasing in most parts of the country.
+
+- **Other key factors**: Co-circulation of influenza, COVID-19, and RSV is contributing to respiratory illness. Age groups 50-64 and 65+ showed increasing ILI activity, while children aged 5-24 had slight decreases.

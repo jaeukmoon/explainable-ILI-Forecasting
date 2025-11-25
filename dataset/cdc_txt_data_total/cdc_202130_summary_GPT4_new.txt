@@ -1,0 +1,11 @@
+Week30, 2021
+1. Influenza activity remains minimal nationwide, with outpatient visits due to influenza-like illness (ILI) at 1.9%, below the baseline of 2.6% but showing increases for all age groups over the last three weeks.
+2. No influenza-associated pediatric deaths were reported in week 30; the sole pediatric death reported this season occurred earlier.
+3. Laboratory-confirmed influenza-related hospitalizations are no longer tracked after April 30, 2021, due to the seasonal protocol.
+4. Pneumonia, influenza, or COVID-19 (PIC) accounted for 9.0% of deaths, above the epidemic threshold of 5.5%, but influenza was not listed as a cause of any deaths this week.
+5. Public health and clinical laboratory data for influenza are not detailed in this summary, indicating extremely low virologic activity.
+6. Nationwide ILI activity maps show most regions reporting minimal activity, with some low and moderate activity at local levels.
+7. The increase in outpatient ILI visits suggests higher respiratory illness transmissions, though likely influenced by pathogens other than the flu, including COVID-19.
+8. The CDC emphasizes cautious interpretation of ILI data due to changes in healthcare-seeking behaviors during the pandemic.
+9. Vaccination trends for influenza this week are not reported, but annual vaccination remains encouraged by the CDC.
+10. Future influenza trends remain uncertain, with low flu activity but rising respiratory illnesses, potentially indicating upcoming shifts in ILI patterns.

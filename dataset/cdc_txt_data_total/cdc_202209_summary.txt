@@ -1,0 +1,12 @@
+Based on the given CDC inﬂuenza surveillance report, here are the key facts regarding predicting future ILI occurrence:
+
+1. Inﬂuenza activity is increasing in most of the country.
+2. The majority of inﬂuenza viruses detected are Inﬂuenza A(H3N2).
+3. Antigenic data show that the majority of the H3N2 viruses characterized are antigenically different from the vaccine reference viruses.
+4. The percentage of outpatient visits due to respiratory illness increased slightly but remains below baseline.
+5. Geographically, ILI activity varies, with some jurisdictions experiencing moderate or high activity while others have minimal activity.
+6. Hospitalization rates are higher than the previous season but lower than previous seasons prior to the COVID-19 pandemic.
+7. There have been two inﬂuenza-associated pediatric deaths reported so far this season.
+8. The majority of laboratory-conﬁrmed inﬂuenza-associated hospitalizations are due to Inﬂuenza A viruses.
+9. Mortality surveillance shows that a larger proportion of deaths are attributed to pneumonia, inﬂuenza, or COVID-19 compared to the epidemic threshold.
+10. The inﬂuenza vaccine for the 2022-2023 season includes updated virus components.

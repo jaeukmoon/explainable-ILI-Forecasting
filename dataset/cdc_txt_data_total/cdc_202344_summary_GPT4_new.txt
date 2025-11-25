@@ -1,0 +1,11 @@
+Week44, 2023
+1. Influenza activity is increasing in most parts of the U.S., particularly in the South Central, Southeast, and West Coast regions; 3.0% of clinical lab specimens tested positive for influenza this week.
+2. Of 192 viruses reported by public health labs, 77.1% were Influenza A (90.6% A(H1N1) and 9.4% A(H3N2)), and 22.9% were Influenza B (100% Victoria lineage).
+3. The cumulative hospitalization rate for influenza so far is 1.2 per 100,000, which is the second highest for this point in the season since 2010.
+4. Deaths due to influenza accounted for 0.09% of all deaths, stable compared to last week. One pediatric death from a prior season was newly reported this week.
+5. Influenza A comprised 69.8% of positive clinical lab specimens this week, and 30.2% were Influenza B.
+6. There is no indication of novel influenza-like viruses such as SARS-CoV-2, although integrated respiratory virus surveillance is ongoing.
+7. The CDC continues to strongly recommend annual influenza vaccination for everyone aged six months and older.
+8. Outpatient visits for influenza-like illness (ILI) accounted for 2.9% of patient visits this week, at the national baseline; activity is increasing in 8 of 10 HHS regions.
+9. CDC expects influenza activity to continue increasing, with antiviral treatment recommended for early intervention in diagnosed cases.
+10. Other key factors: hospitalization rates are highest among adults aged 65+ (3.0 per 100,000); respiratory coinfections with other viruses like RSV are contributing to current trends; and regions 4, 6, and 9 show the highest outpatient and virologic positivity rates.

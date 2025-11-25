@@ -1,0 +1,13 @@
+Week13, 2023
+1. Influenza activity remains low nationwide, with 0.9% of respiratory specimens testing positive for influenza.
+2. Public health labs reported 59.1% of detected viruses as Influenza A and 40.9% as Influenza B, predominantly subtype A(H1N1) at 62.5%.
+3. Outpatient visits for influenza-like illness (ILI) accounted for 2.3% of visits, below the national baseline of 2.5%, with 8 of 10 HHS regions below respective baselines.
+4. Cumulative hospitalization rate this season is 61.1 per 100,000 population, with the highest rates seen in adults 65+ (181.6 per 100,000).
+5. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) were 7.9%, above the threshold of 7.1%.
+6. One pediatric influenza-associated death reported this week brought the season total to 139.
+7. Virologic data show 98.6% of cumulative positive tests since October 2022 were Influenza A, and 1.4% were Influenza B.
+8. Vaccination is recommended to continue, as the majority of viruses remain antigenically similar to vaccine-subtype viruses.
+9. Long-term care reporting shows 0.4% of facilities had at least one positive test, stable from last week.
+10. Multiple respiratory viruses, including SARS-CoV-2, continue to co-circulate, affecting interpretation of ILI contributions.
+
+11. Summary: Influenza remains at low activity with stable indicators for ILI and hospitalizations. Influenza A dominance continues, primarily subtyped as A(H1N1). Vaccines match the circulating strains, and PIC-related deaths remain above threshold due primarily to COVID-19.

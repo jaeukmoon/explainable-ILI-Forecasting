@@ -1,0 +1,10 @@
+1. The past time-series of ILI occurrences over the 5 weeks presents a fluctuating pattern, starting with 1783 in Week 35, 2021, decreasing to 1540 in Week 38, 2021, and rebounding to 1679 in Week 39, 2021. Despite the initial reduction, the increase in Week 39, 2021, suggests a potential resurgence in respiratory illness activity by the end of this period.
+
+2. The correlation between past and future ILI occurrences is reflected in the rebound observed in Week 39, 2021, which corresponds to the gradual rise that culminates in the future value of 2107 occurrences after 5 weeks (Week 44, 2021). This suggests that the late-period recovery in ILI counts acted as a precursor to the subsequent surge.
+
+3. CDC reports indicate that:
+   - PIC mortality, primarily driven by COVID-19, remained significantly above epidemic thresholds (e.g., 21.1% in Week 37, 2021; 20.9% in Week 38, 2021; 18.7% in Week 39, 2021). This persistent respiratory-related mortality suggests an increased overall burden of illness, influencing rising future occurrences.
+   - Other respiratory viruses, aside from influenza, were noted as significant contributors to ILI activity during the 5 weeks, with mentions of regional ILI increases and non-influenza pathogens being primary drivers.
+   - Shifts in healthcare-seeking behavior during the COVID-19 pandemic altered data interpretation and reporting, potentially underestimating ILI activity during the observed weeks, with a delayed recognition contributing to future increases.
+
+4. The future ILI occurrence of 2107 (Week 44, 2021) is attributable to the partial recovery in ILI counts during Week 39, 2021 (past data), persistently high PIC mortality reflecting broader respiratory illness, contributions from non-influenza respiratory viruses, and pandemic-driven disruptions in healthcare access and surveillance. These factors collectively shaped the conditions for elevated subsequent activity.

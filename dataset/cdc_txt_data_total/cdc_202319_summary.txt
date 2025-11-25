@@ -1,0 +1,10 @@
+1. Seasonal influenza activity remains low nationally, with low levels of both outpatient illness and positive tests in clinical laboratories.
+2. Influenza A and B viruses are co-circulating, with Influenza B viruses being the most frequently reported in public health laboratories.
+3. There have been 152 reported influenza-associated pediatric deaths during the 2022-2023 season.
+4. Hospitalization rates for influenza remain low, but rates are highest among adults aged 65 and older.
+5. Pneumonia and influenza (P&I) mortality rates are above the epidemic threshold, indicating increased mortality due to these respiratory illnesses.
+6. The majority of influenza viruses tested are similar to the strains included in the current influenza vaccine, and antiviral medications are generally effective against circulating strains.
+7. Recommendations for annual influenza vaccination and the use of antiviral drugs for treatment are reiterated by the CDC.
+8. Outpatient ILI activity remains below the national baseline, although there are some jurisdictions with moderate or high activity.
+9. Long-term care facilities continue to report a low percentage of influenza-positive tests among residents.
+10. FluView Interactive and additional international and state-level surveillance resources provide more detailed and localized information on influenza activity.

@@ -1,0 +1,20 @@
+Week34, 2021
+- **Viruses, illness, and deaths:** Influenza activity remains low in the U.S. Only 2.2% of outpatient visits were due to ILI, well below the national baseline of 2.6%. 19.4% of deaths were attributed to pneumonia, influenza, and/or COVID-19 (PIC), with only 3 influenza-related deaths and the majority due to COVID-19.
+
+- **U.S. virologic surveillance:** No significant influenza virus circulation was observed, indicating that most ILI cases are likely associated with other respiratory viruses, such as COVID-19.
+
+- **Cumulative hospitalization rate:** Hospitalization data is not updated for the current period, with past data limited to cases through April 30, 2021.
+
+- **Trends of deaths attributed to influenza:** Deaths due to pneumonia, influenza, and COVID-19 exceeded the epidemic threshold (5.4%), but influenza-associated mortality remains minimal compared to COVID-19.
+
+- **Percentage of Influenza A and Influenza B:** No explicit breakdown of influenza A or B circulation was reported this week, with overall influenza activity noted to remain negligible.
+
+- **Novel influenza virus (like COVID-19):** Current surveillance attributes most respiratory deaths to COVID-19 rather than influenza, with no reports of novel influenza viruses this week.
+
+- **Vaccination trends:** No updates or specific vaccination information for influenza are provided in this report.
+
+- **Outpatient respiratory illness visits:** 2.2% of outpatient visits for ILI were reported through ILINet, primarily driven by other respiratory pathogens. Regions experienced varying activity, with Region 4 slightly above the baseline.
+
+- **Expectation of flu activity from CDC:** Influenza activity is expected to remain minimal, with ILI increases likely attributable to other respiratory viruses.
+
+- **Other key factors:** ILI activity increased in individuals aged 0-24 years but stabilized or decreased in older age groups. Minimal influenza presence aligns with the continuing dominance of COVID-19 in respiratory illness patterns. CDC emphasizes cautious interpretation of ILI data given changes in healthcare-seeking behaviors amid the pandemic.

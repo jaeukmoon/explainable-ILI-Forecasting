@@ -1,0 +1,11 @@
+Week14, 2024
+1. Seasonal influenza activity is elevated but decreasing nationally, with 7.7% of clinical respiratory specimens testing positive for influenza this week.
+2. Public health labs reported 272 positive specimens, with 58.8% Influenza A and 41.2% Influenza B; subtyped Influenza A included 43.3% A(H1N1)pdm09 and 56.7% A(H3N2).
+3. Outpatient visits for ILI accounted for 2.8%, now below the national baseline, with moderate or high activity in only eight jurisdictions.
+4. Hospitalization rates decreased, with a cumulative rate of 76.0 per 100,000 population—the second highest observed at this point in season since 2017–2018.
+5. Influenza-associated deaths accounted for 0.4% of total deaths, stable from last week; five pediatric deaths were reported, totaling 138 deaths this season.
+6. Of all reported hospitalizations, 85.1% were associated with Influenza A, with the highest hospitalization rates in those 65+ years, non-Hispanic Black persons, and children aged 0–4 years.
+7. Vaccine viruses remain genetically and antigenically similar to circulating strains; CDC continues to recommend influenza vaccination and antiviral treatment.
+8. Co-circulation of other respiratory viruses, including COVID-19 and RSV, contributes to respiratory illness trends and complicates attribution to influenza.
+9. Regions 7, 5, and 1 have the highest positivity rates for Influenza, with notable variability in the distribution of Influenza subtypes across regions.
+10. CDC expects further declines in flu activity but highlights continued spread, underscoring vaccination and early antiviral use, particularly for those at high risk.

@@ -1,0 +1,13 @@
+Week34, 2024
+1. Influenza activity remains low nationally, with 0.4% of respiratory specimens testing positive for influenza in clinical laboratories.
+2. Of the positive clinical lab specimens, 85.7% were Influenza A and 14.3% were Influenza B.
+3. Public health laboratories reported 55 positive specimens: 96.4% were Influenza A (61.7% A(H1N1)pdm09 and 38.3% A(H3N2)) and 3.6% were Influenza B (all Victoria lineage).
+4. Outpatient visits for influenza-like illness (ILI) accounted for 1.8% of visits, below the national baseline, with slight increases in the 0-4 and 5-24 age groups.
+5. No novel influenza A virus cases were reported this week; cumulative novel cases this season total 20, including 13 A(H5) infections linked to poultry and dairy work.
+6. The cumulative hospitalization rate is 0 this week, with no new influenza-associated hospitalizations reported.
+7. Influenza-related deaths accounted for 0.06% of total deaths, stable compared to last week; one pediatric death was reported for a seasonal total of 195.
+8. Genetic characterization indicates that 99.8% of A(H1N1)pdm09, 95% of A(H3N2), and all B/Victoria viruses are antigenically similar to vaccine reference strains.
+9. Minimal resistance to antiviral medications was observed, with only a few cases showing reduced susceptibility to oseltamivir, peramivir, and baloxavir.
+10. CDC highlights vaccination importance, though no significant trends in vaccination rates were reported.
+
+11. Summary of key factors: Influenza activity remains low, with co-circulation of Influenza A(H1N1)pdm09, A(H3N2), and B/Victoria. Hospitalizations and deaths remain minimal, and vaccination focus continues. Predictive indicators show no major uptick in activity, though co-circulating respiratory viruses and sporadic novel cases warrant monitoring.

@@ -1,0 +1,11 @@
+- Influenza B virus (IBV) strains are included in seasonal influenza vaccines.
+- The majority of these vaccines are produced in embryonated chicken eggs.
+- Currently, there is no optimized vaccine backbone for IBVs, leading to unpredictable production yields.
+- Researchers have compiled a panel of 71 IBV strains to create an optimal vaccine seed virus backbone.
+- The panel includes strains from different lineages to cover the genetic variability of IBV.
+- The growth profiles of the 71 IBV strains were assessed, and the best performing strains were selected for further experiments.
+- After serial passaging and selection, 10 clonal isolates were chosen based on their growth profiles.
+- Reverse genetics systems were generated for three clones that performed best in growth curves.
+- The selected backbones were then used to generate reassortant viruses with different HA/NA combinations.
+- The recombinant reassortant viruses with the selected backbones showed higher titers, similar to those from high titer yielding HA/NA combinations.
+- Using these improved IBV backbones in vaccine production could potentially increase yields for the influenza B virus components of seasonal influenza vaccines.

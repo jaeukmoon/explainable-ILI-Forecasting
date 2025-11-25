@@ -1,0 +1,11 @@
+Week22, 2023
+1. Influenza activity remains minimal nationwide, with 1.1% of tested specimens positive for influenza.
+2. Of the 352 positive specimens from clinical labs, 49.4% were Influenza A and 50.6% were Influenza B.
+3. Public health labs reported 34 positive specimens, with 58.8% being Influenza A (majority H1N1) and 41.2% Influenza B (all Victoria lineage).
+4. Outpatient visits for Influenza-like illness (ILI) accounted for 1.9% of visits, with highest rates in children aged 0-4 years (6.1%).
+5. Hospitalizations for influenza totaled 953 for week 22, with cumulative updates ending April 30, 2023.
+6. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) comprised 6.2%, equal to the epidemic threshold, with 17 deaths attributed to influenza.
+7. Two pediatric influenza deaths were reported, one from the 2022-2023 season (Influenza A) and one retroactively from 2018-2019 (H1N1).
+8. States and CBSAs observed mostly minimal ILI activity, with only a small number reporting high or moderate levels.
+9. SARS-CoV-2, RSV, and other respiratory viruses are co-circulating, contributing to ILI alongside influenza.
+10. CDC anticipates low influenza activity continuing during the summer, urging vaccination preparation for the upcoming season.

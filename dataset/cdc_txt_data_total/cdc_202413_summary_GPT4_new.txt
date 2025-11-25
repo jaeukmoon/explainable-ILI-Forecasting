@@ -1,0 +1,13 @@
+Week13, 2024
+1. Influenza activity is elevated but decreasing nationally, with 9.1% of respiratory specimens testing positive this week.
+2. Clinical labs reported 49.0% Influenza A and 51.0% Influenza B, while public health labs reported 61.1% Influenza A and 38.9% Influenza B.
+3. Of the 138 subtyped Influenza A specimens, 50% were H1N1pdm09 and 50% H3N2. All Influenza B viruses characterized were Victoria lineage.
+4. One human case of avian Influenza A(H5N1) was reported in Texas with no further human-to-human transmission.
+5. The cumulative influenza hospitalization rate is 74.2 per 100,000, with declining weekly admissions since January.
+6. Influenza accounted for 0.5% of deaths this week, remaining stable from last week.
+7. Outpatient visits for influenza-like illness (ILI) were at 3.0%, above the national baseline, with mixed activity across regions.
+8. CDC reported 7 new pediatric influenza-associated deaths this week, totaling 133 deaths for the season.
+9. Vaccination rates remain emphasized by the CDC, with ongoing recommendations for vaccination to reduce illness.
+10. Antiviral resistance is low, with minimal reduced susceptibility detected across Influenza types.
+11. Co-circulation of multiple viruses, including RSV and COVID-19, continues to impact ILI trends and surveillance.
+12. Flu activity prediction remains linked to regional variability, vaccination uptake, and ongoing virologic monitoring.

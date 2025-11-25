@@ -1,0 +1,20 @@
+Week4, 2023
+- **Viruses, illness, and deaths**: Seasonal influenza activity is declining. Influenza A(H3N2) was the most reported virus this week. Influenza A makes up 94.1% of clinical lab positives and 99.4% of public health lab positives. 11.1% of deaths were attributed to pneumonia, influenza, or COVID-19 (above the epidemic threshold of 7.2%). Six influenza-associated pediatric deaths were reported this week (total 97 for the season). CDC estimates for the season: 25 million illnesses, 280,000 hospitalizations, and 17,000 deaths.
+
+- **U.S. virologic surveillance**: Positivity rates in clinical laboratories decreased to 2.1%. Public health laboratories report Influenza A(H3N2) (62%) and A(H1N1) (38%) predominating. Influenza B remains low at 5.9% of clinical lab positives and 0.6% of public health lab positives.
+
+- **Cumulative hospitalization rate**: Hospitalization rate is 58.6 per 100,000, higher than any previous in-season rate for week 4 since 2010-2011. Most hospitalizations (97.2%) are associated with Influenza A, of which 76.4% are A(H3N2).
+
+- **Trends of deaths attributed to influenza**: Mortality from pneumonia, influenza, and COVID-19 declined slightly but remains above the epidemic threshold. Deaths due to influenza decreased compared to earlier in the season.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A dominates with 94.1% of clinical lab positives (62% A(H3N2) and 38% A(H1N1)). Influenza B accounts for 5.9% of positives.
+
+- **Novel Influenza viruses (like COVID-19)**: SARS-CoV-2 continues to contribute to respiratory illnesses, but no novel influenza activity was detected.
+
+- **Vaccination trends**: CDC emphasizes vaccination against influenza, noting the majority of tested influenza viruses are antigenically similar to the vaccine. Antivirals remain effective against collected viruses.
+
+- **Outpatient respiratory illness visits**: 2.6% of outpatient visits were for respiratory illnesses, slightly above the national baseline of 2.5%. Activity is stable but remains elevated in three regions.
+
+- **Expectation of flu activity from CDC**: Influenza activity continues to decline across the nation, but co-circulation of respiratory viruses like SARS-CoV-2 and RSV may contribute to ILI indicators.
+
+- **Other key factors**: Seven of 10 HHS regions report outpatient respiratory illness below baselines. Hospitalizations had a >5% week-over-week decrease. High hospitalization rates persist among adults 65 and older (especially those 85+), and influenza-associated mortality is driven by the co-circulation of respiratory viruses.

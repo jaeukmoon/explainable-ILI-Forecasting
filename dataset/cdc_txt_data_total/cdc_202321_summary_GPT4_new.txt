@@ -1,0 +1,11 @@
+Week21, 2023
+1. Influenza activity remains low, with 1.2% of specimens testing positive for influenza during week 21.
+2. Among positive clinical lab specimens, 43.5% were Influenza A and 56.5% were Influenza B.
+3. Public health labs reported 43 positive specimens, with 41.9% being Influenza A (92.9% H1N1, 7.1% H3N2) and 58.1% Influenza B (100% Victoria lineage).
+4. Outpatient visits for ILI accounted for 1.9% of clinic visits, remaining below the national baseline, with higher rates in children aged 0-4 years (5.9%).
+5. Hospitalization data reported 927 influenza-related admissions for week 21; no further updates on cumulative hospitalization rates beyond April 30.
+6. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) were 7.0%, above the epidemic threshold of 6.3%; influenza accounted for 7 deaths.
+7. No pediatric influenza-associated deaths were reported during week 21; the total for the season stands at 154.
+8. Co-circulation of respiratory viruses, including SARS-CoV-2 and RSV, continues to influence respiratory illness trends.
+9. No notable vaccination data trends were reported this week.
+10. Flu activity is expected to remain minimal through the summer, with regional variations in respiratory illness contributions.

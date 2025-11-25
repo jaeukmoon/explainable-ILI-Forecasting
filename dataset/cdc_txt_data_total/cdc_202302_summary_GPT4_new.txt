@@ -1,0 +1,11 @@
+Week2, 2023
+1. Influenza activity continues to decline nationally, with 4.6% of respiratory specimens testing positive for influenza this week in clinical laboratories.
+2. Of the clinical lab positive specimens, 97.3% were Influenza A, and 2.7% were Influenza B, with public health labs reporting 97.6% Influenza A (81.3% A(H3N2) and 18.7% A(H1N1)) and 2.4% Influenza B (Victoria lineage).
+3. Outpatient visits due to influenza-like illness (ILI) accounted for 3.0% of visits, a decline from the previous week but still above the national baseline of 2.5%.
+4. Hospitalization rates remain high, with a cumulative rate of 56.7 per 100,000 population, 1.6 times higher than historical averages, though admissions declined compared to the prior week.
+5. Deaths attributed to pneumonia, influenza, and COVID-19 (PIC) accounted for 13.1%, remaining above the epidemic threshold; influenza-related contributions to PIC deaths have been decreasing for four weeks.
+6. Six pediatric deaths from influenza were reported this week, bringing the total for the season to 85; all were associated with Influenza A.
+7. Genetic and antigenic characterization indicates most circulating viruses are antigenically similar to those in the current vaccine, with viruses showing susceptibility to all tested antivirals.
+8. Vaccination continues to be recommended, with the flu vaccine matching circulating virus strains, though no new vaccination trends are noted.
+9. SARS-CoV-2 continues co-circulating with influenza, with 3.2% of hospitalized influenza patients also testing positive for COVID-19.
+10. Other significant factors include reduced outpatient respiratory illness activity at the regional level and high hospitalization rates among older adults and young children, signaling continued vulnerability in these groups.

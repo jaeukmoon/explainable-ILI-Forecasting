@@ -1,0 +1,12 @@
+Week13, 2021
+1. Influenza activity remains unusually low nationwide, with only 0.1% of respiratory specimens testing positive for influenza.
+2. Among clinical specimens, Influenza A accounted for 60% and Influenza B for 40%; public health specimens showed 80% Influenza A and 20% Influenza B, with no specific subtypes widely characterized.
+3. Outpatient visits for influenza-like illness (ILI) were stable at 1.0%, well below the national baseline of 2.6%.
+4. The cumulative hospitalization rate for influenza was 0.7 per 100,000 population, significantly lower than in previous low-severity seasons.
+5. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) were 11.4%, above the epidemic threshold, with most deaths attributed to COVID-19 rather than influenza.
+6. No influenza-associated pediatric deaths were reported this week; the season total remains at one.
+7. Vaccination coverage trends were not specified, but annual influenza vaccination continues to be recommended by the CDC.
+8. Healthcare behavior changes due to the COVID-19 pandemic impact ILI and surveillance data interpretation, emphasizing cautious evaluation.
+9. All jurisdictions reported minimal ILI activity, with no regions experiencing high or moderate activity levels.
+10. Future flu activity is expected to potentially increase in coming months, though prediction remains uncertain due to low activity and pandemic-related changes in healthcare behaviors.
+

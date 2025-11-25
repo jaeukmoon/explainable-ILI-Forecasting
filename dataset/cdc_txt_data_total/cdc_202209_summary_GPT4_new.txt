@@ -1,0 +1,13 @@
+Week9, 2022
+1. Influenza activity is increasing in most parts of the U.S., with central and south-central regions reporting the largest increases.
+2. 5.8% of specimens tested by clinical labs this week were positive for influenza, with 99.7% Influenza A and 0.3% Influenza B.
+3. Public health labs detected 99.4% Influenza A and only 0.6% Influenza B, with A(H3N2) dominating at 100% of A subtypes.
+4. Outpatient visits for respiratory illnesses (1.6%) are below the national baseline, with moderate or high activity reported in only three jurisdictions.
+5. H3N2 viruses remain genetically related to the vaccine strain but show antigenic differences, indicating potential vaccine mismatch.
+6. Hospitalizations due to influenza increased to a cumulative rate of 5.5 per 100,000 population, higher than the 2020-21 season but lower than pre-pandemic seasons.
+7. Pediatric deaths increased by two this week, bringing the season total to 10.
+8. PIC deaths (pneumonia, influenza, or COVID-19) accounted for 13.1% of deaths, above the epidemic threshold, but primarily driven by COVID-19.
+9. 5.9% of influenza-positive specimens also tested positive for SARS-CoV-2, showing co-circulation of viruses.
+10. CDC emphasizes continued influenza vaccination as flu activity rises, with vaccines widely available at pharmacies and clinics.
+
+11. Factors for prediction: Dominance of A(H3N2), geographic hotspots of activity, antigenic differences in H3N2 strains, increasing hospitalizations, and the impact of co-circulating SARS-CoV-2 suggest rising flu activity.

@@ -1,0 +1,11 @@
+Week7, 2023
+1. Influenza activity is low nationally, with 1.0% of respiratory specimens testing positive for influenza this week, and 74.2% being Influenza A and 25.8% Influenza B.
+2. Public health labs report that of 83 positive specimens, 86.7% were Influenza A (54.7% H3N2, 45.3% H1N1), and 13.3% were Influenza B (all Victoria lineage).
+3. Outpatient respiratory illness visits accounted for 2.6%, stable for five weeks but above the national baseline of 2.5%; 4 jurisdictions reported high activity.
+4. The cumulative influenza-related hospitalization rate is 59.7 per 100,000, with a weekly drop in new hospitalizations (from 2,091 to 1,778 in week 7).
+5. Pediatric deaths remain concerning, with 4 new influenza-associated deaths reported this week, bringing the total to 115 for the season.
+6. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) decreased slightly to 9.0%, still above the epidemic threshold of 7.3%.
+7. Genetic and antigenic characterization indicate similarity between circulating influenza viruses and the 2022-2023 vaccine, with negligible antiviral resistance observed.
+8. Vaccination is recommended for individuals aged 6 months and older as flu activity persists, but no specific vaccination rate trends are reported.
+9. Multiple respiratory viruses, including SARS-CoV-2 and RSV, are co-circulating, complicating interpretation of influenza-like illness trends.
+10. CDC highlights uncertainty in future flu activity as healthcare-seeking behaviors fluctuate and co-circulation of respiratory pathogens continues.

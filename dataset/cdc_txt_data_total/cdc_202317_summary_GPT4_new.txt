@@ -1,0 +1,11 @@
+Week17, 2023
+1. Influenza activity remains low nationwide, with 1.0% of respiratory specimens testing positive for influenza.
+2. Public health labs reported Influenza B as the most frequently detected virus, accounting for 64.0% of cases, while Influenza A made up 36.0% (75.0% H1N1 and 25.0% H3N2 among subtyped Influenza A).
+3. The cumulative hospitalization rate for influenza is 61.9 per 100,000 population; adults 65 and older have the highest rate at 184.3 per 100,000.
+4. Respiratory illness visits accounted for 2.0% of outpatient visits, remaining below the national baseline of 2.5%, with minimal activity reported in most jurisdictions.
+5. Influenza-associated pediatric deaths increased by four, reaching a cumulative total of 149 for the 2022-23 season.
+6. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) accounted for 7.3% this week, slightly above the epidemic threshold of 6.8%.
+7. Genetic and antigenic analysis suggests the majority of circulating influenza viruses are similar to vaccine strains and susceptible to antivirals; however, one A(H1N1) virus displayed reduced susceptibility to oseltamivir.
+8. Over 26 million flu illnesses, 290,000 hospitalizations, and 19,000 deaths have occurred so far, with healthcare-seeking impacted by alternative care during the pandemic.
+9. Vaccine coverage and trends remain consistent, with CDC emphasizing annual flu vaccination for all individuals aged six months and older.
+10. Future flu activity is anticipated to remain low but contingent on the co-circulation of respiratory viruses like SARS-CoV-2 and evolving healthcare behaviors.

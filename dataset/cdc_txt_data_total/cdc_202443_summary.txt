@@ -1,0 +1,18 @@
+Based on the weekly US Influenza Surveillance Report for Week 43 (ending October 26, 2024), the key facts regarding predicting future ILI occurrence are:
+
+1. Seasonal influenza activity remains low nationally.
+2. The percentage of respiratory specimens testing positive for influenza in clinical laboratories nationwide remained low and stable compared to the previous week.
+3. Influenza A(H1N1)pdm09 and A(H3N2) viruses are co-circulating, with variations in their distribution by region.
+4. Eight human infections with influenza A(H5) viruses were reported, with no identified human-to-human transmission.
+5. No influenza-associated pediatric deaths occurred during the current season, but one pediatric death from the previous season was reported.
+6. CDC recommends annual influenza vaccination for everyone aged 6 months and older.
+7. Antiviral medications are available for treating influenza, especially for higher-risk patients.
+8. Outpatient visits for respiratory illness, including ILI, increased slightly since early October but remained below baselines nationally and in all 10 HHS regions.
+9. There are multiple respiratory viruses co-circulating, and the relative contribution of influenza virus to ILI varies by location.
+10. Emergency department visits for influenza remained stable compared to the previous week.
+11. Laboratory-confirmed influenza-associated hospitalizations were reported, with a low hospitalization rate.
+12. The percentage of deaths due to influenza remained stable and low compared to the previous week.
+13. CDC conducts genetic and antigenic characterization of U.S. viruses to monitor virus similarity to reference viruses used in vaccines and to assess antiviral susceptibility.
+14. Additional national and international influenza surveillance information is available through various sources, including WHO and CDC collaborations.
+
+These facts provide an overview of current influenza activity and surveillance data, which can help in predicting and responding to future ILI outbreaks.

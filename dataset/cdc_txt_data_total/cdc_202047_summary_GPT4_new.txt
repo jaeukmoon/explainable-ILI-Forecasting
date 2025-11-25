@@ -1,0 +1,11 @@
+Week47, 2020
+1. Influenza activity remains unusually low for this time of year, with only 0.2% of respiratory specimens testing positive for influenza in clinical labs and 0.7% in public health labs.
+2. Influenza-like illness (ILI) accounted for 1.6% of outpatient visits, remaining below the national baseline of 2.6% and consistent with the previous week.
+3. Influenza A and B are detected at nearly equal proportions, with 45.0% of clinical lab-positive specimens identified as Influenza A and 55.0% as Influenza B.
+4. Deaths attributed to pneumonia, influenza, and COVID-19 (PIC) are at 11.3%, above the epidemic threshold of 6.3%, driven primarily by COVID-19 rather than influenza.
+5. No influenza-associated pediatric deaths have been reported so far during the 2020-2021 season.
+6. COVID-19 pandemic continues to impact healthcare-seeking behavior and data collection, making ILI surveillance data less reliable for true influenza activity interpretation.
+7. Hospitalization rates and influenza virus characterization updates will begin later in the season, as few influenza cases are currently reported.
+8. Annual flu vaccination is strongly encouraged to prevent severe outcomes, but vaccination uptake trends are not explicitly detailed in the report.
+9. Two regions saw increases in ILI activity, one region saw a decrease, and seven regions remained stable, with all below their regional thresholds.
+10. Flu activity could increase in the coming months despite the current low levels, pointing toward the need for continued surveillance and preparedness.

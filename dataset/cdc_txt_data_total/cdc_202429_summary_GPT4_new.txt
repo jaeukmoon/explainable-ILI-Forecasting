@@ -1,0 +1,11 @@
+Week29, 2024
+1. Influenza activity remains low nationally, with 0.7% of clinical lab tests positive for influenza, including Influenza A(H1N1)pdm09, A(H3N2), and B viruses.
+2. Of positive clinical lab specimens, 89.2% were Influenza A, and 10.8% were Influenza B; among public health lab specimens, 93.8% were Influenza A, and 6.2% were Influenza B.
+3. Hospitalization rates are very low, with a weekly rate of 0.1 per 100,000 and cumulative hospitalization dominated by Influenza A (84.6%).
+4. Deaths attributed to influenza account for 0.04% this week, stable compared to last week, with no pediatric deaths reported.
+5. Outpatient visits for respiratory illnesses (1.4%) remain below baseline, with no states experiencing moderate or higher levels of activity.
+6. Four new human infections with Influenza A(H5) were reported in Colorado related to poultry culling activities; these cases highlight potential zoonotic influenza risks.
+7. COVID-19, RSV, and other respiratory viruses are co-circulating, contributing to varied regional respiratory disease activity.
+8. Antiviral resistance remains very low overall, with minor genetic variations detected in a handful of influenza viruses.
+9. Vaccination promotion continues, but no specific trends or updates on vaccine uptake were provided this week.
+10. Future flu activity remains uncertain, with the co-circulation of multiple viruses and low baseline influenza activity requiring close monitoring.

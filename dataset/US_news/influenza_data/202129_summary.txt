@@ -1,0 +1,6 @@
+- MARCH8, a protein, inhibits influenza A virus (IAV) infection by targeting viral M2 protein for degradation in lysosomes.
+- MARCH8 has been shown to inhibit the replication of IAV both in vitro and in mice.
+- MARCH8 redirects viral M2 protein from the plasma membrane to lysosomes, leading to its degradation.
+- Specifically, MARCH8 catalyzes the K63-linked polyubiquitination of M2 at lysine residue 78 (K78).
+- The M2 protein of the H1N1 IAV has evolved to resist MARCH8-mediated degradation by acquiring non-lysine amino acids at positions 78/79.
+- These findings suggest that MARCH8 plays an important role in the host's antiviral defense against IAV and puts inhibitory pressure on H1N1 IAV transmission in the human population.

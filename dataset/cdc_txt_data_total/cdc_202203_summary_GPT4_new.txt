@@ -1,0 +1,11 @@
+Week3, 2022
+1. Influenza activity remains stable with 1.9% of clinical specimens and 1.3% of public health specimens testing positive, primarily Influenza A(H3N2) (97.4% of clinical and 99.8% of public health positives).
+2. Outpatient respiratory illness visits for ILI decreased slightly but are at 2.8%, above the national baseline; high or very high activity was reported in 12 jurisdictions.
+3. Cumulative hospitalization rate increased to 4.3 per 100,000, with adults aged 65+ having the highest rate (11.3).
+4. Pneumonia, influenza, or COVID-19 (PIC) deaths accounted for 28.4%, largely from COVID-19; only 0.5% of laboratory-confirmed influenza hospitalizations also tested positive for SARS-CoV-2.
+5. Vaccination rates this season are lower than last year, but the CDC continues to urge annual flu vaccinations.
+6. No pediatric influenza-associated deaths were reported this week, with a total of five deaths this season.
+7. 0.8% of long-term care facilities reported at least one influenza-positive test among residents, indicating limited spread in these settings.
+8. Antiviral susceptibility testing revealed no significant resistance to commonly used influenza antivirals like oseltamivir and zanamivir.
+9. Flu activity is expected to persist for several weeks, and multiple respiratory viruses like RSV and COVID-19 are co-circulating, impacting local ILI trends.
+10. Variability in influenza contributions across regions and evolving antigenic differences in H3N2 viruses may influence future activity predictions.

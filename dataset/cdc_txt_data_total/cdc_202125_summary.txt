@@ -1,0 +1,11 @@
+First, virologic surveillance is conducted using data from clinical and public health laboratories to monitor the percentage of respiratory specimens testing positive for influenza and the distribution of influenza virus types and subtypes. This helps track the level of influenza activity.
+
+Outpatient illness surveillance, specifically the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet), monitors outpatient visits for influenza-like illness (ILI). The percentage of patient visits due to ILI is compared to national baselines to determine the activity level.
+
+Geographic spread of influenza is assessed by state and territorial epidemiologists, indicating the level of flu activity in different jurisdictions. Activity levels can range from local to sporadic or no activity.
+
+Severe disease indicators, such as hospitalization rates and mortality rates from pneumonia and influenza (P&I), are monitored to understand the impact of the flu. Pediatric deaths associated with influenza are also tracked.
+
+Virus characterization provides information on the genetic and antigenic properties of circulating viruses, as well as their susceptibility to antiviral medications. This helps inform vaccine development and treatment strategies.
+
+Public health recommendations, including widespread flu vaccination and the use of antiviral drugs, are emphasized as the best ways to protect against influenza and its complications.

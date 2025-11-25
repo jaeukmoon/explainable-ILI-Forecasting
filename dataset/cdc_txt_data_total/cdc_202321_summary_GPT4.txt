@@ -1,0 +1,20 @@
+Week21, 2023
+- **Viruses, illness, and deaths**: Influenza activity is low, with 1.2% of respiratory specimens testing positive for influenza in week 21. Influenza A accounted for 43.5% of positives, and Influenza B for 56.5%. Among 1,278 PIC deaths in week 21, 7 influenza-related deaths were reported.
+
+- **U.S. virologic surveillance**: Of clinical tests, cumulative positives since October 2022 include 97.9% for Influenza A and 2.1% for Influenza B. Public health labs show 97.1% Influenza A positives (72.6% H3N2, 27.4% H1N1pdm09) and 2.9% Influenza B (all Victoria lineage).
+
+- **Cumulative hospitalization rate**: Hospitalization data is not updated for cases after April 30, 2023. Preliminary data shows 927 influenza-related hospitalizations occurred in week 21.
+
+- **Trends of deaths attributed to influenza**: 7.0% of deaths were due to pneumonia, influenza, or COVID-19, exceeding the epidemic threshold of 6.3%. Only 7 of these deaths were due to influenza.
+
+- **Percentage of Influenza A and Influenza B**: Week 21 saw 43.5% of positives attributed to Influenza A and 56.5% to Influenza B. Cumulative data shows 97.9% Influenza A dominance.
+
+- **Novel Influenza virus (like COVID-19)**: No novel influenza detections (e.g., H3N2v) were reported in week 21; SARS-CoV-2 contributes to overall respiratory illness.
+
+- **Vaccination trends**: Vaccines were not specifically discussed in this report; the importance of vaccination is implicit in surveillance efforts.
+
+- **Outpatient respiratory illness visits**: 1.9% of outpatient visits were for ILI in week 21. By age group, ILI visits were highest in children aged 0-4 years (5.9%) and decreased with age.
+
+- **Expectation of flu activity from CDC**: Influenza activity is expected to remain at low levels through the summer.
+
+- **Other key factors**: ILI activity mostly minimal across jurisdictions; no pediatric influenza deaths were reported in week 21, though 154 occurred during the 2022-2023 season. Multiple respiratory viruses are co-circulating, contributing variably to symptoms.

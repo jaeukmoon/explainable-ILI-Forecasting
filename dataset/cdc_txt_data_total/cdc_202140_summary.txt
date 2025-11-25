@@ -1,0 +1,21 @@
+The key facts regarding predicting future ILI occurrence can be summarized as follows:
+
+1. Influenza activity remains low in the United States.
+
+2. The percentage of respiratory specimens testing positive for influenza in clinical labs is 0.1%, and the majority of positive specimens are Influenza A.
+
+3. Outpatient visits for ILI are below the national baseline of 2.5%, with 1.9% of visits attributed to ILI.
+
+4. Geographic spread of influenza shows minimal activity in most areas, with some regions experiencing moderate activity.
+
+5. Hospitalization rates and pediatric deaths from influenza are not reported for the current season.
+
+6. The influenza vaccine is recommended for everyone 6 months and older, and antiviral drugs can be used to treat influenza illness.
+
+7. Virologic surveillance, including virus characterization, helps monitor the circulating influenza viruses and their resistance to antiviral medications.
+
+8. The National Center for Health Statistics reports that 18.0% of deaths in week 40 were attributed to pneumonia, influenza, or COVID-19, above the epidemic threshold.
+
+9. Up-to-date influenza surveillance information can be accessed through various national and international organizations, such as WHO and Public Health Agency of Canada.
+
+10. The CDC's influenza surveillance system provides comprehensive data components and methodologies for monitoring influenza activity.

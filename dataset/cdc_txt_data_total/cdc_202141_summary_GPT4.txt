@@ -1,0 +1,20 @@
+Week41, 2021
+- **Viruses, illness, and deaths:** Influenza activity remains low. Only 0.1% of respiratory specimens tested positive for influenza in clinical labs, and public health labs reported a few positive specimens. No influenza-associated pediatric deaths have been reported. 17.5% of deaths were attributed to pneumonia, influenza, or COVID-19 (above epidemic threshold), primarily driven by COVID-19 with no influenza-attributed deaths.
+
+- **U.S. virologic surveillance:** Clinical labs reported 47.2% of positive influenza specimens as Influenza A and 52.8% as Influenza B. Public health labs reported 50% as Influenza A, with 100% of those subtyped as H3N2, and 40% as Influenza B, primarily of Victoria lineage.
+
+- **Cumulative hospitalization rate:** No cumulative hospitalization rates are available yet. FluSurv-NET data will be updated later this season, but 248 hospitalizations were reported this week with laboratory-confirmed influenza.
+
+- **Trends of deaths attributed to influenza:** No influenza-related deaths were recorded. The high pneumonia, influenza, and COVID-19 (PIC) mortality is mainly from COVID-19.
+
+- **Percentage of Influenza A and Influenza B:** Influenza A constitutes 47.2% of clinical lab positives and 50% of public health lab positives. Influenza B constitutes 52.8% of clinical lab positives and 40% of public health lab positives.
+
+- **Novel influenza virus (like COVID-19):** Two infections with novel influenza A viruses (H1N1v and H3N2v) were identified, one in North Dakota (2020-21 season) and one in Ohio (2021-22 season). No ongoing human-to-human transmission has been identified.
+
+- **Vaccination trends:** The CDC recommends everyone 6 months or older get vaccinated by the end of October to prevent influenza and its complications. 
+
+- **Outpatient respiratory illness visits:** 1.8% of outpatient visits were attributed to influenza-like illness (ILI), below the national baseline of 2.5%. Influenza virus circulation is low, with ILI activity attributed to other respiratory viruses.
+
+- **Expectation of flu activity from CDC:** Influenza activity remains low with no indications of a significant increase this week, but anticipation depends on expanding virus activity in future weeks.
+
+- **Other key factors:** Two jurisdictions reported moderate ILI activity, while the majority reported low or minimal activity. Changes to the ILI definition this season aim to ensure consistency in data collection.

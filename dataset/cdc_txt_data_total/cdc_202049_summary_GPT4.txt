@@ -1,0 +1,20 @@
+Week49, 2020
+- **Viruses, illness, and deaths:** Influenza activity remains unusually low, with only 0.2% of respiratory specimens testing positive. The first pediatric influenza-associated death for the 2020-2021 season was reported, linked to an Influenza B virus. 14.3% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), with most due to COVID-19.
+
+- **U.S. virologic surveillance:** Among clinical lab positives, Influenza A (47.5%) and Influenza B (52.5%) were nearly balanced. Public health labs reported Influenza B (68.8%) predominating, with subtype data showing H1N1 but no H3N2 in week 49.
+
+- **Cumulative hospitalization rate:** A total of 61 influenza-associated hospitalizations since October 1, 2020, were reported, lower than average for this time of year. Hospitalization rates will be presented when sufficient data is available.
+
+- **Trends of deaths attributed to influenza:** While PIC deaths increased, this rise primarily stemmed from COVID-19, not influenza, as only five influenza-associated deaths were reported.
+
+- **Percentage of Influenza A and Influenza B:** Clinical labs reported Influenza A (47.5%) and Influenza B (52.5%). Public health labs showed Influenza B (68.8%) dominating over Influenza A (31.3%).
+
+- **Novel Influenza virus (like COVID-19):** Majority of PIC deaths are attributed to COVID-19, while influenza activity remains low.
+
+- **Vaccination trends:** CDC continues to emphasize getting flu vaccines as the best way to protect against influenza and potential complications.
+
+- **Outpatient respiratory illness visits:** ILI visits remained at 1.6%, below the national baseline of 2.6%, for a third consecutive week. Four jurisdictions reported low ILI activity, while the rest reported minimal activity.
+
+- **Expectation of flu activity from CDC:** CDC expects flu activity to remain low but may increase in the coming months, encouraging vaccination and emphasizing caution in interpreting surveillance affected by COVID-19.
+
+- **Other key factors:** Influenza surveillance and geographic spread reporting are limited in detail due to the impact of the COVID-19 pandemic on data collection systems. There is a need for cautious interpretation of ILI data due to altered healthcare-seeking behaviors.

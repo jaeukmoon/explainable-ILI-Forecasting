@@ -1,0 +1,5 @@
+- Researchers have developed a live attenuated influenza A vaccine using proteolysis targeting technology.
+- The vaccine works by degrading viral proteins through the host cell's ubiquitin-proteasome system.
+- The live attenuated vaccine was shown to be highly attenuated and able to elicit robust immune responses in mouse and ferret models.
+- The vaccine demonstrated efficacy against both homologous and heterologous virus challenges.
+- This approach has the potential to be applied to other viruses and may improve the development of live attenuated vaccines.

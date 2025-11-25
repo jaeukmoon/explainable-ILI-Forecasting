@@ -1,0 +1,11 @@
+Week49, 2020
+1. Influenza activity remains unusually low nationwide, with only 0.2% of respiratory specimens testing positive for influenza this week.
+2. Clinical labs detected 40 positive specimens, with 47.5% Influenza A and 52.5% Influenza B.
+3. Public health labs identified 16 positive specimens, with 31.3% Influenza A (100% H1N1 subtype) and 68.8% Influenza B (57.1% Yamagata lineage, 42.9% Victoria lineage).
+4. Outpatient visits for ILI accounted for 1.6% for the third consecutive week, remaining below the national baseline of 2.6%.
+5. One influenza-associated pediatric death linked to an Influenza B virus was reported for this season.
+6. PIC (pneumonia, influenza, or COVID-19) deaths accounted for 14.3% of all deaths, primarily driven by COVID-19, far exceeding the epidemic threshold of 6.5%.
+7. No cumulative hospitalization rates are available yet, with only 61 laboratory-confirmed influenza hospitalizations reported since October 1, 2020.
+8. Annual influenza vaccination is being strongly recommended, though specific data on vaccination trends were not mentioned.
+9. COVID-19 and changes in healthcare-seeking behavior continue to impact ILI surveillance and data interpretation.
+10. Influenza activity may increase in the coming months, though the season remains unpredictable due to simultaneous COVID-19 monitoring and altered healthcare patterns.

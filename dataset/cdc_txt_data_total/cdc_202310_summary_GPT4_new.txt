@@ -1,0 +1,18 @@
+Week10, 2023
+1. National influenza activity remains low, with only 1.0% of respiratory specimens testing positive for influenza.
+2. Of the clinical lab positive specimens, 66.2% were Influenza A and 33.8% Influenza B; public health labs reported 73.4% as Influenza A and 26.6% Influenza B.
+3. Notably, 66% of Influenza A subtypes were A(H1N1)pdm09, and 34% were A(H3N2); no novel influenza strains or significant mutations affecting antiviral resistance were reported.
+4. Outpatient visits for influenza-like illness remain stable at 2.4%, below the national baseline of 2.5%, with a slight increase in visits for children aged 0-4 years.
+5. Respiratory illness activity was moderate in 4 jurisdictions, high in 2 jurisdictions, but minimal in a majority (43) of jurisdictions.
+6. Long-term care facilities reporting influenza-positive cases persist at 0.5%, remaining stable since the previous week.
+7. The cumulative hospitalization rate for influenza was 60.4 per 100,000, with the highest rates among adults aged 65+ and children aged 0-4.
+8. Weekly hospitalizations for influenza remained stable at 1,387 admissions, with no significant increase in rates.
+9. Deaths attributed to pneumonia, influenza, or COVID-19 remained at 8.6%, slightly above the epidemic threshold of 7.2%.
+10. Seven pediatric deaths were reported, all associated with influenza A, adding to a seasonal total of 132 pediatric influenza-associated deaths.
+
+11. Summary Insights Useful for Predicting Future Trends:
+12. - Seasonal influenza activity, while low, shows co-circulation of multiple respiratory pathogens, increasing variability by region.
+13. - A relatively high cumulative hospitalization rate indicates potential strain on healthcare among specific vulnerable demographics (e.g., those aged 65+).
+14. - Continued changes in healthcare-seeking behavior and the intersection of influenza, COVID-19, and other respiratory illnesses may alter traditional flu trends.
+15. - Flu vaccination remains critical, as most tested viruses remain antigenically similar to vaccine strains.
+16. - Stable antiviral susceptibility and absence of novel virus strains reduce immediate concerns of unexpected outbreaks.

@@ -1,0 +1,9 @@
+According to the CDC's weekly influenza surveillance report, the key facts regarding predicting future ILI occurrence are as follows:
+
+1. Seasonal influenza activity is increasing in most parts of the country, especially in the South Central, Southeast, Mountain, and West Coast regions.
+2. Influenza A viruses, including H1N1pdm09 and H3N2, were the most frequently reported strains.
+3. ILI activity is above the national baseline, with an increase in outpatient visits for respiratory illness.
+4. Multiple respiratory viruses are co-circulating, contributing to ILI activity.
+5. The hospitalization rate for laboratory-confirmed influenza is increasing, especially among adults aged 65 years and older.
+6. The majority of deaths attributed to pneumonia and influenza are below the epidemic threshold.
+7. No pediatric deaths associated with influenza have been reported for the current season.

@@ -1,0 +1,13 @@
+Week3, 2023
+1. Influenza activity is declining nationally, with 3.0% of respiratory specimens testing positive, primarily Influenza A (96%) over Influenza B (4%).
+2. Among Influenza A viruses, 73% were A(H3N2) and 27% were A(H1N1).
+3. Outpatient respiratory illness visits accounted for 2.6% of visits, slightly above the national baseline, with moderate-to-high activity in 10 jurisdictions.
+4. The cumulative hospitalization rate was 58.1 per 100,000, 1.4 times higher than in-season hospitalization rates seen in past years at this point, with adults 65+ most affected.
+5. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) accounted for 12% of deaths, exceeding the epidemic threshold, with influenza-related mortality decreasing in recent weeks.
+6. Six additional pediatric deaths were reported, all due to Influenza A, bringing the seasonal total to 91.
+7. No cases of antiviral resistance were detected, and most circulating viruses were antigenically similar to the vaccine strain.
+8. CDC estimates 25 million illnesses, 280,000 hospitalizations, and 17,000 deaths from influenza so far this season.
+9. 1.7% of long-term care facilities reported outbreaks, a decrease from the previous week.
+10. Flu activity is expected to continue to decline, though co-circulation of multiple respiratory viruses, including COVID-19, impacts disease trends.
+
+11. Summary: Influenza A(H3N2) remains dominant, severe outcomes like hospitalizations and deaths are elevated but declining, and vaccination remains effective.

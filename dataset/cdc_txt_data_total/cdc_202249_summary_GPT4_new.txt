@@ -1,0 +1,11 @@
+Week49, 2022
+1. Influenza activity is elevated nationwide, with the southeast, south-central, and west coast regions experiencing the highest levels of flu activity.
+2. This week, 10.2% of respiratory specimens tested positive for influenza, with public health labs reporting 83% Influenza A and 17% Influenza B.
+3. Of the Influenza A specimens subtyped, 74.8% were A(H1N1) and 25.2% were A(H3N2).
+4. The cumulative hospitalization rate for influenza is 8.0 per 100,000 population, with 7,090 new hospitalizations reported this week, indicating an upward trend.
+5. Influenza-associated deaths remain low, at 0.2% of total deaths, though this percentage has been trending upward in recent weeks.
+6. Two new pediatric influenza-associated deaths were reported this week, bringing the seasonal total to 14.
+7. Outpatient visits for influenza-like illness accounted for 4.4% of visits, above the national baseline of 2.9%, and have been elevated for six consecutive weeks.
+8. Vaccination continues to be encouraged by the CDC, with flu vaccines still available; antiviral drugs also remain effective for treatment.
+9. Multiple respiratory viruses, including COVID-19 and RSV, are contributing to respiratory illness activity, complicating attribution to flu alone.
+10. Current trends suggest rising influenza activity, with both Influenza A and B circulating widely across the U.S. regions.

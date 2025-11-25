@@ -1,0 +1,12 @@
+Week22, 2024
+- **Viruses, Illness, and Deaths**: Seasonal influenza activity remains low nationally (1.8% respiratory specimens positive for influenza). Weekly deaths attributed to influenza are low at 0.1%. One new pediatric death (influenza B, no lineage determined) was reported, bringing the season total to 173 pediatric deaths.  
+- **U.S. Virologic Surveillance**: Influenza A(H1N1)pdm09, A(H3N2), and B/Victoria viruses co-circulate. Clinical labs reported Influenza A (73.6%) predominating over Influenza B (26.4%).  
+- **Cumulative Hospitalization Rate**: Hospitalization rate is 0.2 per 100,000 population this week. The seasonal total is 24,976 hospitalizations, with 84.6% linked to Influenza A (68.5% A(H1N1)pdm09; 31.5% H3N2).  
+- **Trends of Deaths Attributed to Influenza**: Deaths due to influenza (0.1%) remained stable and well below epidemic thresholds.  
+- **Percentage of Influenza A and B**: Among positive specimens, clinical labs show 73.6% Influenza A and 26.4% Influenza B. Public health labs show 66.2% Influenza A and 33.8% Influenza B.  
+- **Novel Influenza Virus (like COVID-19)**: No novel influenza viruses have been reported this week.  
+- **Vaccination Trends**: CDC continues to recommend annual vaccination for everyone 6 months and older while flu activity persists.  
+- **Outpatient Respiratory Illness Visits**: 1.9% of outpatient visits were for respiratory illnesses, below the national baseline. All regions and jurisdictions reported low or minimal ILI activity.  
+- **Expectation of Flu Activity from CDC**: Flu activity remains low, and no significant increase is expected based on current trends.  
+- **Other Key Factors**: Antiviral susceptibility remains high for most viruses with minimal resistant cases detected. Co-circulation of multiple respiratory viruses, including COVID-19 and RSV, is evident from syndromic data.  
+

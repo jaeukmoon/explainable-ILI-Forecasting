@@ -1,0 +1,6 @@
+- Influenza viruses cause a significant number of infections and deaths annually.
+- The development of a universal influenza vaccine has proven challenging.
+- Rapid response technologies are crucial in countering novel influenza outbreaks.
+- The molecular clamp is a modular trimerization domain that allows for efficient production and purification of stabilized prefusion hemagglutinin (HA) proteins from diverse influenza A subtypes.
+- Clamp-stabilized HA vaccines have shown robust protection against homologous virus challenge in mouse and ferret models and some cross-protection against heterologous virus challenge.
+- This work provides proof-of-concept for clamp-stabilized HA vaccines as a tool for rapid response vaccine development against future influenza A virus pandemics.

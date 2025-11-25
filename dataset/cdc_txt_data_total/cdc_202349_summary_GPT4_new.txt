@@ -1,0 +1,11 @@
+Week49, 2023
+1. Influenza activity is significantly elevated across most of the U.S., with the southeast, south-central, and west coast regions reporting the highest activity levels.
+2. Respiratory specimens testing positive for influenza increased to 10.2% this week.
+3. Influenza A accounted for 83% of positive specimens, with A(H1N1) the most frequently characterized subtype, while Influenza B made up 17% of detections.
+4. Hospital admissions for laboratory-confirmed influenza increased to 7,090 this week, with a cumulative hospitalization rate of 8.0 per 100,000 population this season.
+5. Deaths attributed to influenza remained stable at 0.2%, though two new pediatric influenza-associated deaths were reported, raising the seasonal total to 14.
+6. Outpatient visits for influenza-like illness (ILI) were 4.4% nationwide, surpassing the national baseline for the sixth consecutive week.
+7. CDC estimates there have been at least 3.7 million illnesses, 38,000 hospitalizations, and 2,300 deaths due to influenza this season.
+8. Vaccine coverage insights emphasize continued availability, and CDC recommends vaccination for individuals six months or older, as it is not too late to vaccinate.
+9. Co-circulation of influenza, COVID-19, and RSV is noted, with integrated weekly data monitoring by CDC, though no novel influenza variants (e.g., H3N2v) have been observed this week.
+10. Predictive factors include elevated hospitalization rates among adults aged 65+ (20.3 per 100,000) and children aged 0-4 years, high positivity rates in regions 8, 6, and 4, and an increasing trend of respiratory illness in most surveyed age groups nationwide.

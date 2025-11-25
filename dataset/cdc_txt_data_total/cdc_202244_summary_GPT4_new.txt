@@ -1,0 +1,12 @@
+Week44, 2022
+1. Influenza activity is increasing nationally, with notable rises in the South Central, Southeast, and West Coast regions; 3.0% of clinical lab specimens tested positive for influenza this week.
+2. Of the 192 positive public health lab specimens, 77.1% were Influenza A and 22.9% Influenza B. Among subtyped Influenza A specimens, 90.6% were A(H1N1) and 9.4% A(H3N2).
+3. Outpatient visits for ILI remain at the national baseline of 2.9%, with increases in Regions 1-6, 8, and 9; Region 9 is at baseline, while Regions 4 and 6 exceed their baselines.
+4. Cumulative hospitalization for influenza reached a rate of 1.2 per 100,000, the second highest cumulative rate for this time in recent seasons, with 1,962 admissions reported last week.
+5. Deaths due to influenza remained very low at 0.09% this week, unchanged compared to the prior week. One pediatric death linked to Influenza A(H1N1) from the 2022-2023 season was reported.
+6. Influenza A comprised 69.8% of clinical lab positives, while Influenza B accounted for 30.2%. The Victoria lineage represented all subtyped Influenza B specimens tested.
+7. Vaccination is recommended for everyone aged 6 months and older, but trends in vaccination uptake were not reported this week.
+8. Co-circulation of influenza, RSV, and SARS-CoV-2 may influence regional ILI trends and disease burden.
+9. Increased hospital admissions for influenza suggest a potential rise in flu severity, especially in Regions 1, 4, 5, 6, 7, 8, 9, and 10 last week.
+10. The CDC anticipates further flu activity increases as surveillance data shows an upward trend across multiple metrics.
+

@@ -1,0 +1,9 @@
+- Seasonal influenza activity is currently elevated and increasing in most parts of the country.
+- Influenza A(H1N1)pdm09 has been the predominant virus circulating.
+- Outpatient visits for respiratory illness (ILI) are above baseline nationally and in all 10 HHS regions.
+- The cumulative hospitalization rate is 11.3 per 100,000 population.
+- 0.3% of deaths during Week 50 were attributed to influenza.
+- No influenza-associated pediatric deaths were reported during Week 50.
+- Influenza viruses are susceptible to antiviral medications, with some exceptions of reduced susceptibility to oseltamivir in a small number of cases.
+- CDC recommends annual influenza vaccination and the use of antiviral drugs for treatment, especially in high-risk patients.
+- FluView Interactive provides dynamic visuals and comparisons of influenza data.

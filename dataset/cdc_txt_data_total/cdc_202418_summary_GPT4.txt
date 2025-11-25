@@ -1,0 +1,20 @@
+Week18, 2024
+- **Viruses, illness, and deaths:** Seasonal influenza activity continues to decline nationally. Influenza viruses A (H1N1)pdm09, A(H3N2), and B co-circulate, with A accounting for 70.6% of samples and B for 29.4% this week. Six pediatric deaths from influenza were reported, bringing the 2023-2024 season total to 164. Cumulatively, the season saw at least 24,000 influenza-related deaths.
+
+- **U.S. virologic surveillance:** Clinical labs report 3.1% of specimens tested positive for influenza nationally this week, with 58.8% being Influenza A and 41.2% Influenza B. In public health labs, A(H3N2) (53.7%) slightly dominated A(H1N1)pdm09 (46.3%) among subtyped Influenza A cases.
+
+- **Cumulative hospitalization rate:** Hospitalizations from influenza reached 80.3 per 100,000, the second-highest cumulative rate for week 18 compared to past seasons, behind 2017-2018.
+
+- **Trends of deaths attributed to influenza:** Influenza-associated deaths represent 0.2% of total deaths this week, consistent with the prior week’s data.
+
+- **Percentage of Influenza A and Influenza B:** Among public health lab samples, 70.6% were Influenza A and 29.4% were Influenza B. Among clinical labs, 58.8% were Influenza A, 41.2% Influenza B.
+
+- **Novel Influenza virus like COVID-19:** No reports of novel influenza (e.g., H3N2v) or SARS-CoV-2-related trends impacting data.
+
+- **Vaccination trends:** CDC continues to recommend flu vaccination for individuals aged 6 months or older as long as flu activity persists.
+
+- **Outpatient respiratory illness visits:** Nationally, 2.1% of outpatient visits were due to influenza-like illness (ILI), below the 2.4% baseline. Minimal ILI activity was observed across 52 jurisdictions, reflecting stable respiratory illness contributions this week.
+
+- **Expectation of flu activity:** Flu activity is expected to continue declining, with multiple respiratory viruses contributing to ongoing illnesses.
+
+- **Other key factors:** Hospitalizations were highest among adults aged 65+ years, non-Hispanic Black individuals, and individuals with underlying health conditions. The season has seen high hospitalization rates comparable to severe past flu seasons. Any impact of influenza co-circulating with other respiratory viruses (e.g., RSV or COVID-19) should continue to be monitored.

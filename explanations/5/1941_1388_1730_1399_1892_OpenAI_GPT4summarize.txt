@@ -1,0 +1,13 @@
+1. The past time-series ILI occurrences over the 5 weeks exhibited fluctuations but displayed a general downward trend. The values started with 1941 (Week 1, 2021), declined to 1388 (Week 2, 2021), rose slightly to 1730 (Week 3, 2021), dropped again to 1399 (Week 4, 2021), and ended at 1892 (Week 5, 2021). While minor week-to-week increases were noted, the overall trend indicates volatility without a sustained increase over the 5-week period.
+
+2. The decline in ILI occurrences from Week 1 to Week 4, 2021, followed by a marginal increase in Week 5, 2021, does not align strongly with the significant drop to 936 in the future occurrences (5 weeks later, Week 10, 2021). However, the earlier weeks' declining trend may foreshadow the sharp reduction seen in future data. This weak negative correlation suggests suppressed ILI activity over subsequent weeks.
+
+3. Outpatient visits for ILI showed a steady decline over the observation period, dropping from 1.7% in Week 1, 2021, to 1.1% in Week 4 and stabilizing at 1.1% in Week 5. This decrease is below the national baseline of 2.6% and aligns with the low ILI activity observed, contributing to the future drop to 936.
+
+4. Pneumonia, influenza, or COVID-19 (PIC) mortality consistently exceeded epidemic thresholds; however, PIC percentages showed fluctuation, peaking at 28.4% in Week 4, 2021, before slightly decreasing to 25.0% in Week 5, 2021. These trends, primarily driven by COVID-19, reflect atypically low influenza activity, supporting the reduced future ILI occurrences.
+
+5. Minimal influenza positivity rates were reported throughout the 5 weeks, with clinical labs detecting positivity rates as low as 0.1% (Weeks 2, 4, and 5) and minimal laboratory-confirmed hospitalizations (0.5–0.6 per 100,000 population). These historically low rates directly correlate with suppressed flu transmission, reinforcing future ILI reductions to 936.
+
+6. Disrupted healthcare-seeking behaviors due to the ongoing COVID-19 pandemic impacted ILI data interpretation and may have contributed to underreporting or reductions in traditional ILI encounters. These changes in data collection align with the lower-than-expected future ILI values.
+
+7. In summary, the sharp decline to 936 future ILI occurrences (Week 10, 2021) can be attributed to the overall downward trend in ILI data, consistent decreases in outpatient ILI visits, persistently low influenza test positivity and hospitalization rates, the dominance of COVID-19 in PIC mortality, and pandemic-driven disruptions in healthcare-seeking and reporting behaviors.

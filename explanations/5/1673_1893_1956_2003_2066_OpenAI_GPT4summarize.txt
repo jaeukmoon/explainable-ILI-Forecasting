@@ -1,0 +1,11 @@
+1. The past time-series ILI occurrences over the 5 weeks showed a consistent upward trend, starting at 1673 (Week 11, 2021) and ending at 2066 (Week 15, 2021). Weekly increases were observed: from 1673 to 1893 (Week 12, 2021), then to 1956 (Week 13, 2021), to 2003 (Week 14, 2021), and finally to 2066 by Week 15, 2021. This steady rise in ILI activity signals an underlying increase in respiratory illness activity heading into the subsequent weeks.
+
+2. A strong positive correlation is evident between the past and future ILI occurrences. The continuous upward trajectory of ILI counts through Week 15, 2021, culminates in the future increase to 2114 occurrences after 5 weeks (Week 20, 2021). This progression reflects the compounding nature of illness spread over time, likely affected by seasonal or sociological factors.
+
+3. Outpatient visits for ILI remained consistently under the national baseline but gradually increased, from 0.9% (Week 11, 2021) to 1.1% (Week 15, 2021). This gradual growth in ILI-related healthcare encounters indicates escalating respiratory illness activity, aligning with the observed future rise.
+
+4. Persistently high deaths attributed to pneumonia, influenza, or COVID-19 (PIC)—exceeding epidemic thresholds—suggest higher respiratory illness burdens. These figures ranged from 12.1% (Week 11, 2021) to 12.4% (Week 15, 2021), reflecting sustained illness activity that may contribute to future increases in ILI occurrences.
+
+5. Changes in healthcare-seeking behaviors due to COVID-19, as emphasized in CDC reports across all 5 weeks, disrupted traditional surveillance and reporting systems. Delayed case recognition or shifts in illness trends may have contributed to the progression toward elevated future ILI occurrences.
+
+6. In summary, the recorded 2114 future ILI occurrences (Week 20, 2021) can be attributed to the steady rise in ILI counts (Weeks 11-15, 2021), gradual upward trends in ILI-related outpatient visits, persistently high PIC mortality rates exceeding epidemic thresholds, and pandemic-driven changes in healthcare-seeking behaviors, which likely impacted the clarity and trajectory of illness activity during this period.

@@ -1,0 +1,11 @@
+Week39, 2021
+1. Influenza activity nationwide remains low; 1.9% of outpatient visits were due to influenza-like illness (ILI), well below the 2.6% baseline.
+2. Limited influenza circulation reported, with other respiratory viruses likely contributing to ILI increases.
+3. No pediatric influenza-associated deaths reported during Week 39; only one pediatric death for the 2020-21 season has been reported to date.
+4. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) accounted for 18.7% of all deaths, largely driven by COVID-19, far exceeding the epidemic threshold of 5.7%.
+5. Virologic data show no significant uptick in influenza testing positivity during this period.
+6. ILI percentages are reported decreasing across all age groups, including 0-4 years, 5-24 years, 25-49 years, 50-64 years, and 65+ years.
+7. No significant hospitalization trends due to influenza were provided as influenza-related admissions after April 30, 2021, are excluded from surveillance.
+8. The public is encouraged to consider annual influenza vaccination; broader data on seasonal vaccination is not available.
+9. ILI data are influenced by healthcare behavior changes during the COVID-19 pandemic, making surveillance interpretation complex.
+10. Future flu activity remains uncertain due to current low influenza circulation and overlapping impacts of other respiratory pathogens.

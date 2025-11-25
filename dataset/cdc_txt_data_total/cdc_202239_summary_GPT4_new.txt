@@ -1,0 +1,11 @@
+Week39, 2022
+1. Influenza activity remains low, with 1.0% of clinical specimens and 3.95% of public health specimens testing positive for influenza.
+2. Clinical labs reported 64.0% of positive specimens as Influenza A and 36.0% as Influenza B.
+3. Public health labs detected 84.2% Influenza A, primarily (H1N1)pdm09 (95.2%), with 15.8% Influenza B categorized under the Victoria lineage.
+4. Outpatient visits for ILI accounted for 2.1% of consultations, with the highest rates among children aged 0-4 years (7.1%) and those aged 5-24 years (3.3%).
+5. Hospitalizations included 1,040 patients with laboratory-confirmed influenza during Week 39.
+6. Deaths attributed to pneumonia, influenza, and/or COVID-19 (PIC) were 7.3% of all reported deaths, surpassing the epidemic threshold of 5.7%; 11 deaths were attributed to influenza.
+7. One pediatric influenza-associated death was reported for the 2022-2023 season as of Week 39.
+8. Various respiratory viruses, including SARS-CoV-2 and RSV, are co-circulating and contributing to ILI visits across the U.S.
+9. Flu activity remains minimal in 44 jurisdictions, with only a few areas reporting moderate or higher activity.
+10. The CDC recommends vaccination, though no updates on vaccination trends were included in this report. Future predictions remain uncertain due to the variability of co-circulating viruses.

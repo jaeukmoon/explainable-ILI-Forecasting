@@ -1,0 +1,13 @@
+Week42, 2023
+1. Influenza activity remains low nationally, with 1.7% of clinical respiratory specimens testing positive for influenza.
+2. Of the 134 specimens reported by public health labs, 71.6% were Influenza A (89.3% A(H1N1) and 10.7% A(H3N2)) and 28.4% were Influenza B (100% Victoria lineage).
+3. Cumulative hospitalization rate for influenza was 0.5 per 100,000 population, with a weekly hospitalization rate of 0.2 per 100,000.
+4. Deaths attributed to influenza accounted for 0.08% of reported deaths, remaining stable from the previous week.
+5. Outpatient visits for influenza-like illness (ILI) were 2.5%, which increased slightly but remained below the national baseline of 2.9%.
+6. No pediatric influenza-associated deaths were reported this week.
+7. Vaccination is recommended for individuals 6 months and older by the end of October, but no current vaccination trends were reported.
+8. Respiratory activity data included contributions from multiple viruses (influenza, SARS-CoV-2, RSV), complicating attribution of ILI by pathogen.
+9. Moderate ILI activity was observed in 5 jurisdictions, with 1 jurisdiction reporting high activity and others reporting minimal or low activity.
+10. Influenza A(H1N1) predominates, showing genetic compatibility with current vaccine strains, while antiviral susceptibility data will follow later in the season.
+
+11. Summary of key trends indicates that influenza remains low but shows regional increases, with modest rises in ILI visits and hospitalizations.

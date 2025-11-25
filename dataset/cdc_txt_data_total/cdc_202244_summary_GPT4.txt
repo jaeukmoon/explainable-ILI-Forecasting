@@ -1,0 +1,20 @@
+Week44, 2022
+- **Viruses, illness, and deaths**: Influenza activity is increasing, especially in the South Central, Southeast, and West Coast regions. Of 192 public health lab-confirmed specimens, 77.1% were influenza A (90.6% H1N1, 9.4% H3N2), and 22.9% were influenza B (100% Victoria lineage). One pediatric death associated with influenza A (H1N1)pdm09 was reported this season. Influenza has caused 490,000 illnesses, 5,300 hospitalizations, and 330 deaths so far in the 2023-24 season.
+
+- **U.S. virologic surveillance**: Clinical lab positivity was 3.0% nationally, rising in most regions. Influenza A accounted for 69.8% of positives, while Influenza B accounted for 30.2%. Public health lab results were 77.1% influenza A and 22.9% influenza B.
+
+- **Cumulative hospitalization rate**: The cumulative rate for influenza-related hospitalizations is 1.2 per 100,000, the second-highest in-season rate for week 44 since 2010. The highest rate was among adults aged 65+ (3.0 per 100,000).
+
+- **Trends of deaths attributed to influenza**: 0.09% of deaths in week 44 were due to influenza, stable compared to the previous week.
+
+- **Percentage of Influenza A and Influenza B**: 69.8% of clinical specimens and 77.1% of public health lab specimens were influenza A, with a dominance of H1N1 (90.6% of subtyped influenza A in public labs). Influenza B accounted for 30.2% in clinical labs and 22.9% in public labs (all Victoria lineage).
+
+- **Novel Influenza virus (like COVID-19)**: No novel influenza viruses, such as H3N2v, have been reported. SARS-CoV-2 contributes to respiratory illness alongside influenza and RSV.
+
+- **Vaccination trends**: CDC continues to recommend flu vaccination for all individuals 6 months and older. Vaccination is emphasized to reduce flu burden.
+
+- **Outpatient respiratory illness visits**: 2.9% of outpatient visits nationwide were for ILI, at the national baseline but increasing. Regions 4 (Southeast) and 6 (South Central) are above their baselines, while Region 9 (West Coast) is at its baseline.
+
+- **Expectation of flu activity from CDC**: Flu activity is projected to increase in coming weeks, especially in regions currently seeing notable spikes.
+
+- **Other key factors**: Hospital admissions increased by 5%+ compared to the prior week in many regions. Influenza A (H1N1)pdm09 is the predominant virus. Co-circulation of respiratory viruses, including COVID-19 and RSV, continues to influence syndromic activity.

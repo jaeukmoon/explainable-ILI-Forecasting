@@ -1,0 +1,67 @@
+Search  Advanced Search!Inﬂuenza (Flu)Seasonal Inﬂuenza (Flu)>Flu Activity & Surveillance    "#$%&Weekly U.S. Inﬂuenza SurveillanceReport
+Note:Note: CDC is tracking the COVID-19 pandemic in a weekly publication calledCOVIDView.
+2019-2020 Inﬂuenza Season Week 39, ending September26, 2020All data are preliminary and may change as more reports are received. An overview of the CDC inﬂuenza surveillance system, including methodologyand detailed descriptions of each data component, is available athttp://www.cdc.gov/ﬂu/weekly/overview.htm. Additional information on the current and previous inﬂuenza seasons for eachsurveillance component are available on FluView Interactive.U.S. Virologic Surveillance:Clinical LaboratoriesData from clinical laboratories (the percentage of specimens tested that are positivefor inﬂuenza) are used to monitor whether inﬂuenza activity is increasing ordecreasing.
+View Chart Data | View Full ScreenPublic Health LaboratoriesData from public health laboratories are used to monitor the proportion ofcirculating viruses that belong to each inﬂuenza subtype/lineage.
+View Chart Data | View Full ScreenAdditional virologic surveillance information for current and past seasons:Additional virologic surveillance information for current and past seasons:Surveillance Methods | FluView Interactive: National, Regional, and State Data orAge DataOutpatient Illness SurveillanceILINetNationwide during week 39, 1.0% of patient visits reported through the U.S.Outpatient Inﬂuenza-like Illness Surveillance Network (ILINet) were due to inﬂuenza-like illness (ILI). This percentage is below the national baseline of 2.4%.Note: In response to the COVID-19 pandemic, new data sources will be incorporatedinto ILINet throughout the summer weeks when lower levels of inﬂuenza and otherrespiratory virus circulation are typical. Starting in week 21, increases in the numberof patient visits will be seen as new sites are enrolled and the percentage of visits forILI may change in comparison to previous weeks. While all regions remain belowbaseline levels for ILI, these system changes should be kept in mind when drawingconclusions from these data. Any changes in ILI due to changes in respiratory viruscirculation will be highlighted here.
+View Chart Data (current season only) | View Full ScreenILI Activity MapData collected in ILINet are used to produce a measure of ILI activity* by state.During week 39, the following ILI activity levels were experienced:Moderate – Puerto Rico.Minimal – New York City, and 48 states (Alabama, Arizona, Arkansas, California,Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois,Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts,Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, NewHampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota,Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, SouthDakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,and Wisconsin.Data were insuﬃcient to calculate an ILI activity level from the District ofColumbia, the U.S. Virgin Islands, and two states (Alaska and Wyoming).A Weekly Inﬂuenza Surveillance Report Prepared by the Inﬂuenza DivisionInﬂuenza-Like Illness (ILI) Activity Level Indicator Determined by Data Reported to ILINetprev Play Pausenext
+40
+41
+42
+43
+44
+45
+46
+47
+48
+4950
+51
+521
+2
+3
+4
+5
+6
+7
+8
+910
+11
+12
+13
+14
+15
+16
+17
+18
+1920
+21
+22
+23
+24
+25
+26
+27
+28
+2930
+31
+32
+33
+34
+35
+36
+37
+3839weeks2019-20 Inﬂuenza Season Week 39 ending Sep 26, 2020
+New York City
+AlaskaPuerto RicoDistrict of ColumbiaHawaiiVirgin IslandsILI Activity LevelVery HighVery HighHighHighModerateModerateLowLowMinimalMinimalInsuﬃcient DataInsuﬃcient DataSeason: 2019-20 Download Image Download DataView Full Screen*Data collected in ILINet may disproportionally represent certain populations within a state, andtherefore, may not accurately depict the full picture of inﬂuenza activity for the whole state.Diﬀerences in the data presented here by CDC and independently by some state health departmentslikely represent diﬀering levels of data completeness with data presented by the state likely being themore complete.Additional information about medically attended visits for ILI for currentAdditional information about medically attended visits for ILI for currentand past seasons:and past seasons:Surveillance Methods | FluView Interactive: National, Regional, and State Data or ILIActivity MapInﬂuenza-Associated Hospitalizations:The Inﬂuenza Hospitalization Surveillance Network (FluSurv-NET) conducts all agepopulation-based surveillance for laboratory-conﬁrmed inﬂuenza-relatedhospitalizations in select counties in the Emerging Infections Program (EIP) statesand Inﬂuenza Hospitalization Surveillance Project (IHSP) states.As in previous seasons, patients admitted for laboratory-conﬁrmed inﬂuenza-relatedhospitalization after April 30, 2020 will not be included in FluSurv-NET. Data onpatients admitted through April 30, 2020 will continue to be updated as additionalinformation is received.Additional hospitalization surveillance information for current and pastAdditional hospitalization surveillance information for current and pastseasons and additional age groups:seasons and additional age groups:Surveillance Methods | FluView Interactive: Rates by Age or Patient CharacteristicsPneumonia and Inﬂuenza (P&I) MortalitySurveillanceBased on National Center for Health Statistics (NCHS) mortality surveillance dataavailable on October 1, 2020, 5.4% of the deaths occurring during the week endingSeptember 26, 2020 (week 39) were due to P&I. This percentage is below theepidemic threshold of 5.6% for week 39.Weekly mortality surveillance data include a combination of machine coded andmanually coded causes of death collected from death certiﬁcates. Percentages ofdeaths due to pneumonia and inﬂuenza (P&I) are higher among manually codedrecords than more rapidly available machine coded records. Due to the additionaltime needed for manual coding, the initially reported P&I percentages are likely toincrease as more data are received and processed.
+View Chart Data | View Full ScreenAdditional pneumonia and inﬂuenza mortality surveillance information forAdditional pneumonia and inﬂuenza mortality surveillance information forcurrent and past seasons:current and past seasons:Surveillance Methods | FluView Interactive'Inﬂuenza-Associated Pediatric MortalityOne inﬂuenza-associated pediatric death occurring during the 2019-2020 seasonwas reported to CDC during week 39. This death was associated with an inﬂuenza Bvirus and occurred during week 4 (the week ending January 25, 2020).A total of 189 inﬂuenza-associated pediatric deaths occurring during the 2019-2020season have been reported to CDC.
+ View Full Screen Additional pediatric mortality surveillance information for current and pastAdditional pediatric mortality surveillance information for current and pastseasons:seasons:Surveillance Methods | FluView InteractiveAdditional National and InternationalInﬂuenza Surveillance InformationFluView Interactive:FluView Interactive: FluView includes enhanced web-based interactive applicationsthat can provide dynamic visuals of the inﬂuenza data collected and analyzed byCDC. These FluView Interactive applications allow people to create customized,visual interpretations of inﬂuenza data, as well as make comparisons across ﬂuseasons, regions, age groups and a variety of other demographics.National Institute for Occupational Safety and Health:National Institute for Occupational Safety and Health: Monthly surveillancedata on the prevalence of health-related workplace absenteeism among full-timeworkers in the United States are available from NIOSH.U.S. State and local inﬂuenza surveillance:U.S. State and local inﬂuenza surveillance: Select a jurisdiction below to accessthe latest local inﬂuenza information.AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict ofColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNewHampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorthDakotaOhioOklahomaOregonPennsylvaniaRhodeIslandSouthCarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyomingNew York CityPuerto RicoVirgin IslandsWorld Health Organization:World Health Organization:Additional inﬂuenza surveillance information from participating WHO membernations is available throughFluNet and the Global Epidemiology Reports.WHO Collaborating Centers for Inﬂuenza:WHO Collaborating Centers for Inﬂuenza:Australia, China, Japan, the United Kingdom, and the United States (CDCin Atlanta, Georgia)Europe:Europe:The most up-to-date inﬂuenza information from Europe is available fromWHO/Europe and the European Centre for Disease Prevention and Control.Public Health Agency of Canada:Public Health Agency of Canada:The most up-to-date inﬂuenza information from Canada is available in Canada’sweekly FluWatch report.Public Health England:Public Health England:The most up-to-date inﬂuenza information from the United Kingdom is availablefrom Public Health England.Any links provided to non-Federal organizations are provided solely as aAny links provided to non-Federal organizations are provided solely as aservice to our users. These links do not constitute an endorsement ofservice to our users. These links do not constitute an endorsement ofthese organizations or their programs by CDC or the Federal Government,these organizations or their programs by CDC or the Federal Government,and none should be inferred. CDC is not responsible for the content of theand none should be inferred. CDC is not responsible for the content of theindividual organization web pages found at these links.individual organization web pages found at these links.A description of the CDC inﬂuenza surveillance system, including methodology anddetailed descriptions of each data component is available on the surveillancemethods page.(((((((((
+Page last reviewed: October 2, 2020, 11:00 AMContent source: Centers for Disease Control and Prevention, National Center for Immunization andRespiratory Diseases (NCIRD)Seasonal Inﬂuenza(Flu))About FluWho is at High Riskfor FluComplicationsThis Flu SeasonPrevent FluFlu Vaccines WorkSymptoms &DiagnosisTreatmentSchools, Businesses& Travelers
+Health ProfessionalsFlu News &SpotlightsWhat’s New
+What CDCDoesFluVaxViewCommunicationsResource CenterInternationalWorkOutbreakInvestigations
+Get EmailUpdatesTo receive weeklyemail updatesabout SeasonalFlu, enter youremail address:*
+Email AddressWhat'sthis?Submit
+InﬂuenzaTypesSeasonalPandemicAvianSwineInﬂuenza inAnimals
+HAVE QUESTIONS?HAVE QUESTIONS?+Visit CDC-INFO,Call 800-232-4636-Email CDC-INFO.Open 24/7CDC INFORMATIONCDC INFORMATIONAbout CDCJobsFundingPoliciesFile Viewers & PlayersPrivacyFOIANo Fear ActOIGNondiscriminationAccessibilityCONNECT WITH CDCCONNECT WITH CDC/01234567-U.S. Department of Health & Human ServicesUSA.govCDC Website Exit Disclaimer (Flu Activity &Flu Activity &SurveillanceSurveillanceCDC’s WHOCollaboratingCenterOverview ofInﬂuenzaSurveillance in theUnited StatesInﬂuenzaHospitalizationSurveillanceNetwork (FluSurv-NET)Current UnitedStates Flu ActivityMap
+FluView InteractivePast WeeklySurveillance ReportsFluSight: FluForecastingWeekly U.S.Weekly U.S.InﬂuenzaInﬂuenzaSurveillanceSurveillanceReport (FluView)Report (FluView)
+−
++++++++++
+++

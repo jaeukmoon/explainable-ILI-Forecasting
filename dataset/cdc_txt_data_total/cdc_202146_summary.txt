@@ -1,0 +1,16 @@
+Based on the weekly ILI surveillance report from CDC for Week 46:
+
+- Seasonal influenza activity in the United States remains low but has shown an increase in recent weeks.
+- The number of laboratory-confirmed influenza virus detections and the percentage of patient visits for ILI have increased in recent weeks.
+- The majority of influenza viruses detected are Influenza A (H3N2) viruses.
+- The percentage of outpatient visits for ILI remains below the national baseline of 2.5%.
+- There have been a small number of influenza-positive tests reported in long-term care facilities.
+- Hospitalization rates for influenza will be updated later in the season.
+- The percentage of deaths attributed to pneumonia, influenza, or COVID-19 is above the epidemic threshold for the week, with COVID-19 being the primary cause.
+- No influenza-associated pediatric deaths have been reported for the current season.
+- Influenza virus characterization data will be updated later in the season.
+- Influenza activity levels vary by state, with some reporting high or moderate activity levels.
+- CDC recommends annual flu vaccination as the best way to protect against influenza and its complications. Flu vaccines are widely available.
+- Other respiratory viruses, including SARS-CoV-2, may contribute to ILI and should be considered in the context of flu data.
+
+Overall, the data indicates an increase in influenza activity in recent weeks, with Influenza A (H3N2) viruses being the predominant strain. Despite the increase, influenza activity remains relatively low compared to previous seasons. Vaccination and antiviral medications are recommended for prevention and treatment of influenza.

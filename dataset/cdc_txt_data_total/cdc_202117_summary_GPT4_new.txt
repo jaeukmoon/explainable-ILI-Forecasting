@@ -1,0 +1,11 @@
+Week17, 2021
+1. Influenza activity remains unusually low, with 0.1% of respiratory specimens testing positive for influenza in clinical labs.
+2. Of the 14 positive specimens in clinical labs, 64.3% were Influenza A and 35.7% were Influenza B.
+3. Public health labs reported one positive Influenza A specimen and no Influenza B specimens this week.
+4. The cumulative hospitalization rate is 0.8 per 100,000 population, significantly lower than previous seasons.
+5. Pneumonia, influenza, or COVID-19 (PIC) accounted for 11.7% of deaths, primarily driven by COVID-19, exceeding the epidemic threshold of 6.6%.
+6. No pediatric deaths were reported this week; the season total remains at one.
+7. Outpatient visits for ILI remained stable at 1.1%, below the baseline of 2.6%. Minimal ILI activity was reported across all jurisdictions.
+8. No updates on vaccine uptake trends, though vaccination remains the leading preventive measure.
+9. The COVID-19 pandemic continues to impact ILI data collection and interpretation due to healthcare-seeking changes.
+10. Flu activity expectations remain uncertain, with historically low circulation and dynamic influences from COVID-19 and altered healthcare behaviors.

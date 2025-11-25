@@ -1,0 +1,11 @@
+Week50, 2021
+1. Influenza activity is increasing nationwide, with 5.6% of respiratory specimens testing positive for influenza this week.
+2. Influenza A virus accounts for 99.2% of positives in clinical labs and 100% in public health labs; subtype H3N2 predominates.
+3. Cumulative hospitalization rate for influenza is 1.4 per 100,000, nearly double compared to the previous season.
+4. 18.8% of deaths are attributed to pneumonia, influenza, or COVID-19 (PIC), surpassing the epidemic threshold, with most due to COVID-19.
+5. Outpatient visits for influenza-like illness (ILI) are trending upward at 3.1%, exceeding the national baseline.
+6. Eastern and central U.S. report high influenza activity, with western regions showing lower virus circulation.
+7. There are early signs that flu vaccination uptake is lower this season compared to last.
+8. Two pediatric deaths have been reported this season, both associated with influenza A viruses.
+9. Several respiratory viruses, including influenza and SARS-CoV-2, are co-circulating, varying by location.
+10. CDC advises flu vaccination remains effective as flu season intensifies; vaccine coverage for influenza A (H3N2) shows some genetic alignment but with antigenic differences.

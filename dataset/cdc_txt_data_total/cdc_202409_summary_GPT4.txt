@@ -1,0 +1,20 @@
+Week9, 2024
+- **Viruses, illness, and deaths**: Influenza activity remains elevated nationally, with 13.9% of clinical specimens testing positive. Influenza A accounts for 56.9% of clinical positives, and influenza B accounts for 43.1%. Influenza A(H1N1)pdm09 viruses predominate. 10 influenza-associated pediatric deaths were reported this week, bringing the total to 103 this season. 0.7% of deaths were attributed to influenza this week. 
+
+- **U.S. virologic surveillance**: Of 615 positive specimens reported by public health labs, 71.1% were influenza A and 28.9% were influenza B. Among subtyped influenza A viruses, 57.3% were A(H1N1)pdm09 and 42.7% were A(H3N2). 
+
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate is 64.8 per 100,000, the second highest in Week 9 since 2017-2018. Adults aged 65+ have the highest rate (175.8/100,000).
+
+- **Trends of deaths attributed to influenza**: Influenza-related deaths remained stable at 0.7% and significantly below prior epidemic thresholds.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A is 73.5% of cumulative clinical lab positives and 80.1% of public health lab positives. Influenza B is 26.5% of clinical and 19.9% of public health lab positives this season.
+
+- **Novel influenza virus**: No novel viruses were reported, and flu viruses remain susceptible to most antiviral drugs.
+
+- **Vaccination trends**: CDC recommends flu vaccination for those 6 months or older, as vaccines remain beneficial. Updated vaccines are planned for the 2024-25 season.
+
+- **Outpatient respiratory illness visits**: National ILI visits decreased slightly but remain high at 4.1% (above baseline). 20 jurisdictions reported high/very high ILI activity, with multiple respiratory viruses contributing to ILI variability. 
+
+- **Expectation of flu activity from CDC**: Elevated flu activity may persist, though hospitalization rates and ILI visits are showing downward trends.
+
+- **Other key factors**: Weekly flu hospital admissions plateaued at 10,060, while trends vary across regions. A total of 28 million illnesses, 310,000 hospitalizations, and 20,000 flu-related deaths have been estimated this season. Adult populations with pre-existing conditions (e.g., hypertension and obesity) and young children remain at higher risk.

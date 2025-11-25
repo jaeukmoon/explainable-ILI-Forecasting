@@ -1,0 +1,13 @@
+Week15, 2023
+1. Influenza activity remains low nationwide; 1.0% of clinical lab specimens tested positive for influenza, with 44.8% Influenza A and 55.2% Influenza B.
+2. Public health labs reported 37 positive specimens, 59.5% Influenza A and 40.5% Influenza B, with 92.3% of Influenza A cases being H1N1 and 7.7% H3N2.
+3. Outpatient visits for respiratory illness accounted for 2.0%, below the national baseline of 2.5%, and decreased compared to the previous week.
+4. Cumulative hospitalization rate for the season is 61.5 per 100,000, with adults aged 65+ seeing the highest hospitalization rate of 183.4 per 100,000.
+5. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) accounted for 7.5%, above the epidemic threshold of 6.9%. Two new pediatric deaths were reported, bringing the seasonal total to 143.
+6. Vaccination remains recommended; current influenza viruses are antigenically similar to those in this season’s vaccine, with near 100% antiviral susceptibility.
+7. Moderate respiratory illness activity was reported in four jurisdictions, with none experiencing high or very high activity.
+8. Flu-associated hospitalization cases show significant co-infections with SARS-CoV-2 at 3.8%, impacting surveillance data interpretation.
+9. Long-term care facilities reported a slight increase in influenza-positive tests, with 0.4% of facilities affected.
+10. CDC continues to expect low flu activity as trends remain stable, with no dramatic changes in virologic or clinical indicators.
+
+11. Summary analysis suggests ongoing low influenza activity and stable trends, aided by effective vaccination coverage and antiviral susceptibility, though co-circulation of other respiratory viruses and co-infections with SARS-CoV-2 may influence future predictions and healthcare trends.

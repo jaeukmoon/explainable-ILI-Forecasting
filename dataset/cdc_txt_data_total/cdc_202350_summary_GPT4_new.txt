@@ -1,0 +1,11 @@
+Week50, 2023
+1. Influenza activity is elevated and continues to increase nationally, with 12.8% of respiratory specimens testing positive for influenza this week.
+2. Of the 1,050 positive specimens from public health labs, 81.9% were Influenza A and 18.1% Influenza B; Influenza A(H1N1) was the predominant subtype, representing 78.2% of subtyped Influenza A viruses.
+3. Outpatient visits for respiratory illness accounted for 5.1% of all visits, remaining above the national baseline for the seventh consecutive week, with ILI activity increasing across all regions and age groups.
+4. A cumulative influenza hospitalization rate of 11.3 per 100,000 was reported, with adults aged 65+ having the highest rate (28.1 per 100,000).
+5. Weekly hospitalizations rose to 9,825, increasing nationally compared to last week.
+6. Deaths attributed to influenza remain low at 0.3% of all deaths this week, with no new pediatric deaths reported (14 total this season).
+7. Thus far, 5.3 million illnesses, 54,000 hospitalizations, and 3,200 deaths have occurred during the 2023-2024 flu season.
+8. No novel influenza viruses (e.g., SARS-CoV-2) were reported circulating this week, but co-circulation of multiple respiratory viruses, including RSV, is ongoing.
+9. CDC recommends immediate vaccination for those unvaccinated, as flu vaccines for the season are still available.
+10. Antiviral susceptibility monitoring indicates most circulating influenza viruses remain sensitive to prescribed treatments, with minimal resistance noted.

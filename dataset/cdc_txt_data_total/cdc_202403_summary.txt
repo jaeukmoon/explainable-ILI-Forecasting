@@ -1,0 +1,14 @@
+- Seasonal influenza activity remains elevated in most parts of the country.
+- Influenza A(H1N1)pdm09 has been the predominant virus circulating in all regions since Week 40.
+- Outpatient respiratory illness visits for ILI (fever plus cough or sore throat) remain above the national baseline of 2.9%.
+- FluSurv-NET hospitalization data shows a total of 13,224 laboratory-confirmed influenza-associated hospitalizations between October 1, 2023, and January 20, 2024.
+- CDC estimates that there have been at least 18 million illnesses, 210,000 hospitalizations, and 13,000 deaths from flu so far this season.
+- Ten influenza-associated pediatric deaths were reported during Week 3, bringing the 2023-2024 season total to 57 pediatric deaths.
+- Percentages of deaths due to pneumonia, influenza, and COVID-19 (PIC) are no longer displayed in FluView but are available in FluView Interactive.
+- Influenza A(H1N1)pdm09 and influenza A(H3N2) viruses show high levels of resistance to the adamantanes (amantadine and rimantadine).
+- The percentage of respiratory specimens testing positive for influenza in clinical laboratories remained stable compared to the previous week, with regional variations.
+- CDC has genetically characterized 1,144 influenza viruses collected since October 1, 2023.
+- Influenza viruses tested have shown susceptibility to neuraminidase inhibitors, with some exceptions showing reduced inhibition or decreased susceptibility to oseltamivir and baloxavir.
+- The percentage of visits for respiratory illness reported in ILINet decreased across all age groups during Week 3.
+- FluSurv-NET hospitalizations show higher rates among adults aged 65 years and older, adults aged 50-64 years, and children aged 0-4 years.
+- Among pediatric deaths, six were associated with influenza A viruses (three A(H1N1) and three A co-infections).

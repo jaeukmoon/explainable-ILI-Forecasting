@@ -1,0 +1,20 @@
+Week35, 2023
+- **Viruses, illness, and deaths**: Influenza A accounted for 92.3% of clinical lab positives (98.3% cumulative for the season), while Influenza B made up 7.7% (1.7% cumulative). Among public health labs, Influenza A compromised 83.3% of positives, with equal distribution between H1N1pdm09 (50%) and H3N2 (50%). Influenza B accounted for 16.7% of positives. 9.6% of total deaths were due to pneumonia, influenza, and/or COVID-19 (PIC), above the epidemic threshold of 5.5%, with influenza listed in seven deaths.
+
+- **U.S. virologic surveillance**: Low influenza activity with 0.6% of specimens testing positive for influenza in week 35. Nationwide, 509 patients were hospitalized with confirmed influenza during this week.
+
+- **Cumulative hospitalization rate**: Data beyond June 2022 is unavailable, with no updates for the hospitalization cumulative rate for the 2021-2022 season.
+
+- **Trends of deaths attributed to influenza**: Influenza accounts for minimal PIC mortality, as most PIC deaths were linked to COVID-19.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A significantly predominates among both clinical (92.3%) and public health (83.3%) lab positives. Influenza B constitutes 7.7% of clinical and 16.7% of public health lab positives.
+
+- **Novel influenza virus (like COVID-19)**: No novel influenza viruses, such as COVID-19 variants, were reported during week 35.
+
+- **Vaccination trends**: Vaccination data was not detailed in this week's report.
+
+- **Outpatient respiratory illness visits**: Nationwide, 1.9% of outpatient visits were due to respiratory illness meeting ILI criteria. Regional variations in ILI visits were observed, with higher percentages among children aged 0-4 years (7.2%), and decreasing rates with increasing age groups.
+
+- **Expectation of flu activity from CDC**: No detailed expectations for future influenza activity were included in the report.
+
+- **Other key factors**: Only 28 of 14,481 long-term care facilities reported influenza-positive tests among residents this week. This week’s PIC deaths indicate ongoing impact from COVID-19, contributing to most mortality attributed to respiratory conditions.

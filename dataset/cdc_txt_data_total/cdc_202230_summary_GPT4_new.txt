@@ -1,0 +1,11 @@
+Week30, 2022
+1. Influenza activity remains low nationwide, with clinical labs reporting 0.5% of specimens positive for influenza, primarily Influenza A (84.9%).
+2. Public health labs confirmed 23 influenza-positive specimens, with 87.0% identified as Influenza A, predominantly subtype H3N2.
+3. Cumulative hospitalization data for laboratory-confirmed influenza shows 491 hospital admissions reported during Week 30.
+4. Respiratory illness outpatient visits accounted for 1.6% nationally, with higher rates in children aged 0-4 years (6.4%).
+5. Pneumonia, influenza, or COVID-19 (PIC) deaths represented 10.0% of total deaths, driven mainly by COVID-19, with influenza as a minor contributor.
+6. No new influenza-associated pediatric deaths were reported; the cumulative total remains at 33 for the season.
+7. A human infection with the novel Influenza A (H3N2)v variant was reported in West Virginia, linked to swine exposure.
+8. Long-term care facilities reported a low influenza incidence, with only 0.3% of facilities identifying positive cases.
+9. Influenza B remains minimal, contributing just 15.1% of clinical lab positives and 13.0% of public health lab specimens.
+10. CDC expects continued low flu activity and emphasizes ongoing surveillance due to co-circulation of respiratory viruses, including COVID-19 and increased respiratory illnesses in some regions.

@@ -1,0 +1,20 @@
+Week12, 2024
+- **Viruses, illness, and deaths:** Seasonal influenza activity is elevated but decreasing. 10.5% of clinical specimens tested positive for influenza, with Influenza A composing 51.1% and Influenza B 48.9%. Five new pediatric influenza-associated deaths were reported, bringing the season's total to 126. Nationally, 0.5% of deaths were attributed to influenza this week. A novel Influenza A(H1N2)v case linked to swine contact was reported in Pennsylvania.
+
+- **U.S. virologic surveillance:** Public health labs confirmed 59.3% Influenza A and 40.7% Influenza B among positive specimens, with A(H3N2) and A(H1N1)pdm09 comprising 55.8% and 44.2% of subtyped Influenza A, respectively. All identified Influenza B specimens were from the Victoria lineage. Positivity rates decreased in most regions.
+
+- **Cumulative hospitalization rate:** The cumulative influenza hospitalization rate is 72.2 per 100,000 population, the second-highest observed for Week 12 since 2010-2011. The weekly hospitalization rate was 1.4 per 100,000 with 85.6% of hospitalizations linked to Influenza A.
+
+- **Trends of deaths attributed to influenza:** Deaths attributed to influenza remain stable at 0.5% for Week 12.
+
+- **Percentage of Influenza A and Influenza B:** Influenza A made up 59.3% of public health lab positives and 51.1% of clinical lab positives. Influenza B accounted for 40.7% and 48.9%, respectively.
+
+- **Novel influenza virus like COVID-19 (SARS-CoV-2):** One A(H1N2)v human case with swine exposure was reported without evidence of sustained person-to-person spread.
+
+- **Vaccination trends:** CDC encourages vaccination as long as flu viruses are circulating, emphasizing its protective benefits.
+
+- **Outpatient respiratory illness visits:** 3.1% of outpatient visits were for influenza-like illnesses (ILI), above the national baseline but continuing a four-week decline. Nine jurisdictions reported high activity, while four had moderate activity.
+
+- **Expectation of flu activity from CDC:** Influenza activity is expected to slowly decrease but remain elevated in some areas.
+
+- **Other key factors:** Co-circulation of multiple respiratory viruses, including influenza, SARS-CoV-2, and RSV, may complicate surveillance. Hospitalizations and outpatient ILI visits have declined, but significant influenza burden persists in older adults and young children.

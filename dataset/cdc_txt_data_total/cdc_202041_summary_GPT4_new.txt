@@ -1,0 +1,11 @@
+Week41, 2020
+1. Influenza activity is minimal across the U.S., with 0.3% of respiratory specimens testing positive for influenza in clinical labs.
+2. Of 26 positive specimens in clinical labs, 50% were Influenza A and 50% were Influenza B, with no subtyping details.
+3. Public health labs reported no positive influenza specimens this week.
+4. Influenza-like illness (ILI) accounted for 1.2% of outpatient visits, unchanged from last week and below the national baseline of 2.6%.
+5. Pneumonia, influenza, or COVID-19 (PIC) contributed to 7.2% of deaths, exceeding the epidemic threshold of 5.7%.
+6. No pediatric deaths have been reported for the 2020-21 season, but three influenza-associated pediatric deaths from the previous season were added retrospectively.
+7. Hospitalization rates and virus characterization updates are postponed due to low influenza activity.
+8. CDC encourages universal flu vaccination by the end of October; no notable vaccination data trends were mentioned.
+9. Healthcare-seeking behavior patterns are altered by the COVID-19 pandemic, affecting traditional ILI surveillance reliability.
+10. Flu activity remains uncertain, with ongoing monitoring of alternative care locations and COVID-19 trends influencing predictions.

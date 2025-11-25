@@ -1,0 +1,20 @@
+Week32, 2024
+- **Viruses, illness, and deaths**: Seasonal influenza activity is low nationally. Influenza A(H1N1)pdm09, A(H3N2), and B viruses are co-circulating. Five influenza-associated pediatric deaths were reported this week, totaling 193 this season. 0.1% of deaths were attributed to influenza this week.  
+
+- **U.S. virologic surveillance**: Clinical labs reported 0.4% of specimens tested positive for influenza, with 87.1% Influenza A and 12.9% Influenza B. Public health labs reported 98.3% Influenza A and 1.7% Influenza B. A(H1N1)pdm09 (30%) and A(H3N2) (70%) were predominant among subtyped Influenza A viruses.
+
+- **Cumulative hospitalization rate**: Weekly hospitalization rate stood at 0.1 per 100,000 population, with the cumulative total season rate at 25,338 hospitalizations. Most hospitalizations (84.6%) were associated with Influenza A.
+
+- **Trends of deaths attributed to influenza**: Percentage of deaths due to influenza is stable and remains low (<0.1%). 
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounted for 87.1% in clinical labs and 98.3% in public health labs. Influenza B accounted for 12.9% and 1.7%, respectively.
+
+- **Novel Influenza virus**: One human case of A(H3N2)v was reported, with no associated agricultural or swine exposure. No new avian influenza A(H5N1) human cases were reported this week.
+
+- **Vaccination trends**: Vaccination impact is supported by antigenic data, with 95-100% of circulating viruses matching vaccine components.
+
+- **Outpatient respiratory illness visits**: 1.5% of outpatient visits were for respiratory illness, remaining below the baseline. All regions reported activity below the baseline.
+
+- **Expectation of flu activity from CDC**: Activity remains low, with multiple respiratory viruses co-circulating. CDC continues monitoring for additional novel influenza cases.
+
+- **Other key factors**: Variant influenza (A(H1N1)v and A(H3N2)v) infections remain rare; ongoing monitoring is crucial. Low hospitalization rates and percentage positives indicate suppressed transmission. Pandemic preparedness efforts involve integration with COVID-19 and RSV activity.

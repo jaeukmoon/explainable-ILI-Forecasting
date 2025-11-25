@@ -1,0 +1,13 @@
+Week34, 2023
+1. Nationwide influenza activity remains low, with 0.8% of specimens testing positive for influenza in Week 34.
+2. Clinical labs reported 63.9% of positive specimens as Influenza A and 36.1% as Influenza B.
+3. Public health labs found 52.5% of positive specimens were Influenza A and 47.5% were Influenza B, with all Influenza B classified as Victoria lineage.
+4. Hospital admissions for influenza reached 779 patients during Week 34.
+5. Outpatient visits for influenza-like illness (ILI) accounted for 1.7% of visits, with the highest percentage among children aged 0–4 years at 5.8%.
+6. Pneumonia, influenza, or COVID-19 (PIC) caused 6.5% of deaths in Week 34, exceeding the epidemic threshold of 5.5%. Nine deaths were attributed to influenza.
+7. No influenza-associated pediatric deaths were reported this week; cumulative pediatric deaths for the 2022–2023 season total 172.
+8. No novel influenza virus detections, including SARS-CoV-2 variant H3N2v, reported this week.
+9. Very high or high ILI activity was limited to specific CBSAs, but the vast majority of jurisdictions observed minimal or low activity.
+10. CDC continues to encourage annual influenza vaccination, though no updates on vaccination trends were provided.
+
+11. Summary: Influenza activity remains low overall, with Influenza A dominating among the limited positive cases. Pediatric ILI rates are notably higher, PIC deaths exceed thresholds, and no novel virus detections were reported.

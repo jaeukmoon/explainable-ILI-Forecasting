@@ -1,0 +1,13 @@
+Week20, 2021
+1. Influenza activity remains unusually low for this time of year, with only 0.1% of respiratory specimens testing positive for influenza this week.
+2. Of the 24 positive specimens from clinical labs, 66.7% were Influenza A, and 33.3% were Influenza B.
+3. Public health labs reported one positive specimen in week 20, which was Influenza A (H3N2).
+4. Outpatient visits for ILI accounted for 1.3% of all visits, stable from the previous week, and remain below the national baseline of 2.6%.
+5. Cumulative hospitalization rates for influenza-related cases are extremely low at 0.8 per 100,000 population, the lowest since surveillance began in 2005.
+6. Deaths associated with pneumonia, influenza, or COVID-19 (PIC) were 9.5%, above the epidemic threshold of 6.3%, with most deaths attributed to COVID-19 rather than influenza.
+7. One human infection with a novel Influenza A(H1N2)v variant was reported in Ohio; no human-to-human transmission has been identified.
+8. There were no influenza-associated pediatric deaths reported this season, totaling just one reported so far this year.
+9. Vaccination is emphasized as the best preventive measure; no new vaccination distribution trends were mentioned.
+10. Minimal ILI activity is reported across all jurisdictions, with data interpretation affected by changes in healthcare-seeking behavior due to the COVID-19 pandemic.
+
+11. Key factors for prediction: Extremely low virus activity and hospitalization rates might suggest continued low influenza impact. Novel variant identification underscores the importance of ongoing surveillance. Changes in behavior during the COVID-19 pandemic affect traditional ILI monitoring methods.

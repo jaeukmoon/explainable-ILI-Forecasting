@@ -1,0 +1,20 @@
+Week49, 2022
+- **Viruses, Illness, and Deaths**: Influenza activity is elevated nationally. Influenza A viruses dominate, with 83% of public health lab positives and H1N1 comprising 74.8% of subtyped A viruses. Influenza B constitutes 17% of public health lab positives. There were two influenza-associated pediatric deaths this week, bringing the season total to 14. Influenza has caused an estimated 38,000 hospitalizations and 2,300 deaths this season.
+
+- **U.S. Virologic Surveillance**: 10.2% of clinical lab specimens were positive for influenza this week, predominantly Influenza A (82.2%). Public health labs reported H1N1 as the most frequent subtype (74.8% of Influenza A subtyped), with a smaller contribution from H3N2 (25.2%).
+
+- **Cumulative Hospitalization Rate**: The cumulative rate is 8.0 per 100,000 population, with older adults (65+ years) having the highest rate (20.3). Weekly admissions increased compared to the previous week, with 7,090 reported hospitalizations.
+
+- **Trends of Deaths Attributed to Influenza**: 0.2% of deaths were attributed to influenza for Week 49, marking a stable trend but with upward movement in recent weeks.
+
+- **Percentage of Influenza A and B**: Influenza A comprised 82.2% of clinical lab positives and 83% of public health lab positives, while Influenza B accounted for 17.8% and 17%, respectively.
+
+- **Novel Influenza Virus**: No reported detections of novel influenza viruses, including COVID-19 (SARS-CoV-2).
+
+- **Vaccination Trends**: CDC continues to recommend vaccination for everyone aged six months and older. Flu vaccines are widely available and emphasized as the best preventive measure.
+
+- **Outpatient Respiratory Illness Visits**: 4.4% of outpatient visits were for influenza-like illness (ILI), above the national baseline of 2.9% for the sixth consecutive week. ILI activity is high or very high in 18 jurisdictions, moderate in 9, and minimal or low in 27 jurisdictions.
+
+- **Expectation of Flu Activity from CDC**: Influenza activity remains high in the southeast, south-central, and west coast regions. CDC anticipates sustained elevated levels of activity.
+
+- **Other Key Factors**: Multiple respiratory viruses, including influenza, RSV, and SARS-CoV-2, are co-circulating. Regions 8 (15.3%), 6 (13.0%), and 4 (11.7%) had the highest proportions of respiratory specimens testing positive for influenza.

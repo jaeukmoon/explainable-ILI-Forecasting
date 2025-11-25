@@ -1,0 +1,20 @@
+Week46, 2023
+- **Viruses, illness, and deaths:** Seasonal influenza activity is increasing in most parts of the U.S., especially in the South Central, Southeast, Mountain, and West Coast regions. Influenza A(H1N1) predominates this week. 0.07% of deaths were attributed to influenza, with 22 influenza-associated pediatric deaths reported this week. Cumulative season totals include 1.2 million illnesses, 12,000 hospitalizations, and 740 deaths.
+
+- **U.S. virologic surveillance:** Among 529 public health lab specimens, 79.4% were Influenza A (subtyped as 79.3% A(H1N1) and 20.7% A(H3N2)) and 20.6% were Influenza B. Clinical labs report 4.9% positivity (66.1% Influenza A and 33.9% Influenza B). Highest percentage positivity is seen in Regions 8 (11.2%), 6 and 4 (7.6%), and 9 (7.2%).
+
+- **Cumulative hospitalization rate:** The cumulative hospitalization rate is 2.6 per 100,000, the second highest in-season for week 46 since 2010. Adults aged 65+ years have the highest rate of 6.3 per 100,000.
+
+- **Trends of deaths attributed to influenza:** Mortality due to influenza (0.07%) remains stable compared to the previous week.
+
+- **Percentage of Influenza A and Influenza B:** Influenza A accounts for 66.1% of clinical lab positives and 79.4% of public lab positives. Influenza B constitutes 33.9% of clinical lab positives and 20.6% of public lab positives.
+
+- **Novel influenza virus (like COVID-19):** No novel influenza viruses were reported. Respiratory illness data includes contributions from influenza, SARS-CoV-2, and RSV.
+
+- **Vaccination trends:** CDC reiterates recommendations for annual flu vaccination for individuals aged 6 months and older. Vaccines are matched to circulating strains.
+
+- **Outpatient respiratory illness visits:** Nationwide ILI visits rose to 3.7%, above the 2.9% baseline. Nine jurisdictions report moderate ILI activity, while 12 report high or very high activity. ILI visits increased across most age groups and in 8 of 10 HHS regions.
+
+- **Expectation of flu activity from CDC:** CDC anticipates continued increases in influenza activity in the coming weeks.
+
+- **Other key factors:** 3,296 influenza-related hospitalizations were reported this week, reflecting national increases in flu admissions week over week. Regions 1, 3, 4, 5, 8, 9, and 10 saw increases, while Regions 6 and 7 were stable, and Region 2 saw a slight decrease.

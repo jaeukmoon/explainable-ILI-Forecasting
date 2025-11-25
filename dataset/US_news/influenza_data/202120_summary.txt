@@ -1,0 +1,5 @@
+- Influenza forecasting in the United States is complex and challenging due to spatial and temporal variability, nested geographic scales, and heterogeneous surveillance participation.
+- Dante is a multiscale influenza forecasting model that learns from spatial, temporal, and surveillance data structure to generate coherent forecasts across state, regional, and national scales.
+- Dante outperformed the Dynamic Bayesian Model (DBM), a leading competitor, in short-term and seasonal forecasts for previous flu seasons, suggesting greater public health utility.
+- Dante placed 1st in the Centers for Disease Control and Prevention's prospective 2018/19 FluSight challenge in both the national and regional competition and the state competition.
+- The methodology used in Dante can be applied to other seasonal disease forecasting contexts with nested geographic scales of interest.

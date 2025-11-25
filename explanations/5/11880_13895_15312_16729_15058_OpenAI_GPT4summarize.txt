@@ -1,0 +1,15 @@
+1. The past time-series ILI occurrences for the last 5 weeks indicate an overall increasing trend with some fluctuations: from 11880 (Week 43, 2021) to a peak at 16729 (Week 46, 2021), followed by a small drop to 15058 (Week 47, 2021). The gradual increase through most of the period reflects rising ILI activity, though the dip in the final week suggests minor variability in weekly reporting.
+
+2. A positive correlation between past and future ILI occurrences is evident. The steady rise in past ILI data, especially the consistent increases in Weeks 44-46, 2021, aligns with the surge to 43523 occurrences after 5 weeks (Week 52, 2021). This pattern suggests that the rising activity in prior weeks served as a foundation for continued escalation later on.
+
+3. Increasing outpatient visits for ILI is a key factor, rising steadily from 1.9% (Week 43, 2021) to 2.4% (Week 47, 2021), approaching the national baseline of 2.5%. This uptick reflects growing respiratory illness in the population, foreshadowing higher future ILI occurrences.
+
+4. Laboratory-confirmed influenza positivity also displayed a rising trend, from 0.2% in Week 43, 2021, to 1.5% in Week 47, 2021, with high proportions of Influenza A(H3N2), particularly among ages 5–24 years. This reinforces the notion of escalating influenza activity contributing to the future burden.
+
+5. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) consistently surpassed the epidemic threshold throughout, ranging from 14.1% (Week 44, 2021) to 15.5% (Week 47, 2021). This persistent elevation in PIC mortality highlights the broader impact of respiratory illnesses, signaling a likely rise in future ILI cases.
+
+6. Age-specific trends point to disproportionately high ILI and influenza activity in populations aged 5–24 years. With more than 80% of Influenza A(H3N2) cases reported in this group, their disease burden likely contributes to amplifying ILI data in subsequent weeks.
+
+7. Changes in healthcare-seeking behavior caused by COVID-19 disrupted ILI reporting, potentially underestimating activity during the past weeks and creating a perception of sharper increases later. This could partly explain the leap in future occurrences.
+
+8. In summary, the 43523 future ILI occurrences (Week 52, 2021) stem from the progressive increases in past ILI trends (Weeks 44–46, 2021), rising outpatient visits and influenza positivity, sustained PIC mortality above epidemic thresholds, disproportionate burden among younger populations, and COVID-19-driven shifts in healthcare-seeking and reporting patterns.

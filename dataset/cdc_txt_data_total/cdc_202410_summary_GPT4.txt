@@ -1,0 +1,11 @@
+Week10, 2024
+- **Viruses, illness, and deaths:** Influenza activity remains elevated nationally, with 15.4% of clinical lab specimens testing positive for influenza. 13 of 15 pediatric influenza-associated deaths this week occurred during the 2023-2024 season, bringing the total to 116. 0.7% of deaths last week were attributed to influenza.  
+- **U.S. virologic surveillance:** Among viruses tested by public health labs, 66.8% were Influenza A (54.7% H1N1pdm09, 45.3% H3N2) and 33.2% were Influenza B, all Victoria lineage.  
+- **Cumulative hospitalization rate:** The cumulative hospitalization rate is 67.9 per 100,000, marking the second-highest in-season rate since 2010. Older adults (65+) have the highest rate: 184.3 per 100,000.  
+- **Trends of deaths attributed to influenza:** 0.7% of deaths in Week 10 were due to influenza, a slight increase from the prior week.  
+- **Percentage of Influenza A and Influenza B:** Clinical lab results show 54.4% Influenza A and 45.6% Influenza B; public health labs report 66.8% Influenza A and 33.2% Influenza B.  
+- **Novel influenza virus (like COVID-19):** No novel influenza viruses or other significant co-circulation with non-influenza pathogens was reported outside standard respiratory virus co-circulation (e.g., RSV, SARS-CoV-2).  
+- **Vaccination trends:** Vaccination is recommended for everyone aged six months or older, as flu activity persists. Vaccination remains beneficial this season.  
+- **Outpatient respiratory illness visits:** 3.7% of outpatient visits were for ILI, above the 2.5% national baseline; activity decreased nationwide but remains above baseline in most regions.  
+- **Expectation of flu activity from CDC:** Activity remains high in many areas but is decreasing nationwide; increases are still noted in specific regions.  
+- **Other key factors:** 8,819 influenza-related hospitalizations occurred this week. Regions 5, 7, and 9 reported the highest positivity rates at 22.3%, 28.1%, and 17%, respectively. States with high ILI activity declined from 17 to 13 jurisdictions this week, while very high activity declined from 5 to 3 jurisdictions.

@@ -1,0 +1,20 @@
+Week19, 2022
+- **Viruses, Illness, and Deaths**: Influenza activity is increasing in parts of the U.S., with 7.0% of clinical lab specimens testing positive, mostly Influenza A(H3N2). There have been 6.7 million flu illnesses, 69,000 hospitalizations, and 4,200 deaths this season. No influenza-associated pediatric deaths were reported this week, leaving the season total at 24.
+
+- **U.S. Virologic Surveillance**: Influenza A(H3N2) dominates at 98.8% of clinical lab positives and 99.3% of public health lab positives. Influenza B is minimal at 1.2% in clinical labs and 0.7% in public health labs. Of 11,681 influenza positives tested, 4.5% were also positive for SARS-CoV-2.
+
+- **Cumulative Hospitalization Rate**: This season has a cumulative rate of 14.4 hospitalizations per 100,000, the majority being Influenza A (96.7%). Adults aged 65+ (41.7 per 100,000) have the highest rate, followed by children aged 0-4 years (18 per 100,000).
+
+- **Trends of Deaths Attributed to Influenza**: 7.5% of deaths were attributed to pneumonia, influenza, and/or COVID-19 (PIC), above the epidemic threshold of 6.5%. Most PIC deaths were due to COVID-19.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounts for 98.8%-99.4% of positives. Influenza B accounts for 0.6%-1.2%.
+
+- **Novel Influenza Virus (like COVID-19)**: 531 influenza specimens were co-positive for SARS-CoV-2. No other novel influenza viruses reported.
+
+- **Vaccination Trends**: CDC emphasizes continued vaccination for all individuals aged 6 months and older. Vaccines are noted to be genetically aligned with circulating strains but show some antigenic differences.
+
+- **Outpatient Respiratory Illness Visits**: 2.4% of outpatient visits were due to respiratory illness (ILI), stable from last week but trending upward since March. Regions 1, 2, and 10 are above their baselines. Seven jurisdictions report moderate activity, while three report high or very high activity.
+
+- **Expectation of Flu Activity**: CDC reports increasing activity late in the season. Hospitalization rates and outpatient respiratory illnesses are trending upward.
+
+- **Other Key Factors**: Late-season influenza activity has extended surveillance into May. Multiple respiratory viruses (e.g., flu, SARS-CoV-2, RSV) are contributing to ILI, with location-specific variations. Long-term care facilities report 0.7% with influenza-positive tests among residents. Resistance testing indicates susceptibility of influenza viruses to all tested antiviral medications.

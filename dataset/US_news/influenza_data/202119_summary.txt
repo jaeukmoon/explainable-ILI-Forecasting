@@ -1,0 +1,6 @@
+- Macrocyclic peptides have been found to exhibit antiviral effects against influenza virus HA (hemagglutinin) and prevent pneumonia in animal models.
+- Currently used antiviral drugs for influenza, such as oseltamivir and zanamivir, target the enzymatic activity of neuraminidase, but resistance to these drugs has been identified.
+- The developed macrocyclic peptides, named iHA, bind to the viral envelope protein hemagglutinin and have inhibitory effects on the replication of a wide range of Group 1 influenza viruses.
+- One specific macrocyclic peptide, iHA-100, inhibits hemagglutinin-mediated adsorption and membrane fusion by binding to the stalk domain of hemagglutinin.
+- iHA-100 has shown efficacy in inhibiting the growth of highly pathogenic influenza viruses and preventing severe pneumonia in mouse and non-human primate cynomolgus macaque models.
+- The development of macrocyclic peptides as next-generation, mid-sized biomolecules offers potential for more efficient production than antibodies and multiple functions as antiviral agents.

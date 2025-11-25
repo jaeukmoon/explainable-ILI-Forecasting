@@ -1,0 +1,13 @@
+Week1, 2022
+1. Influenza activity declined slightly but remains elevated, with variations by region; activity is expected to continue for several weeks.
+2. 2.2% of clinical lab specimens tested positive for influenza, dominated by Influenza A (97.9%), particularly A(H3N2).
+3. Public health labs reported 99.4% of positive samples as Influenza A (H3N2), with negligible Influenza B (0.6%).
+4. Outpatient visits for respiratory illness accounted for 4.3% of healthcare visits, above the national baseline, with multiple jurisdictions reporting high or very high activity.
+5. The cumulative hospitalization rate is 3.4 per 100,000, higher than the 2020-2021 season but lower than pre-COVID-19 seasons; adults aged ≥65 are the most affected.
+6. 23.1% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), with most PIC deaths primarily associated with COVID-19, not influenza.
+7. One pediatric influenza-associated death was reported this week (Influenza A), increasing the total to three this season.
+8. Early signs indicate flu vaccination coverage is lower this season compared to last; flu vaccines are recommended for all aged six months and older.
+9. Antiviral drugs remain effective, with no resistance detected in circulating Influenza A or B viruses tested for antiviral susceptibility.
+10. Activity varies significantly by region and age groups, with recent increases in Influenza A(H3N2) cases among adults aged 25-64 years.
+
+11. Summary: Influenza A(H3N2) remains dominant this season, with elevated hospitalization rates and PIC deaths driven by COVID-19. Vaccination coverage is lower, and ongoing regional variations suggest prolonged activity.

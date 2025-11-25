@@ -1,0 +1,16 @@
+Week7, 2021
+1. Influenza activity in the U.S. remains below normal levels for this time of year, with only 0.1% of respiratory specimens testing positive for influenza in clinical labs.
+2. Clinical labs reported 28 positive specimens, with 46.4% Influenza A and 53.6% Influenza B.
+3. Public health labs reported only 2 positive specimens, all Influenza A, but no further subtyping was conducted.
+4. Nationwide, 1.0% of outpatient visits were for influenza-like illness (ILI), unchanged from last week and well below the national baseline of 2.6%.
+5. The cumulative hospitalization rate is 0.6 per 100,000 population, substantially lower than prior low-severity seasons.
+6. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) comprised 19.3%, exceeding the epidemic threshold, but most were due to COVID-19.
+7. No influenza-associated pediatric deaths were reported this week, maintaining the season total at one.
+8. Flu vaccination is encouraged, but no specific trends or data on vaccination rates were provided.
+9. Healthcare-seeking behaviors and ILI surveillance are impacted by the COVID-19 pandemic, requiring cautious interpretation of ILI data.
+10. CDC highlights the unpredictability of future influenza activity and advises monitoring, particularly given concurrent COVID-19 trends.
+
+11. Additional relevant details:
+12. - Minimal ILI activity was reported across all U.S. jurisdictions this week.
+13. - Slight increasing ILI trends were observed in children aged 0–4 years over the past six weeks, while older age groups showed slight decreases.
+14. - Virological characterization and additional hospitalization data will be updated later in the season as more cases are reported.

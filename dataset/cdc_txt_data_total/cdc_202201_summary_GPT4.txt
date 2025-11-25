@@ -1,0 +1,20 @@
+Week1, 2022
+- **Viruses, Illness, and Deaths:** Seasonal influenza activity slightly declined but remains elevated. The majority of detected viruses are Influenza A(H3N2). Influenza contributed to respiratory illness alongside other respiratory viruses. One influenza-associated pediatric death was reported this week, bringing the current season total to three. 23.1% of deaths were attributed to pneumonia, influenza, or COVID-19 (above the epidemic threshold), with COVID-19 contributing to the majority.
+
+- **U.S. Virologic Surveillance:** Influenza A was detected in 97.9% of clinical lab positives and 99.4% of public health lab positives. Among Influenza A subtypes, A(H3N2) dominated (99.9% of subtyped public health lab specimens). Influenza B accounted for 2.1% and 0.6% of positive specimens in clinical and public health labs, respectively.
+
+- **Cumulative Hospitalization Rate:** The cumulative hospitalization rate increased to 3.4 per 100,000, higher than the 2020-2021 season but lower than rates from prior pre-COVID seasons. Hospitalizations were predominantly associated with Influenza A (94.2%), with A(H3N2) accounting for 98.7% of subtyped Influenza A hospitalizations.
+
+- **Trends of Deaths Attributed to Influenza:** 23.1% of deaths were due to pneumonia, influenza, or COVID-19. Influenza accounted for a small proportion of these deaths.
+
+- **Percentage of Influenza A and B:** Among clinical lab positives, Influenza A constituted 97.9% and Influenza B 2.1%. In public health labs, Influenza A constituted 99.4% and Influenza B 0.6%.
+
+- **Novel Influenza Virus (like COVID-19):** No novel influenza viruses were reported. COVID-19 remains a significant contributor to respiratory illness and deaths.
+
+- **Vaccination Trends:** Influenza vaccination rates are lower compared to the previous season. Vaccines are available, and the CDC recommends vaccination for everyone 6 months and older.
+
+- **Outpatient Respiratory Illness Visits:** 4.3% of outpatient visits were for respiratory illness, above the national baseline. Activity levels were high or very high in 21 jurisdictions. Respiratory illness visits decreased in most age groups but remained stable for individuals aged 65+.
+
+- **Expectation of Flu Activity from CDC:** Influenza activity is expected to continue for several weeks and remains difficult to predict. H3N2 antigenic differences may impact vaccine effectiveness.
+
+- **Other Key Factors:** 1.3% of long-term care facilities reported at least one influenza-positive test. Hospital admissions for influenza slightly declined to 1,804 for the week. Influenza contributed variably across locations to illness alongside other respiratory viruses.

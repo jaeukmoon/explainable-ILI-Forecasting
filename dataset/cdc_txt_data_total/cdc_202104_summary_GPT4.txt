@@ -1,0 +1,20 @@
+Week4, 2021
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains lower than usual. Only 0.1% of specimens tested in clinical labs were positive. 28.4% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), with the majority due to COVID-19. One total pediatric influenza-related death has been reported for the 2020-2021 season.
+
+- **U.S. virologic surveillance**: Clinical labs detected Influenza B in 72% of positive specimens and Influenza A in 28%. Public health labs reported 66.7% of positives as Influenza A (none subtyped as H1N1 or H3N2 this week) and 33.3% as Influenza B. Influenza activity remains extremely low.
+
+- **Cumulative hospitalization rate**: An overall rate of 0.5 hospitalizations per 100,000 population was reported, far below typical seasonal levels and similar to the 2011-12 season.
+
+- **Trends of deaths attributed to influenza**: Deaths due to PIC remain elevated (28.4%), driven by COVID-19 rather than influenza, as only four influenza deaths were reported.
+
+- **Percentage of Influenza A and Influenza B**: Flu A accounts for 28% in clinical labs and 66.7% in public health labs. Flu B constitutes 72% in clinical labs and 33.3% in public health labs.
+
+- **Novel influenza virus (like COVID-19)**: No novel influenza viruses were reported in week 4. COVID-19 remains a significant public health concern.
+
+- **Vaccination trends**: The CDC recommends immediate influenza vaccination for those who have not yet been vaccinated, emphasizing vaccination as the best form of protection.
+
+- **Outpatient respiratory illness visits**: ILI visits accounted for 1.1% of outpatient visits, below the national baseline of 2.6%, with all jurisdictions reporting minimal activity.
+
+- **Expectation of flu activity from CDC**: Flu activity is unusually low but may increase in the coming months.
+
+- **Other key factors**: Changes in healthcare-seeking behaviors due to the pandemic and COVID-19-related impacts on surveillance systems suggest current ILI data should be interpreted cautiously.

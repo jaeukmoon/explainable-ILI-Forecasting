@@ -1,0 +1,20 @@
+Week6, 2024
+- **Viruses, illness, and deaths:** Seasonal influenza activity remains elevated nationally. Influenza A accounted for 76.9% of public health lab positives, primarily A(H1N1)pdm09 (59%) and A(H3N2) (41%), while Influenza B activity slightly increased. Pediatric influenza-associated deaths total 82 this season, with 8 reported during Week 6.
+
+- **U.S. virologic surveillance:** 15.7% of respiratory specimens tested were positive for influenza. Of public health lab positives, 76.9% were Influenza A and 23.1% Influenza B. Influenza A(H1N1)pdm09 remains predominant nationwide, with regional increases in Influenza B in Regions 3, 5, and 7.
+
+- **Cumulative hospitalization rate:** Hospitalization rate is 54.9 per 100,000, the third highest cumulative in-season rate for Week 6 since 2010. Adults 65+ have the highest rate (147.8 per 100,000).
+
+- **Trends of deaths attributed to influenza:** 0.7% of deaths were attributed to influenza in Week 6, a slight decrease from Week 5. 
+
+- **Percentage of Influenza A and Influenza B:** Public health lab positives were 76.9% Influenza A and 23.1% Influenza B. Of Influenza A viruses, 59% were A(H1N1)pdm09, and 41% were A(H3N2).
+
+- **Novel influenza virus (like COVID-19):** No reports of novel influenza viruses, including COVID-19 impacts, are noted.
+
+- **Vaccination trends:** Vaccination is recommended for everyone 6 months or older while influenza viruses remain in circulation. Antiviral treatments are emphasized for high-risk individuals.
+
+- **Outpatient respiratory illness visits:** 4.5% of outpatient visits were due to respiratory illnesses, above the 2.9% baseline. Regions 3, 5, and 7 reported increases, while others remained stable or decreased. High/very high ILI activity was reported in 27 jurisdictions.
+
+- **Expectation of flu activity from CDC:** Elevated flu activity is expected to continue, with multiple respiratory viruses, including RSV and SARS-CoV-2, also contributing to respiratory illnesses.
+
+- **Other key factors:** Regions 7, 6, 8, and 5 showed the highest clinical lab positivity rates. Hospitalizations remained stable, with racial/ethnic disparities evident (highest rates for non-Hispanic Black individuals). Stability in antiviral susceptibility was observed, with only minimal resistance detected.

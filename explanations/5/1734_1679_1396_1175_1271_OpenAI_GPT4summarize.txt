@@ -1,0 +1,13 @@
+1. The past time-series ILI occurrences over the 5 weeks showed a notable decreasing trend, starting from 1734 in Week 49, 2020, dropping to 1175 by Week 52, 2020. However, a slight rebound was observed in Week 53, 2020, where occurrences increased to 1271. Overall, this pattern reflects a predominantly downward trajectory followed by a marginal recovery in the final week.
+
+2. The projected decline in future ILI occurrences to 1093 (Week 5, 2021) correlates with the overall decrease observed during the past 5 weeks (Weeks 49–53, 2020). The gradual reduction during these weeks serves as an indication of sustained low activity leading to the subsequent decline in Week 5, 2021.
+
+3. Outpatient visits for ILI remained stable at 1.6% throughout Weeks 49–53, 2020, consistently below the national baseline of 2.6%. This steadiness in ILI-related visits reflects minimal respiratory illness activity, contributing to the observed decline in future ILI occurrences.
+
+4. Virological data show exceptionally low influenza positivity rates (0.2% to 0.1%) across Weeks 49–53, 2020, with only sporadic detections of Influenza A and B from clinical and public health labs. This limited circulation of influenza viruses aligns with the reduced future ILI occurrences.
+
+5. Changes in healthcare-seeking behaviors due to the COVID-19 pandemic, as reported in all weeks, impacted ILI surveillance. Reduced healthcare utilization or shifts in reporting may have suppressed detection rates, compounding the low observed and projected ILI occurrences.
+
+6. Persistent elevated PIC (pneumonia, influenza, or COVID-19) mortality rates, ranging from 13.3% to 14.5% in Weeks 49–53, 2020, were driven primarily by COVID-19 rather than influenza. This suggests that non-flu respiratory illnesses dominated during this period, likely resulting in lower influenza-related ILI occurrences.
+
+7. In summary, the decline in ILI occurrences to 1093 (Week 5, 2021) can be attributed to the overall decreasing trend during Weeks 49–53, 2020, stable but low outpatient ILI visits, minimal influenza virus detection, disruptions in healthcare behaviors due to COVID-19, and the predominance of non-influenza PIC activity. Together, these factors contributed to the sustained decline in overall ILI activity.

@@ -1,0 +1,12 @@
+Week14, 2024
+- **Viruses, illness, and deaths**: Nationwide influenza activity remains elevated but continues to decrease. This season, 33 million illnesses, 360,000 hospitalizations, and 23,000 deaths have been reported. In Week 14, 0.4% of deaths were attributed to influenza. Five new pediatric deaths were reported, bringing the season total to 138.  
+- **U.S. virologic surveillance**: 7.7% of clinical specimens tested were positive for influenza, decreasing from the previous week. Public health labs reported that 58.8% of positive specimens were influenza A and 41.2% were influenza B. Subtyped influenza A cases were 43.3% (H1N1)pdm09 and 56.7% H3N2.  
+- **Cumulative hospitalization rate**: The cumulative rate is 76.0 per 100,000, the second-highest since 2010-2011. Adults aged 65+ had the highest rate at 207.5 per 100,000, followed by children aged 0-4 years at 78.0.  
+- **Trends of deaths attributed to influenza**: Influenza-attributed deaths held stable at 0.4% during Week 14, aligning below peak values from previous seasons.  
+- **Percentage of Influenza A and Influenza B**: Influenza A accounted for 52.7% of clinical and 77.3% of public health lab-positive specimens. Influenza B represented 47.3% in clinical and 22.7% in public health labs.  
+- **Novel influenza virus (like COVID-19)**: No reports of novel viruses were noted in Week 14.  
+- **Vaccination trends**: CDC continues to encourage vaccination while flu activity persists, with vaccines remaining beneficial this late in the season. Antivirals are also emphasized, especially for high-risk individuals.  
+- **Outpatient respiratory illness visits**: Respiratory illness visits dropped to 2.8%, below the national baseline (first since October). Seven jurisdictions reported moderate activity, and one reported high activity.  
+- **Expectation of flu activity from CDC**: CDC expects decreasing activity nationally, with regional variations in virus distribution.  
+- **Other key factors**: Hospitalizations decreased overall, with 4,825 new admissions in Week 14. Influenza A subtype (H1N1)pdm09 remains predominant in season-cumulative data. Multiple respiratory viruses, including SARS-CoV-2 and RSV, are contributing to illness patterns. Highest cumulative hospitalization rates were observed among non-Hispanic Black persons and older adults.  
+

@@ -1,0 +1,6 @@
+- Broadly neutralizing antibodies (bnAbs) are being developed as potential countermeasures for seasonal and pandemic influenza.
+- Conventional virus neutralization assays are difficult to standardize and roboticize and require high-containment laboratories.
+- Researchers have developed a panel of engineered influenza viruses carrying a reporter gene to replace an essential viral gene.
+- This panel allows for the in-depth profiling of neutralizing antibodies in a biosafety level 2 environment.
+- The researchers generated the neutralization profile of 24 bnAbs using a 55-virus panel that encompasses the near-complete diversity of human H1N1 and H3N2, as well as pandemic subtype viruses.
+- This system offers a comprehensive understanding of influenza immunity, including antibodies against the hemagglutinin stem, a major target of universal influenza vaccines.

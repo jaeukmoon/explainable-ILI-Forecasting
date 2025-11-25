@@ -1,0 +1,20 @@
+Week15, 2022
+- **Viruses, illness, and deaths**: Influenza activity varies by region, with highest activity in the northeast, south-central, and mountain regions. Influenza A(H3N2) predominates, accounting for almost all identified cases. Three pediatric deaths were reported this week, bringing the season total to 22. There have been an estimated 4.7 million flu illnesses, 47,000 hospitalizations, and 2,800 deaths.
+
+- **U.S. virologic surveillance**: 8.9% of respiratory specimens tested in clinical labs were positive for influenza this week. Among positive specimens, 99.5% were Influenza A and 0.5% were Influenza B. Public health labs reported 99.8% of positive specimens as Influenza A, mostly subtype H3N2.
+
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate was 9.8 per 100,000 population, higher than the 2020-2021 season but lower than pre-COVID seasons. The highest hospitalization rates were among those aged 65+.
+
+- **Trends of deaths attributed to influenza**: 7.1% of deaths were attributed to pneumonia, influenza, or COVID-19, exceeding the epidemic threshold of 6.9%. Most were attributed to COVID-19 rather than influenza.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounted for 99.5% of clinical lab positives and 99.8% of public health lab positives. Influenza B made up 0.5% and 0.2%, respectively.
+
+- **Novel Influenza virus**: Of influenza positives tested for SARS-CoV-2, 5% were co-positive. No novel influenza viruses were detected.
+
+- **Vaccination trends**: CDC continues to recommend vaccination for everyone aged 6 months and older. Vaccination is linked to prevention of severe outcomes.
+
+- **Outpatient respiratory illness visits**: 2.1% of outpatient visits were due to respiratory illness, below the national baseline but steadily increasing since February. Two jurisdictions reported moderate activity, and three reported high/very high activity.
+
+- **Expectation of flu activity from CDC**: Influenza activity is regionally variable, with an increase in hospitalization rates and outpatient visits continuing in coming weeks.
+
+- **Other key factors**: Long-term care facilities reported low influenza activity, with 1% of facilities having ≥1 positive test. Respiratory illness is linked to co-circulating respiratory viruses like RSV. Antiviral resistance among influenza viruses remains negligible.

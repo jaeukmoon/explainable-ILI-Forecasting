@@ -1,0 +1,20 @@
+Week51, 2023
+- **Viruses, Illness, and Deaths:** Influenza activity is elevated and increasing; 16.1% of respiratory specimens tested positive for influenza. Influenza A(H1N1)pdm09 predominates, making up 79% of subtyped Influenza A viruses. There have been 7 influenza-associated pediatric deaths this season, with 6 occurring in the current reporting week. 0.5% of deaths were attributed to influenza this week.
+
+- **U.S. Virologic Surveillance:** Of public health lab specimens, 85.5% were Influenza A (79% A(H1N1), 21% A(H3N2)) and 14.5% were Influenza B. Among clinical lab positives, 81.4% were Influenza A and 18.6% Influenza B. Both Influenza A(H1N1) and B/Victoria viruses remain antigenically similar to reference vaccine strains.
+
+- **Cumulative Hospitalization Rate:** The cumulative hospitalization rate reached 15.4 per 100,000, the second-highest rate observed for Week 51 since 2010. Children aged 0-4 and adults 65+ had the highest hospitalization rates (16.6 and 38.8 per 100,000, respectively).
+
+- **Trends of Deaths Attributed to Influenza:** Influenza-attributable deaths increased slightly (0.5%) compared to the previous week.
+
+- **Percentage of Influenza A and Influenza B:** Public health labs reported 85.5% Influenza A and 14.5% Influenza B. Clinical labs reported 81.4% Influenza A and 18.6% Influenza B.
+
+- **Novel Influenza Viruses (like COVID-19):** No novel influenza or variant virus cases were reported this week.
+
+- **Vaccination Trends:** CDC recommends vaccination for all eligible individuals 6 months or older, noting continued benefits through the season. Vaccine-matched viral strains confirm potential effectiveness.
+
+- **Outpatient Respiratory Illness Visits:** National ILI-related outpatient visits were at 6.1%, significantly above the baseline of 2.9%, with increases across all age groups. Eleven jurisdictions reported high or very high activity.
+
+- **Expectation of Flu Activity from CDC:** Influenza activity is expected to remain elevated with continued increases in most areas.
+
+- **Other Key Factors:** Hospitalizations with confirmed influenza increased to 14,732 for Week 51, reflecting a sharp rise. Regions 3, 4, 6, and 8 reported the highest influenza positivity rates among specimens tested. Influenza A(H1N1) remains the predominant circulating strain in all regions. Co-circulation of other respiratory viruses such as RSV and COVID-19 is noted. Resistance patterns reveal sustained effectiveness of current antiviral regimens except for one A(H1N1) strain with reduced response to oseltamivir.

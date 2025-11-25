@@ -1,0 +1,20 @@
+Week49, 2023
+- **Viruses, illness, and deaths:** Elevated influenza activity with 10.2% of clinical specimens positive. Influenza A(H1N1) is the predominant virus. For week 49, 0.2% of deaths were attributed to influenza. Two pediatric deaths were reported, bringing the season total to 14. Estimated 3.7 million illnesses, 38,000 hospitalizations, and 2,300 deaths so far this season.  
+
+- **U.S. virologic surveillance:** Clinical labs reported 82.2% of positive specimens as Influenza A and 17.8% as Influenza B. Public health labs show Influenza A accounted for 83% (74.8% A(H1N1) and 25.2% A(H3N2)), while Influenza B made up 17%. Regions 4 and 6 show higher Influenza B detections (34%).
+
+- **Cumulative hospitalization rate:** 8.0 per 100,000 population, the second-highest cumulative in-season rate in week 49 since 2010. The highest rates are among adults 65+ (20.3), followed by ages 50-64 (10.0) and children 0-4 years (8.2).
+
+- **Trends of deaths attributed to influenza:** Influenza-attributed deaths remained stable at 0.2%, though a slight upward trend has been noted in recent weeks.
+
+- **Percentage of Influenza A and Influenza B:** Influenza A makes up 82.2% of clinical lab positives and 83% of public health lab positives. Influenza B accounts for 17.8% of clinical lab positives and 17% of public health lab positives.
+
+- **Novel influenza virus (like COVID-19):** No reports of novel influenza or variant of concern (e.g., H3N2v) for the 2023-2024 season.
+
+- **Vaccination trends:** CDC recommends flu vaccines for all individuals aged 6 months or older, emphasizing that vaccines are still available and effective against circulating strains.
+
+- **Outpatient respiratory illness visits:** 4.4% of nationwide outpatient visits were due to respiratory illness (above the 2.9% baseline) for the sixth consecutive week. Activity increased in regions 1-4 and 6-10, and multiple respiratory viruses (including RSV and COVID-19) are co-circulating.
+
+- **Expectation of flu activity from CDC:** CDC anticipates continued elevated activity nationally, with significant activity in the southeast, south-central, and west coast.
+
+- **Other key factors:** Hospital admissions increased, with 7,090 influenza-related hospitalizations reported nationwide for week 49. 18 jurisdictions reported high or very high activity levels. Monitoring and antiviral treatments (oseltamivir, zanamivir) remain effective with no resistance detected.

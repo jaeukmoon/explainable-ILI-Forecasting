@@ -1,0 +1,20 @@
+Week45, 2023
+- **Viruses, Illness, and Deaths**: Influenza activity is increasing nationwide, particularly in the South Central, Southeast, and West Coast regions. Influenza A(H1N1) was the most frequently reported virus. 0.10% of deaths were attributed to influenza this week. No influenza-associated pediatric deaths were reported this week.
+
+- **U.S. Virologic Surveillance**: Clinical labs reported 4.0% of specimens tested positive for influenza this week, with 71.4% Influenza A and 28.6% Influenza B. Public health labs reported 75.8% of positive specimens as Influenza A (87.2% H1N1, 12.8% H3N2) and 24.2% as Influenza B.
+
+- **Cumulative Hospitalization Rate**: The cumulative hospitalization rate is 1.7 per 100,000, the second highest during week 45 compared to recent seasons.
+
+- **Trends of Deaths Attributed to Influenza**: 0.10% of deaths were due to influenza this week, stable compared to the previous week.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A constituted 71.4% of clinical lab positives and 75.8% of public health lab positives. Influenza B accounted for 28.6% of clinical lab positives and 24.2% of public health lab positives.
+
+- **Novel Influenza Virus (like COVID-19)**: No novel influenza viruses were identified this week. The report provides integrated surveillance of flu, COVID-19, and RSV activity.
+
+- **Vaccination Trends**: CDC continues to recommend influenza vaccination for everyone aged 6 months and older. Prescription antivirals are emphasized for treatment.
+
+- **Outpatient Respiratory Illness Visits**: 3.5% of outpatient visits this week were due to respiratory illness, above the national baseline of 2.9% and trending upward in 9 of 10 HHS regions.
+
+- **Expectation of Flu Activity from CDC**: Influenza activity is expected to continue increasing in the coming weeks.
+
+- **Other Key Factors**: Multiple respiratory viruses, including influenza, COVID-19, and RSV, are contributing to respiratory illness. Nine jurisdictions reported high or very high levels of outpatient respiratory illness. Hospitalizations due to influenza increased nationally.

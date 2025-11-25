@@ -1,0 +1,20 @@
+Week2, 2022
+- **Viruses, Illness, and Deaths**: Influenza activity remains elevated but declined slightly. Influenza A(H3N2) is the predominant virus. 25.5% of deaths attributed to pneumonia, influenza, or COVID-19 (PIC), above the epidemic threshold. Two pediatric deaths were reported, totaling five this season.
+
+- **U.S. Virologic Surveillance**: Clinical laboratories reported 1.8% of specimens testing positive; 98.6% were Influenza A and 1.4% Influenza B. Public health labs found 99.8% Influenza A, of which 100% were H3N2 this week.
+
+- **Cumulative Hospitalization Rate**: The rate is 3.9 per 100,000, higher than the 2020-2021 season but lower than pre-pandemic seasons. Adults aged ≥65 years, especially those ≥85, have the highest hospitalization rates.
+
+- **Trends of Deaths Attributed to Influenza**: Deaths attributed to PIC are primarily driven by COVID-19, with influenza-related deaths remaining low.
+
+- **Percentage of Influenza A and B**: Influenza A accounts for 98.6% of clinical lab positives (99.8% in public labs) while Influenza B is minimal, comprising 1.4% of clinical lab positives (0.2% in public labs).
+
+- **Novel Influenza Virus**: 1.8% of hospitalized influenza patients were co-infected with SARS-CoV-2. No new novel influenza strains were reported.
+
+- **Vaccination Trends**: Flu vaccination coverage appears lower this season compared to last. The CDC continues to recommend vaccination as the best prevention method.
+
+- **Outpatient Respiratory Illness Visits**: 3.5% of outpatient visits were due to respiratory illnesses (above baseline). Trends are downward across all age groups, but locations vary in influenza contribution to overall illness rates.
+
+- **Expectation of Flu Activity**: CDC predicts elevated activity will continue for several weeks; the majority of detected viruses (H3N2) are predominantly related to the vaccine virus but show some antigenic diversity.
+
+- **Other Key Factors**: Fourteen jurisdictions reported moderate respiratory illness activity, while another fourteen reported high or very high activity. Only 1% of long-term care facilities reported influenza cases among residents this week.

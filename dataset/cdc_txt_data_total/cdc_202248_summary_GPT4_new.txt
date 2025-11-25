@@ -1,0 +1,16 @@
+Week48, 2022
+1. Influenza activity is increasing nationally, with the southeast and south-central U.S. reporting the highest levels.
+2. Clinical labs reported a 6.8% positivity rate for influenza, with 80.3% being Influenza A and 19.7% Influenza B.
+3. Public health labs found 79.9% of viruses were Influenza A (74.1% A(H1N1) and 25.9% A(H3N2)) and 20.1% were Influenza B.
+4. Outpatient respiratory illness visits were at 4.0%, above the national baseline of 2.9%, with increases in most regions.
+5. Cumulative hospitalization rate for the season stands at 5.5 per 100,000, predominantly affecting adults aged 65+.
+6. There have been 5,753 hospitalized cases and 12 total pediatric deaths this season, including four in Week 48.
+7. Mortality due to influenza accounted for 0.2% of all deaths, showing an upward trend.
+8. Influenza A(H1N1)pdm09 is the predominant circulating virus, with region-specific variances in Influenza B proportions.
+9. CDC estimates at least 2.6 million illnesses, 26,000 hospitalizations, and 1,600 deaths from flu so far this season.
+10. Vaccination continues to be emphasized, with availability still sufficient for individuals aged 6 months and older.
+11. Influenza, RSV, and SARS-CoV-2 remain contributors to respiratory disease, emphasizing the need for multi-virus monitoring.
+12. Prescription flu antivirals remain effective, with all tested viruses showing no resistance to current treatments.
+13. High activity in regions signals increased risk of flu spread, especially in areas with co-circulating respiratory viruses.
+
+14. Key insights indicate widespread influenza A dominance, rising outpatient visits, and hospitalizations with geographic hotspots, suggesting the potential for further increases in flu activity. Vaccination and use of antivirals are vital for mitigation.

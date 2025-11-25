@@ -1,0 +1,15 @@
+Based on the latest surveillance report from CDC, the key facts regarding predicting future ILI occurrence are as follows:
+
+- Influenza activity remains low nationally.
+- Clinical labs reported 1.0% of respiratory specimens tested positive for influenza.
+- The most frequently reported viruses were influenza A(H3N2).
+- Genetic and antigenic characterization of influenza viruses is ongoing.
+- Outpatient respiratory illness visits accounted for 2.6% of healthcare visits, above the national baseline of 2.5%.
+- Four jurisdictions experienced moderate ILI activity, while six were above their respective baselines.
+- 0.6% of long-term care facilities reported influenza-positive tests among residents.
+- FluSurv-NET reported a cumulative hospitalization rate of 59.7 per 100,000 population, with higher rates in adults aged 65 and older.
+- 9.0% of deaths were attributed to pneumonia, influenza, or COVID-19, above the epidemic threshold.
+- Four influenza-associated pediatric deaths were reported, bringing the total to 115 for the season.
+- Influenza viruses tested remained susceptible to antiviral medications.
+
+These facts help to assess the current influenza activity and inform predictions for future ILI occurrence.

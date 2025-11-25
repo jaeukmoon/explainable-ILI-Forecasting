@@ -1,0 +1,20 @@
+Week17, 2023
+- **Viruses, illness, and deaths:** Seasonal influenza activity remains low nationally. 1.0% of respiratory specimens tested positive for influenza. Influenza B viruses predominated (64.0%), followed by Influenza A (36.0%). Influenza-associated pediatric deaths increased to 149 for the 2022-2023 season, with four additional deaths reported this week. Cumulative estimates so far this season include 26 million illnesses, 290,000 hospitalizations, and 19,000 deaths from influenza.  
+
+- **U.S. virologic surveillance:** Influenza A constituted 42.0% of positive clinical lab specimens and 36.0% of positive public health lab specimens, while Influenza B made up 58.0% and 64.0%, respectively. Influenza A types include 75.0% (H1N1) and 25.0% (H3N2). All characterized influenza viruses remain antigenically similar to vaccine strains, and >99.9% showed susceptibility to antivirals like oseltamivir.
+
+- **Cumulative hospitalization rate:** The cumulative hospitalization rate is 61.9 per 100,000 population, with adults ≥65 years experiencing the highest rates (184.3 per 100,000). Children aged 0-4 accounted for the highest rates among younger populations (80.3 per 100,000).
+
+- **Trends of deaths attributed to influenza:** 7.3% of deaths this week were due to pneumonia, influenza, or COVID-19, surpassing the epidemic threshold of 6.8%.
+
+- **Percentage of Influenza A and Influenza B:** Among clinical lab positives, Influenza B represented 58.0%, while Influenza A made up 42.0%. Public health labs reported Influenza B at 64.0% and Influenza A at 36.0%.
+
+- **Novel influenza virus (like COVID-19):** No novel influenza viruses were identified.
+
+- **Vaccination trends:** The CDC recommends everyone 6 months and older to receive the flu vaccine. Vaccination remains the best preventive measure, alongside early antiviral treatment for those infected.
+
+- **Outpatient respiratory illness visits:** 2.0% of outpatient visits were for influenza-like illness (ILI), below the national baseline of 2.5%. Nine out of 10 HHS regions reported levels below their respective baselines.
+
+- **Expectation of flu activity from CDC:** Influenza activity is expected to remain low nationally.
+
+- **Other key factors:** Co-circulation of multiple respiratory viruses, including SARS-CoV-2 and RSV, may influence ILI trends. Long-term care facilities reported a slight increase (>5%) in influenza-positive cases among residents compared to the previous week.

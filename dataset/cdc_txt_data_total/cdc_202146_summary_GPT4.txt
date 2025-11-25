@@ -1,0 +1,20 @@
+Week46, 2021
+- **Viruses, illness, and deaths:** Influenza activity remains low but increasing. The majority of detected viruses are Influenza A (H3N2), with 89% reported among individuals aged 5-24. No influenza-associated pediatric deaths have been reported. Overall, 14.5% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), above the epidemic threshold of 6.3%, primarily driven by COVID-19.
+
+- **U.S. virologic surveillance:** Clinical labs report 93.7% of positive specimens as Influenza A and 6.3% as Influenza B. Public health labs report 98.4% of positives as Influenza A, with nearly all subtyped as H3N2. A novel Influenza A virus (H1) infection with swine contact was reported in Oklahoma.
+
+- **Cumulative hospitalization rate:** 356 influenza-related hospitalizations reported this week; cumulative hospitalization rates will be updated later in the season.
+
+- **Trends of deaths attributed to influenza:** PIC deaths are primarily driven by COVID-19, with influenza accounting for a small portion.
+
+- **Percentage of Influenza A and Influenza B:** Influenza A constitutes 93.7% of specimens in clinical labs and 98.4% in public health labs. Influenza B constitutes 6.3% in clinical labs and 1.6% in public health labs.
+
+- **Novel influenza virus (like COVID-19):** One human infection with a novel Influenza A (H1) virus linked to swine contact was reported. This is the second novel influenza virus case this season.
+
+- **Vaccination trends:** As of November 19, 2021, 166.9 million doses of flu vaccine have been distributed. CDC recommends vaccination for everyone aged 6 months and older as the best prevention method.
+
+- **Outpatient respiratory illness visits:** Nationally, 2.2% of outpatient visits were for ILI this week, below the baseline of 2.5%. Region 7 is above its baseline, with other regions below. ILI visits remain stable across all age groups.
+
+- **Expectation of flu activity from CDC:** Influenza activity remains low but is expected to increase in the coming weeks, particularly for Influenza A (H3N2).
+
+- **Other key factors:** Approximately 0.2% of long-term care facilities reported at least one influenza-positive resident. Multiple respiratory viruses, including SARS-CoV-2, are co-circulating, impacting ILI trends. Monitoring variant influenza viruses and swine exposures remains critical.

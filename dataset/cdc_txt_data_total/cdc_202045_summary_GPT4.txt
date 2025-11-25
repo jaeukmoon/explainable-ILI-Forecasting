@@ -1,0 +1,20 @@
+Week45, 2020
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains low, with only 0.2% of respiratory specimens testing positive for influenza in clinical labs. 8.9% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), above the epidemic threshold of 6.1%. No influenza-associated pediatric deaths have been reported for the 2020-21 season.
+
+- **U.S. virologic surveillance**: Among clinical lab positives, 63.3% were Influenza A and 36.7% were Influenza B. Public health labs identified 66.7% of positives as Influenza A and 33.3% as Influenza B. Subtyping data showed limited H1N1pdm09 and H3N2 detections.
+
+- **Cumulative hospitalization rate**: Hospitalization rates will be updated later; no data available for week 45.
+
+- **Trends of deaths attributed to influenza**: 8.9% of deaths from PIC exceeded the epidemic threshold of 6.1%, likely influenced by COVID-19.
+
+- **Percentage of Influenza A and Influenza B**: Among clinical specimens, Influenza A comprised 63.3%, and Influenza B comprised 36.7%. In public health lab reports, 66.7% were Influenza A and 33.3% Influenza B.
+
+- **Novel influenza virus (like COVID-19)**: No reports of novel influenza viruses; surveillance data on COVID-19 is being tracked separately.
+
+- **Vaccination trends**: CDC emphasizes the importance of vaccination and urges all individuals 6 months or older to get vaccinated as soon as possible.
+
+- **Outpatient respiratory illness visits**: ILI outpatient visits accounted for 1.5% of total visits, below the national baseline of 2.6%. Region 7 (Iowa, Kansas, Missouri, Nebraska) reported slightly above its regional baseline; most regions experienced minimal or low activity.
+
+- **Expectation of flu activity from CDC**: Flu activity remains minimal but may increase in the coming weeks.
+
+- **Other key factors**: Healthcare behaviors have shifted due to the COVID-19 pandemic, affecting traditional ILI surveillance, necessitating alternative data sources for accurate reporting. One jurisdiction reported very high ILI activity, while others exhibited low or minimal activity.

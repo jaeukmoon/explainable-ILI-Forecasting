@@ -1,0 +1,11 @@
+Week33, 2021
+1. Influenza activity remains low nationwide, with outpatient visits for influenza-like illness (ILI) accounting for 2.2%, below the national baseline of 2.6%.
+2. ILI visits have increased for two age groups (0–4 years and 5–24 years) and show a rising trend over the past four weeks across all age groups.
+3. Clinical labs report low influenza virus circulation, with increases in ILI more likely caused by other respiratory viruses like SARS-CoV-2.
+4. No influenza-associated pediatric deaths were reported for week 33, and only one pediatric death for the entire 2020-2021 season.
+5. Pneumonia, influenza, or COVID-19 (PIC) accounted for 17.2% of deaths, far exceeding the epidemic threshold of 5.4%, with COVID-19 being the primary contributor.
+6. No updates on virologic testing or hospitalization rates for influenza as data collection has passed the regular season period.
+7. Region 4 reports ILI activity above its region-specific baseline, while all other regions remain below their baselines.
+8. High ILI activity is reported in 2 jurisdictions and 27 CBSAs, an increase compared to the previous week.
+9. Healthcare-seeking patterns have changed significantly during the COVID-19 pandemic, influencing ILI surveillance interpretations.
+10. Low influenza activity continues, with no immediate surge expected, but interferences from other respiratory viruses like COVID-19 could still affect trends.

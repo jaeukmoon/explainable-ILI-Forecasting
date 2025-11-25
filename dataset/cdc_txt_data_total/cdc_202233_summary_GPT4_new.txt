@@ -1,0 +1,11 @@
+Week33, 2022
+1. Influenza positivity rates remain low, with 0.5% of clinical lab specimens positive; 85.5% were Influenza A and 14.5% Influenza B.
+2. Public health labs reported 39 positive specimens, primarily Influenza A (94.9%), dominated by the H3N2 subtype (96.6%).
+3. A novel swine-origin Influenza A(H1N2)v virus infected one child, marking the second such case this year; no person-to-person transmission was detected.
+4. Outpatient visits for influenza-like illness (ILI) accounted for 1.5% of patient visits, with higher percentages among children aged 0-4 years (6.3%).
+5. Influenza-related hospitalization reported 477 admissions for week 33, though cumulative hospitalization updates ceased after June 2022.
+6. Pneumonia, influenza, or COVID-19 (PIC) attributed to 10.0% of deaths, with COVID-19 as the predominant cause, but seven deaths involved influenza.
+7. No new influenza-associated pediatric deaths were reported this week, with 33 total reported deaths for the 2021-2022 season.
+8. Long-term care facilities reported only 0.2% with influenza-positive residents during this period.
+9. CDC tracks multiple respiratory viruses; co-circulation with SARS-CoV-2 and others influences ILI trends and complicates monitoring.
+10. Flu activity expectations remain uncertain due to low activity levels and variable healthcare-seeking behaviors post-pandemic.

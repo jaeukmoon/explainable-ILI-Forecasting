@@ -1,0 +1,11 @@
+- Seasonal influenza activity in the United States is increasing.
+- The majority of influenza viruses detected are Influenza A(H3N2), with increased detections among adults aged 25 years and older.
+- The percentage of outpatient visits for respiratory illness is trending upward and is above the national baseline.
+- Hospitalizations for influenza are starting to increase.
+- Two influenza-associated pediatric deaths have been reported for the current season.
+- Mortality due to pneumonia, influenza, and/or COVID-19 is above the epidemic threshold.
+- Influenza vaccination uptake is lower compared to the previous season.
+- Influenza antiviral drugs are available for treating influenza illness.
+- Data on influenza virus genetic characterization and antiviral susceptibility will be reported later in the season.
+- The influenza surveillance system includes virologic surveillance, outpatient illness surveillance, geographic spread surveillance, severe disease surveillance, and virus characterization.
+- CDC recommends annual flu vaccination for everyone aged 6 months and older.

@@ -1,0 +1,13 @@
+Week24, 2023
+1. Influenza activity is low, with 1.1% of respiratory specimens testing positive; Influenza A constitutes 57.9%, and Influenza B accounts for 42.1%.
+2. Out of public health lab specimens, 61.9% were Influenza A, and 38.1% were Influenza B; all subtyped Influenza B viruses belonged to the Victoria lineage.
+3. Hospitalizations for influenza reached 779 for the week, but cumulative hospitalization rates for the season are not explicitly detailed.
+4. COVID-19, Influenza, and Pneumonia (PIC) accounted for 6.1% of deaths, slightly exceeding the epidemic threshold of 6.0%.
+5. Outpatient respiratory visits for ILI were at 1.5%, with the highest percentage (5.2%) among children aged 0-4.
+6. Virologic testing showed declining influenza circulation, with no detection of H3N2 viruses and minimal other subtype activity.
+7. Two pediatric deaths were reported, adding to seasonal totals of 159 for 2022-23 and 47 for 2021-22, both linked to Influenza A.
+8. Flu activity expectations are minimal, with most jurisdictions reporting "minimal" activity levels nationwide.
+9. Multiple respiratory viruses co-circulate, complicating ILI surveillance interpretation alongside COVID-19 cases.
+10. Vaccination trends were not discussed in the report.
+
+11. Summary of insights: Influenza activity continues to decline seasonally, with limited new virus detections and reduced outpatient visits. Upcoming flu trends may depend on co-circulating respiratory viruses like SARS-CoV-2.

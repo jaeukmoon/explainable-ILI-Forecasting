@@ -1,0 +1,13 @@
+1. The past time-series ILI occurrences over the 5 weeks reflected a fluctuating pattern followed by a notable rise, with values of ['1228', '1203', '1223', '1170', '1408']. After a slight dip from 1228 (Week 44, 2021) to 1203 (Week 45, 2021), occurrences remained relatively stable through Week 46 before spiking to 1408 in Week 48, 2021. This upward trajectory toward the last two weeks indicates intensifying ILI activity.
+
+2. A positive correlation exists between the rise in the final weeks of the past ILI data (Weeks 47–48, 2021) and the reported future increase to 3033 occurrences after 5 weeks. The surge observed in Week 48 (1408) marks a precursor to the substantial growth in respiratory illness reflected in the future data, suggesting a continuation of this trend.
+
+3. Outpatient visits for ILI steadily increased over the 5 weeks, rising from 2.1% (Week 44, 2021) to 2.5% (Week 48, 2021), reaching the national baseline. This consistent upward trend in ILI-related healthcare visits reflects increasing respiratory illness activity correlating strongly with the rise to 3033 future ILI occurrences.
+
+4. Hospitalizations for influenza demonstrated a sustained increase throughout the 5-week period, climbing from 295 (Week 44, 2021) to a significant 841 (Week 48, 2021). This rise in severe cases is a direct indicator of heightened ILI activity and aligns with the substantial increase reported in the future data.
+
+5. The percentage of deaths attributed to pneumonia, influenza, or COVID-19 (PIC) remained consistently above the epidemic threshold, increasing from 14.1% (Week 44, 2021) to 17.5% (Week 48, 2021). This persistent elevation in PIC mortality suggests an overall surge in respiratory illness burden, contributing to the spike in future ILI occurrences.
+
+6. The dominance of Influenza A(H3N2), particularly among ages 5–24, coupled with increasing trends in adults 25+ by Week 48, 2021, indicates sustained and potentially expanding circulation of the virus. Co-circulating respiratory viruses further complicate these dynamics, amplifying ILI trends leading to the marked increase to 3033 occurrences after 5 weeks.
+
+7. In summary, the reported 3033 future ILI occurrences (Week 3, 2022) are driven by the upward trend in past ILI occurrences, increased outpatient visits for ILI, rising hospitalizations, elevated PIC mortality, and the compounding effects of Influenza A(H3N2) dominance alongside co-circulating respiratory illnesses.

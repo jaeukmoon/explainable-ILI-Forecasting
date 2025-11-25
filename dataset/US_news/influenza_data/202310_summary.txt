@@ -1,0 +1,7 @@
+Pathogen infection causes a state of sickness characterized by behavioral and physiological changes.
+The neural circuits and mechanisms that evoke sickness behavior during infections are still unclear.
+Over-the-counter medications like aspirin and ibuprofen alleviate sickness by blocking the synthesis of prostaglandin E2 (PGE2).
+A small population of glossopharyngeal sensory neurons (petrosal GABRA1 neurons) detects PGE2 and is essential for influenza-induced sickness behavior in mice.
+Ablating these neurons or targeting the PGE2 receptor eliminates sickness behavior and improves survival in mice.
+Petrosal GABRA1 neurons project to mucosal regions of the nasopharynx and display a specific axonal targeting pattern in the brainstem.
+This reveals a primary airway-to-brain sensory pathway that detects locally produced prostaglandins and mediates sickness responses to respiratory virus infections.

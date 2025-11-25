@@ -1,0 +1,11 @@
+Week30, 2024
+1. Seasonal influenza activity remains low, with 0.7% of respiratory specimens testing positive for influenza nationally.
+2. Of the positive specimens, clinical labs reported 89.1% Influenza A and 10.9% Influenza B, while public health labs reported 93.2% Influenza A and 6.8% Influenza B.
+3. Weekly outpatient visits for respiratory illness were 1.5%, below the baseline, with stable trends across all U.S. regions.
+4. The weekly influenza-associated hospitalization rate was 0.1 per 100,000, significantly lower than the season peak of 9.0 per 100,000.
+5. Influenza-associated deaths accounted for 0.03%, with 1 new pediatric death this week, totaling 188 pediatric deaths for the season.
+6. Multiple respiratory viruses, including COVID-19, influenza, and RSV, are co-circulating, though no new cases of novel influenza A were reported this week.
+7. There is ongoing antigenic characterization of influenza viruses, with most tested strains well-matched to the vaccine.
+8. Resistance to antiviral medications remains low, with only a few variants showing reduced susceptibility.
+9. No jurisdictions reported moderate or high ILI activity, and most regions reported minimal flu activity.
+10. Flu activity remains low, but vigilance is necessary due to the co-circulation of other respiratory pathogens and ongoing H5N1 avian outbreaks.

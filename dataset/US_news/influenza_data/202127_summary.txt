@@ -1,0 +1,5 @@
+- The article discusses the ultrastructure of influenza virus ribonucleoprotein complexes during viral RNA synthesis.
+- The study used high-speed atomic force microscopy and cryo-electron microscopy to investigate the native structure of influenza A vRNPs during RNA synthesis in vitro.
+- Two distinct types of vRNPs were observed, one intact and helical and the other deformed and associated with a looped RNA.
+- The looped RNA was found to be a double-stranded RNA, likely comprising a nascent RNA and the template RNA detached from NPs of the vRNP.
+- These findings suggest that some vRNPs maintain their helical structures during RNA synthesis, while others become structurally deformed, potentially leading to failures in RNA synthesis.

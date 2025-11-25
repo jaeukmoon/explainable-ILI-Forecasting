@@ -1,0 +1,4 @@
+- The study focuses on understanding the circulation patterns and genetic diversity of pre-pandemic human seasonal Influenza A viruses in Chile before the H1N1pdm09 pandemic.
+- Researchers sequenced the complete genome of 42 historic Influenza A virus samples obtained between 1996 and 2007.
+- Phylogenetic analysis revealed that the diversity of pre-pandemic human seasonal Influenza A viruses in Chile was influenced by continuous introductions of new A/H1N1 and A/H3N2 lineages and constant viral exchange between Chile and other countries every year.
+- These findings provide important knowledge about the genetic diversity and evolutionary patterns of pre-pandemic human seasonal Influenza A viruses in Chile, which can help inform surveillance systems and prevention strategies.

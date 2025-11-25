@@ -1,0 +1,11 @@
+Based on the CDC FluView Summary ending on March 9, 2024, the key facts regarding predicting future ILI occurrence are:
+
+1. Seasonal influenza activity remains elevated nationally, with increases in some parts of the country.
+2. The percentage of respiratory specimens testing positive for influenza in clinical laboratories increased compared to the previous week, with regions 7, 5, and 3 having the highest positivity rates.
+3. Influenza A(H1N1)pdm09, A(H3N2), and B viruses circulated at approximately equal proportions during the reported week, with variations in distribution by region.
+4. Outpatient respiratory illness visits remained above the national baseline, but the percentage decreased compared to the previous week. Region 9 reached its baseline for the first time since late October.
+5. FluSurv-NET hospitalization data showed a cumulative rate of 67.9 per 100,000 population, with the highest rates among adults aged 65 years and older, followed by adults aged 50-64 years and children aged 0-4 years.
+6. Fifteen influenza-associated pediatric deaths were reported during the current season, bringing the total to 116 for the season. Most deaths were associated with influenza A viruses.
+7. National mortality surveillance data showed that 0.7% of deaths during the reported week were attributed to influenza, which increased compared to the previous week.
+
+These facts indicate ongoing elevated influenza activity, with variations in virus distribution, outpatient visits, hospitalizations, and mortality. Monitoring these factors helps in predicting future ILI occurrence and informing public health interventions.

@@ -1,0 +1,20 @@
+Week6, 2021
+- **Viruses, illness, and deaths:** Seasonal influenza activity remains unusually low, with only 0.1% of respiratory specimens testing positive for influenza in clinical labs. Of these, 14.3% were Influenza A and 85.7% were Influenza B. No new influenza-associated pediatric deaths were reported this week, with a total of one for the 2020-21 season. PIC (pneumonia, influenza, and COVID-19) deaths were attributed primarily to COVID-19.
+
+- **U.S. virologic surveillance:** Public health labs reported only three positive influenza specimens this week (33.3% Influenza A, 66.7% Influenza B). Cumulatively, since September 27, 2020, 60.1% of positive public health lab specimens were Influenza A and 39.9% Influenza B, with limited subtyping.
+
+- **Cumulative hospitalization rate:** The cumulative laboratory-confirmed hospitalization rate for influenza was 0.6 per 100,000 population, which is significantly lower than in prior seasons, including the low-severity 2011-12 season.
+
+- **Trends of deaths attributed to influenza:** 22.3% of all deaths were attributed to PIC, largely driven by COVID-19, with influenza playing a minimal role.
+
+- **Percentage of Influenza A and Influenza B:** Clinical labs show Influenza B (85.7%) dominating over Influenza A (14.3%) this week. Cumulatively, clinical labs report Influenza B at 64.8% and Influenza A at 35.2%.
+
+- **Novel influenza virus (like COVID-19):** No novel influenza virus detections were reported, but most surveillance observations were impacted by the ongoing COVID-19 pandemic.
+
+- **Vaccination trends:** CDC continues to encourage vaccination, urging individuals to get flu vaccines if not already vaccinated.
+
+- **Outpatient respiratory illness visits:** 1.1% of patient visits nationally were attributed to ILI, remaining below the national baseline of 2.6%. All jurisdictions reported minimal ILI activity.
+
+- **Expectation of flu activity from CDC:** Influenza activity is expected to remain low but may increase in the coming months.
+
+- **Other key factors:** ILI trends show a slight increase in younger children (0-4 years) and a decline or stability in older age groups over recent weeks. The significant impact of COVID-19 on healthcare-seeking behavior and surveillance processes requires cautious interpretation of data.

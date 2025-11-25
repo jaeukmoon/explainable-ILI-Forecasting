@@ -1,0 +1,11 @@
+Week37, 2023
+1. Influenza activity remains low with 0.8% of respiratory specimens testing positive; 67.0% were Influenza A and 33.0% Influenza B in clinical laboratories.
+2. Public health labs reported 49 positive specimens, with 73.5% Influenza A (majority H1N1) and 26.5% Influenza B (all Victoria lineage).
+3. A novel Influenza A(H1N2)v virus infection was reported in Montana, linked to exposure at an agricultural fair; no person-to-person spread detected.
+4. Hospital admissions for laboratory-confirmed influenza totaled 820 for week 37.
+5. Mortality reports indicate 7.6% of PIC deaths exceeded the epidemic threshold, with influenza contributing to 13 deaths.
+6. Outpatient ILI visits accounted for 2.0% of visits, with higher rates among children aged 0-4 (6.3%) and 5-24 (3.0%).
+7. Pediatric influenza-associated deaths rose to a season total of 176, with 2 additional deaths recently reported.
+8. CDC urges timely flu vaccinations, though no specific trends were highlighted in this report.
+9. ILI activity across regions remains minimal to low, with localized variances due to co-circulating respiratory viruses.
+10. Continued monitoring of novel influenza variants and subtypes is critical for early detection and management of potential outbreaks.

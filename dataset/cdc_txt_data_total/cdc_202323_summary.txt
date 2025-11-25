@@ -1,0 +1,13 @@
+The virologic surveillance conducted by clinical laboratories and public health laboratories provides important information on the prevalence and distribution of influenza viruses. During the reported period, 1.0% of specimens tested positive for influenza in clinical laboratories, with a predominance of Influenza A and Influenza B viruses. In public health laboratories, 33.3% of specimens tested positive for Influenza A and 66.7% tested positive for Influenza B.
+
+Outpatient respiratory illness surveillance, specifically the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet), tracks the percentage of patient visits related to influenza-like illness (ILI). During the reported period, 1.6% of patient visits reported through ILINet were due to ILI. It should be noted that ILI visits can be caused by other respiratory pathogens as well.
+
+Geographic activity of ILI varied across states, with some states experiencing high or moderate ILI activity, while others had low or minimal activity.
+
+Hospitalization surveillance, conducted through the Influenza Hospitalization Surveillance Network (FluSurv-NET), provides information on laboratory-confirmed influenza-related hospitalizations. The data for the current season were not provided in the report.
+
+Mortality surveillance, based on National Center for Health Statistics (NCHS) data, indicated that 6.3% of deaths during the reported week were due to pneumonia, influenza, and/or COVID-19 (PIC). This percentage exceeded the epidemic threshold for the week.
+
+There were three influenza-associated pediatric deaths reported during the reported week, with two associated with Influenza B viruses and one associated with an unidentified Influenza A virus.
+
+Additional information on influenza surveillance can be found through FluView Interactive, provided by CDC, as well as through national and international surveillance systems and organizations.

@@ -1,0 +1,5 @@
+- Highly pathogenic avian influenza A(H5N1) viruses of clade 2.3.4.4b underwent an intercontinental spread to North America in 2021.
+- The spread was quickly followed by reassortment with viruses circulating in wild birds in North America, resulting in the acquisition of different combinations of ribonucleoprotein genes.
+- These reassortant A(H5N1) viruses are genotypically and phenotypically diverse, and they have caused severe disease with dramatic neurologic involvement in mammals.
+- The proclivity of the current A(H5N1) 2.3.4.4b virus lineage to reassort and target the central nervous system warrants planning to combat its spread and evolution within the continent.
+- Mitigating the impact of a potential influenza pandemic that could originate from similar A(H5N1) reassortants is also important.

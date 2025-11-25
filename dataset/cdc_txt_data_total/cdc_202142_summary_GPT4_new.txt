@@ -1,0 +1,11 @@
+Week42, 2021
+1. Influenza activity remains low across the United States, with only 0.1% of respiratory specimens testing positive for influenza.
+2. Among clinical lab results, 38.5% of positive cases were Influenza A and 61.5% were Influenza B.
+3. Public health labs reported 8 positive specimens this week, with 87.5% Influenza A (H3N2 dominated) and 12.5% Influenza B.
+4. Outpatient visits for influenza-like illness (ILI) accounted for 1.8% of visits, below the national baseline of 2.5%, with activity stable or decreasing in all age groups over four weeks.
+5. No influenza-associated pediatric deaths have been reported this season.
+6. Pneumonia, influenza, or COVID-19 (PIC) accounted for 16.5% of deaths, above the epidemic threshold of 5.9%, with COVID-19 as the primary driver.
+7. Hospitalizations due to influenza totaled 288 this week; cumulative hospitalization rates have not been updated yet.
+8. The CDC emphasizes annual influenza vaccination but reports no specific vaccination uptake trends.
+9. Data show minimal influenza activity in long-term care facilities, with 0.2% reporting at least one positive test.
+10. Current low influenza virus circulation, changing healthcare behaviors due to COVID-19, and respiratory virus co-trends may complicate future ILI predictions.

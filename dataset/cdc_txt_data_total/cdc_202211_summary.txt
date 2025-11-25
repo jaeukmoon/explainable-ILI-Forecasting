@@ -1,0 +1,13 @@
+1. Influenza activity is increasing in most of the country.
+2. The majority of viruses detected are influenza A(H3N2).
+3. Genetic and antigenic characterization and antiviral susceptibility of influenza viruses are being monitored.
+4. Outpatient visits for respiratory illness, including ILI, increased slightly but remain below baseline.
+5. ILI activity varies by location, with some jurisdictions experiencing moderate or high activity.
+6. Influenza hospitalization rates are higher than last season but lower than previous seasons before the COVID-19 pandemic.
+7. The percentage of deaths attributed to pneumonia, influenza, or COVID-19 is above the epidemic threshold.
+8. No influenza-associated pediatric deaths were reported during the current season.
+9. Influenza surveillance data are available at national, regional, and state levels.
+10. FluView Interactive provides customizable visual interpretations of influenza data.
+11. Other international organizations, such as WHO, also provide influenza surveillance information.
+12. An annual flu vaccine is recommended for everyone aged 6 months and older.
+13. Antiviral drugs are available for treating influenza illness.

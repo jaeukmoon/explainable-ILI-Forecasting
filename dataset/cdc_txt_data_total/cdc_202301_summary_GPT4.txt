@@ -1,0 +1,12 @@
+Week1, 2023
+- **Viruses, illness, and deaths**: Data on viruses, specific illness rates, and deaths this week not explicitly provided but respiratory illness activity remains elevated.  
+- **U.S. virologic surveillance**: Influenza virus characterization report not explicitly provided in this summary.  
+- **Cumulative hospitalization rate**: No cumulative hospitalization rate data provided for Week 1, 2023.  
+- **Trends of deaths attributed to influenza**: No data on pneumonia and influenza (P&I) mortality trends noted for this week.  
+- **Percentage of Influenza A and Influenza B**: No breakdown of Influenza A or B percentages stated in this report.  
+- **Novel influenza virus (like COVID-19)**: No references to novel influenza viruses or COVID-19 included.  
+- **Vaccination trends**: No vaccination data or trends highlighted in this report.  
+- **Outpatient respiratory illness visits**: Respiratory illness activity varied regionally, with New York City and Alaska reporting very high activity, while Hawaii and Puerto Rico showed minimal activity.  
+- **Expectation of flu activity from CDC**: No explicit projections about future activity trends are provided in this report.  
+- **Other key factors**: Regional activity levels highlight localized hotspots, with some areas experiencing high or very high levels of influenza-like illness (ILI), useful for tracking regional infection spread.  
+

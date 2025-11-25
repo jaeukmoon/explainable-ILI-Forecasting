@@ -1,0 +1,20 @@
+Week46, 2020
+- **Viruses, illness, and deaths**: Influenza activity remains unusually low, with only 0.2% of respiratory specimens testing positive. 10.7% of deaths were attributed to pneumonia, influenza, and COVID-19 (PIC), with most due to COVID-19. No influenza-associated pediatric deaths have been reported for the 2020-21 season.
+
+- **U.S. virologic surveillance**: Clinical labs report 39.0% of positives as Influenza A and 61.0% as Influenza B. Public health labs show 85.7% Influenza A and 14.3% Influenza B, with limited subtyping data available.
+
+- **Cumulative hospitalization rate**: Hospitalization rates are unavailable and will be updated later in the season.
+
+- **Trends of deaths attributed to influenza**: PIC mortality is above the epidemic threshold at 10.7%, driven primarily by COVID-19, with only 2 deaths attributed to influenza.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounts for 39-85.7% of positives depending on the lab type, and Influenza B for 14.3-61%.
+
+- **Novel influenza virus (like COVID-19)**: Data indicates ongoing severe impact from COVID-19; no reports of other novel influenza viruses.
+
+- **Vaccination trends**: CDC emphasizes vaccination as the best prevention, urging those unvaccinated to get a flu shot immediately.
+
+- **Outpatient respiratory illness visits**: 1.5% of outpatient visits were for ILI, below the national baseline of 2.6%. Continual caution is advised in interpreting data due to COVID-19's influence on healthcare-seeking behavior.
+
+- **Expectation of flu activity from CDC**: Flu activity is expected to remain low but may increase in the coming months.
+
+- **Other key factors**: All U.S. regions report ILI activity below regional baselines. Two jurisdictions show low ILI activity, while others report minimal levels. COVID-19 dominates respiratory disease trends.

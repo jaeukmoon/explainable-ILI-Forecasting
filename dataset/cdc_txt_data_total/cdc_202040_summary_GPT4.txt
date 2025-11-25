@@ -1,0 +1,20 @@
+Week40, 2020
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains low in the U.S., with only 0.2% of respiratory specimens testing positive for influenza. 7.0% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), which is above the epidemic threshold of 5.6%. No influenza-associated pediatric deaths have been reported for the 2020-21 season.
+
+- **U.S. virologic surveillance**: Clinical labs report 52.9% of positive specimens as Influenza A and 47.1% as Influenza B. Public health labs report 100% of identified influenza specimens as Influenza A, with no subtypes specified and no detection of Influenza B.
+
+- **Cumulative hospitalization rate**: Hospitalizations will be updated weekly later in the season; no hospitalization data is available for this week.
+
+- **Trends of deaths attributed to influenza**: Deaths due to PIC are at 7.0%, exceeding the epidemic threshold, indicating potential heightened mortality risks.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounts for 52.9% of clinical lab positives and 100% of public health lab positives. Influenza B represents 47.1% of clinical lab positives.
+
+- **Novel influenza virus (like COVID-19)**: No reports of any novel influenza viruses, including COVID-19-related variants, specific to this surveillance.
+
+- **Vaccination trends**: CDC recommends annual flu vaccination by the end of October for all individuals aged 6 months or older.
+
+- **Outpatient respiratory illness visits**: 1.1% of outpatient visits nationwide were due to ILI, well below the national baseline of 2.6%. One jurisdiction reported low ILI activity, with the remainder reporting minimal activity.
+
+- **Expectation of flu activity from CDC**: Flu activity is expected to remain low during this period.
+
+- **Other key factors**: Reporting from state and territorial epidemiologists on geographic spread has been suspended for the 2020-21 influenza season due to the impact of the COVID-19 pandemic on ILI surveillance. Traditional healthcare providers appear to report lower ILI numbers, likely influenced by altered healthcare-seeking behaviors during the pandemic. Alternative surveillance measures are recommended to assess overall respiratory illness accurately.

@@ -1,0 +1,11 @@
+Week24, 2022
+1. Influenza activity remains moderate, with 2.5% of clinical specimens testing positive for influenza in week 24.
+2. Influenza A continues to dominate, representing 97.3% of positive clinical specimens and 95% of public health lab specimens.
+3. Subtyping in public health labs reports that 100% of positive Influenza A samples are H3N2.
+4. Outpatient visits for influenza-like illness (ILI) were 1.9% nationwide, with the highest percentage in children aged 0-4 years (8.8%).
+5. Geographic distribution shows most jurisdictions reported minimal activity, with two states at high levels of outpatient ILI activity.
+6. Hospitalizations included 1,736 lab-confirmed influenza cases in week 24, with cumulative rates not updated post week 23.
+7. One pediatric death associated with influenza A (subtype not performed) was reported during week 24, bringing the season's total to 30.
+8. Mortality data for pneumonia, influenza, and COVID-19 (PIC) deaths are unavailable for weeks 22-24 due to system upgrades.
+9. Vaccination trends are not highlighted in this report, and CDC continues to emphasize annual vaccination.
+10. Healthcare-seeking behavior for respiratory illness remains affected by the pandemic, impacting interpretation of surveillance trends.

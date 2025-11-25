@@ -1,0 +1,7 @@
+During week 24 of the 2020-2021 influenza season, the virologic surveillance data showed that 1.2% of patient visits reported through the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet) were due to influenza-like illness (ILI), which was below the national baseline of 2.6%. The ILI activity level was categorized as minimal in 53 jurisdictions and insufficent data in 2 jurisdictions.
+
+In terms of virologic surveillance, clinical laboratories reported that 6/27/2021 Weekly U.S. Inﬂuenza Surveillance Report | CDC, about 0.4% of specimens tested positive for influenza, with a predominance of Influenza A viruses. Public health laboratories reported similar findings, with a higher proportion of positive specimens for Influenza A compared to Influenza B.
+
+Hospitalization rates due to influenza were not provided in the report, and no influenza-associated pediatric deaths were reported during week 24.
+
+Overall, the influenza activity remained low during this period, and ILI activity remained below the national baseline. However, it is important to interpret these findings in the context of the ongoing COVID-19 pandemic, as the ILINet data may also capture visits due to respiratory pathogens such as SARS-CoV-2.

@@ -1,0 +1,10 @@
+- The overall seasonal influenza activity remains low in the US.
+- In clinical laboratories, 3.1% of respiratory specimens tested positive for influenza viruses, which is similar to the previous week.
+- Influenza A viruses, both H3N2 and H1N1pdm09, predominated during the reported week in public health labs.
+- The outpatient illness surveillance showed that 1.4% of visits to healthcare providers were for influenza-like illness (ILI) during the reported week, below the national baseline of 2.5%.
+- Geographic spread indicated that 3 jurisdictions had moderate ILI activity, while the majority of jurisdictions reported minimal ILI activity.
+- Four out of 53 jurisdictions reported local flu activity, while the rest reported sporadic or no flu activity.
+- Hospitalization rates, mortality rates, and pediatric deaths associated with influenza are being monitored, with hospitalization rates updated weekly starting later in the season.
+- The influenza virus characterization, including genetic and antigenic information, is being updated weekly as sufficient specimens are tested.
+- The CDC recommends influenza vaccination and the use of antiviral drugs for prevention and treatment.
+- Data from virologic surveillance, outpatient illness surveillance, hospitalizations, mortality, and pediatric deaths are used to predict future influenza occurrence and guide public health recommendations.

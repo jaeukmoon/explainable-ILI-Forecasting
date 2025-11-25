@@ -1,0 +1,7 @@
+- A study has identified a cross-neutralizing antibody, called C12H5, that targets the receptor binding site of H1N1 and H5N1 influenza viruses.
+- The antibody offers neutralization against seasonal and pandemic H1N1 viruses and cross-protection against some H5N1 viruses.
+- C12H5 mAb controls virus entry and egress, offering broad neutralizing activity against H1N1 and H5N1 viruses.
+- The antibody has shown efficacy in protecting against H1N1 and H5N1 viral challenge in vivo.
+- Structural analysis of the antibody reveals its binding to hemagglutinin, the major surface glycoprotein of the influenza virus, at a distinct epitope overlapping the receptor binding site.
+- The antibody targets a specific loop on the hemagglutinin protein that is essential for broad H1N1 recognition.
+- The study suggests that the identified antibody could be beneficial in the development of antiviral drugs and broad-protection influenza vaccines.

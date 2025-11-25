@@ -1,0 +1,9 @@
+1. The past time-series ILI occurrences over the 5 weeks showed a clear upward trend, starting from 1495 (Week 25, 2021) and steadily climbing to 1859 (Week 29, 2021). The increase was more pronounced in the latter weeks, with a significant rise between Week 28 (1659) and Week 29 (1859). This progression indicates increasing ILI activity during the observed period.
+
+2. A positive correlation is evident between the past and future ILI occurrences. The steady and continuous rise in ILI cases in Weeks 25–29, 2021, acted as a precursor to the further increase to 3178 occurrences after five weeks (Week 34, 2021). The observed trajectory in the past data aligns with the amplified future ILI activity.
+
+3. Outpatient visits for ILI showed a gradual increase across the five weeks, starting at 1.2% (Week 25, 2021) and reaching 1.7% (Week 29, 2021). This consistent rise in ILI-related healthcare encounters correlates with the reported increase in future ILI occurrences.  
+   Additionally, deaths attributed to pneumonia, influenza, or COVID-19 (PIC) consistently exceeded the epidemic threshold during this period, rising from 6.6% (Week 25, 2021) to 7.4% (Week 29, 2021). This elevated respiratory illness mortality highlights sustained illness activity, contributing to the rise in ILI cases.  
+   Changes in healthcare-seeking behaviors due to the concurrent COVID-19 pandemic influenced how ILI data were reported and captured, intensifying and delaying the detection of actual ILI trends. These disruptions may have contributed to the sudden rise in future ILI occurrences.  
+
+4. In summary, the future ILI occurrences of 3178 (Week 34, 2021) can be explained by the consistent upward trajectory of past ILI cases observed in Weeks 25–29, 2021, the rising outpatient visits for ILI, sustained PIC mortality rates exceeding epidemic thresholds, and pandemic-driven disruptions in healthcare-seeking behaviors that impacted surveillance and reporting.

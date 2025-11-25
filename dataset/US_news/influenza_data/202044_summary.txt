@@ -1,0 +1,5 @@
+1. Exuberant fibroblast activity compromises lung function via the enzyme ADAMTS4.
+2. Excess activity of damage-responsive lung fibroblasts during severe influenza virus infection drives lethal immunopathology.
+3. Damage-responsive fibroblasts produce ECM-remodeling enzymes and inflammatory cytokines, modifying the lung microenvironment and promoting immune cell infiltration at the expense of lung function.
+4. Levels of ADAMTS4 in the lower respiratory tract are associated with the severity of infection with seasonal or avian influenza virus in human participants.
+5. Targeting the ECM protease activity of damage-responsive lung fibroblasts could be a promising therapeutic approach to preserving lung function and improving clinical outcomes in severe respiratory infections.

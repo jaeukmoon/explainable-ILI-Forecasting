@@ -1,0 +1,11 @@
+Week19, 2024
+1. Nationwide influenza activity remains low, with 2.4% of respiratory specimens testing positive for influenza this week.
+2. Of clinical lab positive specimens, 64.5% were Influenza A and 35.5% Influenza B; of public health lab specimens, 60.6% were Influenza A and 39.4% were Influenza B.
+3. Influenza A(H3N2) remains the dominant subtype, with 60.5% of Influenza A subtyped specimens identified as H3N2, and 39.5% as A(H1N1)pdm09.
+4. Outpatient visits for ILI represented 2.0% of total visits, remaining stable and below the national baseline for the sixth consecutive week.
+5. The cumulative hospitalization rate reached 80.6 per 100,000 population, with adults aged 65+ having the highest rate at 220.7 per 100,000.
+6. Pediatric mortality increased by 3 deaths this week, reaching a seasonal total of 167, primarily from Influenza A-related cases.
+7. Only 0.1% of total deaths were attributed to influenza this week, indicating stable mortality trends.
+8. CDC estimates seasonal flu has resulted in 35 million illnesses, 390,000 hospitalizations, and 24,000 deaths so far this season.
+9. Co-circulating respiratory viruses, including COVID-19 and RSV, continue to contribute to respiratory illness trends.
+10. Vaccination remains encouraged as flu activity continues, with prescription antivirals recommended for high-risk groups.

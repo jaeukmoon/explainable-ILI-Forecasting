@@ -1,0 +1,15 @@
+Based on the latest CDC Influenza surveillance report:
+
+- Seasonal influenza activity remains low in the United States.
+- 3.1% of respiratory specimens tested in clinical laboratories were positive for influenza viruses, which is similar to the previous week.
+- Influenza A viruses (H3N2 and H1N1) predominated in public health labs.
+- Influenza virus characterization information will be updated later in the season.
+- 1.4% of visits to healthcare providers were for influenza-like illness (ILI), activity remains below the national baseline of 2.4%, but slightly increased from the previous week.
+- The majority of jurisdictions experienced minimal ILI activity, but Louisiana experienced moderate ILI activity.
+- Four out of 53 jurisdictions reported local influenza activity, while the remainder reported sporadic or no flu activity.
+- 5.0% of deaths were attributed to pneumonia and influenza (P&I), which is below the epidemic threshold of 5.6%.
+- No influenza-associated pediatric deaths have been reported for the current season.
+- The CDC expects flu activity to remain low but increase in the coming weeks.
+- The CDC recommends annual flu vaccination for everyone 6 months or older, as it is the best way to protect against influenza. Antiviral drugs are also available for treatment.
+
+Please note that the information provided is based on the specific report mentioned and may change as more data is received. For a comprehensive overview, please refer to the CDC Influenza surveillance system overview page.

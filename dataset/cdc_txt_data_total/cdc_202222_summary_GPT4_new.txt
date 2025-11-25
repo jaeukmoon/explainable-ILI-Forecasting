@@ -1,0 +1,13 @@
+Week22, 2022
+1. Influenza activity increased in certain parts of the U.S., with 5.9% of clinical specimens testing positive for influenza, primarily Influenza A(H3N2).
+2. Outpatient visits for respiratory illness (ILI) represented 2.3%, trending below the national baseline, with regions 4 and 10 above their thresholds.
+3. Two jurisdictions reported very high activity, and two reported high activity for respiratory illness.
+4. Cumulative hospitalization rate reached 16.7 per 100,000 population, with adults aged 65+ (highest at 48.4) and children 0-4 years (21.2) most impacted.
+5. No national mortality data was available this week; three pediatric deaths were reported, adding up to 28 deaths this season.
+6. Of circulating influenza viruses this season, 99% were Influenza A (majority H3N2) and 1% Influenza B.
+7. Among Influenza positives tested, 4.3% showed coinfection with SARS-CoV-2.
+8. Influenza vaccine remains recommended for all individuals aged 6 months and older as activity continues. Vaccine virus matches appear partial due to some antigenic differences in H3N2 strains.
+9. Surveillance highlighted multiple co-circulating respiratory viruses, impacting varying regions and age groups.
+10. Virus resistance remains low, with only one H3N2 virus showing reduced susceptibility to baloxavir.
+
+11. Summary highlights variability across regions, age disparities in hospitalizations, vaccine significance, and mixed respiratory virus contributions affecting prediction of future ILI trends.

@@ -1,0 +1,13 @@
+1. The past time-series ILI occurrences over the 5 weeks exhibited considerable fluctuations, with values of ['1435', '1358', '1759', '1626', '1786']. After a decrease from 1435 (Week 15, 2021) to 1358 (Week 16, 2021), there was a sharp increase to 1759 (Week 17, 2021), followed by a slight dip to 1626 (Week 18, 2021) and another rise to 1786 (Week 19, 2021). This indicates an inconsistent yet overall increasing trend by the end of the 5-week period.
+
+2. A positive correlation between past and future ILI occurrences is evident. The upward trajectory observed during Weeks 17–19, 2021, particularly the notable increase to 1786 in Week 19, serves as a precursor to the reported future peak of 1807 occurrences after 5 weeks. The consistent rise in the latter weeks reflects increasing respiratory illness activity, which aligns with the future ILI trend.
+
+3. Stable outpatient visits for ILI at 1.1%–1.2% over Weeks 15–19, 2021, despite remaining below the national baseline of 2.6%, indicate a baseline level of respiratory illness activity. This consistency correlates with the subsequent ILI increase.
+
+4. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) remained significantly above epidemic thresholds, ranging from 12.4% (Week 15, 2021) to 10.1% (Week 19, 2021). Although primarily driven by COVID-19, such persistently high PIC mortality reflects ongoing respiratory illness circulation, contributing to the rise in ILI occurrences.
+
+5. Minimal ILI activity reported across all U.S. jurisdictions, as highlighted in all weeks, may result in under-detection of true flu circulation. This underreporting, combined with the disproportionate impact of COVID-19 on healthcare behaviors, potentially delayed recognition and contributed to the future surge.
+
+6. Low influenza positivity rates (e.g., 0.1% in Weeks 15–19, 2021) and mild flu seasons—marked by low hospitalization and pediatric influenza mortality rates—indicate limited flu activity. However, the gradual increase in laboratory-confirmed influenza specimens (e.g., from 12 in Week 15 to 22 in Week 19) implies a subtle resurgence, which aligns with rising ILI cases.
+
+7. In summary, the reported future ILI occurrences of 1807 (after 5 weeks) can be explained by the overall increasing trend in Weeks 17–19, 2021, stable outpatient visits for ILI, persistently high PIC mortality, underdetection amid minimal ILI activity reports, and the gradual rise in positive influenza lab specimens. Combined with altered healthcare-seeking behaviors due to the COVID-19 pandemic, these factors contributed to the observed future ILI surge.

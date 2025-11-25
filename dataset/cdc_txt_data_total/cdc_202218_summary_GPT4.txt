@@ -1,0 +1,20 @@
+Week18, 2022
+- **Viruses, illness, and deaths**: Seasonal influenza activity is increasing in parts of the U.S. Influenza A (H3N2) predominates, accounting for nearly all positive cases. 7.2% of deaths were attributed to pneumonia, influenza, or COVID-19 (above the epidemic threshold of 6.6%). No pediatric influenza-associated deaths were reported this week, but 24 have occurred this season. CDC estimates 6.4 million flu illnesses, 65,000 hospitalizations, and 4,000 deaths this season.
+
+- **U.S. virologic surveillance**: 8.6% of specimens tested in clinical labs were positive for influenza (99.2% Influenza A, 0.8% Influenza B). Of specimens tested in public health labs, 100% were Influenza A, with 99.9% being A(H3N2). No significant circulation of Influenza B detected.
+
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate was 13.4 per 100,000 population. Weekly rates are high for the late season, particularly for adults aged 65+ (38.6) and children aged 0-4 years (17.1). 
+
+- **Trends of deaths attributed to influenza**: Mortality attributed to pneumonia, influenza, and COVID-19 highlights COVID-19 as the primary cause, with influenza contributing less significantly.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounts for over 99% of positive cases in both clinical and public health lab data. 
+
+- **Novel Influenza virus (like COVID-19)**: 2.5% of hospitalized influenza cases also tested positive for SARS-CoV-2.
+
+- **Vaccination trends**: CDC continues to recommend flu vaccination for all persons aged 6 months and older as influenza activity persists. Current vaccines show genetic similarity to circulating viruses but reduced antigenic recognition for A(H3N2).
+
+- **Outpatient respiratory illness visits**: 2.3% of outpatient visits were for ILI, stable from the previous week and below the national baseline. Activity is regional, with some areas reporting high or very high activity.
+
+- **Expectation of flu activity from CDC**: Influenza activity is increasing, and late-season flu activity is notable with trends similar to past late seasons. CDC continues to track ongoing activity.
+
+- **Other key factors**: 0.9% of long-term care facilities reported influenza-positive tests. Co-circulation of other respiratory viruses like RSV and SARS-CoV-2 may impact ILI data interpretation. Antiviral resistance for influenza remains low, except one A(H3N2) case with reduced baloxavir susceptibility.

@@ -1,0 +1,12 @@
+Week32, 2022
+1. Influenza virus activity remains low, with 0.4% of clinical specimens nationwide testing positive for influenza.
+2. Of the clinical specimens testing positive, 89.1% were Influenza A and 10.9% were Influenza B.
+3. Public health labs reported 27 positive specimens; 92.6% were Influenza A (100% H3N2) and 7.4% were Influenza B.
+4. A novel infection with Influenza A(H1N2)v was reported in Oregon (a <18-year-old patient, no person-to-person transmission).
+5. Outpatient visits for influenza-like illness (ILI) accounted for 1.4% of visits nationally, remaining below the 2.6% baseline.
+6. Young children aged 0-4 years had the highest rate of ILI visits at 5.9%, while adults 65+ had the lowest at 0.7%.
+7. During week 32, 457 laboratory-confirmed influenza-related hospitalizations were reported.
+8. Deaths due to pneumonia, influenza, and COVID-19 (PIC) accounted for 9.9% of all deaths, exceeding the epidemic threshold of 5.5%.
+9. Among PIC deaths, 1,192 were attributed to COVID-19 and six to influenza.
+10. No influenza-associated pediatric deaths were reported this week; 33 have been reported for the season overall.
+11. Vaccination trends were not highlighted, but future flu activity may be impacted by changing healthcare behaviors and overlapping respiratory illnesses.

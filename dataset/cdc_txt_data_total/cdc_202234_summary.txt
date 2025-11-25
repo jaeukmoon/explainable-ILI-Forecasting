@@ -1,0 +1,15 @@
+First, virologic surveillance is conducted through clinical laboratories to monitor the percentage of respiratory specimens testing positive for influenza. In week 34, 0.5% of specimens tested positive for influenza, with Influenza A accounting for 87.1% and Influenza B accounting for 12.9% of positive specimens.
+
+Outpatient respiratory illness surveillance, specifically the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet), tracks visits to healthcare providers for influenza-like illness (ILI). In week 34, 1.8% of patient visits reported through ILINet were due to respiratory illness.
+
+Geographic activity levels of ILI are monitored, with varying levels reported across different jurisdictions. In week 34, there were moderate ILI activity levels in 3 jurisdictions, high activity levels in 1 jurisdiction, low activity levels in 2 jurisdictions, and minimal activity levels in 47 jurisdictions.
+
+The geographic spread of influenza is assessed by state and territorial epidemiologists. In week 34, there were local flu activity reported in 4 states, sporadic activity reported in 42 states, no activity reported in 6 states, and no report from Guam.
+
+Severe disease indicators include hospitalization rates and mortality rates from pneumonia and influenza (P&I). In week 34, 9.2% of deaths were attributed to P&I, which is above the epidemic threshold of 5.5%.
+
+There was one reported influenza-associated pediatric death during the 2021-2022 season in week 34.
+
+Public health recommendations include monitoring and surveillance through various systems, vaccination against influenza, and the use of antiviral drugs to treat flu illness.
+
+Data collected are preliminary and may change as more reports are received. More detailed information on each surveillance component can be found on the CDC website.

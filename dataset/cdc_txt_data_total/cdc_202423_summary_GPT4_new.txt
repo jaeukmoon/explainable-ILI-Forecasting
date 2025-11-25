@@ -1,0 +1,11 @@
+Week23, 2024
+1. National influenza activity remains low, with 1.6% of respiratory specimens testing positive for influenza.
+2. Clinical labs reported 78.7% Influenza A and 21.3% Influenza B positivity among tested samples.
+3. Public health labs detected 80.4% Influenza A and 19.6% Influenza B, with H3N2 being the predominant subtype (73.1% of subtyped Influenza A).
+4. Weekly hospitalization rates are low at 0.1 per 100,000 population, with influenza A accounting for 84.6% of cumulative hospitalizations since October.
+5. Deaths attributed to influenza remained stable at 0.1%, with 2 new pediatric deaths reported, totaling 175 this season.
+6. Outpatient visits for respiratory illness accounted for 1.7%, remaining below baseline; all regions report minimal influenza-like illness activity.
+7. No novel influenza virus detections or significant antiviral resistance trends were identified.
+8. CDC continues to recommend annual flu vaccination; no new trends in vaccination uptake were reported.
+9. Co-circulation of flu, COVID-19, and RSV continues, influencing respiratory illness data interpretation.
+10. Future flu activity is expected to remain low but could vary based on regional and age-specific factors.

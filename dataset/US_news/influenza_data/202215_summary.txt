@@ -1,0 +1,6 @@
+- The binding of influenza hemagglutinin (HA) to sialic acid (SA) receptors plays a role in shaping infection, but its impact on vaccine responses has not been explored.
+- A study generated a virus-like particle (VLP) vaccine that is unable to bind to its α(2,6)-linked SA receptor and compared it to a wild-type VLP in mice.
+- The VLP vaccine with eliminated receptor binding elicited stronger and more durable antibody responses and greater avidity maturation.
+- This vaccine also resulted in a robust population of IL-2+TNFα+IFNγ− CD4+ T cells, which correlated with antibody responses.
+- Mice immunized with the VLP vaccine with eliminated receptor binding had lower lung viral loads and lower pulmonary inflammatory cytokine levels after challenge.
+- These findings suggest that abrogation of HA-SA interactions may be a promising strategy to improve the quality and durability of influenza vaccine-induced humoral responses.

@@ -1,0 +1,10 @@
+1. The past time-series ILI occurrences over the 5 weeks showed a general increasing trend, with values rising from 1437 (Week 50, 2021) to 3033 (Week 52, 2021), followed by a slight decline to 2895 (Week 1, 2022). This trajectory highlights a sharp increase in ILI activity through Week 52, 2021, followed by stabilization at elevated levels, which reflects seasonal influenza escalation during the observed period.
+
+2. A clear negative correlation exists between past and future ILI occurrences. Despite the sharp rise in ILI cases reaching a peak in Week 52, 2021, followed by elevated stabilization in Weeks 1 and 2 of 2022, there is a pronounced drop in future ILI occurrences to 870 (Week 7, 2022). This decline may indicate that the spike in prior weeks reached its peak, followed by a substantial waning of influenza activity over the five subsequent weeks.
+
+3. Several factors from the CDC reports correlate with the future decline to 870 in Week 7, 2022:  
+   - Declining influenza positivity rates: Positivity decreased significantly from 6.2% (Week 51, 2021) to 2.2% (Week 1, 2022), suggesting a reduction in influenza transmission, which aligns with the sharp drop in reported ILI cases.  
+   - Regional variation and waning regional activity: Reports from Week 1, 2022, and Week 2, 2022, indicated that influenza activity had begun to decline in certain regions, correlating with the national decline to 870 occurrences.  
+   - Co-circulation of respiratory viruses and evolving healthcare-seeking behavior: The reports highlight co-circulating pathogens (e.g., SARS-CoV-2) and changes in healthcare visits during Weeks 1 and 2 of 2022, which likely impacted ILI reporting and contributed to the observed reduction in Week 7, 2022.
+
+4. In summary, the drop to 870 ILI occurrences in Week 7, 2022, is attributed to the prior rise and subsequent peak in ILI cases (Weeks 50–52, 2021), followed by a decline in influenza positivity rates, diminishing regional activity, and disruptions in healthcare behavior and reporting. These factors collectively shaped the observed post-peak reduction in ILI occurrences.

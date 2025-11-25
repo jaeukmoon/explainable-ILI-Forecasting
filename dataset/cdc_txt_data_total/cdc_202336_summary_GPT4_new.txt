@@ -1,0 +1,11 @@
+Week36, 2023
+1. Influenza activity remains low nationwide, with 0.7% of respiratory specimens testing positive for influenza by clinical labs.
+2. Among clinical lab positive specimens, 66.0% were Influenza A, and 34.0% were Influenza B.
+3. Public health labs reported 42 positive specimens, 69.0% of which were Influenza A and 31.0% Influenza B, with all Influenza B specimens in the Victoria lineage.
+4. Outpatient visits for influenza-like illness (ILI) accounted for 2.0% of visits, with higher rates observed among children aged 0–4 years (6.5%).
+5. 7.0% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), exceeding the epidemic threshold of 5.6%.
+6. No influenza-associated pediatric deaths were reported this week, while 174 pediatric deaths have been reported for the season.
+7. 775 influenza-related hospitalizations were reported for week 36.
+8. Influenza A accounted for the majority of circulating viruses, with no significant detections of H3N2v or other novel viruses this week.
+9. Respiratory viruses, including influenza, SARS-CoV-2, and RSV, continue to co-circulate, affecting ILI figures.
+10. CDC anticipates low flu activity currently but continues to advise annual influenza vaccination as a preventive measure.

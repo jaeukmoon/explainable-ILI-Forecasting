@@ -1,0 +1,11 @@
+Week32, 2024
+1. Influenza activity remains low nationally, with 0.4% of clinical lab respiratory specimens testing positive for influenza.
+2. Among clinical lab positive specimens, 87.1% were Influenza A and 12.9% were Influenza B.
+3. Public health labs reported 98.3% of positive specimens as Influenza A (30.0% H1N1 and 70.0% H3N2) and 1.7% as Influenza B (all Victoria lineage).
+4. Outpatient visits for influenza-like illnesses (ILI) accounted for 1.5% of healthcare visits, below the national baseline, with stable trends across all age groups.
+5. A weekly hospitalization rate of 0.1 per 100,000 population was reported, with cumulative rates lower compared to prior weeks.
+6. Deaths attributed to influenza are at 0.1% this week, with 193 pediatric influenza-associated deaths reported for the season, including 5 new deaths (all Influenza B).
+7. One human infection with a novel influenza A(H3N2v) variant virus, attributed to no swine or agricultural event exposure, was reported.
+8. Seasonal influenza co-circulates with other respiratory viruses, including COVID-19 and RSV, complicating ILI trends.
+9. CDC reports ongoing low vaccine effectiveness against influenza viruses, though most circulating strains remain antigenically similar to vaccine strains.
+10. The CDC anticipates continued low flu activity but emphasizes monitoring variant strains and co-circulating respiratory viruses for potential risks.

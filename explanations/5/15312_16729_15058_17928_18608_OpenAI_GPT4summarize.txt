@@ -1,0 +1,10 @@
+1. The past time-series ILI occurrences over the 5 weeks showed a consistent upward trend, with values increasing from '15312' (Week 45, 2021) to '18608' (Week 49, 2021). There is an incremental rise in ILI cases each week, particularly from Week 47 to Week 49. This steady increase indicates growing respiratory illness activity during this period.
+
+2. A direct and positive correlation is evident between the past and future ILI occurrences. The progressive increase in ILI cases from Week 45 to Week 49 (2021) aligns with and acts as a precursor to the significant rise to 26625 occurrences reported 5 weeks later (Week 4, 2022). The continued trend upward suggests escalating illness activity that translates into higher future counts.
+
+3. Several factors from the CDC reports correlate strongly with the rise in future ILI occurrences:  
+   - Outpatient visits for ILI gradually increased over the 5-week period, reaching the national baseline of 2.5% in Week 48 and surpassing it to 2.7% in Week 49. This steady growth reflects heightened ILI activity, which likely contributed to the reported future surge.  
+   - Hospitalizations for influenza showed a sharp rise, doubling from 495 in Week 47 to 1057 in Week 49, indicative of worsening severity and spread of respiratory illnesses, supporting the projected future increase.  
+   - The dominance of Influenza A(H3N2), particularly among ages 5–24, and its spread to older age groups by Week 49 signals broader community transmission, further driving ILI occurrences in the subsequent weeks.  
+
+4. In summary, the future ILI occurrence of 26625 (Week 4, 2022) is attributable to the consistent upward trajectory observed in the past 5 weeks, the rise in ILI outpatient visits reaching and exceeding national baselines, increased hospitalizations, and the broadening spread of Influenza A(H3N2) to more age groups. Together, these factors contributed to the amplified respiratory illness activity reflected in the future data.

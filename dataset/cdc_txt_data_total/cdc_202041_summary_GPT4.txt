@@ -1,0 +1,20 @@
+Week41, 2020
+- **Viruses, illness, and deaths**: Influenza activity remains low in the U.S., with only 0.3% of respiratory specimens testing positive for influenza in clinical labs. Influenza A and B were equally identified at 50% each. 7.2% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), exceeding the epidemic threshold of 5.7%. No pediatric deaths during the 2020-21 season have been reported.
+
+- **U.S. virologic surveillance**: Clinical labs report a cumulative positivity rate of 0.30% since September 27, 2020. Public health labs report minimal activity, with very few positive specimens (only one cumulative Influenza A). 
+
+- **Cumulative hospitalization rate**: No data available as hospitalization rates will be reported later in the season.
+
+- **Trends of deaths attributed to influenza**: Deaths attributed to PIC (7.2%) surpassed the epidemic threshold, the increase largely reflecting COVID-19 in reported mortality.
+
+- **Percentage of Influenza A and Influenza B**: Among clinical lab positives, Influenza A (50%) and B (50%) were equally prevalent. Public health labs observed most positivity in Influenza A but with minimal reported activity overall.
+
+- **Novel influenza virus (like COVID-19)**: COVID-19 is highlighted as impacting trends, but no novel influenza viruses were reported.
+
+- **Vaccination trends**: CDC reiterates the importance of flu vaccination for individuals 6 months and older by the end of October to prevent serious complications.
+
+- **Outpatient respiratory illness visits**: 1.2% of outpatient visits were due to influenza-like illness (ILI), below the 2.6% national baseline. Two jurisdictions reported moderate ILI activity, while others experienced minimal activity.
+
+- **Expectation of flu activity from CDC**: Influenza activity is expected to remain low but monitored amid changing healthcare-seeking behaviors during the COVID-19 pandemic.
+
+- **Other key factors**: PIC death reporting suggests dual monitoring of influenza and COVID-19, while geographic spread monitoring is suspended this season due to altered ILI patterns tied to the pandemic.

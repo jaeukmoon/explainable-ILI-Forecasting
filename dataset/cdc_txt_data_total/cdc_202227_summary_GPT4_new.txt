@@ -1,0 +1,11 @@
+Week27, 2022
+1. Influenza activity remains low nationwide, with 0.7% of respiratory specimens testing positive for influenza.
+2. Of 323 positive specimens reported by clinical labs, 97.2% were Influenza A and 2.8% were Influenza B.
+3. Public health labs reported 49 positive specimens, with 98.0% identified as Influenza A (100% H3N2) and 2.0% as Influenza B.
+4. Outpatient visits for influenza-like illness (ILI) accounted for 1.7% of visits nationwide, with higher activity in children aged 0-4 years (7.3%).
+5. 751 patients were hospitalized with laboratory-confirmed influenza during week 27; cumulative hospitalization rates were not updated.
+6. 8.8% of deaths during week 27 were due to pneumonia, influenza, or COVID-19 (PIC), driven primarily by COVID-19, exceeding the epidemic threshold of 5.7%.
+7. No influenza-associated pediatric deaths were reported in week 27; the cumulative count for the season remains 32.
+8. Vaccination trends were not highlighted; CDC continues to recommend annual influenza vaccination.
+9. Influenza activity varied geographically; minimal activity was reported in 48 jurisdictions, and "very high" activity was absent.
+10. Alternative healthcare-seeking behaviors during the COVID-19 pandemic may impact ILI and influenza data interpretation.

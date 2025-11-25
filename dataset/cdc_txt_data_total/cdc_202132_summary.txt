@@ -1,0 +1,9 @@
+First, virologic surveillance is conducted through clinical laboratories and public health laboratories to monitor the prevalence and distribution of influenza viruses. For example, during the reported period, 2.1% of patient visits reported through ILINet were due to ILI, which is below the national baseline of 2.6%. Additionally, the percentage of patient visits for ILI increased compared to the previous week for certain age groups, indicating a potential increase in ILI activity.
+
+The geographic spread of influenza activity varies across jurisdictions, with some reporting very high, high, moderate, low, or minimal activity. This information is important for understanding the regional impact of influenza.
+
+Hospitalization surveillance, conducted through the Influenza Hospitalization Surveillance Network (FluSurv-NET), provides data on laboratory-confirmed influenza-related hospitalizations. Pediatric mortality surveillance tracks influenza-associated deaths in children. For the reported period, no influenza-associated pediatric deaths were reported. The mortality surveillance data also indicated that the number of deaths due to pneumonia, influenza, and/or COVID-19 exceeded the epidemic threshold for week 32.
+
+The CDC emphasizes the importance of interpreting ILI data, given the influence of the COVID-19 pandemic and changes in healthcare-seeking behaviors. ILI activity levels should be evaluated in conjunction with other surveillance data to obtain a comprehensive understanding of influenza, COVID-19, and other respiratory virus activity.
+
+The CDC provides additional information and resources on influenza surveillance, including international collaborations and occupational safety data.

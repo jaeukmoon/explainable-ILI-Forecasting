@@ -1,0 +1,20 @@
+Week17, 2022
+- **Viruses, illness, and deaths**: Influenza activity is increasing in some parts of the U.S. Most detected viruses are Influenza A(H3N2). Cumulatively, there have been 5.7 million illnesses, 59,000 hospitalizations, and 3,600 flu-related deaths this season. 7.2% of deaths last week were attributed to pneumonia, influenza, or COVID-19, above the epidemic threshold of 6.7%. One influenza-associated pediatric death was reported for a total of 24 pediatric deaths this season.
+
+- **U.S. virologic surveillance**: 8.1% of specimens tested in clinical labs were positive for influenza this week, primarily Influenza A (99.3%). Public health labs report 100% of specimens as Influenza A, with 99.2% of these being H3N2. Of the tested samples, 4.8% were co-positive for SARS-CoV-2.
+
+- **Cumulative hospitalization rate**: The cumulative hospitalization rate is 12.2 per 100,000, higher than the 2020-2021 and 2011-2012 seasons but lower compared to pre-pandemic seasons. Adults aged 65+ have the highest hospitalization rates, followed by children aged 0–4 years.
+
+- **Trends of deaths attributed to influenza**: Mortality due to pneumonia, influenza, or COVID-19 remains above the epidemic threshold. Influenza-related deaths constitute a smaller portion, with COVID-19 being the primary driver.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounts for 99.3% of clinical lab positives and 100% of public health lab positives, predominantly H3N2. Influenza B activity remains minimal, constituting only 0.7% of clinical lab positives.
+
+- **Novel influenza virus like COVID-19 (SARS-CoV-2)**: There is co-circulation of respiratory viruses. Limited cases of SARS-CoV-2 have been detected alongside Influenza A.
+
+- **Vaccination trends**: CDC emphasizes vaccination, recommending flu vaccines to everyone aged 6 months and older as long as flu activity continues. Genetic analyses suggest current vaccines are closely related to the circulating H3N2 strain but indicate antigenic differences.
+
+- **Outpatient respiratory illness visits**: Nationwide, 2.2% of outpatient visits were for respiratory illness, remaining stable and below baseline. Two jurisdictions experienced moderate activity and two reported high/very high activity.
+
+- **Expectation of flu activity from CDC**: Flu activity varies by region and is expected to continue in some areas. Multiple respiratory viruses, including SARS-CoV-2, contribute to respiratory illness.
+
+- **Other key factors**: 0.8% of long-term care facilities reported at least one influenza-positive test. Weekly hospital rates began rising again after February, driven by H3N2. About 93.7% of hospitalized adults and 66.9% of hospitalized children had at least one underlying health condition.

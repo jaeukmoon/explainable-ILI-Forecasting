@@ -1,0 +1,8 @@
+- Enhancing cross-protection against influenza is important to reduce the public health burden of the disease.
+- Heterologous sequential immunization, which combines different vaccine formulations and routes, may improve vaccine potency and breadth.
+- Priming vaccination plays a crucial role in shaping immune responses.
+- mRNA LNP vaccines tend to favor Th1-leaning responses, while protein-based nanoparticle vaccines elicit Th2-skewing responses.
+- Cellular and mucosal immune responses are important in conferring cross-protection against influenza.
+- Intranasal immunization with protein-based nanoparticle vaccines outperforms intramuscular administration in inducing mucosal immunity and cross-protection.
+- Sequential priming with mRNA LNP vaccines followed by intranasal boost with protein-based nanoparticle vaccines shows optimal cross-protection against antigenically drifted and shifted influenza strains.
+- Tailoring immunization strategies can help optimize influenza vaccine effectiveness.

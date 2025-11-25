@@ -1,0 +1,9 @@
+First, seasonal influenza activity remains elevated but is decreasing nationally. The percentage of respiratory specimens testing positive for influenza in clinical laboratories has decreased compared to the previous week. Influenza A(H1N1)pdm09, A(H3N2), and B viruses are all co-circulating.
+
+Outpatient respiratory illness surveillance shows that 3.1% of patient visits reported through ILINet were due to respiratory illness, which is above the national baseline. The percentage of visits for ILI decreased in most regions but remains at or above their respective baselines.
+
+Geographic spread of influenza shows that multiple jurisdictions experienced high or moderate activity, while others had minimal or no activity. Hospitalization rates remained stable, with a cumulative rate of 72.2 per 100,000 population for the season. Pediatric deaths associated with influenza were reported, bringing the season total to 126.
+
+Virus characterization shows that most circulating viruses are well-recognized by ferret antisera from cell-grown reference viruses. Antiviral susceptibility testing indicates that most viruses remain susceptible to antiviral medications.
+
+Overall, while influenza activity is decreasing, it still remains elevated. Vaccination and antiviral treatment are recommended to prevent and manage influenza illness. The CDC provides comprehensive surveillance data to monitor and respond to influenza outbreaks.

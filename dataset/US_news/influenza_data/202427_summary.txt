@@ -1,0 +1,6 @@
+- A study published in Nature Communications suggests that past influenza pandemics, specifically the A(H2N2) and A(H3N2) pandemics, resulted in the production of durable cross-reactive and protective antibodies against avian N2 neuraminidases.
+- The research found that individuals aged ≥65 years had the highest rates of avian influenza virus (AIV) N2 antibodies, indicating previous exposure to avian influenza.
+- Exposure to the 1968 pandemic N2 protected against A(H9N2) AIV challenge in female mice, while recent N2 exposure did not provide the same protection.
+- In some older adults, infection with contemporary A(H3N2) viruses could trigger cross-reactive AIV NA antibodies, indicating a level of immunity to avian influenza.
+- Individuals born before 1957 had higher anti-AIV N2 antibody levels compared to those born between 1957 and 1968, potentially due to exposure to the A(H2N2) virus.
+- These findings highlight the importance of neuraminidase immunity in assessing the risk of zoonotic and pandemic influenza.

@@ -1,0 +1,16 @@
+Week2, 2021
+1. Influenza activity is unusually low in the U.S., with 0.1% of respiratory specimens testing positive for influenza this week.
+2. Clinical labs reported 23 positive specimens, comprising 52.2% Influenza A and 47.8% Influenza B.
+3. Public health labs reported only three positive specimens, with 66.7% Influenza A and 33.3% Influenza B; no specific subtypes or lineages were characterized.
+4. Outpatient ILI visits dropped to 1.4%, below the national baseline of 2.6% and reflecting low activity in most jurisdictions.
+5. The cumulative hospitalization rate is 0.5 per 100,000 population, which is significantly lower than typical for this point in the season.
+6. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) were 14.7%, with most caused by COVID-19, exceeding the epidemic threshold of 7.0%.
+7. No new influenza-associated pediatric deaths were reported this week; the season total remains at one.
+8. Flu vaccination is encouraged, but no specific trends or data on vaccination uptake were highlighted.
+9. Healthcare-seeking behaviors and ILI data interpretation are affected by the ongoing COVID-19 pandemic and alternative care settings.
+10. Future flu activity is uncertain, but the CDC warns of potential increases in the coming months.
+
+11. Additional factors:
+12. - Influenza testing levels remain above normal, but positive results are considerably below seasonal expectations.
+13. - ILI activity decreased across five regions and remained stable in others.
+14. - PIC mortality remains heavily influenced by COVID-19, shaping this season's report.

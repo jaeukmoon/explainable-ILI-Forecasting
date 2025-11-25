@@ -1,0 +1,13 @@
+1. The past time-series ILI occurrences over the 5 weeks revealed a clear upward trend, with values of ['1721', '1815', '1785', '1829', '2107']. While there were minor fluctuations in Weeks 41 (1815) and 42 (1785), the trajectory consistently increased, culminating in the highest value of 2107 during Week 44, 2021. This trend suggests escalating ILI activity by the end of the observed period.
+
+2. A strong positive correlation exists between the upward trajectory of past ILI occurrences and the reported future value of 2117 in Week 49, 2021. The rapid rise in Week 44, 2021 (2107), aligns closely with the future occurrence, indicating a continuation of elevated respiratory illness activity.
+
+3. Outpatient visits for ILI progressively increased across the weeks, moving from 1.8% in Week 41, 2021 to 2.1% by Week 44, 2021. Although still below the national baseline of 2.5%, this steady growth reflects increasing levels of respiratory illness, potentially contributing to the higher future ILI occurrences.
+
+4. Hospitalizations due to influenza increased modestly but steadily, from 248 in Week 41 to 295 in Week 44, 2021. This consistent rise in hospitalizations reflects a gradual intensification of severe flu cases, providing additional evidence for the surge in ILI occurrences.
+
+5. Influenza positivity rates increased across clinical and public health labs from 0.1% in Week 40, 2021 to 0.3% in Week 44, 2021. This rising detection rate, particularly of Influenza A(H3N2) (predominantly affecting younger populations in certain regions), indicates growing influenza activity, explaining the future upward shift in ILI values.
+
+6. The 2021 season saw overlap with respiratory pathogen co-circulation and significant changes in healthcare-seeking behavior due to the COVID-19 pandemic. These factors likely contributed to data reporting challenges, leading to an underestimation of current trends and an eventual sharp rise in ILI cases in subsequent weeks.
+
+7. In summary, the future ILI occurrence of 2117 (Week 49, 2021) can be attributed to the clear upward trend in Weeks 43–44, rising outpatient ILI visits, increased hospitalizations and influenza positivity rates, and the influence of pandemic-related behavioral and surveillance disruptions. These factors collectively explain the elevated ILI activity 5 weeks later.

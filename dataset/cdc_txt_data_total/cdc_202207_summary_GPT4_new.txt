@@ -1,0 +1,13 @@
+Week7, 2022
+1. Influenza activity is sporadic nationwide, with some areas observing increased activity; 4.2% of respiratory specimens tested positive for influenza.
+2. Influenza A(H3N2) accounts for the majority of cases (98%-99.7%), with minimal Influenza B activity (0.3%-2%).
+3. Hospitalizations have increased for the past three weeks, with a cumulative hospitalization rate of 4.9 per 100,000, higher than 2020-2021 but lower than pre-pandemic seasons.
+4. Outpatient visits for respiratory illness remained stable at 1.5% of visits, below baseline, with moderate activity reported in two jurisdictions.
+5. Deaths due to pneumonia, influenza, or COVID-19 (PIC) account for 20.4%, primarily due to COVID-19; 12 influenza-related deaths occurred.
+6. One pediatric influenza death was reported, bringing the season total to six.
+7. Influenza A(H3N2) viruses showed some antigenic differences from vaccine strains, though genetically similar.
+8. Flu vaccination coverage remains lower than the previous season, and vaccination continues to be recommended.
+9. No significant co-circulation with SARS-CoV-2 was observed; 6% of reported influenza-positive cases were co-infected.
+10. Most hospitalizations involved older adults (65+ years, 12.9 per 100,000) and children aged 0-4 years (7.1 per 100,000), with underlying conditions common in severe cases.
+
+11. Summary insights suggest influenza activity is increasing in areas, with Influenza A(H3N2) dominant, a steady hospitalization rise, and lower vaccination coverage, emphasizing the need for continued surveillance.

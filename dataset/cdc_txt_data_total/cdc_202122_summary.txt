@@ -1,0 +1,15 @@
+Some key facts regarding predicting future ILI occurrence from the CDC's weekly ILI surveillance report are as follows:
+
+1. Virologic surveillance: Data from clinical laboratories and public health laboratories are used to monitor the percentage of respiratory specimens testing positive for influenza and the distribution of influenza virus types and subtypes.
+
+2. Outpatient Illness Surveillance: The U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet) tracks the percentage of patient visits for ILI (fever, cough, and/or sore throat) and compares it to the national baseline.
+
+3. Geographic Spread: State and territorial epidemiologists report on the geographic spread of influenza viruses, indicating whether activity is local, sporadic, or non-existent in different jurisdictions.
+
+4. Severe Disease Indicators: Hospitalization rates, mortality rates from pneumonia and influenza (P&I), and pediatric deaths associated with influenza are monitored to assess the severity and impact of the flu.
+
+5. Virus Characterization: Genetic and antigenic characterization of circulating influenza viruses helps inform vaccine development and monitor changes in virus strains. Antiviral medication susceptibility is also assessed.
+
+6. Public Health Recommendations: The CDC emphasizes the importance of annual flu vaccination and the use of antiviral drugs to prevent and treat influenza.
+
+These surveillance components provide valuable information for predicting future ILI occurrences, identifying trends, and informing public health measures to prevent and control the spread of influenza.

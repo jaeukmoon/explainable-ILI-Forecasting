@@ -1,0 +1,20 @@
+Week28, 2024
+- **Viruses, illness, and deaths:** Seasonal influenza activity remains low nationally, with 0.8% of respiratory specimens testing positive. Influenza A viruses (87.3%) predominate in clinical labs, and two pediatric deaths caused by influenza B were reported this week. 
+
+- **U.S. virologic surveillance:** Influenza A(H1N1)pdm09, A(H3N2), and B viruses are co-circulating. Among public health lab specimens, 96.6% were Influenza A, with A(H3N2) (64.2%) outpacing A(H1N1)pdm09 (35.8%). 3.4% of specimens were Influenza B (100% Victoria lineage).
+
+- **Cumulative hospitalization rate:** Week 28 shows a low hospitalization rate of 0.1 per 100,000, with a seasonal cumulative total of 25,274 hospitalizations (84.6% associated with Influenza A).
+
+- **Trends of deaths attributed to influenza:** 0.1% of deaths this week were attributed to influenza, showing no significant change from the previous week.
+
+- **Percentage of Influenza A and Influenza B:** Influenza A constitutes 87.3% of clinical lab positives and 96.6% of public health lab positives. Influenza B accounts for 12.7% and 3.4%, respectively.
+
+- **Novel Influenza virus (like COVID-19):** Five human cases of avian influenza A(H5) were reported in Colorado, all linked to poultry disposal operations. Mild symptoms were noted, with no hospitalizations.
+
+- **Vaccination trends:** No new updates provided on vaccination, but antiviral drugs remain recommended for treatment of influenza, especially for at-risk groups.
+
+- **Outpatient respiratory illness visits:** 1.4% of visits to providers were for respiratory illness, below the national baseline. All 10 regions also reported outpatient activity below their region-specific baselines.
+
+- **Expectation of flu activity from CDC:** Flu activity remains low but may increase depending on regional virus circulation. Multiple respiratory viruses, including influenza, SARS-CoV-2, and RSV, are contributing to illness.
+
+- **Other key factors:** Public health is monitoring genetic and antigenic virus changes. High resistance persists against adamantane antiviral treatments for Influenza A strains. No influenza B/Yamagata lineage activity.

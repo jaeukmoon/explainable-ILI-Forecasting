@@ -1,0 +1,11 @@
+Week5, 2021
+1. Influenza activity remains unusually low for this time of year, with only 0.1% of respiratory specimens testing positive.
+2. Of clinical lab positive specimens, 61.1% were Influenza A and 38.9% were Influenza B.
+3. Public health labs detected 4 positive specimens: 50% Influenza A and 50% Influenza B; no specific subtypes were identified.
+4. Outpatient visits for ILI accounted for 1.1% of visits, stable from the previous week and below the national baseline of 2.6%.
+5. The cumulative hospitalization rate is 0.6 per 100,000, the lowest for this time of year since 2005.
+6. Pneumonia, Influenza, or COVID-19 (PIC) accounted for 25.0% of deaths, primarily driven by COVID-19, surpassing the epidemic threshold of 7.2%.
+7. No new pediatric deaths were reported for this week; the season total remains at one.
+8. Vaccination is encouraged by CDC, though no specific trends were reported.
+9. Healthcare-seeking behavior for ILI remains impacted by the COVID-19 pandemic, limiting traditional data interpretation.
+10. Flu activity may increase in the upcoming months; future trends are difficult to predict amid the pandemic’s influence.

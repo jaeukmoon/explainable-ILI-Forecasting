@@ -1,0 +1,13 @@
+Week36, 2021
+1. Influenza activity remains low nationally, with 2.3% of outpatient respiratory illness visits due to ILI, below the national baseline of 2.6%.
+2. Increased ILI activity in three regions (3, 7, and 9) likely reflects the circulation of non-influenza respiratory viruses.
+3. Clinical labs reported low influenza circulation, with 0.1% of tested specimens positive for influenza.
+4. Public health labs reported limited Influenza A and B viruses, no significant subtype characterization provided.
+5. No influenza-associated pediatric deaths were reported this week, and one total pediatric death has been reported for the 2020-21 season.
+6. Deaths due to pneumonia, influenza, or COVID-19 (PIC) accounted for 21.0%, well above the epidemic threshold of 5.5%, but mainly driven by COVID-19.
+7. Current hospitalization rates for flu are unavailable as data for admissions after April 2021 are not included in FluSurv-NET.
+8. Vaccine updates were not highlighted, but annual vaccination remains recommended to prevent influenza spread.
+9. Healthcare-seeking behavior changes due to COVID-19 create challenges in tracking accurate ILI trends through traditional surveillance systems.
+10. CDC indicates future flu activity may vary due to low baseline influenza circulation and ongoing pandemic impacts on healthcare access.
+
+11. Summary of key patterns influencing prediction: Minimal influenza circulation, high respiratory illness from other viruses, pandemic influence on data interpretation, and substantial PIC mortality driven by COVID-19 signal an environment of continued low influenza activity with unpredictable future trends.

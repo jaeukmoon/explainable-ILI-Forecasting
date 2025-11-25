@@ -1,0 +1,11 @@
+Week45, 2021
+1. Influenza activity is low nationally, with 0.7% of respiratory specimens testing positive for influenza this week.
+2. Among clinical lab positives, 88.7% were Influenza A and 11.3% were Influenza B; public health labs reported 97.1% as Influenza A and 2.9% as Influenza B.
+3. Subtyping revealed 100% of Influenza A(H3N2) positives from public labs, mostly affecting ages 5-24 years (91.1%).
+4. Outpatient visits for ILI accounted for 2.1% of healthcare visits, below the national baseline of 2.5%, with slight increases in ages 0-4 and 5-24.
+5. Laboratory-confirmed influenza led to 332 hospitalizations this week; cumulative hospitalization rates aren’t yet reported.
+6. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) reached 14.4%, exceeding the epidemic threshold of 6.2%, with most due to COVID-19.
+7. No pediatric influenza-related deaths occurred this season.
+8. CDC recommends annual vaccination, with 162.5M flu vaccine doses distributed as of November 5, 2021.
+9. Long-term care facilities reported a positivity rate of 0.2%, showing minimal activity in residential settings.
+10. Multiple respiratory viruses, including SARS-CoV-2, are co-circulating, complicating ILI-related data interpretation for flu trends.

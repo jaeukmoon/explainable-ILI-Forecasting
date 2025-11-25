@@ -1,0 +1,20 @@
+Week14, 2021
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains unusually low in the U.S. 11.2% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), above the epidemic threshold of 6.9%, with most PIC deaths due to COVID-19. One influenza-associated pediatric death has been reported this season.
+
+- **U.S. virologic surveillance**: Only 0.1% of specimens tested by clinical labs were positive for influenza this week. Public health labs reported no influenza-positive specimens. Cumulatively, Influenza A accounts for 36.4% and Influenza B for 63.6% of clinical lab positives.
+
+- **Cumulative hospitalization rate**: The cumulative flu hospitalization rate is 0.8 per 100,000 population, about one-eighth of the rate reported during the mild 2011-2012 season.
+
+- **Trends of deaths attributed to influenza**: No deaths this week were attributed directly to influenza, with PIC deaths primarily driven by COVID-19.
+
+- **Percentage of Influenza A and Influenza B**: For the season, Influenza A represents 36.4% and Influenza B 63.6% of clinical lab positives.
+
+- **Novel Influenza virus (like COVID-19)**: One human infection with a novel Influenza A(H1N1)v was reported this week, bringing the season total to three (two A(H1N1)v and one A(H3N2)v). No human-to-human transmission was identified, and the case involved direct swine contact.
+
+- **Vaccination trends**: The annual flu vaccine is recommended as the best preventive measure, along with antiviral drugs for treatment.
+
+- **Outpatient respiratory illness visits**: 1.1% of patient visits were for ILI, below the national baseline of 2.6%. All jurisdictions reported minimal ILI activity.
+
+- **Expectation of flu activity from CDC**: Flu activity is expected to remain low due to pandemic influences.
+
+- **Other key factors**: ILI activity and related surveillance may be impacted by the ongoing COVID-19 pandemic. Data should be interpreted cautiously as healthcare-seeking behaviors have changed significantly. Increasing trends were seen in ILI outpatient visits among children aged 0-4 years.

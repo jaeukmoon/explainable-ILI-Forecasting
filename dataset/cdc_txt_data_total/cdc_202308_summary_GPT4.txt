@@ -1,0 +1,20 @@
+Week8, 2023
+- **Viruses, illness, and deaths:** Influenza activity remains low nationally. Of the 49 influenza A viruses detected and subtyped, 63.3% were A(H3N2) and 36.7% were A(H1N1)pdm09. Two pediatric deaths were reported, bringing the season total to 117. 26 million illnesses, 290,000 hospitalizations, and 18,000 deaths are estimated so far this season.
+
+- **U.S. virologic surveillance:** Clinical labs reported 1.0% of specimens testing positive for influenza, with 78.9% Influenza A and 21.1% Influenza B. Public health labs reported 91.8% Influenza A (63.3% H3N2, 36.7% H1N1) and 8.2% Influenza B, with all tested strains antigenically similar to current flu vaccines.
+
+- **Cumulative hospitalization rate:** The cumulative hospitalization rate is 59.9 per 100,000, with the highest rates among adults aged 65+ (178.1). Weekly flu hospitalizations decreased to 0.2 per 100,000.
+
+- **Trends of deaths attributed to influenza:** 9.2% of deaths were due to pneumonia, influenza, or COVID-19 (PIC), above the epidemic threshold of 7.3%.
+
+- **Percentage of Influenza A and Influenza B:** 99.0% of cumulative clinical lab positives were Influenza A and 1.0% Influenza B. Public health labs reported 99.3% Influenza A and 0.7% Influenza B this season.
+
+- **Novel Influenza virus (like COVID-19):** No reports of novel influenza viruses. Coinfection with SARS-CoV-2 was identified in 4.0% of flu-associated hospitalizations.
+
+- **Vaccination trends:** Most influenza viruses are antigenically matched to the 2022-23 flu vaccine. CDC continues to recommend vaccination for everyone aged 6 months and older.
+
+- **Outpatient respiratory illness visits:** Outpatient visits for respiratory illness are at 2.6%, slightly above the baseline (2.5%). Six of 10 regions are below their baselines, with respiratory viruses, including influenza, co-circulating.
+
+- **Expectation of flu activity from CDC:** Flu activity remains low nationally, with hospitalization rates declining. CDC continues to monitor trends.
+
+- **Other key factors:** Long-term care facilities reported 0.5% with positive influenza cases, a >5% decrease from the previous week. Data suggest flu activity is declining, with significant rates among vulnerable populations such as older adults and children aged 0-4 years.

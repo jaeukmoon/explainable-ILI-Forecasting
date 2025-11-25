@@ -1,0 +1,11 @@
+Week40, 2020
+1. Seasonal influenza activity remains notably low, with only 0.21% of respiratory specimens testing positive for influenza in clinical laboratories this week.
+2. Among positive specimens in clinical labs, 52.9% were Influenza A, and 47.1% were Influenza B.
+3. Public health labs reported one positive Influenza A specimen, with no subtypes or Influenza B detected.
+4. Outpatient visits for ILI accounted for 1.1% of visits, which is below the national baseline of 2.6% but slightly increased from the previous week.
+5. No influenza-associated pediatric deaths have been reported for the 2020-21 season, while 189 were reported for the prior season.
+6. Deaths attributed to pneumonia, influenza, or COVID-19 (PIC) reached 7.0%, exceeding the epidemic threshold of 5.6%.
+7. Hospitalization rates and influenza virus characterization updates will begin later in the season.
+8. Annual influenza vaccination is highly recommended by the end of October, though no vaccination trends were reported this week.
+9. Healthcare-seeking behavior changes due to COVID-19 potentially affect ILI reporting and surveillance data accuracy.
+10. Flu activity expectations remain uncertain as both traditional health interaction and virologic surveillance adapt to changing behaviors during the pandemic.

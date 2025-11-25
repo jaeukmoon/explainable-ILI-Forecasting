@@ -1,0 +1,11 @@
+1. The past time-series ILI occurrences over the 5 weeks exhibited a consistent upward trend, with values ['15796', '18790', '21269', '23786', '23985']. Starting with 15,796 in Week 18, 2022, there was a significant increase week-over-week, peaking at 23,985 in Week 22, 2022. This steady growth points to a sustained amplification in influenza-like illness activity throughout the observed period.
+
+2. A strong positive correlation is evident between the past and future ILI occurrences. The continuous upward movement in past occurrences from Week 18 to Week 22, 2022, aligns with the subsequent decrease to 14,344 after 5 weeks. This reduction likely reflects the expected seasonal decline in late influenza activity and could be influenced by a plateau or drop-off after extended elevated activity.
+
+3. Influenza activity trends consistently increased, with test positivity declining slightly from 8.6% (Week 18, 2022) to 5.9% (Week 22, 2022). Despite this dip, widespread circulation of Influenza A(H3N2), which comprised over 99% of influenza cases weekly, and the incomplete vaccine match for H3N2 strains contributed to the sustained respiratory illness burden during and beyond these weeks.
+
+4. Hospitalization rates steadily rose from 13.4 per 100,000 population (Week 18, 2022) to 16.7 per 100,000 (Week 22, 2022), evidencing increasing severe respiratory illness. Adults aged 65+ consistently exhibited the highest rates, highlighting their vulnerability and potential contribution to ongoing ILI counts.
+
+5. Co-circulation of respiratory viruses, including SARS-CoV-2, impacted ILI trends, with 4.3–4.7% of influenza-positive specimens concurrently testing positive for SARS-CoV-2. These co-infections and overlapping pandemic dynamics likely elevated baseline respiratory illness levels, adding complexity to ILI predictions.
+
+6. In summary, the reported 14,344 future ILI occurrences (Week 27, 2022) are attributed to the preceding upward trend in ILI activity, widespread circulation of antigenically distinct H3N2 strains, rising hospitalizations in vulnerable groups, and co-circulation of respiratory pathogens, culminating in sustained but slightly lower mid-season activity.

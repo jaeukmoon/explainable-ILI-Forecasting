@@ -1,0 +1,20 @@
+Week51, 2020
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains lower than usual for this time of year. 13.6% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), exceeding the epidemic threshold of 6.8%. Most PIC deaths are due to COVID-19. No new influenza-associated pediatric deaths were reported; one total for the season.
+
+- **U.S. virologic surveillance**: 0.3% of respiratory specimens tested positive for influenza in clinical labs this week; cumulative positive rate is 0.2%. Among positive specimens, 35.1% (this week) and 39.2% (cumulative) were Influenza A, while 64.9% (this week) and 60.8% (cumulative) were Influenza B. Public health labs reported 2 positive Influenza A this week (100% H1N1pdm09).
+
+- **Cumulative hospitalization rate**: 101 laboratory-confirmed influenza-associated hospitalizations have been reported since October 1, 2020; this is lower than usual for this point in the season. No hospitalization rates yet due to low counts.
+
+- **Trends of deaths attributed to influenza**: PIC deaths are primarily due to COVID-19, with minimal contribution from influenza. Only three influenza deaths were specifically reported for week 52.
+
+- **Percentage of Influenza A and Influenza B**: Influenza B was predominant in clinical labs (64.9%), while public health labs identified 100% Influenza A (H1N1).
+
+- **Novel influenza virus (like COVID-19)**: Data suggest minimal influenza activity. COVID-19 remains the dominant respiratory concern, heavily impacting PIC death percentages.
+
+- **Vaccination trends**: CDC continues recommending annual flu vaccination as the best protection against influenza complications. Vaccination emphasized for those who have not yet received it.
+
+- **Outpatient respiratory illness visits**: 1.6% of outpatient visits were for influenza-like illness (ILI), below the national baseline of 2.6%. Most jurisdictions report minimal activity, with one reporting moderate and two low activity.
+
+- **Expectation of flu activity from CDC**: Flu activity remains unusually low but may increase in the coming months due to seasonality.
+
+- **Other key factors**: ILI data is influenced by changes in healthcare-seeking behaviors and overlaps with COVID-19 symptoms, necessitating cautious interpretation. Centralization of COVID-19 data dominates the current surveillance landscape.

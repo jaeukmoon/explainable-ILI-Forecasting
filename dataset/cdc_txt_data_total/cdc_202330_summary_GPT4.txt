@@ -1,0 +1,20 @@
+Week30, 2023
+- **Viruses, illness, and deaths**: Influenza activity is low with 1.0% of specimens testing positive in clinical labs during week 30. Influenza A accounted for 54.2% of positives, and Influenza B accounted for 45.8%. 5.7% of deaths were attributed to PIC (pneumonia, influenza, and COVID-19), exceeding the epidemic threshold of 5.6%. Four influenza-associated deaths, including two pediatric deaths, were reported this season.
+
+- **U.S. virologic surveillance**: Among public health lab specimens in week 30, 64.3% were Influenza A (93.7% H1N1pdm09, 6.3% H3N2), and 35.7% were Influenza B (100% Victoria lineage).
+
+- **Cumulative hospitalization rate**: 649 laboratory-confirmed influenza-related hospitalizations were reported during week 30. Patients admitted after April 30, 2023, are not included in cumulative FluSurv-NET rates.
+
+- **Trends of deaths attributed to influenza**: Deaths due to pneumonia, influenza, and COVID-19 exceeded the epidemic threshold (5.7% vs. 5.6%).
+
+- **Percentage of Influenza A and Influenza B**: Influenza A represented 54.2% of clinical lab positives and 64.3% of public health lab positives. Influenza B accounted for 45.8% of clinical lab positives and 35.7% of public health lab positives.
+
+- **Novel influenza virus (like COVID-19)**: Two novel influenza A variant infections were reported in Michigan in patients with prior swine exposure. No human-to-human transmission was identified.
+
+- **Vaccination trends**: No updated data provided on vaccination trends in this report.
+
+- **Outpatient respiratory illness visits**: Nationwide, 1.2% of outpatient visits were for ILI, with highest rates among children aged 0-4 years (4.2%). Minimal ILI activity was reported across all jurisdictions.
+
+- **Expectation of flu activity from CDC**: Current influenza activity remains low with ongoing co-circulation of respiratory viruses.
+
+- **Other key factors**: The detection of two variant influenza A cases linked to agricultural fairs underlines the importance of swine exposure monitoring in predicting novel virus threats. Respiratory illness contributions vary by region and pathogen.

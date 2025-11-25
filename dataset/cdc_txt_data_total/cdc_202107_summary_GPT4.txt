@@ -1,0 +1,20 @@
+Week7, 2021
+- **Viruses, illness, and deaths**: Influenza activity remains unusually low. Only 0.1% of specimens tested in clinical labs were positive. Influenza B made up 53.6% of positive clinical lab specimens, and Influenza A 46.4%. Public health labs reported 100% of positive specimens as Influenza A, with no Influenza B detected. 19.3% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), significantly above the epidemic threshold of 7.2%, but most PIC deaths were due to COVID-19. No new influenza-associated pediatric deaths were reported; one pediatric death has occurred this season.
+
+- **U.S. virologic surveillance**: Only 28 specimens tested positive for influenza this week in clinical labs (0.1%). Public health labs reported only 2 positives (both Influenza A). Cumulatively, Influenza B has dominated clinical lab positives (65.8%), while public health labs reported 60.9% of positives as Influenza A.
+
+- **Cumulative hospitalization rate**: The current cumulative hospitalization rate is 0.6 per 100,000 population, significantly lower than previous seasons and the lowest observed since data collection began in 2005.
+
+- **Trends of deaths attributed to influenza**: Influenza is a minor contributor to pneumonia, influenza, and COVID-19 (PIC) deaths. Most PIC deaths are due to COVID-19.
+
+- **Percentage of Influenza A and Influenza B**: Clinical labs: Influenza A (46.4%) and Influenza B (53.6%). Public health labs: 100% Influenza A.
+
+- **Novel Influenza virus (like COVID-19)**: No novel influenza viruses were detected this week. COVID-19 remains a significant concern.
+
+- **Vaccination trends**: CDC continues to recommend influenza vaccination for individuals aged 6 months and older as the best protection against flu.
+
+- **Outpatient respiratory illness visits**: 1.0% of patient visits were attributed to ILI, below the national baseline of 2.6%. All jurisdictions reported minimal ILI activity, with slight trends in younger age groups (0-4 years).
+
+- **Expectation of flu activity from CDC**: Flu activity is expected to remain low but may increase in the coming months.
+
+- **Other key factors**: COVID-19 is significantly impacting routine influenza surveillance patterns, and caution is advised when interpreting data. PIC deaths remain elevated, driven by COVID-19.

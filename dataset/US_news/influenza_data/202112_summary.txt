@@ -1,0 +1,5 @@
+- Researchers have developed a nanoparticle influenza vaccine that induces broad protection against various viral strains.
+- The vaccine contains 20 haemagglutinin glycoprotein trimers arranged in an ordered array.
+- The nanoparticle vaccine elicited potent neutralizing antibody responses against vaccine-matched strains and simultaneously induced broadly protective antibody responses to heterologous viruses.
+- The vaccine targets the subdominant yet conserved haemagglutinin stem, which allows for cross-reactivity and protection against different influenza strains.
+- This vaccine has the potential to replace conventional seasonal vaccines and provide supraseasonal protection against influenza.

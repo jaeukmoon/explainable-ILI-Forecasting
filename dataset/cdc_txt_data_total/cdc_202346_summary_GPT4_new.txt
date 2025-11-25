@@ -1,0 +1,11 @@
+Week46, 2023
+1. Seasonal influenza activity is increasing in most U.S. regions, with the highest activity observed in the South Central, Southeast, Mountain, and West Coast areas.
+2. Of 529 viruses reported by public health labs this week, 79.4% were Influenza A and 20.6% were Influenza B. Among subtyped Influenza A viruses, 79.3% were A(H1N1)pdm09 and 20.7% were A(H3N2).
+3. Outpatient respiratory illness accounted for 3.7% of visits, exceeding the national baseline of 2.9% and showing increases in 8 out of 10 HHS regions.
+4. Cumulative influenza-associated hospitalization rate was 2.6 per 100,000, the second highest rate for week 46 since 2010, with adults 65+ experiencing the highest rates.
+5. Pediatric deaths rose to 3 for the season, with 2 new deaths reported this week, both associated with Influenza B.
+6. Influenza-attributed deaths accounted for 0.07% of total deaths, showing no significant change from the previous week.
+7. Clinical labs reported 4.9% of specimens testing positive for influenza, a rise compared to the previous week, with Influenza A comprising 66.1% and Influenza B 33.9% of positive cases.
+8. CDC estimates 1.2 million illnesses, 12,000 hospitalizations, and 740 deaths from influenza so far this season.
+9. Multiple respiratory viruses, including Influenza, RSV, and SARS-CoV-2, are co-circulating, complicating attribution of respiratory illness trends.
+10. CDC recommends annual flu vaccination for everyone aged 6 months and older; vaccination trends were not highlighted this week.

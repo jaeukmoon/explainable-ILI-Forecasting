@@ -1,0 +1,27 @@
+According to the FluView report for the week ending April 20, 2024, seasonal influenza activity is declining in most areas of the United States. Here are the key facts from the report:
+
+1. Virologic Surveillance:
+- 4.8% of respiratory specimens tested in clinical laboratories were positive for influenza.
+- Influenza A(H1N1)pdm09, A(H3N2), and B viruses were all co-circulating during the week.
+- Genetic and antigenic characterization and antiviral susceptibility of influenza viruses are ongoing.
+
+2. Outpatient Respiratory Illness:
+- 2.3% of visits to healthcare providers were due to respiratory illness (ILI), below the national baseline.
+- ILI activity decreased in most regions, with one moderate jurisdiction.
+
+3. Geographic Spread:
+- Most areas reported minimal influenza activity, while one jurisdiction had moderate activity.
+- Local influenza activity was reported in four states, sporadic activity in the District of Columbia, Puerto Rico, and the U.S. Virgin Islands, and no activity in six states.
+
+4. Severe Disease:
+- FluSurv-NET reported a cumulative hospitalization rate of 79.0 per 100,000 population.
+- NCHS mortality surveillance indicated that 0.3% of deaths were attributed to influenza during the week.
+- Six influenza-associated pediatric deaths were reported, bringing the season total to 148.
+
+5. Influenza Virus Characterization:
+- Genetic and antigenic characterization of U.S. viruses has been conducted, but specific data for the week were not provided.
+
+6. Outpatient Respiratory Illness Activity Map:
+- ILI activity levels varied by state and jurisdiction, with no states reporting very high or high activity.
+
+Overall, the report indicates a decline in influenza activity, with low ILI activity and hospitalization rates, as well as no reported pediatric deaths for the current season. However, continued surveillance and precautions are necessary as influenza viruses continue to circulate.

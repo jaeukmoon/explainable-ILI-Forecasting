@@ -1,0 +1,20 @@
+Week34, 2023
+- **Viruses, illness, and deaths**: Influenza activity remains low, with 0.8% of clinical specimens and 2.7% of public health specimens testing positive for influenza nationwide. Influenza A predominates overall (63.9% of clinical lab positives this week; 95.5% of public health lab positives cumulatively). Among public health lab Influenza A specimens, 83.3% were H1N1pdm09, and 16.7% were H3N2. 6.5% of deaths this week were attributed to pneumonia, influenza, and/or COVID-19 (PIC), above the epidemic threshold of 5.5%. Only 9 influenza-associated deaths were reported, with no pediatric deaths.
+
+- **U.S. virologic surveillance**: Influenza A represents 63.9% of clinical lab positives and 52.5% of public health lab positives (mainly H1N1pdm09). Influenza B accounted for 36.1% of clinical positives and 47.5% of public health positives, predominately of the Victoria lineage.
+
+- **Cumulative hospitalization rate**: No specific updates were provided for cumulative hospitalization rates as FluSurv-NET has concluded data collection for the 2022-2023 season. A total of 779 influenza-confirmed hospitalizations were reported for week 34.
+
+- **Trends of deaths attributed to influenza**: Rates of deaths attributed to PIC are at 6.5%, slightly higher than the epidemic threshold, indicating increased mortality from respiratory causes when compared to earlier weeks.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounted for 63.9% of clinical lab positives and 52.5% of public health lab submissions this week. Influenza B accounted for 36.1% (clinical labs) and 47.5% (public health labs).
+
+- **Novel Influenza virus like COVID-19 (SARS-CoV-2)**: No reports of novel influenza strains (e.g., H3N2v) or interactions with SARS-CoV-2. COVID-19 accounted for 436 deaths this week in the PIC category.
+
+- **Vaccination trends**: Updates on vaccination trends were not provided in the report. 
+
+- **Outpatient respiratory illness visits**: 1.7% of outpatient visits were reported for influenza-like illnesses (ILI), with higher rates in children under 4 years (5.8%) and individuals aged 5-24 (3.0%).
+
+- **Expectation of flu activity from CDC**: Influenza levels remain low but ongoing co-circulation of multiple respiratory viruses, including SARS-CoV-2 and RSV, is contributing to outpatient illness visits.
+
+- **Other key factors**: Minimal ILI activity was reported in 45 jurisdictions, moderate activity in one jurisdiction, and no regions reporting high ILI activity levels. Season-end data reflect low transmission compared to previous seasons but highlight contributions from non-influenza respiratory viruses.

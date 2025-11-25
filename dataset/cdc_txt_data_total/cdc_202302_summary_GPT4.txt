@@ -1,0 +1,20 @@
+Week2, 2023
+- **Viruses, Illness, and Deaths**: Influenza activity continues to decline nationwide. Influenza A(H3N2) is the most frequently reported subtype (81% of subtyped cases this week). 13.1% of deaths were attributed to pneumonia, influenza, or COVID-19 (above the threshold). 7 pediatric influenza-associated deaths were reported this week, 6 of which occurred during the current 2022-23 season, totaling 85 for the season. 
+
+- **U.S. Virologic Surveillance**: 4.6% of respiratory specimens tested in clinical labs were positive for influenza. Of these, 97.3% were Influenza A and 2.7% were Influenza B. Public health labs report similar trends, with 97.6% of positive specimens being Influenza A, predominantly A(H3N2) (81.3%) and A(H1N1)pdm09 (18.7%). Cumulative data since October 2022 shows 16.2% positivity in clinical labs, with higher dominance of Influenza A.
+
+- **Cumulative Hospitalization Rate**: The cumulative hospitalization rate was 56.7 per 100,000, significantly higher (1.6x) than the highest cumulative in-season rate observed at week 2 during pre-COVID seasons. Adults aged 65+ (166.9 per 100,000) had the highest rates, followed by children aged 0-4 years (77.3 per 100,000). 
+
+- **Trends of Deaths Attributed to Influenza**: The proportion of deaths due to influenza increased from October to mid-December but has been decreasing for the past 4 weeks.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A consistently dominates clinical (97.3%) and public health lab data (97.6%), with Influenza B remaining infrequent.
+
+- **Novel Influenza Virus (like COVID-19)**: 3.2% of hospitalized influenza-associated cases also tested positive for SARS-CoV-2.
+
+- **Vaccination Trends**: CDC recommends continued vaccination for everyone aged 6 months and older, stating the vaccine has good antigenic similarity to circulating strains. 
+
+- **Outpatient Respiratory Illness Visits**: 3.0% of outpatient visits were attributed to respiratory illnesses, remaining above the baseline (2.5%). Seven HHS regions are above their specific baselines, though the percentage of ILI visits decreased nationwide and across all age groups compared to the previous week.
+
+- **Expectation of Flu Activity from CDC**: Influenza activity is expected to continue declining across the country.
+
+- **Other Key Factors**: Among hospitalized adults, 96.5% had underlying conditions (most common: hypertension, cardiovascular disease, obesity). At least 270,000 influenza-related hospitalizations and 17,000 deaths have occurred so far this season. All tested influenza viruses have shown susceptibility to antiviral medications.

@@ -1,0 +1,23 @@
+Based on the CDC's weekly influenza surveillance report for Week 10 ending March 12, 2022, the key facts regarding predicting future ILI occurrence are:
+
+1. Influenza activity is increasing in most of the country, particularly in the central and south-central regions.
+
+2. The majority of detected influenza viruses are influenza A(H3N2).
+
+3. Antigenic data show that the majority of characterized H3N2 viruses are antigenically different from the vaccine reference viruses.
+
+4. The percentage of outpatient visits for respiratory illness, including ILI, increased slightly but remains below baseline.
+
+5. Influenza is contributing to respiratory illness, but other respiratory viruses are also circulating.
+
+6. Hospital admissions for laboratory-confirmed influenza have been increasing each week.
+
+7. The cumulative hospitalization rate is higher than the rate for the previous season but lower than rates seen in seasons preceding the COVID-19 pandemic.
+
+8. Three influenza-associated pediatric deaths were reported during Week 10, bringing the total for the season to 13.
+
+9. Mortality surveillance data show that 10.8% of deaths during Week 10 were attributed to pneumonia, influenza, and/or COVID-19, above the epidemic threshold.
+
+10. Influenza virus susceptibility to antiviral medications is assessed, and antiviral resistance to adamantanes (amantadine and rimantadine) persists.
+
+These facts provide important information for predicting future ILI occurrence and guide public health recommendations, including the importance of vaccination and antiviral treatment.

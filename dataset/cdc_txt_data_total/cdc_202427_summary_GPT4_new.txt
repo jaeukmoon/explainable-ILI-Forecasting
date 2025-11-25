@@ -1,0 +1,11 @@
+Week27, 2024
+1. Influenza activity remains low nationally, with 0.9% of clinical respiratory specimens testing positive for influenza.
+2. Of the positive specimens in clinical labs, 92.8% were Influenza A and 7.2% were Influenza B.
+3. Public health labs confirmed 83 positive specimens: 92.8% Influenza A (77.8% A(H3N2) and 22.2% A(H1N1)pdm09) and 7.2% Influenza B (all Victoria lineage).
+4. Outpatient visits for influenza-like illness (ILI) accounted for 1.4%, staying below baseline, with no regions reporting moderate or higher activity.
+5. Weekly hospitalization rate remains very low at 0.1 per 100,000, with cumulative hospitalizations primarily associated with Influenza A (84.6%).
+6. Mortality due to influenza remains stable at 0.1% for deaths, and two pediatric deaths were reported this week, totaling 186 for the season.
+7. Antigenic characterization showed high vaccine strain similarity; resistance to oseltamivir and baloxavir is minimal but detected in some H1N1 and B viruses.
+8. Vaccination trends were not explicitly reported, though antiviral treatments remain critical for high-risk patients.
+9. Current influenza surveillance integrates monitoring of RSV and SARS-CoV-2, enabling broader respiratory illness tracking.
+10. Seasonal flu activity is expected to remain low, though cocirculation of multiple viruses may impact future trends.

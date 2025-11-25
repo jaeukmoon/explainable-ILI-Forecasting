@@ -1,0 +1,13 @@
+According to the CDC's weekly influenza surveillance report for Week 3 of 2022 (ending January 22), the key facts regarding predicting future ILI occurrence are as follows:
+
+1. Virologic surveillance: The percent of specimens testing positive for influenza remains stable, indicating similar levels of influenza virus circulation over the past two weeks.
+
+2. Outpatient respiratory illness: Nationwide, 2.8% of patient visits reported through the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet) were due to respiratory illness with fever plus a cough or sore throat, above the national baseline. The contribution of influenza to respiratory illness varies by location.
+
+3. Long-term care facility surveillance: Among reporting long-term care facilities, 0.8% reported at least one influenza-positive test among their residents.
+
+4. Severe disease: The cumulative hospitalization rate is 4.3 per 100,000 population, higher than the previous season but lower than the seasons preceding the COVID-19 pandemic. Influenza-associated pediatric deaths for the current season remain at five.
+
+5. Mortality surveillance: During Week 3, 28.4% of deaths were attributed to pneumonia, influenza, or COVID-19, exceeding the epidemic threshold. Most of the deaths were primarily due to COVID-19 rather than influenza.
+
+These facts suggest that influenza activity has remained stable, with continued circulation of influenza A(H3N2) viruses, and it is expected to continue for several more weeks. Preventive measures such as annual influenza vaccination and antiviral treatment options are crucial in reducing the impact of the flu.

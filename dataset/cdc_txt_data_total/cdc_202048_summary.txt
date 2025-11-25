@@ -1,0 +1,11 @@
+Firstly, virologic surveillance is being conducted in clinical and public health laboratories to monitor the prevalence and distribution of influenza viruses. Clinical labs recorded a low percentage (0.1%) of respiratory specimens testing positive for influenza, with Influenza A and Influenza B viruses being detected. Public health labs also reported low influenza activity during recent weeks.
+
+Outpatient illness surveillance shows that 1.6% of visits to healthcare providers were for influenza-like illness (ILI), which is below the national baseline of 2.6%. ILI activity levels varied across jurisdictions, with some experiencing minimal activity and others having low ILI activity.
+
+The geographic spread of influenza, as assessed by state and territorial epidemiologists, indicates that local influenza activity was reported in four jurisdictions, while sporadic activity was reported in the District of Columbia, Puerto Rico, the U.S. Virgin Islands, and 40 states. No influenza-associated pediatric deaths have been reported for the current season.
+
+In terms of severe disease, the percentage of deaths attributed to pneumonia, influenza, or COVID-19 (PIC) was above the epidemic threshold (6.4%) at 12.8%. Most of the PIC deaths were linked to COVID-19 rather than influenza. There were no reported influenza-associated pediatric deaths during this period.
+
+CDC emphasizes the importance of getting vaccinated against the flu and using antiviral drugs to treat flu illness. The virologic surveillance data will be updated weekly, while virus characterization data will be available later in the season. It's important to interpret ILI surveillance data cautiously due to the impact of the COVID-19 pandemic on healthcare-seeking behavior.
+
+Overall, current flu activity remains low, but it may increase in the coming months. Regular flu vaccination and adherence to preventive measures are recommended to protect against influenza and its complications.

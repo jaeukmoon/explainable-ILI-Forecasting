@@ -1,0 +1,16 @@
+Week9, 2024
+1. Influenza activity remains elevated nationally, with 13.9% of respiratory specimens testing positive for influenza this week.
+2. Clinical labs reported 56.9% Influenza A and 43.1% Influenza B; public health labs reported 71.1% Influenza A (predominantly A(H1N1)pdm09) and 28.9% Influenza B.
+3. Outpatient visits for ILI accounted for 4.1%, slightly declining but still above the national baseline, with regional variations in activity.
+4. The cumulative influenza-associated hospitalization rate is 64.8 per 100,000, the second highest in Week 9 since the 2017-2018 season.
+5. Weekly influenza-associated deaths attributed to influenza are stable at 0.7%, with 10 new pediatric deaths reported (totaling 103 this season).
+6. Of positive influenza specimens this week, 57.3% were A(H1N1)pdm09 and 42.7% were A(H3N2) for subtyped specimens, while all Influenza B viruses subtyped belonged to the Victoria lineage.
+7. There have been 28 million influenza illnesses, 310,000 hospitalizations, and 20,000 deaths so far this season.
+8. CDC recommends annual flu vaccination while flu viruses remain active; vaccines are aligned with circulating strains, but uptake trends were not detailed.
+9. Antiviral resistance remains low, but isolated cases of reduced or highly reduced inhibition were detected in A(H1N1)pdm09 with oseltamivir, peramivir, and A(H3N2) using baloxavir.
+10. The CDC expects influenza activity to remain elevated in regions with high ILI activity and multiple co-circulating respiratory viruses (e.g., RSV, COVID-19).
+
+11. Summary of other key factors:
+12. - Regional trends show variability: some regions report declines, while others remain stable or elevated in percent positivity and hospitalizations.
+13. - Adults 65+, non-Hispanic Black individuals, and those with underlying conditions have higher hospitalization rates, highlighting high-risk populations.
+14. - Flu hospitalizations are decreasing overall but are still trending slightly downward after sharp declines earlier this season.

@@ -1,0 +1,11 @@
+Week4, 2024
+- **Viruses, illness, and deaths**: Seasonal influenza activity remains elevated nationally. 16.2% of clinical lab specimens tested positive for influenza this week, with influenza A predominating (73.1%). Of these, 60.4% were A(H1N1)pdm09 and 39.6% were A(H3N2). Pediatric deaths this week were 8, totaling 65 deaths so far this season. 0.9% of deaths were attributed to influenza this week.  
+- **U.S. virologic surveillance**: Public health labs reported 78.9% of positive specimens as influenza A and 21.1% as influenza B. A(H1N1)pdm09 continues to dominate across regions. Regions 6, 8, and 5 reported the highest percent positivity.  
+- **Cumulative hospitalization rate**: The cumulative rate is 47.8 per 100,000 population, the second-highest in-season rate for Week 4 since 2010-2011. Adults 65+ years had the highest rate (128.6/100,000).  
+- **Trends of deaths attributed to influenza**: Mortality attributed to influenza decreased slightly to 0.9% this week.  
+- **Percentage of Influenza A and Influenza B**: Influenza A accounted for 73.1% of clinical lab positives and 78.9% of public health lab positives.  
+- **Novel influenza virus (like COVID-19)**: No novel influenza viruses were detected this week.  
+- **Vaccination trends**: CDC continues recommending the flu vaccine for everyone aged 6 months or older as flu viruses remain widespread.  
+- **Outpatient respiratory illness visits**: 4.3% of outpatient visits were for ILI, above the national baseline of 2.9%. High or very high ILI activity was reported in 20 jurisdictions, with moderate activity in 13 jurisdictions.  
+- **Expectation of flu activity from CDC**: Influenza activity remains elevated and circulating widely, with A(H1N1)pdm09 being the dominant strain.  
+- **Other key factors**: Hospitalizations and respiratory illness levels remain stable compared to the previous week. Co-circulation of other respiratory viruses, such as SARS-CoV-2 and RSV, is ongoing. Resistance to some antiviral medications remains very low. The highest cumulative hospitalization rates are recorded among older adults and children.

@@ -1,0 +1,20 @@
+Week21, 2021
+- **Viruses, illness, and deaths:** Influenza activity remains low. 8.3% of deaths were attributed to pneumonia, influenza, and/or COVID-19 (PIC), above the epidemic threshold of 6.2%. COVID-19 is the primary contributor to PIC deaths during the week, with only three influenza-related deaths reported.
+
+- **U.S. virologic surveillance:** One human infection with an Influenza A(H1N1)v virus was reported in Iowa, linked to swine exposure without human-to-human transmission. This is the second H1N1v case in the U.S. in 2021. A total of five novel influenza cases (H1N1v, H1N2v, and H3N2v) have been reported this season.
+
+- **Cumulative hospitalization rate:** No new hospitalization data are available for this week as reporting for hospital admissions after April 30, 2021, ended for the season.
+
+- **Trends of deaths attributed to influenza:** Influenza-attributed deaths remain exceptionally low, with only three reported during this week.
+
+- **Percentage of Influenza A and Influenza B:** There is no specific breakdown of Influenza A and B detections in this report for clinical or public health laboratories.
+
+- **Novel influenza virus like COVID-19:** COVID-19 remains the primary respiratory pathogen, significantly driving PIC mortality. There is no evidence of sustained transmission of novel influenza viruses in the U.S.
+
+- **Vaccination trends:** No updated influenza vaccination data is included in this report for week 21.
+
+- **Outpatient respiratory illness visits:** Nationwide, 1.1% of outpatient visits were due to ILI, well below the national baseline of 2.6%, showing no significant influenza-related activity.
+
+- **Expectation of flu activity from CDC:** Influenza activity is expected to remain low, with monitoring of novel viruses continuing.
+
+- **Other key factors:** Low ILI activity was reported across 29 jurisdictions, with 54 reporting minimal activity. The current surveillance landscape continues to be influenced by changes in healthcare-seeking behavior during the COVID-19 pandemic, which may limit the accuracy of influenza surveillance.

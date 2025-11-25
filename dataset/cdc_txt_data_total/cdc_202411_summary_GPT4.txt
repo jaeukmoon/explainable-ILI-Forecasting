@@ -1,0 +1,20 @@
+Week11, 2024
+- **Viruses, Illness, and Deaths:** Seasonal influenza activity remains elevated but is decreasing nationally. Of 426 viruses reported this week, 64.6% were Influenza A and 35.4% were Influenza B. Five pediatric deaths were reported this week, totaling 121 deaths this season. Influenza has caused 30 million illnesses, 340,000 hospitalizations, and 21,000 deaths so far.
+
+- **U.S. Virologic Surveillance:** National positivity for influenza in clinical labs fell to 12.0%. Influenza A accounted for 51.9% of positives, and Influenza B made up 48.1%. Public health labs show 64.6% of positives as Influenza A and 35.4% as Influenza B, with A(H3N2) subtypes predominant among A viruses.
+
+- **Cumulative Hospitalization Rate:** The cumulative hospitalization rate is 70.2 per 100,000 population, the second-highest for week 11 since 2010-11. Adults aged 65+ have the highest hospitalization rate (191.0).
+
+- **Trends in Deaths Attributed to Influenza:** Influenza-related deaths decreased to 0.6% of total deaths during week 11.
+
+- **Percentage of Influenza A and Influenza B:** Influenza A accounts for 64.6% of public health lab positives and 51.9% of clinical lab positives; Influenza B represents 35.4% and 48.1%, respectively.
+
+- **Novel Influenza Virus:** No novel influenza viruses (e.g., H3N2v) were identified this week.
+
+- **Vaccination Trends:** CDC advises vaccination for everyone aged 6+ months as flu activity continues. Vaccines demonstrate antigenic recognition for circulating strains.
+
+- **Outpatient Respiratory Illness Visits:** Respiratory illness-related outpatient visits account for 3.4% of visits, above the baseline but declining. Regions varied from below baseline to above.
+
+- **Expectation of Flu Activity from CDC:** CDC anticipates continued flu virus circulation, emphasizing vaccination and antiviral use for high-risk patients.
+
+- **Other Key Factors:** Regions 7, 5, and 8 report the highest positivity rates. The Pacific Northwest shows slight flu activity increases despite national declines. Pathogens contributing to respiratory illness include influenza, SARS-CoV-2, and RSV.

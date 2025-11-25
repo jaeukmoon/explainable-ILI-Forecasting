@@ -1,0 +1,21 @@
+Week36, 2022
+- **Viruses, Illness, and Deaths**: Influenza A predominated among positive specimens, accounting for 94.3% in clinical labs and 100% in public health labs for Week 36. No influenza B-positive specimens were reported by public health labs. Pediatric mortality for Week 36 included one death due to influenza A(H3), bringing the season total to 35 pediatric deaths. Pneumonia, influenza, and/or COVID-19 (PIC) accounted for 9.2% of deaths, above the epidemic threshold of 5.5%, with most attributed to COVID-19.
+
+- **U.S. Virologic Surveillance**: Of 40,698 clinical lab specimens tested, 0.7% were positive for influenza (263 Influenza A, 16 Influenza B). Cumulatively since Week 40 of 2021, 3.7% of specimens were positive. Public health labs reported 38 positive influenza specimens, all Influenza A, with H3N2 comprising 85.2% of subtyped specimens.
+
+- **Cumulative Hospitalization Rate**: HHS Protect reported 577 lab-confirmed influenza hospitalizations during Week 36.
+
+- **Trends of Deaths Attributed to Influenza**: Mortality from PIC remains primarily driven by COVID-19. Influenza is a minimal contributor this week but is being monitored for changes.
+
+- **Percentage of Influenza A and Influenza B**: Influenza A accounted for 94.3% of clinical lab positives and 100% of public health lab positives. Influenza B represented 5.7% of clinical lab positives and 0% in public health labs.
+
+- **Novel Influenza Virus (e.g., COVID-19)**: Two human infections with Influenza A(H1N2)v were reported in Michigan and Wisconsin. Exposure to swine was likely the transmission source. A total of seven human infections with variant influenza viruses have been reported in 2022.
+
+- **Vaccination Trends**: No specific vaccination data or updates for Week 36; emphasis continues on timely flu vaccination for prevention.
+
+- **Outpatient Respiratory Illness Visits**: National ILI activity was at 1.9%, driven by multiple respiratory viruses. By age, ILI visits were highest among children 0-4 years (7.8%) and lowest in adults 65+ years (0.6%). Variability by location remains significant.
+
+- **Expectation of Flu Activity from CDC**: PIC mortality is above the epidemic threshold, highlighting increased respiratory illness (mainly COVID-19) but low influenza contributions. Continued monitoring is critical.
+
+- **Other Key Factors**: While influenza activity remains low, co-circulation with other pathogens (e.g., COVID-19, RSV) complicates attribution of ILI. Sporadic long-term care facility influenza cases (0.2%) emphasize monitoring vulnerable populations. No evidence of sustained person-to-person transmission of novel influenza viruses.
+

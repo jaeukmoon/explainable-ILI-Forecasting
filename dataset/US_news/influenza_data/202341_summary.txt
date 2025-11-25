@@ -1,0 +1,9 @@
+- Seasonal influenza is responsible for millions of infections and hundreds of thousands of deaths annually.
+- The current method for managing influenza is vaccination using a standardized amount of the influenza virus' primary surface antigen, hemagglutinin (HA).
+- The variability of HA due to antigenic drift and manufacturing processes can lead to variable vaccine efficacy.
+- Alternative vaccine platforms, such as cell-based, recombinant protein, and mRNA vaccines, are being explored to improve vaccine efficacy.
+- mRNA vaccines, with their rapid production capabilities, are appealing for influenza vaccination.
+- A quadrivalent mRNA vaccine encoding HA from four seasonal influenza viruses was evaluated for its immunogenicity and protective efficacy in mice.
+- The vaccine induced robust antibody responses against each subtype and provided full protection against morbidity and mortality, even at low doses.
+- A single administration of the quadrivalent mRNA vaccine was sufficient to prevent weight loss caused by influenza infection.
+- These results suggest that the mRNA vaccine has promise for the prevention and mitigation of influenza.

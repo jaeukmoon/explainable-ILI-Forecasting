@@ -1,0 +1,11 @@
+Week41, 2021
+1. Seasonal influenza activity remains low, with 0.1% of respiratory specimens testing positive for influenza for week 41.
+2. Clinical labs reported 36 positive specimens, with 47.2% Influenza A and 52.8% Influenza B.
+3. Public health labs reported 10 positive specimens, evenly split between Influenza A (50%) and Influenza B (50%); additional subtype detail shows H3N2 dominance for Influenza A cases.
+4. Outpatient visits for influenza-like illness (ILI) accounted for 1.8%, below the national baseline of 2.5%; trends indicate stability or decline across all age groups and most regions.
+5. No pediatric flu-associated deaths have occurred this season; pneumonia, influenza, and COVID-19 (PIC) accounted for 17.5% of deaths, with COVID-19 as the primary driver.
+6. Hospitalized flu cases reached 248, with hospitalization rates set to become available later.
+7. Two cases of novel Influenza A infections (H1N1v and H3N2v) were reported, with limited or no ongoing human-to-human transmission identified.
+8. The CDC continues to recommend flu vaccination by the end of October, though no specified updates on vaccination coverage are included.
+9. Flu trends in long-term care facilities are minimal, with only 0.1% reporting positive influenza tests.
+10. Healthcare-seeking behaviors for respiratory illness remain influenced by COVID-19, potentially impacting data reliability for ILI trends and future influenza activity projections.

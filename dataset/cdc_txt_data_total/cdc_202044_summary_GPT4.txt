@@ -1,0 +1,20 @@
+Week44, 2020
+- **Viruses, illness, and deaths**: Influenza activity remains low, with 0.1% of clinical lab respiratory specimens testing positive. Influenza A made up 61.9% of positives with Influenza B at 38.1%. Influenza-associated pediatric death from the 2019-20 season brought that season's total to 195. No influenza pediatric deaths reported for the 2020-21 season. 8.1% of deaths were attributed to pneumonia, influenza, or COVID-19 (PIC), above the epidemic threshold of 6.0%.
+
+- **U.S. virologic surveillance**: Public health labs report 29.4% of positive specimens as Influenza A and 70.6% as Influenza B. No subtyping was performed for week 44; cumulative data since week 40 shows Influenza A (57.1%) and Influenza B (42.9%).
+
+- **Cumulative hospitalization rate**: Hospitalization rates are not available and will be updated later in the season.
+
+- **Trends of deaths attributed to influenza**: Percentage of deaths due to PIC has risen above the epidemic threshold, indicating an increase in mortality during week 44.
+
+- **Percentage of Influenza A and Influenza B**: Clinical labs report Influenza A (61.9%) and Influenza B (38.1%), while public health labs report Influenza A (29.4%) and Influenza B (70.6%).
+
+- **Novel influenza virus (like COVID-19)**: No mention of novel influenza viruses. COVID-19 tracking is being conducted in a separate publication.
+
+- **Vaccination trends**: CDC recommends flu vaccination as the best protection. Emphasis continues on vaccinating if not already done.
+
+- **Outpatient respiratory illness visits**: 1.3% of outpatient visits were for ILI, which is below the national baseline of 2.6%. One jurisdiction reported moderate ILI activity, with the rest reporting minimal or low activity.
+
+- **Expectation of flu activity from CDC**: Flu activity is expected to remain low.
+
+- **Other key factors**: Healthcare-seeking behaviors have changed during the COVID-19 pandemic, with reliance on alternative settings potentially impacting ILI surveillance.

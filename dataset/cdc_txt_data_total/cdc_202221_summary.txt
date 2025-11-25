@@ -1,0 +1,12 @@
+Based on the weekly ILI surveillance report from CDC for Week 21 ending May 28, 2022, here are the key facts regarding predicting future ILI occurrence:
+
+- Seasonal influenza viruses continue to circulate, and activity is increasing in parts of the country.
+- The majority of influenza viruses detected are A(H3N2), and they are antigenically different from the reference viruses used in the vaccines.
+- The percentage of outpatient visits for respiratory illness decreased slightly over the past two weeks, but multiple respiratory viruses are co-circulating.
+- Outpatient ILI activity varies by region and is below the region-specific baselines for most HHS regions. Regions 4 and 10 are above their respective baselines.
+- Long-term care facilities reported a small percentage of influenza-positive tests among residents.
+- FluSurv-NET data shows a cumulative hospitalization rate of 16.0 per 100,000 population, with the highest rates among adults aged 65 and older and children aged 0-4 years.
+- NCHS mortality surveillance shows that 7.8% of deaths during week 21 were attributed to pneumonia, influenza, and/or COVID-19, which is above the epidemic threshold.
+- No influenza-associated pediatric deaths were reported during week 21, and a total of 25 pediatric deaths have been reported during the 2021-2022 season.
+- Data from clinical laboratories show a decrease in the percentage of specimens testing positive for influenza, but regional variation exists.
+- CDC continues to recommend annual influenza vaccination and the use of antiviral drugs for treatment of influenza illness.

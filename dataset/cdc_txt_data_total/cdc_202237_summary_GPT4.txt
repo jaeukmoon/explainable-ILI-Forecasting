@@ -1,0 +1,20 @@
+Week37, 2022
+- **Viruses, Illness, and Deaths**: 0.8% of respiratory specimens tested positive for influenza, with Influenza A (93.4%) predominating over Influenza B (6.6%). Among deaths reported, 9.2% were due to pneumonia, influenza, and/or COVID-19, exceeding the epidemic threshold (5.6%), though most were attributed to COVID-19 rather than influenza. Two new pediatric deaths associated with influenza were reported, bringing the season's total to 37.
+
+- **U.S. Virologic Surveillance**: Influenza A accounted for 88.6% of public health lab positive specimens, with H3N2 comprising 90.9% and (H1N1)pdm09 at 9.1%. Influenza B constituted 11.4%, though no lineage was commonly detected.
+
+- **Cumulative Hospitalization Rate**: 637 influenza-confirmed hospitalizations were reported this week, and additional cases since June 11, 2022, are not being tracked for this flu season.
+
+- **Trends of Deaths Attributed to Influenza**: Influenza-related deaths are minimal, with COVID-19 being the principal cause of PIC (Pneumonia, Influenza, and COVID-19) mortality.
+
+- **Percentage of Influenza A & B**: Influenza A accounts for 93.4% of clinical lab positives and 88.6% of public health lab positives, with B accounting for 6.6% and 11.4%, respectively.
+
+- **Novel Influenza Virus**: A human infection with influenza A(H1N2)v was reported in Georgia, linked to swine exposure, with no evidence of person-to-person transmission. Eight such variant cases have been reported in 2022.
+
+- **Vaccination Trends**: No direct updates provided, though general prevention strategies are emphasized.
+
+- **Outpatient Respiratory Illness Visits**: 2.0% of outpatient visits were for respiratory illness nationwide during week 37, with higher percentages among children (0-4 years: 8.1%, 5-24 years: 3.2%) than older adults (50-64 years: 0.7%, 65+ years: 0.5%). Co-circulation of other respiratory viruses like RSV and COVID-19 is noted.
+
+- **Expectation of Flu Activity from CDC**: Nationwide flu activity remains low, with sporadic detection of influenza viruses. Moderate to very high outpatient respiratory illness activity levels were reported in a few jurisdictions.
+
+- **Other Key Factors**: 32 long-term care facilities reported at least one positive influenza case (0.2% of facilities). Novel influenza detection warrants continued surveillance and public health measures due to potential risks linked to swine exposure.

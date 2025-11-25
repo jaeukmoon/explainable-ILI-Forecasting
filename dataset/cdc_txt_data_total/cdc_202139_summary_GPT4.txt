@@ -1,0 +1,11 @@
+Week39, 2021
+- **Viruses, illness, and deaths**: Influenza virus circulation remains low. Among 3,296 deaths from pneumonia, influenza, and COVID-19 (PIC), 2,607 were attributed to COVID-19, and only four were linked to influenza. Current PIC mortality is primarily due to COVID-19.  
+- **U.S. virologic surveillance**: Influenza circulation is minimal, and increases in influenza-like illness (ILI) are likely driven by other respiratory viruses.  
+- **Cumulative hospitalization rate**: No updates were provided on influenza-specific hospitalizations for the week ending October 2, 2021, beyond data cutoff in April.  
+- **Trends of deaths attributed to influenza**: Influenza-attributed deaths remain low, with only four reported during the week. Most PIC deaths are due to COVID-19.  
+- **Percentage of Influenza A and Influenza B**: No specific breakdown of influenza A and B proportions for this week.  
+- **Novel influenza virus (like COVID-19)**: COVID-19 continues to significantly contribute to PIC deaths and respiratory illness activity.  
+- **Vaccination trends**: No specific data about influenza vaccination trends were noted for the week.  
+- **Outpatient respiratory illness visits**: 1.9% of outpatient visits were due to ILI, below the national baseline of 2.6%. ILI activity is decreasing across all age groups and attributed to non-influenza respiratory viruses.  
+- **Expectation of flu activity from CDC**: Flu activity is expected to remain low. Most respiratory illness is driven by non-influenza viruses like COVID-19.  
+- **Other key factors**: All ten regions reported ILI activity below their region-specific baselines. Minimal to moderate ILI activity was observed across jurisdictions; no high or very high activity was noted. Data should be interpreted with caution due to healthcare-seeking behavior changes during the pandemic.

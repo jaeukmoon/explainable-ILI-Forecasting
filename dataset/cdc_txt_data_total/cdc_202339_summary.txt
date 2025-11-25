@@ -1,0 +1,7 @@
+The virologic surveillance data from clinical and public health laboratories indicate that influenza activity is low, with 1.0% of clinical specimens and 1.1% of public health specimens testing positive for influenza.
+Outpatient respiratory illness surveillance (ILINet) shows that 2.1% of patient visits were due to influenza-like illness (ILI), which is below the national baseline of 2.4%.
+Geographically, ILI activity varied, with some regions experiencing high or moderate activity while others had minimal activity.
+The geographic spread of influenza shows that four states had local flu activity, while the rest reported sporadic or no activity.
+Hospitalization rates and mortality rates from pneumonia and influenza (P&I) are below epidemic thresholds.
+No influenza-associated pediatric deaths have been reported in the current season, but there were 177 reported deaths in the previous season.
+CDC expects flu activity to remain low but increase in the coming weeks and recommends flu vaccination as the best way to protect against influenza. Antiviral drugs are also available for treatment.
